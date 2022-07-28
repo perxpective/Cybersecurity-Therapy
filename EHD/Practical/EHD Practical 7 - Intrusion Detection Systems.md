@@ -218,4 +218,5 @@ vim /etc/tripwire/twpol.txt
   rulename = "Boot Scripts",
   severity = $(SIG_HI)
 )
+
 ```
