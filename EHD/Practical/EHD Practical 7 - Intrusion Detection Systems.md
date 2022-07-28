@@ -117,4 +117,4 @@ include $RULE_PATH/my.rules
 
 ![](https://i.imgur.com/D6OjBZl.png)
 
-- In 
+- In `/var/log/snort` directoru
