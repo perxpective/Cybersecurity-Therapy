@@ -282,3 +282,8 @@ vim /etc/tripwire/twpol.txt
 sudo twadmin -m P /etc/tripwire/twpol.txt
 ```
 
+- Create baseline database (snapshot of current system)
+```
+sudo tripwire --init
+```
+
