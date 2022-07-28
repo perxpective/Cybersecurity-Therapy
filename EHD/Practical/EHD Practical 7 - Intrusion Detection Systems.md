@@ -146,6 +146,11 @@ sudo nmap -sN -p21,22,23 web-server2-IP
 vim /etc/snort/rules/community.rules
 ```
 
+- Uncomment the following rule:
+```
+alert icmp $EXTERNAL_NET any -> $HOME_NET any (msg:"PROTOCOL-ICMP PING Windows"; itype:8; content:"abcdefghijklmnop"; depth:16; metadata:ruleset community; classtype:misc-activity; sid:382; rev:11;)
+```
+
 - Add Snort community rules to `/etc/snort/snort.conf`
 ```
 # site specific rules
@@ -162,3 +167,23 @@ include $RULE_PATH/community.rules
 - Check that `/var/log/snort/alert` file to view alert messages about null packets
 	- Only ICMP packets from Windows system have alert messages
 	- ICMP packets from Kali do not have alert messages
+
+### Running Snort as a Service
+**On web-server2 VM**
+- Edit `/etc/sysconfig/snort`
+- Look for following `INTERFACE` line and update it to name of web-server2 VM network interface
+```
+INTERFACE=eno16777736
+```
+
+- Look for user `USER` and `GROUP` lines and update them to run Snort as root
+```
+USER=root
+GROUP=root
+```
+
+- Starting the Snort service (and )
+```
+systemctl start snortd
+
+```
