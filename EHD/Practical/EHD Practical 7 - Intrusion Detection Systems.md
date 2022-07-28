@@ -210,5 +210,5 @@ sudo dpkg -i tripwire__nnnnn__amd64.deb
 - As root user, edit Tripwire Policy text file to see which files are being monitored
 
 ```
-vim /etc/tripwire
+vim /etc/tripwire/twpol.txt
 ```
