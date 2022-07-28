@@ -192,4 +192,7 @@ systemctl status snortd
 ## Host-Based Intrusion Detection Systems (HIDS)
 ### Using Tripwire
 **On Kali VM**
-- Installingg 
+- Installing the Postfix packages
+```
+
+```
