@@ -274,8 +274,9 @@ The IVT can be used to check the existence of roots of continuous functions.
 $$v_{average}=\frac{\Delta s}{\Delta t}=\frac{s(t)-s(t_0)}{t-t_0}$$
 - Assuming that the limit exists, average velocity from time $t$ to $t_0$ elapse such that $\Delta t$ is very quick
 - Thus, it can be assumed that velocity is constant when $t \to t_0$
+
 $$\lim\limits_{t\to t_{0}} v_{average}=v(t_0)$$
-- Note: result is the same regardless if $t>t_{0}$ or $t<t_0$
+- Note: result is the same regardless if $t>t_{0}$ or $t<t_{0}$
 
 ### First Principles of Differentiation
 ![500](https://i.imgur.com/rOzaF9l.png)
