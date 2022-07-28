@@ -221,7 +221,6 @@ vim /etc/tripwire/twpol.txt
 (
   rulename = "System boot changes",
   severity = $(SIG_HI)
-
 )
 {
   /etc/init.d       -> $(SEC_BIN);
