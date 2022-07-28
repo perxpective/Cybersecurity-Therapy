@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+            "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170.0036334991455
+    "width": 170.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
+                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md"
               }
             }
           },
@@ -111,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167.21572875976562
+    "width": 153.85968017578125
   },
   "active": "8e9d333a023f0063",
   "lastOpenFiles": [

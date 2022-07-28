@@ -330,8 +330,8 @@ $$\lim\limits_{h \to 0}\frac{f(x_0+h)-f(x_0)}{h}$$
 > - Function $f$ not differentiable at $x_0$ if limit above does not exist
 - There is a relationship between continuity and differentiability
 
-> -All differentiable functions are always continuous
-> -Two conditions whereby continuous function can fail to be differentiable
+> - All differentiable functions are always continuous
+> - Two conditions whereby continuous function can fail to be differentiable
 > 	- left and right derivatives are finite but not equal
 > 	- left or right derivative are not finite
 > - Polynomials, sine, cosine and exponential functions are differentiable everywhere

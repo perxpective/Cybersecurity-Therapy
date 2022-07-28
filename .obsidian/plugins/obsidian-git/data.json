@@ -8,7 +8,7 @@
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
-  "disablePopups": false,
+  "disablePopups": true,
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
@@ -19,6 +19,6 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": true,
+  "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false
 }
