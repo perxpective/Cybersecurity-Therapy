@@ -194,5 +194,5 @@ systemctl status snortd
 **On Kali VM**
 - Installing the Postfix packages
 ```
-
+sudo dpkg -i postfix__NNNN__amd64.deb
 ```
