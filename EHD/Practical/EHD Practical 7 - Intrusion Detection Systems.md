@@ -160,4 +160,4 @@ include $RULE_PATH/community.rules
 
 **On web-server2 VM**
 - Check that `/var/log/snort/alert` file to view alert messages about null packets
-- 
+	- Only ICMP packets from Windows system have alert mes
