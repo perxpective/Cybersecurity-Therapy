@@ -66,3 +66,48 @@ var WHITE_LIST_PATH /etc/snort/rules
 var BLACK_LIST_PATH /etc/snort/rules
 ```
 
+- Create new directory for Snort dynamic rules
+```
+mkdir /usr/local/lib/snort_dynamicrules
+```
+
+- Create white and black lists
+```
+touch /etc/snort/rules/white_list.rules
+touch /etc/snort/rules/black_list.rules
+```
+
+- Running Snort manually
+
+> - `-i` option is to specify network interface card that Snort will listen on
+> - `-l` option means captured network packets will be logged into specified directory
+
+```
+snort -i eno16777736 -c /etc/snort/snort.conf -l /var/log/snort
+```
+
+^50a927
+
+- Check that Snort can run without any errors
+- Do <kbd>Ctrl</kbd> + <kbd>C</kbd> to end Snort program
+
+### Creating a Snort Rule File
+- Create new rule file:
+```
+touch /etc/snort/rules/my.rules
+```
+
+- Enter following rule into the file (Use a big SID so it will not clash with other SIDs in Snort)
+```
+alert tcp Kali-IP any -> !$HOME_NET any (msg:"TCP traffic from Kali!"; sid:99999;)
+```
+
+- Edit `/etc/snort/snort.conf`
+
+- Add the newly created rule file:
+```
+# site specific rules
+include $RULE_PATH/my.rules
+```
+
+- Run Snort manually
