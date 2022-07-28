@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe21596d4cd7df1",
+        "id": "14a2974ff0f67972",
         "type": "leaf",
         "state": {
           "type": "diff-view",
           "state": {
-            "file": ".obsidian/workspace",
-            "staged": true
+            "file": ".obsidian/plugins/obsidian-git/data.json",
+            "staged": false
           }
         }
       }
@@ -68,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
+              }
             }
           },
           {
@@ -109,17 +112,17 @@
     "direction": "horizontal",
     "width": 168.35968017578125
   },
-  "active": "bbe21596d4cd7df1",
+  "active": "d9549b7e8a36438f",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 11 - iOS Forensics.md",
-    "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-    "Untitled.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
+    "DFI/DFI Chapter 11 - iOS Forensics.md",
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "BED/BED Chapter 5 - Databases.md",
+    "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
+    "Untitled.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
-    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
-    "DFI/DFI Chapter 9 - Historical Cellular.md",
-    "DFI/DFI Chapter 10 - Android Forensics.md",
-    "DFI/DFI Chapter 6 - Analysis and Validation.md"
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md"
   ]
 }

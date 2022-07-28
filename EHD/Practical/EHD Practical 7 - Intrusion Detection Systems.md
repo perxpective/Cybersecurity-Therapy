@@ -43,6 +43,7 @@ vim /etc/snort/snort.conf
 ```
 ipvar HOME_NET any
 ```
+
 ```
 ipvar HOME_NET <web-server2-IP>
 ```
