@@ -200,10 +200,9 @@ sudo dpkg -i postfix__NNNN__amd64.deb
 > - Set **General mail configuration type** to "Local only"
 > - Accept default values for System mail name prompt
 
-- Installing the Tripwire package
+- Installing the Tripwire package (Acc)
 ```
 sudo dpkg -i tripwire__nnnnn__amd64.deb
 ```
 
-> - Select default settings during installation
 
