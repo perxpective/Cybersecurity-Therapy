@@ -140,4 +140,4 @@ sudo nmap -sN -p21,22,23 web-server2-IP
 - Check `/var/log/snort/alert` file to view alert messages about null packets
 - Stop Snort
 
-### 
+### Using Snort Community Rules
