@@ -277,4 +277,8 @@ vim /etc/tripwire/twpol.txt
 ```
 
 - Save Tripwire Policy text file
-- Recreate encrypted Tripwire Policy file by ru
+- Recreate encrypted Tripwire Policy file by running following command:
+```
+sudo twadmin -m P /etc/tripwire/twpol.txt
+```
+
