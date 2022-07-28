@@ -214,5 +214,8 @@ vim /etc/tripwire/twpol.txt
 
 - Comment out the following files for Tripwire to work for Kali VM
 ```
-
+(
+  rulename = "Boot Scripts",
+  severity = $(SIG_HI)
+)
 ```
