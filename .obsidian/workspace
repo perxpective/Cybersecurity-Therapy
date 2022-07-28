@@ -7,8 +7,11 @@
         "id": "51f0c3159ac41308",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "diff-view",
+          "state": {
+            "file": ".obsidian/community-plugins.json",
+            "staged": false
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
+              }
             }
           },
           {
@@ -90,15 +96,23 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d9549b7e8a36438f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 168.35968017578125
   },
-  "active": "0364907611e68eb8",
+  "active": "d9549b7e8a36438f",
   "lastOpenFiles": [
     "Untitled.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
