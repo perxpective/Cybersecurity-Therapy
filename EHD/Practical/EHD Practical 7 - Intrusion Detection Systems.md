@@ -302,4 +302,5 @@ sudo user add newuser
 sudo tripwire --check
 ```
 
-- Report will be generated and stored in `/var/lib/tripwirte`
+- Report will be generated and stored in `/var/lib/tripwire/report`
+- Change directory to /
