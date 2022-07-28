@@ -185,5 +185,5 @@ GROUP=root
 - Starting the Snort service (and checking status)
 ```
 systemctl start snortd
-systemctl statyus
+systemctl status snortd
 ```
