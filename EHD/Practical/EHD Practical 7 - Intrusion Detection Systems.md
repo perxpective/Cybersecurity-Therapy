@@ -119,4 +119,5 @@ include $RULE_PATH/my.rules
 
 - In `/var/log/snort` directory, there is another file `snort.log.NNNNNNN` that can be opened in Wireshark
 	- Contains packets that generated the alerts
-	- 
+
+### Creating Snort Rules to Detect Illegal TCP Flags
