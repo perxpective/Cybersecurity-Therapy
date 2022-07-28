@@ -303,4 +303,4 @@ sudo tripwire --check
 ```
 
 - Report will be generated and stored in `/var/lib/tripwire/report`
-- Change directory to /
+- Change directory to `/var/lib/tripwire/report` directory 
