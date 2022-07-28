@@ -208,7 +208,11 @@ sudo dpkg -i tripwire__nnnnn__amd64.deb
 > Tripwire monitors files on the hard disk and alerts when any file is modified
 
 - As root user, edit Tripwire Policy text file to see which files are being monitored
-
 ```
 vim /etc/tripwire/twpol.txt
+```
+
+- Comment out the following files for Tripwire to work for Kali VM
+```
+
 ```
