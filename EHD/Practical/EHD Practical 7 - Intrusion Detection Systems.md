@@ -205,4 +205,6 @@ sudo dpkg -i postfix__NNNN__amd64.deb
 sudo dpkg -i tripwire__nnnnn__amd64.deb
 ```
 
+> Tripwire monitors files on the hard disk and alerts when any file is modified
 
+- 
