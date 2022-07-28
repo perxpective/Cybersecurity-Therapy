@@ -143,4 +143,21 @@ sudo nmap -sN -p21,22,23 web-server2-IP
 ### Using Snort Community Rules
 - View Snort community rules
 ```
+vim /etc/snort/rules/community.rules
 ```
+
+- Add Snort community rules to `/etc/snort/snort.conf`
+```
+# site specific rules
+include $RULE_PATH/my.rules
+include $RULE_PATH/community.rules
+```
+
+- Run Snort manually
+
+**On Kali VM, Win10 VM or Host PC**
+- Ping web-server2 VM
+
+**On web-server2 VM**
+- Check that `/var/log/snort/alert` file to view alert messages about null packets
+- 
