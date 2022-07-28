@@ -420,6 +420,7 @@
 ## Outsourcing Incident Response
 - Hire company that monitors network and IDS sensors
 	- Tells if an intrusion has occurred or not
+
 | Advantages                    | Disadvantages                                |
 | ----------------------------- | -------------------------------------------- |
 | Result in lower overall costs | Hard to achieve, effective incident response |
