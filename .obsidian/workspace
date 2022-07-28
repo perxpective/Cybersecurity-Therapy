@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "7d8ccb3c15db36c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "51f0c3159ac41308",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f448af85d233641",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b29da50fd8fde7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e015461cbc414f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3609a2072024b121",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 170.0036334991455
+  },
+  "right": {
+    "id": "1dc156175492f39b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d876cb05db1e67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af50f44cd2b112d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0364907611e68eb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "96ae23b7fb15ce2c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 168.35968017578125
+  },
+  "active": "0364907611e68eb8",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
+    "DFI/DFI Chapter 9 - Historical Cellular.md",
+    "DFI/DFI Chapter 10 - Android Forensics.md",
+    "DFI/DFI Chapter 11 - iOS Forensics.md",
+    "DFI/DFI Chapter 6 - Analysis and Validation.md",
+    "DFI/DFI Chapter 5 - Evidence Processing.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "style": "bullet",
+  "min_depth": 2,
+  "max_depth": 5,
+  "externalStyle": "TOC",
+  "supportAllMatchers": true,
+  "allow_inconsistent_headings": false,
+  "title": "",
+  "varied_style": false
+}

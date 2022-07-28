@@ -1,0 +1,10 @@
+{
+  "showVaultName": true,
+  "showCurrentFileName": true,
+  "showPopups": true,
+  "customVaultName": "I LOVE DISM!",
+  "showFileExtension": false,
+  "useLoadedTime": false,
+  "connectOnStart": true,
+  "autoHideStatusBar": true
+}
