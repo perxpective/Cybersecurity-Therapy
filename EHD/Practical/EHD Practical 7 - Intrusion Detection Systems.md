@@ -182,8 +182,8 @@ USER=root
 GROUP=root
 ```
 
-- Starting the Snort service (and )
+- Starting the Snort service (and checking status)
 ```
 systemctl start snortd
-
+systemctl statyus
 ```
