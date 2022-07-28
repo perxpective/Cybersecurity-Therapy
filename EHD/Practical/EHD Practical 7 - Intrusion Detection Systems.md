@@ -112,4 +112,4 @@ include $RULE_PATH/my.rules
 
 - Run Snort manually
 - From Kali VM, run an nmap scan against web-server2 VM
-- 
+- When scan is completed, stop Snort

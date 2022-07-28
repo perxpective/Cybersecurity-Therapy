@@ -111,10 +111,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 153.85968017578125,
-    "collapsed": true
+    "width": 153.85968017578125
   },
-  "active": "d9549b7e8a36438f",
+  "active": "8e9d333a023f0063",
   "lastOpenFiles": [
     "EHD/Practical/EHD.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
