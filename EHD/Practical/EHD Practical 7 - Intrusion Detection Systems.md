@@ -117,4 +117,5 @@ include $RULE_PATH/my.rules
 
 ![](https://i.imgur.com/D6OjBZl.png)
 
-- In `/var/log/snort` directoru
+- In `/var/log/snort` directory, there is another file `snort.log.NNNNNNN` that can be opened in Wireshark
+	- Con
