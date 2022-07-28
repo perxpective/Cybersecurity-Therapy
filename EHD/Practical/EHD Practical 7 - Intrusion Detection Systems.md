@@ -218,5 +218,13 @@ vim /etc/tripwire/twpol.txt
   rulename = "Boot Scripts",
   severity = $(SIG_HI)
 )
+(
+  rulename = "System boot changes",
+  severity = $(SIG_HI)
 
+)
+{
+  /etc/init.d       -> $(SEC_BIN);
+# /etc/rc.boot     -> $(SEC_BIN);  
+  /etc/rcS.d       -> $(SEC_BIN);
 ```
