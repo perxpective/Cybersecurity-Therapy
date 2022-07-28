@@ -277,4 +277,4 @@ vim /etc/tripwire/twpol.txt
 ```
 
 - Save Tripwire Policy text file
-- Re
+- Recreate encrypted Tripwire Policy file by ru
