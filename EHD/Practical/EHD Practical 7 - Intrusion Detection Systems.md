@@ -6,7 +6,8 @@
 ```toc
 ```
 
-## Configuring Snort
+## Network Intrusion Detection Systems (NIDS)
+### Configuring Snort
 - Display version number of snort
 ```
 snort -V
@@ -188,3 +189,4 @@ systemctl start snortd
 systemctl status snortd
 ```
 
+## 
