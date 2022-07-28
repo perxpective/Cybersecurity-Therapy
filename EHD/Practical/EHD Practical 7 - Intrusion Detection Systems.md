@@ -141,3 +141,6 @@ sudo nmap -sN -p21,22,23 web-server2-IP
 - Stop Snort
 
 ### Using Snort Community Rules
+- View Snort community rules
+```
+```
