@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "14a2974ff0f67972",
+        "id": "8e9d333a023f0063",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": ".obsidian/plugins/obsidian-git/data.json",
-            "staged": false
+            "file": "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -112,13 +113,13 @@
     "direction": "horizontal",
     "width": 168.35968017578125
   },
-  "active": "d9549b7e8a36438f",
+  "active": "8e9d333a023f0063",
   "lastOpenFiles": [
+    "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "BED/BED Chapter 5 - Databases.md",
-    "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "Untitled.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
