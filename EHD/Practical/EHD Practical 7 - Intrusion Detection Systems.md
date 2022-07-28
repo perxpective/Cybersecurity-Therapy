@@ -304,4 +304,7 @@ sudo tripwire --check
 
 - Report will be generated and stored in `/var/lib/tripwire/report`
 - Change directory to `/var/lib/tripwire/report` directory and list contents of directory to view report file
-- 
+- View report by running `twprint` by replacing `report_filename` with actual filename
+```
+sudo twprint --print-report -r 
+```
