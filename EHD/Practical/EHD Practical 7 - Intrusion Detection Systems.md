@@ -45,7 +45,7 @@ ipvar HOME_NET any
 ```
 
 ```
-ipvar HOME_NET <web-server2-IP>
+ipvar HOME_NET web-server2-IP
 ```
 
 - Search for line containing `EXTERNAL_NET` and check that it is set to value "any"
@@ -121,4 +121,23 @@ include $RULE_PATH/my.rules
 	- Contains packets that generated the alerts
 
 ### Creating Snort Rules to Detect Illegal TCP Flags
-**On web-server2**
+**On web-server2 VM**
+- Comment out any existing rules in `/etc/snort/rules/my.rules`
+- Create the following rule:
+```
+snort -i eno16777736 -c /etc/snort/snort.conf -l /var/log/snort
+```
+
+- Run Snort manually
+
+**On Kali VM**
+- Run Null scan against some ports on web-server2 VM
+```
+sudo nmap -sN -p21,22,23 web-server2-IP
+```
+
+**On web-server2 VM**
+- Check `/var/log/snort/alert` file to view alert messages about null packets
+- Stop Snort
+
+### 
