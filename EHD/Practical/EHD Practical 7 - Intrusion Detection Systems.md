@@ -287,3 +287,19 @@ sudo twadmin -m P /etc/tripwire/twpol.txt
 sudo tripwire --init
 ```
 
+- List contents of directory `/var/lib/tripwire` to view baseline database created
+```
+ls /var/lib/tripwire
+```
+
+- Create change in system by creating new user
+```
+sudo user add newuser
+```
+
+- Check for any changes in system by running Tripwire check
+```
+sudo tripwire --check
+```
+
+- Report will be generated and stored in `/var/lib/tripwirte`
