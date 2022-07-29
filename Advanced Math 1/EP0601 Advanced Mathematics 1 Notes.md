@@ -366,4 +366,11 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 ### Mean Value Theorem
 > Suppose a function $f$ is **continuous** on $[a,b]$ and **differentiable** on $(a,b)$
-> Then there exists a point $c \in (a,b)$ where $f'()$ ****
+> Then there exists a point $c \in (a,b)$ where $f'(c)=\frac{f(b)-f(a)}{b-a}$
+
+
+## Integration
+### The Riemann Sum
+- The approximated area under the curve is calculated  by dividing an interval into subintervals
+- <u>How to make calculation more accurate?</u>
+	- Make the widths of each fundemental strip (rectanges) narrow
