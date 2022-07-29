@@ -49,4 +49,17 @@
 	- Redsn0w
 	- Evasi0n
 - Vulnerabilities exploited usually fixed as soon as possible in next revision of iOS
-	- This, nearly every new version of iOS requires new set of vulnerabilities to fix
+	- This, nearly every new version of iOS requires new set of vulnerabilities to jailbreak the device
+
+## Rooting Android
+- Varies significantly from device to device due to differences in hardware
+- Rooting steps:
+| Step                       | Description                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------- |
+| Flash Recovery             | Enter Recovery and is meant to backup device and load new OS                       |
+| Flash Boot (fastboot)      | Used to flash images such as recoveries, bootloaders and kernels to Android device |
+| Local Privilege Escalation |                                                                                    |
+| ADB Privilege Escalation   | Android Debugging Bridge allows communication between Android device and phone using the command line                                                                                   |
+- Methods needed:
+	- Sideloading
+	- Enable USB de
