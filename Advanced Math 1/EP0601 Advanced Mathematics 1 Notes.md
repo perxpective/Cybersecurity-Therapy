@@ -384,6 +384,6 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 > It gives the net signed area between graph of $f$ and on the x-axis on $[a,b]$
 
 ### Basic Properties of Definite Integrals
-- $\int^b_af(x)\,dx=-\int^a_bf(x)\,dx$
-- $\int^a_af(x)\,dx=0$
-- $\int^b_a[c\,f(x)\pm d\,g(x)]\,dx=c\int^b_af(x)\,dx$
+- $\int^{b}_{a}f(x)\,dx=-\int^{a}_{b}f(x)\,dx$
+- $\int^{a}_{a}f(x)\,dx=0$
+- $\int^{b}_{a}[c\,f(x)\pm d\,g(x)]=$
