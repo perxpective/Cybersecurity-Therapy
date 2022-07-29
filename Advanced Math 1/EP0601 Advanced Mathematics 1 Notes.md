@@ -373,4 +373,9 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 ### The Riemann Sum
 - The approximated area under the curve is calculated  by dividing an interval into subintervals
 - <u>How to make calculation more accurate?</u>
-	- Make the widths of each fundemental strip (rectanges) narrow
+	- Make the widths of each fundamental strip (rectangles) narrower
+	- Increase the number of strips under the curve
+
+> **The Riemann Sum**
+> A function $f$ on the interval $[a,b]$ is divided into subintervals if the limit
+> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^**)$$
