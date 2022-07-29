@@ -276,7 +276,6 @@ $$v_{average}=\frac{\Delta s}{\Delta t}=\frac{s(t)-s(t_0)}{t-t_0}$$
 - Thus, it can be assumed that velocity is constant when $t \to t_0$
 
 $$\lim\limits_{t\to t_{0}} v_{average}=v(t_0)$$
-- Result is the same regardless if $t>t_{0}$ or $t<t_{0}$
 
 ### First Principles of Differentiation
 ![500](https://i.imgur.com/rOzaF9l.png)
@@ -378,9 +377,9 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 > **The Riemann Sum**
 > A function $f$ on the interval $[a,b]$ is divided into subintervals if the limit
-> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$$exists regardless of how interval is divided into subintervals
+> $\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$ exists regardless of how interval is divided into subintervals
 > Moreover, 
-> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)\,\mathrm{d}x$$ is also known as the **definite integral** of $f$ from $a$ to $b$
+> $\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)\,\mathrm{d}x$ is also known as the **definite integral** of $f$ from $a$ to $b$
 > It gives the net signed area between graph of $f$ and on the x-axis on $[a,b]$
 
 ### Basic Properties of Definite Integrals
@@ -388,4 +387,5 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 - $\int^{a}_{a}f(x)\,dx=0$
 - $\int^{b}_{a}[c\,f(x)\pm d\,g(x)]=c\int^{b}_{a}f(x)\,dx \pm d\int^{b}_{a}g(x)\,dx$
 - If $a<=c<=b$, $\int_{b}^{a}f(x)\,dx=\int_{a}^{c}f(x)\,dx+\int_{c}^{b}f(x)\,dx$
-- 
+
+### Fundamental Theorem of Calculus I
