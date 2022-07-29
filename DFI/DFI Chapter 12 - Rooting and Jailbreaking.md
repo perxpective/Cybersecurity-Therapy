@@ -60,6 +60,17 @@
 | Flash Boot (fastboot)      | Used to flash images such as recoveries, bootloaders and kernels to Android device |
 | Local Privilege Escalation |                                                                                    |
 | ADB Privilege Escalation   | Android Debugging Bridge allows communication between Android device and phone using the command line                                                                                   |
-- Methods needed:
+- **Methods:**
 	- Sideloading
-	- Enable USB de
+	- Enable USB debugging
+		- Developer mode in Android phones that allows newly programmed apps to be copied via USB to device for testing
+
+**Tools used:**
+- ADB (Old)
+	- Requires drivers, scripts, SU apk
+	- z4root (Android 2.3)
+	- SuperOneClick (requires ADB)
+	- Flashing memory and custom ROM
+	- Motochopper (Android 4.3.2)
+
+- Once rooted ADB can yield **rootshell** when local privilege escalation request `su` 
