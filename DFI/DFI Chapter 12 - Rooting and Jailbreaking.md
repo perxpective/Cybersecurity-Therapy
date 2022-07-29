@@ -73,4 +73,5 @@
 	- Flashing memory and custom ROM
 	- Motochopper (Android 4.3.2)
 
-- Once rooted ADB can yield **rootshell** when local privilege escalation request `su` 
+- Once rooted ADB can yield **rootshell** when local privilege escalation request `su` is requested
+- `superuser.apk` will prompt, which user needs to grant before rootshell is granted to shell
