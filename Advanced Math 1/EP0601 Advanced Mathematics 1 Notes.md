@@ -387,7 +387,7 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 ### Basic Properties of Definite Integrals
 - $\int_{a}^{b}f(x)dx=-\int_{b}^{a}f(x)dx$
 - $\int^{a}_{a}f(x)dx=0$
-- $\int_{a}^{b}[cf(x)\pm dg(x)]=c\int^{b}_{a}f(x)dx \pm d\int_{a}^{b}g(x)dx$
+- $\int_{a}^{b}[cf(x)\pm dg(x)]=c\int_{a}^{b}f(x)dx \pm d\int_{a}^{b}g(x)dx$
 - If $a\leq c\leq b$, $\int_{b}^{a}f(x)dx=\int_{a}^{c}f(x)dx+\int_{c}^{b}f(x)dx$
 
 ### Fundamental Theorem of Calculus I
