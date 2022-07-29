@@ -65,16 +65,14 @@
 - Most challenging to master
 - Recovering data is first step in analysing investigation data
 - **Subfunctions of extraction**
-| Subfunction       | Description                                            |
-| ----------------- | ------------------------------------------------------ |
-| Data Viewing      | Different tools provide different ways of viewing data |
-| Keyword Searching | Good function but may produce                                                        |
-	- **Data viewing** -- different tools provide different ways of viewing data
-	- **Keyword searching** -- a good function but may produce noise if wrong keyword used
-	- **Decompressing** or uncompressing
-	- **Carving** -- reconstructing fragment of files
-	- **Decrypting** -- Can be potential problem for investigation
-	- **Bookmarking** or tagging
+| Subfunction       | Description                                               |
+| ----------------- | --------------------------------------------------------- |
+| Data Viewing      | Different tools provide different ways of viewing data    |
+| Keyword Searching | Good function but may produce noise if wrong keyword used |
+| Decompressing     | Also known as uncompressing                               |
+| Carving           | Reconstruct file fragments                                |
+| Decrypting        | Potential problem for the investigation                   |
+| Bookmarking       | Or tagging                                                          |
 - Keyword searching speeds up analysis for investigators
 - From investigation's perspective, encrypted files and systems are a problem
 - Many password recovery tools have feature for generating potential password lists (for password dictionary attack)
