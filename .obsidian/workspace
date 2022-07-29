@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
+            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170.0036334991455,
-    "collapsed": true
+    "width": 170.0036334991455
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
+                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md"
+                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
               }
             }
           },
@@ -117,6 +116,7 @@
   },
   "active": "1df12b75a88a6d3c",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
@@ -124,8 +124,7 @@
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
-    "Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md"
+    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md"
   ]
 }

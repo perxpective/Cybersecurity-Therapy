@@ -57,3 +57,16 @@ $.ajax({name:value, name:value, ...})
 
 ### Axios
 - Library used to make HTTP requests to backend
+
+## Axios
+### Axios Requests
+
+```js
+// GET Method by calling endpoint on backend server
+axios.get("http://localhost:8081/getsomething")
+	// then promise
+	.then((response) => {
+		// Get response data
+		
+	})
+```
