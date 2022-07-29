@@ -65,6 +65,10 @@
 - Most challenging to master
 - Recovering data is first step in analysing investigation data
 - **Subfunctions of extraction**
+| Subfunction       | Description                                            |
+| ----------------- | ------------------------------------------------------ |
+| Data Viewing      | Different tools provide different ways of viewing data |
+| Keyword Searching | Good function but may produce                                                        |
 	- **Data viewing** -- different tools provide different ways of viewing data
 	- **Keyword searching** -- a good function but may produce noise if wrong keyword used
 	- **Decompressing** or uncompressing

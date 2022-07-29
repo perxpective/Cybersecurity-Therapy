@@ -37,7 +37,7 @@
 - No size reduction for disk-to-image files
 - Provide space in image file or segmented files for metadata
 - Simple design with extensibility
-- Open source for mulitple platforms
+- Open source for multiple platforms
 - OSS vendor have no implementation restrictions on this format
 - Internal consistency checks for self-authentication
 
@@ -83,7 +83,7 @@
 - Whether you can retain the disk
 	- Sometimes after copy, original disk may need to be returned to owners 
 
-## Contigency Planning for Image Acquisition
+## Contingency Planning for Image Acquisition
 - Create duplicate copy of evidence image file
 	- In case of failure
 - Make at least two images of digital evidence
@@ -96,7 +96,6 @@
 
 ## Using Acquisition Tools
 ### Acquisition Tools for Windows
-
 | Advantages                                                  | Disadvantages                                                                       |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | Makes acquiring evidence from suspect drive more convenient | Must protect acquired data with well-tested write-blocker hardware device           |
