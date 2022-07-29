@@ -323,8 +323,7 @@ $$\frac{d^{n}y}{dx^{n}}=\frac{d}{dx}(\frac{d^{n-1}y}{dx^{n-1}})$$
 $$\frac{d}{dx}(f(y))=\frac{d}{dy}(f(y)) \times \frac{dy}{dx}$$
 
 ### Differentiable Functions
-> - Function $f$ differentiable at $x_0$ if following limit exists:
-$$\lim\limits_{h \to 0}\frac{f(x_0+h)-f(x_0)}{h}$$
+> - Function $f$ differentiable at $x_0$ if following limit exists: $$\lim\limits_{h \to 0}\frac{f(x_0+h)-f(x_0)}{h}$$
 > - If $f$ is differentiable at every point $x$ in $(a,b)$ then $f$ is differentiable on $(a,b)$
 > - Function $f$ not differentiable at $x_0$ if limit above does not exist
 - There is a relationship between continuity and differentiability
@@ -379,13 +378,14 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 > A function $f$ on the interval $[a,b]$ is divided into subintervals if the limit
 > $\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$ exists regardless of how interval is divided into subintervals
 > Moreover, 
-> $\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)\,\mathrm{d}x$ is also known as the **definite integral** of $f$ from $a$ to $b$
+> $\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)\mathrm{d}x$ is also known as the **definite integral** of $f$ from $a$ to $b$
 > It gives the net signed area between graph of $f$ and on the x-axis on $[a,b]$
 
 ### Basic Properties of Definite Integrals
-- $\int^{b}_{a}f(x)\,dx=-\int^{a}_{b}f(x)\,dx$
+- $\int^{b}_{a}f(x)dx=-\int^{a}_{b}f(x)dx$
 - $\int^{a}_{a}f(x)\,dx=0$
-- $\int^{b}_{a}[c\,f(x)\pm d\,g(x)]=c\int^{b}_{a}f(x)\,dx \pm d\int^{b}_{a}g(x)\,dx$
-- If $a<=c<=b$, $\int_{b}^{a}f(x)\,dx=\int_{a}^{c}f(x)\,dx+\int_{c}^{b}f(x)\,dx$
+- $\int^{b}_{a}[cf(x)\pm dg(x)]=c\int^{b}_{a}f(x)dx \pm d\int^{b}_{a}g(x)dx$
+- If $a<=c<=b$, $\int_{b}^{a}f(x)dx=\int_{a}^{c}f(x)dx+\int_{c}^{b}f(x)dx$
 
 ### Fundamental Theorem of Calculus I
+> If $$
