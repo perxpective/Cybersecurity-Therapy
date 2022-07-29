@@ -254,7 +254,7 @@ $$\lim\limits_{x\to a}f(x)=f(a)$$
 
 > If $g(x)\leq f(x) \leq h(x)$ when $x$ is nearer to $a$ and if
 > 
-> $\lim{x\to a}g(x) = \lim\limits_{x\to a}g(x) = L$ then $\lim\limits_{x\to a}f(x)=L$
+> $\lim\limits_{x\to a}g(x) = \lim\limits_{x\to a}g(x) = L$ then $\lim\limits_{x\to a}f(x)=L$
 
 ### Evaluating Limits of Trigonometric Functions
 $$\lim\limits_{x\to 0}\frac{sin{x}}{x} =1$$
