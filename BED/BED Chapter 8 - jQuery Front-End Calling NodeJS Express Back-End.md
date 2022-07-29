@@ -66,7 +66,19 @@ $.ajax({name:value, name:value, ...})
 axios.get("http://localhost:8081/getsomething")
 	// then promise
 	.then((response) => {
-		// Get response data
-		
+		// Get response data from backend server
+		const data = repsonse.data
+	})
+	.catch((error) => {
+		console.log(error)
+	})
+
+// POST Method
+axios.post("http://localhost:8081/postsomething", requestBody)
+	.then((response) => {
+		// Responses to run after calling the POST endpoint
+	})
+	.catch((error) => {
+		console.log(error)
 	})
 ```
