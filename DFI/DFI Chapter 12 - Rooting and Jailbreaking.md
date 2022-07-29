@@ -36,4 +36,17 @@
 	- Perform **system tweaking**
 
 ## Warning Before Rooting or Jailbreaking
-- Third party tools required to escape contro
+- Third party tools required to escape control
+- Voiding of warranty
+- Error and performance issues
+	- Can cause phones to be unstable
+- Check organizations' legal posture (security policies) on permitted activities with corporate devices
+	- **Example:** EULA (End-user license agreement)
+
+## Jailbreaking iPhone
+- Common tools used:
+	- JailBreakMe (easiest to free)
+	- Redsn0w
+	- Evasi0n
+- Vulnerabilities exploited usually fixed as soon as possible in next revision of iOS
+	- This, nearly every new version of iOS requires new set of vulnerabilities to fix
