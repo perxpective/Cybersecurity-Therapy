@@ -276,7 +276,7 @@ $$v_{average}=\frac{\Delta s}{\Delta t}=\frac{s(t)-s(t_0)}{t-t_0}$$
 - Thus, it can be assumed that velocity is constant when $t \to t_0$
 
 $$\lim\limits_{t\to t_{0}} v_{average}=v(t_0)$$
-- Note: result is the same regardless if $t>t_{0}$ or $t<t_{0}$
+- Result is the same regardless if $t>t_{0}$ or $t<t_{0}$
 
 ### First Principles of Differentiation
 ![500](https://i.imgur.com/rOzaF9l.png)
@@ -357,9 +357,13 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 ### Rolle's Theorem
 ![](https://i.imgur.com/wc9bNSO.png)
 
-> Suppose that function $f$ is continuous on $[a,b]$ and differentiable on $(a,b)$
-> If $f(a)=f(b)$, then a point $c \in (a,b)$ such that $f'(c)=0$ exists
+> Suppose that function $f$ is **continuous** on $[a,b]$ and **differentiable** on $(a,b)$
+> If $f(a)=f(b)$, then a point $c \in (a,b)$ such that $f'(c)=0$ (turning point) exists
 
 <u>Remarks:</u>
 1. Rolle's Theorem does not give us a quick way to compute point $x=c$
 2. Rolle's Theorem  that at least one such point exists but does not say exactly how many such point exists in the interval
+
+### Mean Value Theorem
+> Suppose a function $f$ is **continuous** on $[a,b]$ and **differentiable** on $(a,b)$
+> Then there exists a point $c \in (a,b)$ where $f'()$ ****
