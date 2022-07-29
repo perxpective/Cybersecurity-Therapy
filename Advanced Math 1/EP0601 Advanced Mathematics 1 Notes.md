@@ -378,4 +378,6 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 > **The Riemann Sum**
 > A function $f$ on the interval $[a,b]$ is divided into subintervals if the limit
-> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^**)$$
+> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$$ exists regardless of how interval is divided into subintervals
+> Moreover, 
+> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)dx$$
