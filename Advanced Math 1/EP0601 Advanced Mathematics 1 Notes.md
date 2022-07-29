@@ -386,4 +386,4 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 ### Basic Properties of Definite Integrals
 - $\int^b_af(x)\,dx=-\int^a_bf(x)\,dx$
 - $\int^a_af(x)\,dx=0$
-- $\int^b_a[]$
+- $\int^b_a[c\,f(x)\pm d\,g(x)]\,dx=c\int^b_af(x)\,dx$

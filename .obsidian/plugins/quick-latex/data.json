@@ -1,0 +1,20 @@
+{
+  "moveIntoMath_toggle": true,
+  "autoCloseMath_toggle": true,
+  "autoCloseRound_toggle": true,
+  "autoCloseSquare_toggle": true,
+  "autoCloseCurly_toggle": true,
+  "addAlignBlock_toggle": true,
+  "addAlignBlock_parameter": "align*",
+  "addMatrixBlock_toggle": true,
+  "addMatrixBlock_parameter": "pmatrix",
+  "addCasesBlock_toggle": true,
+  "autoFraction_toggle": true,
+  "autoLargeBracket_toggle": false,
+  "autoSumLimit_toggle": true,
+  "autoEncloseSup_toggle": true,
+  "autoEncloseSub_toggle": true,
+  "encloseSelection_toggle": true,
+  "customShorthand_toggle": true,
+  "customShorthand_parameter": "bi:\\binom{#cursor}{#tab};\nsq:\\sqrt{};\nbb:\\mathbb{};\nbf:\\mathbf{};\nte:\\text{};\ninf:\\infty;\ncd:\\cdot;\nqu:\\quad;\nti:\\times;\nal:\\alpha;\nbe:\\beta;\nga:\\gamma;\nGa:\\Gamma;\nde:\\delta;\nDe:\\Delta;\nep:\\epsilon;\nze:\\zeta;\net:\\eta;\nth:\\theta;\nTh:\\Theta;\nio:\\iota;\nka:\\kappa;\nla:\\lambda;\nLa:\\Lambda;\nmu:\\mu;\nnu:\\nu;\nxi:\\xi;\nXi:\\Xi;\npi:\\pi;\nPi:\\Pi;\nrh:\\rho;\nsi:\\sigma;\nSi:\\Sigma;\nta:\\tau;\nup:\\upsilon;\nUp:\\Upsilon;\nph:\\phi;\nPh:\\Phi;\nch:\\chi;\nps:\\psi;\nPs:\\Psi;\nom:\\omega;\nOm:\\Omega"
+}
