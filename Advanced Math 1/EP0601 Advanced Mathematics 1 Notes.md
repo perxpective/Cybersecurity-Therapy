@@ -392,5 +392,4 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 ### Fundamental Theorem of Calculus I
 > If $f$ is **continuous** on $[a,b]$, then function $F$ is defined by $$F(x)=\int^{x}_{a}f(t)dt$$where $x\in[a,b]$ is differentiable on $(a,b)$ and $F'(x)=f(x)$
-> $$\frac{d}{dx}(\int^{x}_{a}f(t)dt)=f(x)$$
-> $$\left(\frac{4}{5})$$
+> $$\frac{d}{dx}\left(\int^{x}_{a}f(t)dt\right)=f(x)$$
