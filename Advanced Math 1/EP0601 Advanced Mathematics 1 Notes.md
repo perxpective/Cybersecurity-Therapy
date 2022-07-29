@@ -391,5 +391,5 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 - If $a\leq c\leq b$, $\int_{b}^{a}f(x)dx=\int_{a}^{c}f(x)dx+\int_{c}^{b}f(x)dx$
 
 ### Fundamental Theorem of Calculus I
-> If $f$ is **continuous** on $[a,b]$, then function $F$ is defined by $$F(x)=\int^{x}_{a}f(t)dt$$where $x\in[a,b]$ is differentiable on $(a,b)$ and $F'(x)=f(x)$
-> $$\frac{d}{dx}\left(\int^{x}_{a}f(t)dt\right)=f(x)$$
+> If $f$ is **continuous** on $[a,b]$, then function $F$ is defined by $$F(x)=\int_{a}^{x}f(t)dt$$where $x\in[a,b]$ is differentiable on $(a,b)$ and $F'(x)=f(x)$
+> $$\frac{d}{dx}\left(\int_{a}^{x}f(t)dt\right)=f(x)$$
