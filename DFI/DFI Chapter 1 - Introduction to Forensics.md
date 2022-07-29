@@ -21,7 +21,7 @@
 > 
 > - FBI Computer Analysis and Response Team (CART) formed in 1984 to handle cases involving digital evidence
 > 
-> - CART teamed up with the Department of Defense Computer Forensics Laboratory (DCFL) in the late 1990s
+> - CART teamed up with the Department of Defence Computer Forensics Laboratory (DCFL) in the late 1990s
 
 ## Case Law
 * Existing laws cannot keep up with the rate of technological advancement
