@@ -378,6 +378,10 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 > **The Riemann Sum**
 > A function $f$ on the interval $[a,b]$ is divided into subintervals if the limit
-> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$$ exists regardless of how interval is divided into subintervals
+> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$$exists regardless of how interval is divided into subintervals
 > Moreover, 
-> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)dx$$
+> $$\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)\,\mathrm{d}x$$ is also known as the **definite integral** of $f$ from $a$ to $b$
+> It gives the net signed area between graph of $f$ and on the x-axis on $[a,b]$
+
+### Basic Properties of Definite Integrals
+- $\int_b^a$
