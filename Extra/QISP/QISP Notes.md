@@ -77,3 +77,6 @@
 - Determine appropriate associated controls to be implemented in organisation to counter threats
 - When performing risk assessment, complexity and risk level associated with electronic information assets and facilities environmental systems need to be considered
 - Should be on top of traditional physical security such as security guards, looks and fences
+
+### Risk Monitoring 
+- Manam
