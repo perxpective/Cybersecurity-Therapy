@@ -45,7 +45,7 @@
 - <u>Other motivations:</u>
 	- **Cash** -> from stealing passwords, bank details, holding customer information for ransom
 	- **Challenge** -> driven by challenge to break the unbreakable system to gain recognition from peers
-	- Hacktivism -> use skills to target and embarrass large organisations and their IT teams, break sophisticated security systems and humiliate upper management
+	- **Hacktivism** -> use skills to target and embarrass large organisations and their IT teams, break sophisticated security systems and humiliate upper management
 	- **Revenge** -> anger, use their skills to directly affect a person, group or company without fear of repercussion
 	- **Subversion** -> accused of meddling in current and corporate affairs (modern day version of espionage)
 	- **Infamy** -> motivated by sense of achievement, working independently or in groups they want to be recognised
@@ -65,4 +65,12 @@
 3. **Availability**
 	- Ensure that information or assets is accessible and usable whenever demanded by unauthorised entity
 4. **Accountability**
-	- 
+	- Ensures that actions of individual can be traced back to that individual
+	- Enables organisations to determine who has executed what action, how and when was action executed
+5. **Non-repudiation**
+	- Ensures individual or entity cannot deny previous commitments or actions
+	- Examples: denied having bought goods from seller online
+	- Can be achieved through digital signatures
+
+### Risk Assessment
+- Should be undertaken to **identify physical, environmental security threats**
