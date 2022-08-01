@@ -79,4 +79,4 @@
 - Should be on top of traditional physical security such as security guards, looks and fences
 
 ### Risk Monitoring 
-- Manam
+- Management should ensure organisation's risk profile is updated accordingly
