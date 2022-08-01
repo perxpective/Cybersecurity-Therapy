@@ -20,7 +20,14 @@
 - Deliver services according to relevant professional standards
 - Support professional development of the profession
 
-### Professional Responsibilities
-- Act within the law
-- Take reasonable action to prevent unlawful activities
-- Take reasonable action to prevent harm to emplyeers
+### Ethics in Information Security
+- People - important aspect in of IS Governance
+- IS Professionals trusted with **safeguarding IT infrastructure** and **organisation's information assets**
+	- Part of IS strategy implementation
+- <u>Basic principles of IS Ethics:</u>
+	- **Honour confidentiality** and **not use computer system or data for personal gain or unlawful purposes**
+	- Honour intellectual property rights
+	- Honour contracts, agreements and assigned responsibilities
+	- Provide honest and professional review or opinion when required
+
+### Conflic
