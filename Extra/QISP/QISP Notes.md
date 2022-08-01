@@ -31,6 +31,10 @@
 	- Provide honest and professional review or opinion when required
 	- Respect privacy and not access systems or data without permission from rightful owners
 - Trusted with **safeguarding the infrastructure and organisation's information assets**
+- Report vulnerabilities or known errors so that corrective actions can be taken to safeguard IS
+- Comply with laws and regulations
+- Report suspected fraudulent or illegal activities to designated authorities through proper channels
+- Not to tamper 
 
 ### Conflict of Interest
 - In situation where conflicting responsibilities to different constituencies -> relevant guidelines on ember advisory service should be consulted
