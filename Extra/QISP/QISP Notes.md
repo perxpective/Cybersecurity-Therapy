@@ -43,5 +43,7 @@
 - Motivated by sense of achievement
 - Working independently or in groups they want to be recognised
 - <u>Other motivations:</u>
-	- Cash (from stealing passwords, bank details, holding customer information for ransom)
-	- Challenge
+	- **Cash** -> from stealing passwords, bank details, holding customer information for ransom
+	- **Challenge** -> driven by challenge to break the unbreakable system to gain recognition from peers
+	- Hacktivism -> use skills to target and embarrass large organisations and their IT teams, break sophisticated security systems and humiliate upper management
+	- **Revenge** -> anger, use their skills to 
