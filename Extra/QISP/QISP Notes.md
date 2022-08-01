@@ -30,4 +30,5 @@
 	- Honour contracts, agreements and assigned responsibilities
 	- Provide honest and professional review or opinion when required
 
-### Conflic
+### Conflict of Interest
+- In situation where conflicting responsibilities to different constituencies -> relevant guidelines 

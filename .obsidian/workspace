@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170.0036334991455
+    "width": 168.5036334991455
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -114,9 +114,10 @@
     "width": 153.85968017578125,
     "collapsed": true
   },
-  "active": "93e015461cbc414f",
+  "active": "731c91d95bf32413",
   "lastOpenFiles": [
     "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
+    "Extra/QISP/QISP Notes.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
@@ -124,7 +125,6 @@
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
-    "DFI/DFI Chapter 9 - Historical Cellular.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md"
+    "DFI/DFI Chapter 9 - Historical Cellular.md"
   ]
 }
