@@ -29,6 +29,8 @@
 	- Honour intellectual property rights
 	- Honour contracts, agreements and assigned responsibilities
 	- Provide honest and professional review or opinion when required
+	- Respect privacy and not access systems or data without permission from rightful owners
+- Trusted with **safeguarding the infrastructure and organisation's information assets**
 
 ### Conflict of Interest
-- In situation where conflicting responsibilities to different constituencies -> relevant guidelines 
+- In situation where conflicting responsibilities to different constituencies -> relevant guidelines on ember advisory service should be consulted
