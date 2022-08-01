@@ -54,4 +54,15 @@
 - Set of responsibilities and actions exercised by Board of Management of an organisation
 - Goal: **Align** strategic direction of IS activities with business strategy
 	- Ensure that IS risks **managed adequately**
+	- Use resources efficiently to **achieve organisation's objectives**
+	- Ensure that **resources and processes properly protected**
+
+### Classical Information Security Objectives
+1. **Confidentiality**
+	- Ensure information not disclosed or made available to unauthorised individuals, entities or processes
+2. **Integrity**
+	- Protect information and information systems from unauthorised changes
+3. **Availability**
+	- Ensure that information or assets is accessible and usable whenever demanded by unauthorised entity
+4. **Accountability**
 	- 
