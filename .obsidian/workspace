@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
-            "mode": "preview",
+            "file": "Extra/QISP/QISP Notes.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "Extra/QISP/QISP Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
+                "file": "Extra/QISP/QISP Notes.md"
               }
             }
           },
@@ -115,6 +115,8 @@
   },
   "active": "731c91d95bf32413",
   "lastOpenFiles": [
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
+    "BED/BED Chapter 5 - Databases.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "Extra/QISP/QISP Notes.md",
@@ -122,8 +124,6 @@
     "EHD/Practical/EHD Nmap Cheat Sheet.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
-    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
-    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md"
   ]
 }
