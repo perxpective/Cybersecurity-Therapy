@@ -174,4 +174,11 @@
 
 ### Different IS Governance Framework
 
+#### COBIT
+> **COBIT** -> Control Objectives for Information and Related Technology
+- Framework for governing and managing enterprise IT to support organisations in the development, implementation and continuous improvement and monitoring of good IT-related governance and management practices
+
+#### COSO
+> **COSO** -> Committee of Sponsoring Organisations of the Treadway Commission
+- Guidance to Executive M
 
