@@ -221,14 +221,17 @@
 > BCM helps organisation establish resilient response framework to tackle identified threats and potential impact
 
 #### Business Impact Analysis (BIA)
-- Management level examination of impact qualitatively and quantitatively if potential disruption of business operations and processes occur
-- **Objectives:**
-	- Assist management in understanding impact associated with possible disruptions
-	- Identify and prioritise critical business processes, applications and systems
-	- Analyse the impact
-	- Determine recovery objectives
+- Management level examination of impact qualitatively and quantitatively if potential disruption of business operations and processes occur\
+
+**Objectives:**
+- Assist management in understanding impact associated with possible disruptions
+- Identify and prioritise critical business processes, applications and systems
+- Analyse the impact
+- Determine recovery objectives
 
 ### System Audit Plan
+> Ensure that IT controls protect corporate assets, ensure data integrity and operate effectively to achieve organisation's goals and objectives
+
 - Information Systems Audit Strategy
 - Formalise Audit Plan
 - Type of IS Audit
@@ -236,3 +239,9 @@
 - Communicating Audit Results
 - Follow-up Activities
 - Audit Documentation
+
+**Objectives:**
+- Evaluation of organisation processes and information systems are in place
+- Identify gaps in IT system and management
+- Identify risks to information assets
+- Ensure compliance with IT specific laws policies and standards
