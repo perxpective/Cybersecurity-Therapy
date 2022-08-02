@@ -128,4 +128,10 @@
 | Multiple Classifications | Comply with multiple laws and regulations                                                                                                  |
 | Internal Resistance      | Face internal resistance from some individuals when engaging them to begin discovery                                                       |
 | Over-classification      | Occurs when security classification mapped to access controls which must not happen when only one person is classifying information assets |
-| Coverage                 | Will never really show whether or not all infnr                                                                                                                                           |
+| Coverage                 | Will never really show whether or not all information assets have been discovered                                                                                                                                           |
+
+### Acceptable Use Policy (UAP)
+- AUP details permitted system uses, user activities and consequences of non-compliance
+- Users often required to agree to UAP before being granted access rights to a system
+- **Human Resource Departments** need to define and enforce Acceptable User Policy
+- Outline standards on how employees may use Internet or link device 
