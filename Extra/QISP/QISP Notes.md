@@ -42,6 +42,7 @@
 ### Motivation of Hackers
 - Motivated by sense of achievement
 - Working independently or in groups they want to be recognised
+
 | Motivation | Description                                                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Cash       | From stealing passwords, bank details and holding customer information for ransom                                                        |
