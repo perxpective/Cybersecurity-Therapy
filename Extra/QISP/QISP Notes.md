@@ -270,3 +270,5 @@
 	- Keys with long life must be used sparsely to minimise exposure and reduce possibility of attack
 
 #### Key Management Interoperability (KMIP)
+> KIMP standardises the communication between cryptographic clients that consume keys and key management systems that create and manage those keys
+
