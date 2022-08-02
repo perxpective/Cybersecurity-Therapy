@@ -109,4 +109,15 @@
 ### Information Classification
 - Process of classifying data or information assets 
 
-> **Aim**: Prioritise effort and resources required to protect data and information ase
+> **Aim**: Prioritise effort and resources required to protect data and information assets
+- Organisation should assess relative importance of various information systems based on following criteria:
+	- Nature of function
+	- Criticality of information
+	- Sensitivity of information
+	- Information asset value
+- Organisations usually classify information in terms of confidentiality
+- Typical system of levels of confidentiality:
+	- Confidential
+	- Restricted
+	- Internal
+	- Public Information
