@@ -189,6 +189,7 @@
 	- fraud
 	- financial reporting
 
-
-
-
+### General Data Protection Regulation (GDPR)
+- To protect individuals fundamental rights and freedoms
+	- Particularly their right to protection to their personal data
+- Key privacy and data protection requirements of GDPR 
