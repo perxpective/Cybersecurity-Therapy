@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
+            "file": "Extra/QISP/QISP Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
+                "file": "Extra/QISP/QISP Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md"
+                "file": "Extra/QISP/QISP Notes.md"
               }
             }
           },
@@ -115,6 +115,7 @@
   },
   "active": "731c91d95bf32413",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Web Application Cheat Sheet.md",
     "EHD/Practical/EHD Nmap Cheat Sheet.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
@@ -123,7 +124,6 @@
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "BED/BED Chapter 5 - Databases.md",
-    "BED/BED Chapter 7 - Authentication and Authorization.md"
+    "BED/BED Chapter 5 - Databases.md"
   ]
 }
