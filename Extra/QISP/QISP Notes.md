@@ -180,5 +180,12 @@
 
 #### COSO
 > **COSO** -> Committee of Sponsoring Organisations of the Treadway Commission
-- Guidance to Executive M
+- Guidance to Executive Management and governance entities on the following critical aspects: 
+	- organisational governance
+	- business ethics
+	- internal control
+	- enterprise risk assessment
+	- fraud
+	- financial reporting
+
 
