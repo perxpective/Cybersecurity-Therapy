@@ -264,4 +264,6 @@
 - Key must be randomly chosen from entire key space to eliminate pattern in which key is chosen
 - Key Encrypting Key (KEK) must be separate from Data Encrypting Key (DEK)
 	- Key used to encrypt keys should not be used to encrypt data
-	- 
+	- Exposure and use should be limited
+	- KEKs should be stored very securely and separate from DEKs
+	- KEKs can be organised into a hierarchy (master KEK used to encrypt, intermediate KEKs stored )
