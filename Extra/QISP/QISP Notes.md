@@ -89,4 +89,16 @@
 
 ### Vulnerabilities
 > Weaknesses that can be exploited in **People, Processes and Technology**
-> - If exploi
+> - If exploited, can result in damage or harm
+
+- Examples of vulnerabilities:
+	- **Unpatched** software and/or operating systems
+	- **Unencrypted** transmission of data
+	- **Non-compliance** or enforcement of policies
+	- **Weak** protection or poor network design
+
+### Information Security Risk Management
+> **Risk treatment** involves prioritisation, evaluation and implementation of appropriate risk-reducing  controls recommended based on risk assessment
+
+- Risk can be treated based on following options:
+	- **Risk Avoidance** -> completely avoid the risk by eliminating root cause of 
