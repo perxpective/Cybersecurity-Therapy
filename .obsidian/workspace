@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "731c91d95bf32413",
+        "id": "29ceeb92cd0471be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Extra/QISP/QISP Notes.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168.5036334991455
+    "width": 263.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -114,10 +114,10 @@
     "width": 153.85968017578125,
     "collapsed": true
   },
-  "active": "731c91d95bf32413",
+  "active": "29ceeb92cd0471be",
   "lastOpenFiles": [
-    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "Extra/QISP/QISP Notes.md",
+    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 5 - Databases.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",

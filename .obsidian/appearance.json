@@ -2,8 +2,8 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter,SF Pro Display,Segoe UI",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "Things",
-  "baseFontSize": 29,
+  "cssTheme": "Notation",
+  "baseFontSize": 20,
   "theme": "obsidian",
   "translucency": false
 }
