@@ -156,6 +156,8 @@
 - Contains information about on IS governance, security principles and technology components and services needed in security architecture
 
 ### O-SCOA
+> **O-SCOA** -> Secure Collaboration-Oriented Architecture (IS framework)
 
+- 
 
 
