@@ -259,4 +259,8 @@
 - Prevent repudiation by sending and receiving parties during message exchange
 
 #### Key Management Principles
-- Should be automated to e
+- Should be automated to eliminate manual steps that are prone to human error
+- No key should appear in clear outside of cryptographic devices to ensure secrecy of key
+- Key must be randomly chosen from entire key space to eliminate pattern in which key is chosen
+- Key Encrypting Key (KEK) must be separate from Data Encrypting Key (DEK)
+	- Key used to encrypt keys should not be used to en
