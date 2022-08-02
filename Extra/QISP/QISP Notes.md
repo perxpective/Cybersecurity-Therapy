@@ -42,19 +42,14 @@
 ### Motivation of Hackers
 - Motivated by sense of achievement
 - Working independently or in groups they want to be recognised
-- <u>Other motivations:</u>
 | Motivation | Description                                                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Cash       | From stealing passwords, bank details and holding customer information for ransom                                                        |
 | Challenge  | Driven by challenge to break the unbreakable system to gain recognition from peers                                                       |
 | Hacktivism | Use skills to target and embarrass large organisations and IT teams, break sophisticated security systems and humiliate upper management |
-| Revenge    | Anger, use their skills to directly affect person, group or company without fear of repercussion                                                                                                                                         |
-	- **Cash** -> from stealing passwords, bank details, holding customer information for ransom
-	- **Challenge** -> driven by challenge to break the unbreakable system to gain recognition from peers
-	- **Hacktivism** -> use skills to target and embarrass large organisations and their IT teams, break sophisticated security systems and humiliate upper management
-	- **Revenge** -> anger, use their skills to directly affect a person, group or company without fear of repercussion
-	- **Subversion** -> accused of meddling in current and corporate affairs (modern day version of espionage)
-	- **Infamy** -> motivated by sense of achievement, working independently or in groups they want to be recognised
+| Revenge    | Anger, use their skills to directly affect person, group or company without fear of repercussion                                         |
+| Subversion | Accused of meddling in current and corporate affairs (modern day version of espionage)                                                   |
+| Infamy     | Motivated by sense of achievement and working independently or in groups they want to be recognised                                                                                                                                         |
 
 ### Information Security Governance
 - Set of responsibilities and actions exercised by Board of Management of an organisation
@@ -127,4 +122,10 @@
 	- Public Information (everyone)
 
 - **Issues of information classification:**
-	-
+
+| Issue                    | Description                                                                                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Multiple Classifications | Comply with multiple laws and regulations                                                                                                  |
+| Internal Resistance      | Face internal resistance from some individuals when engaging them to begin discovery                                                       |
+| Over-classification      | Occurs when security classification mapped to access controls which must not happen when only one person is classifying information assets |
+| Coverage                 | Will never really show whether or not all infnr                                                                                                                                           |
