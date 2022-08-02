@@ -102,6 +102,11 @@
 
 - Risk can be treated based on following options:
 
+| Option       | Explanation                                                           |
+| ------------ | --------------------------------------------------------------------- |
+| Avoidance    | Completely avoided risk by eliminating the root cause of consequences |
+| Mitigation   | Reduce or lower the risk by implementing appropriate controls         |
+| Transference | T                                                                      |
 
 ### Information Classification
 - Process of classifying data or information assets 
