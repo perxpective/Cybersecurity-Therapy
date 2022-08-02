@@ -201,6 +201,11 @@
 
 > **Important to note:**
 > - GDPR applies to each member state of the EU aiming to create more consistent protection of consumer and personal data across EU countries
-> - Any company that 
+> - Any company that sells goods and services to EU citizens regardless of location is subject to regulations
 
 - EU mandates mandate baseline set of standards for companies that handle EU citizen's data to better safeguard processing and movement of citizen personal data
+
+## Physical Security, Business Continuity and Audit
+> **Definition**
+> - Physical and environmental security provide protection for for physical assets and infrastructure of organisation
+> - Extend from buildings, information processing facilities, information systems and storage facilities to mission criti
