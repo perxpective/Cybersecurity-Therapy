@@ -101,10 +101,7 @@
 > **Risk treatment** involves prioritisation, evaluation and implementation of appropriate risk-reducing  controls recommended based on risk assessment
 
 - Risk can be treated based on following options:
-	- **Avoidance** -> completely avoid the risk by eliminating root cause of consequences
-	- **Mitigation** -> reduce or lower risk by implementing appropriate controls
-	- **Transference** -> transfer risk to another party (e.g. purchase of insurance)
-	- **Acceptance** -> accept residual risk after employing and exhausting earlier three options
+
 
 ### Information Classification
 - Process of classifying data or information assets 
@@ -116,8 +113,11 @@
 	- Sensitivity of information
 	- Information asset value
 - Organisations usually classify information in terms of confidentiality
-- Typical system of levels of confidentiality:
-	- Confidential
-	- Restricted
-	- Internal
-	- Public Information
+- **Typical system of levels of confidentiality:**
+	- Confidential (senior management)
+	- Restricted (most employees)
+	- Internal (all employees)
+	- Public Information (everyone)
+
+- **Issues of information classification:**
+	-
