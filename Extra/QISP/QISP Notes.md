@@ -161,4 +161,13 @@
 - Specifies requirements for secure design of enterprise IT architectures supporting deperimeterised operations
 - Specifies all essential components required for architecting secure systems
 
+### OSA
+> **OSA** -> Open Security Architecture 
+
+- Provides security architecture patterns
+- Controls catalogue and threat catalogue
+
+### SABSA
+- Enterprise security architecture framework
+- Method integrated with TOGAF Enterprise 
 
