@@ -80,3 +80,13 @@
 
 ### Risk Monitoring 
 - Management should ensure organisation's risk profile is updated accordingly
+- Can be achieved through periodic risk assessments, security reviews (penetration testing) and audits
+- Organisation should be proactive in risk monitoring and acting to response to new risks in timely manner
+- Use of indicators in larger organisations can help monitor status of risks more effectively
+- Address this element by including:
+	- Training and awareness programme
+	- Communication of IS policies, standards and procedures
+
+### Vulnerabilities
+> Weaknesses that can be exploited in **People, Processes and Technology**
+> - If exploi
