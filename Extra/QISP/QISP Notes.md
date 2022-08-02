@@ -194,4 +194,13 @@
 	- Particularly their right to protection to their personal data
 - Key privacy and data protection requirements of GDPR include the following:
 	- Requiring consent of subjects for data processing
-	- Anonymizing coll
+	- Anonymizing collect data to protect privacy
+	- Providing data breach notifications
+	- Safely handling transfer of data across borders
+	- Requiring certain companies to appoint data protection officer to oversee GDPR compliance
+
+> **Important to note:**
+> - GDPR applies to each member state of the EU aiming to create more consistent protection of consumer and personal data across EU countries
+> - Any company that 
+
+- EU mandates mandate baseline set of standards for companies that handle EU citizen's data to better safeguard processing and movement of citizen personal data
