@@ -227,3 +227,12 @@
 	- Identify and prioritise critical business processes, applications and systems
 	- Analyse the impact
 	- Determine recovery objectives
+
+### System Audit Plan
+- Information Systems Audit Strategy
+- Formalise Audit Plan
+- Type of IS Audit
+- Evaluation of Findings
+- Communicating Audit Results
+- Follow-up Activities
+- Audit Documentation
