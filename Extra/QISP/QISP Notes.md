@@ -158,6 +158,7 @@
 ### O-SCOA
 > **O-SCOA** -> Secure Collaboration-Oriented Architecture (IS framework)
 
-- Specifies requirements for secure design of enterprise IT architectures
+- Specifies requirements for secure design of enterprise IT architectures supporting deperimeterised operations
+- Specifies all essential components required for architecting secure systems
 
 
