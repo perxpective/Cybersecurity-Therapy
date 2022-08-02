@@ -145,4 +145,17 @@
 	- Keeping hard drives clean by reformatting and wiping them
 	- Changing passwords and using multifactor authentication
 	- Review server and application port settings
-	- Cond
+	- Conduct security awareness training
+
+### Different Security Architecture Framework
+> NOTE: Most common answer is **SABSA**
+
+#### O-ESA
+> **O-ESA** -> Open-Enterprise Security Architecture (Reference architecture)
+
+- Contains information about on IS governance, security principles and technology components and services needed in security architecture
+
+### O-SCOA
+
+
+
