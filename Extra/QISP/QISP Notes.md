@@ -230,7 +230,8 @@
 - Determine recovery objectives
 
 ### System Audit Plan
-> Ensure that IT controls protect corporate assets, ensure data integrity and operate effectively to achieve organisation's goals and objectives
+> **Goals**:
+> - Ensure that IT controls protect corporate assets, ensure data integrity and operate effectively to achieve organisation's goals and objectives
 
 - Information Systems Audit Strategy
 - Formalise Audit Plan
@@ -245,3 +246,17 @@
 - Identify gaps in IT system and management
 - Identify risks to information assets
 - Ensure compliance with IT specific laws policies and standards
+- <u>Important to develop audit programme for target audit areas</u>
+
+## Security Architecture and Engineering
+
+### Cryptography
+**Objectives:**
+- Ensure confidentiality of information
+- Protect integrity of information against alteration
+- Authenticate source of information
+- Prevent unauthorised access to data or cipher text
+- Prevent repudiation by sending and receiving parties during message exchange
+
+#### Key Management Principles
+- Should be automated to e
