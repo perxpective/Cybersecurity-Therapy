@@ -208,4 +208,14 @@
 ## Physical Security, Business Continuity and Audit
 > **Definition**
 > - Physical and environmental security provide protection for for physical assets and infrastructure of organisation
-> - Extend from buildings, information processing facilities, information systems and storage facilities to mission criti
+> - Extend from buildings, information processing facilities, information systems and storage facilities to mission critical or sensitive data
+
+- IS is important to organisational needs
+	- Ensures that information resources are protected and available to organisation when required
+- **Layer Defence Model**
+	- Physical controls should work together in tiered architecture
+	- Level of security increases as attacker moves into the layers
+	- Prevents or delays attackers from gaining access to assets
+
+### Business Continuity Management (BCM)
+> BCM helps organisation establish resilient response framework to tackle i
