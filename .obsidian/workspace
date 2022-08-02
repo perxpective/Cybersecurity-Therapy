@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extra/QISP/QISP Notes.md",
-            "mode": "source",
+            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 154.5036334991455
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/QISP/QISP Notes.md",
+                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra/QISP/QISP Notes.md"
+                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
               }
             }
           },
@@ -116,15 +116,15 @@
   },
   "active": "3c84d3fe363b1dde",
   "lastOpenFiles": [
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "Extra/QISP/QISP Notes.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "EHD/Practical/EHD Web Application Cheat Sheet.md",
-    "Extra/QISP/QISP Notes.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
-    "DFI/DFI Chapter 3 - Data Acquisition.md",
-    "DFI/DFI Chapter 10 - Android Forensics.md"
+    "DFI/DFI Chapter 3 - Data Acquisition.md"
   ]
 }
