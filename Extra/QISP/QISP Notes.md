@@ -101,4 +101,12 @@
 > **Risk treatment** involves prioritisation, evaluation and implementation of appropriate risk-reducing  controls recommended based on risk assessment
 
 - Risk can be treated based on following options:
-	- **Risk Avoidance** -> completely avoid the risk by eliminating root cause of 
+	- **Avoidance** -> completely avoid the risk by eliminating root cause of consequences
+	- **Mitigation** -> reduce or lower risk by implementing appropriate controls
+	- **Transference** -> transfer risk to another party (e.g. purchase of insurance)
+	- **Acceptance** -> accept residual risk after employing and exhausting earlier three options
+
+### Information Classification
+- Process of classifying data or information assets 
+
+> **Aim**: Prioritise effort and resources required to protect data and information ase
