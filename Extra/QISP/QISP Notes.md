@@ -194,4 +194,4 @@
 	- Particularly their right to protection to their personal data
 - Key privacy and data protection requirements of GDPR include the following:
 	- Requiring consent of subjects for data processing
-	- 
+	- Anonymizing coll

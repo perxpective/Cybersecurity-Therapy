@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
-            "mode": "preview",
+            "file": "Extra/QISP/QISP Notes.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "Extra/QISP/QISP Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
+                "file": "Extra/QISP/QISP Notes.md"
               }
             }
           },
@@ -116,6 +116,7 @@
   },
   "active": "3c84d3fe363b1dde",
   "lastOpenFiles": [
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "Extra/QISP/QISP Notes.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
@@ -124,7 +125,6 @@
     "EHD/Practical/EHD Practical 5 - Firewall.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
-    "DFI/DFI Chapter 3 - Data Acquisition.md"
+    "DFI/DFI Chapter 5 - Evidence Processing.md"
   ]
 }
