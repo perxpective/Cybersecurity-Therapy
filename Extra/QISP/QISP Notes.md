@@ -266,4 +266,7 @@
 	- Key used to encrypt keys should not be used to encrypt data
 	- Exposure and use should be limited
 	- KEKs should be stored very securely and separate from DEKs
-	- KEKs can be organised into a hierarchy (master KEK used to encrypt, intermediate KEKs stored )
+	- KEKs can be organised into a hierarchy (master KEK used to encrypt, intermediate KEKs stored encrypted only)
+	- Keys with long life must be used sparsely to minimise exposure and reduce possibility of attack
+
+#### Key Management Interoperability (KMIP)
