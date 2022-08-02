@@ -275,3 +275,5 @@
 - Leverages other standards like TLS whenever possible and focuses on problem of interoperable messages between cryptographic clients and key management systems
 - Allows organisations to deploy single enterprise key management infrastructure to manage all keys in organisation
 - Allows specific key management environments to communicate with other key management systems outside their environments
+
+### Security Architecture
