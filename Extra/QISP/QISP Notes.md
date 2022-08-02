@@ -169,5 +169,9 @@
 
 ### SABSA
 - Enterprise security architecture framework
-- Method integrated with TOGAF Enterprise 
+- Method integrated with TOGAF Enterprise Architecture framework and methodology
+- Provides guide to integrating risk and security management into enterprise architecture
+
+### Different IS Governance Framework
+
 
