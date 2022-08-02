@@ -218,4 +218,12 @@
 	- Prevents or delays attackers from gaining access to assets
 
 ### Business Continuity Management (BCM)
-> BCM helps organisation establish resilient response framework to tackle i
+> BCM helps organisation establish resilient response framework to tackle identified threats and potential impact
+
+#### Business Impact Analysis (BIA)
+- Management level examination of impact qualitatively and quantitatively if potential disruption of business operations and processes occur
+- **Objectives:**
+	- Assist management in understanding impact associated with possible disruptions
+	- Identify and prioritise critical business processes, applications and systems
+	- Analyse the impact
+	- Determine recovery objectives
