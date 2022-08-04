@@ -273,7 +273,7 @@ vim /etc/tripwire/twpol.txt
 )
 {
   /dev             -> $(Device) ;
-# /proc             -> $(Device) ;
+# /proc            -> $(Device) ;
 ```
 
 - Save Tripwire Policy text file
