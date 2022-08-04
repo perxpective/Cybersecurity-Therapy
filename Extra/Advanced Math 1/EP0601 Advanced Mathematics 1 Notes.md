@@ -369,10 +369,19 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 ## Integration
 ### The Riemann Sum
+
+![](https://i.imgur.com/GzUrxWY.png)
+![](https://i.imgur.com/D6XQ2Yu.png)
+
+
 - The approximated area under the curve is calculated  by dividing an interval into subintervals
 - <u>How to make calculation more accurate?</u>
 	- Make the widths of each fundamental strip (rectangles) narrower
 	- Increase the number of strips under the curve
+
+![](https://i.imgur.com/qdoyxhK.png)
+![](https://i.imgur.com/1fNaKgb.png)
+
 
 > **The Riemann Sum**
 > A function $f$ on the interval $[a,b]$ is divided into subintervals if the limit
@@ -405,6 +414,8 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 $dy=f'(x) \times dx$
 
 ### Improper Integrals
+![400](https://i.imgur.com/nYuWZ64.png)
+
 If the limit exists, the improper integral converges at this limit and is finite $$\int^{\infty}_{a}f(x)dx=\lim_\limits{b\to +\infty}\int^{b}_{a}f(x)dx$$
 If the limit does not exist or is infinite, the improper integral is said to diverge and is not assigned a value.
 
@@ -419,6 +430,10 @@ Similarly if the region defined over an interval in which function has an infini
 $\int^{c}_{a}f(x)dx + \int^{b}_{c}f(x)dx$
 $= \lim_\limits{k \to c^-}\int^{k}_{a}f(x)dx+\lim_\limits{l\to c^+}\int^{b}_{l}f(x)dx$
 
+![](https://i.imgur.com/YhLeAoT.png)
+
 ### Applications of Definite Integrals
 #### Area Between Two Curves
-Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$
+Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$ and the area between the two curves needs to be found.
+
+Divide the area into $n$ subintervals and approximate using thin fundamental strips.
