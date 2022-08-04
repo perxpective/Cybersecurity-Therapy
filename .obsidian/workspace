@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
-            "mode": "preview",
+            "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 154.5036334991455
+    "width": 162.50556182861328,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
+                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
               }
             }
           },
@@ -116,13 +117,13 @@
   },
   "active": "8cee29e6c1cc2393",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Web Application Cheat Sheet.md",
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "EHD/Practical/EHD Web Application Cheat Sheet.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "Extra/QISP/QISP Notes.md",
-    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md"
