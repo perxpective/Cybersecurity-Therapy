@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8cee29e6c1cc2393",
+        "id": "00fb56c222dcc1ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
-            "mode": "preview",
+            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
+                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
               }
             }
           },
@@ -114,12 +114,12 @@
     "width": 153.85968017578125,
     "collapsed": true
   },
-  "active": "8cee29e6c1cc2393",
+  "active": "00fb56c222dcc1ad",
   "lastOpenFiles": [
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Web Application Cheat Sheet.md",
-    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
