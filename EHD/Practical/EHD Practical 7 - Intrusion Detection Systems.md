@@ -100,7 +100,7 @@ touch /etc/snort/rules/my.rules
 
 - Enter following rule into the file (Use a big SID so it will not clash with other SIDs in Snort)
 ```
-alert tcp Kali-IP any -> !$HOME_NET any (msg:"TCP traffic from Kali!"; sid:99999;)
+alert tcp Kali-IP any -> $HOME_NET any (msg:"TCP traffic from Kali!"; sid:99999;)
 ```
 
 - Edit `/etc/snort/snort.conf`
