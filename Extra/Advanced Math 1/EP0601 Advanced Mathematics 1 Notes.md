@@ -414,4 +414,8 @@ $\int^{m}_{-\infty}f(x)dx + \int^{\infty}_{m}f(x)dx$
 $= \lim_\limits{a \to -\infty}\int^{m}_{a}f(x)dx+\lim_\limits{b\to +\infty}\int^{b}_{m}f(x)dx$
 
 Similarly if the region defined over an interval in which function has an infinite discontinuity: $$\int^{b}_{a}f(x)dx$$ where $x=c\in (a,b)$ is an infinite discontinuity, the region can also be split into two sub-regions by the point of infinite discontinuity:
-$\int^{b}_$
+$\int^{c}_{a}f(x)dx + \int^{b}_{c}f(x)dx$
+$= \lim_\limits{k \to c^-}\int^{k}_{a}f(x)dx+\lim_\limits{l\to c^+}\int^{b}_{l}f(x)dx$
+
+### Applications of Definite Integrals
+#### Area Between Two Curves
