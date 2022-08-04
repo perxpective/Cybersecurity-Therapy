@@ -439,4 +439,4 @@ Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$ and th
 Divide the area into $n$ subintervals and approximate using thin fundamental strips.
 
 Area of each strip =$[f(x^{*}_{k})=g(x^{*}_{k})]\Delta x_k$
-Total Area $A$ = $\sum\limits^{n}_{k=1}[f(x^*_k)-g(x^*_k)]$
+Total Area $A$ = $\sum\limits^{n}_{k=1}[f(x^{*}_{k})=g(x^{*}_{k})]\Delta x_k$
