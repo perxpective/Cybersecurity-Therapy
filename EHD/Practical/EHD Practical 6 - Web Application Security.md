@@ -253,7 +253,6 @@ http://192.168.10.100/dvwa-master
 ![500](https://i.imgur.com/H8n22PE.png)
 
 ### Brute Forcing a Password in DVWA with Dictionary Lists
-
 13. On Kali VM, open terminal and create new file called `my_user_list` with two usernames:
 ```
 admin
