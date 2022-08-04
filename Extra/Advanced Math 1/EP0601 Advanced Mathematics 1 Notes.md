@@ -408,4 +408,7 @@ $dy=f'(x) \times dx$
 If the limit exists, the improper integral converges at this limit and is finite $$\int^{\infty}_{a}f(x)dx=\lim_\limits{b\to +\infty}\int^{b}_{a}f(x)dx$$
 If the limit does not exist or is infinite, the improper integral is said to diverge and is not assigned a value.
 
-#### 
+If region stretches towards both left infinity and right infinity: $$\int^{\infty}_{-\infty}f(x)dx$$
+Region can be split into 
+$\int^{m}_{-\infty}f(x)dx + \int^{\infty}_{m}f(x)dx$
+$= $
