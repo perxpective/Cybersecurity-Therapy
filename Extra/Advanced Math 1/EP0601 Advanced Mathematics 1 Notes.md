@@ -397,5 +397,5 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 > $$\frac{d}{dx}\left(\int_{a}^{x}f(t)dt\right)=f(x)$$
 
 ### Fundamental Theorem of Calculus II
-> If function $f$ is **continuous** on $[a,b]$ and $F$ is an antiderivative of $f$, then
-> $$$$ 
+> If function $f$ is **continuous** on $[a,b]$ and $F$ is an antiderivative of $f$, then:
+> $$\int^{b}_{a}f(t)dt=F(b)-F(a)$$ This can be written as: $$\int^{b}_{a}f(t)dt=[F(t)]^{b}_{a}$$
