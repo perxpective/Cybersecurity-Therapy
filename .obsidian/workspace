@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+            "file": "EHD/Theory/EHD Topic 5 - Firewalls.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.5036334991455
+    "width": 216.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+                "file": "EHD/Theory/EHD Topic 5 - Firewalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
+                "file": "EHD/Theory/EHD Topic 5 - Firewalls.md"
               }
             }
           },
@@ -116,15 +116,15 @@
   },
   "active": "00fb56c222dcc1ad",
   "lastOpenFiles": [
-    "BED/BED Chapter 7 - Authentication and Authorization.md",
+    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+    "DFI/DFI Chapter 3 - Data Acquisition.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Web Application Cheat Sheet.md",
-    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "Extra/QISP/QISP Notes.md",
-    "EHD/Practical/EHD Practical 5 - Firewall.md"
+    "Extra/QISP/QISP Notes.md"
   ]
 }
