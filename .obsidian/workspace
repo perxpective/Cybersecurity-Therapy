@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-            "mode": "source",
+            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 163.0319366455078
+    "width": 174.5036334991455
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
+                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
               }
             }
           },
@@ -116,14 +116,14 @@
   },
   "active": "8cee29e6c1cc2393",
   "lastOpenFiles": [
-    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
+    "EHD/Practical/EHD Web Application Cheat Sheet.md",
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
+    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
-    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-    "EHD/Practical/EHD Web Application Cheat Sheet.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "Extra/QISP/QISP Notes.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md"
   ]
