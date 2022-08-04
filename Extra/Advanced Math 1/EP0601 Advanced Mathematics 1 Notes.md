@@ -405,4 +405,5 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 $dy=f'(x) \times dx$
 
 ### Improper Integrals
-If the limit exists, the improper integral converges at this limit and is finite $$\int^{\infty}_{a}f(x)dx=\lim_{{b}\to +\infty}$$
+If the limit exists, the improper integral converges at this limit and is finite $$\int^{\infty}_{a}f(x)dx=\lim_\limits{b\to +\infty}\int^{b}_{a}f(x)dx$$
+If the limit does not exist or is infinite, the improper integral is said to diverge and is not assigned a value
