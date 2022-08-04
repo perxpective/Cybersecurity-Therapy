@@ -396,3 +396,6 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 > where $x\in[a,b]$ is differentiable on $(a,b)$ and $F'(x)=f(x)$
 > $$\frac{d}{dx}\left(\int_{a}^{x}f(t)dt\right)=f(x)$$
 
+### Fundamental Theorem of Calculus II
+> If function $f$ is **continuous** on $[a,b]$ and $F$ is an antiderivative of $f$, then
+> $$$$ 
