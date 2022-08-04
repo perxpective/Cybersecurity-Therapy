@@ -421,4 +421,4 @@ $= \lim_\limits{k \to c^-}\int^{k}_{a}f(x)dx+\lim_\limits{l\to c^+}\int^{b}_{l}f
 
 ### Applications of Definite Integrals
 #### Area Between Two Curves
-Suppose that $f$ and $g$
+Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$

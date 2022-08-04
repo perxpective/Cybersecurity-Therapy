@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "00fb56c222dcc1ad",
+        "id": "8548e070f61c4004",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+            "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
+                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
               }
             }
           },
@@ -114,16 +114,16 @@
     "width": 153.85968017578125,
     "collapsed": true
   },
-  "active": "00fb56c222dcc1ad",
+  "active": "8548e070f61c4004",
   "lastOpenFiles": [
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "BED/BED Chapter 5 - Databases.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",
     "EHD/Theory/EHD Topic 5 - Firewalls.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
-    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Web Application Cheat Sheet.md"
   ]
