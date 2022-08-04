@@ -401,3 +401,5 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 > $$\int^{b}_{a}f(t)dt=F(b)-F(a)$$ This can be written as: $$\int^{b}_{a}f(t)dt=[F(t)]^{b}_{a}$$
 
 ### Integration by Substitution
+- The differential of a function $y=f(x)$ is defined as: $dy=\frac{dy}{dx} \times dx$
+$dy=f'(x) \times dx$
