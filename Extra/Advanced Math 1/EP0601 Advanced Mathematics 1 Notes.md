@@ -437,3 +437,6 @@ $= \lim_\limits{k \to c^-}\int^{k}_{a}f(x)dx+\lim_\limits{l\to c^+}\int^{b}_{l}f
 Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$ and the area between the two curves needs to be found.
 
 Divide the area into $n$ subintervals and approximate using thin fundamental strips.
+
+Area of each strip:
+$$[f(x^{*}_{k})=g(x^{*}_{k})]\Delta x_k$$
