@@ -1,0 +1,9 @@
+.theme-light code, .theme-light pre {
+    white-space: pre;
+    overflow-x:auto;
+}
+
+.theme-dark code, .theme-dark pre {
+    white-space: pre;
+    overflow-x:auto;
+}
