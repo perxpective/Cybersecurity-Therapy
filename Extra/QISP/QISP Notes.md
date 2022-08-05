@@ -277,7 +277,16 @@
 - Allows specific key management environments to communicate with other key management systems outside their environments
 
 ### Security Architecture
-| Component  | Description                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------------------ |
-| Enterprise | Collective of functional organizations or units that is composed of multiple domain and networks |
-| Architec           |                                                                                                  |
+| Component                      | Description                                                                                      |
+| ------------------------------ | ------------------------------------------------------------------------------------------------ |
+| Enterprise                     | Collective of functional organizations or units that is composed of multiple domain and networks |
+| Architecture                   | Highest level concept of system in its operating environment                                     |
+| Security Architecture          | Integrated view of system architecture from security perspective                                 |
+| Enterprise Security Enterprise | Integrated view of enterprise system architecture from perspective of meeting organizational security policy                                                                                                  |
+
+**Business Objectives:**
+- Provide context for risk assessments
+- Define whether compliance with any control framework is necessary
+- Justify need for security measures
+
+**Security Architecture Framework**
