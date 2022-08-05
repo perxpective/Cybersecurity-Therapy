@@ -289,4 +289,14 @@
 - Define whether compliance with any control framework is necessary
 - Justify need for security measures
 
-**Security Architecture Framework**
+**Security Architecture Frameworks:**
+- O-SCOA Framework for Secure Collaboration-Oriented Architecture
+- Open Security Architecture (OSA)
+- SABSA
+
+### IS Risk Assessment
+
+In general, need to perform the following:
+- Impact Analysis
+- Risk Determination
+- Controls Recommendation
