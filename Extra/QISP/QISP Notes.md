@@ -332,4 +332,11 @@
 
 ### Virtualisation Security
 - Creates multiple VMs
-- Evaluate, implement, monitor and manage securti
+- Evaluate, implement, monitor and manage security within virtualisation infrastructure
+	- Includes processes like securing VMs, virtual network and other virtual appliances with attacks and vulnerabilities surfaced from underlying physical device
+- Two common concepts in virtualisation security:
+	- **Segmentation** - specific network resources only accessible to specified applications and users
+	- **Isolation** - allows discrete applications and workloads to operate independently on the same network
+
+### Increase Threats of Malware
+- Emergence of Internet of Things 
