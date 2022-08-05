@@ -343,6 +343,12 @@
 - Devices that were once not computerized e.g. refrigerators, washing machines, TVs turned into IoT devices by connecting them to the Internet with software not designed with security in mind
 
 ### Types of Malware
-| Malware | Description |
-| ------- | ----------- |
-|         |             |
+| Malware                    | Description                                                                                                          |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Virus                      | Typically replicates itself by infecting file system of host it resides on                                           |
+| Worm                       | Replicates itself over network without user intervention, does not need to attach itself to existing program or file |
+| Trojan Horses              | Computer programs that appear to perform expected functions but are in performing malicious functions silently       |
+| Remote Access Trojan (RAT) | When installed in client, master can control the computer                                                            |
+| Rootkit                    | Used by attacker who has root access and capable of disguising as administrator with privileged access               |
+| Data Diddler               | Payload in Trojan or virus that corrupts data by making small random changes to                                                                                                                      |
+
