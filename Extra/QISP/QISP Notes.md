@@ -309,3 +309,13 @@
 ### Zero-Trust Network
 - Network-centric security model based on castle-and-moat concept
 	- Accessing the outside network is difficult
+	- Everyone inside network is trusted by default
+
+> **Problem:** once attackers gain access to internal network they become trusted like authorised personnel
+
+- In zero-trust network, no one is trusted by default inside or outside the network
+- Verification is required from everyone gaining access to resources on network
+- Access to more secure resources requires additional stronger authentication
+
+### Service Transition
+- Builds and deploys IT service
