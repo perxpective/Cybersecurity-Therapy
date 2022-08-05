@@ -318,4 +318,13 @@
 - Access to more secure resources requires additional stronger authentication
 
 ### Service Transition
-- Builds and deploys IT service
+- Builds and deploys IT services and ensuring changes to services and service management process carried out in <u>coordinated manner</u>
+
+| Process                                    | Description                                                                                     |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Service Asset and Configuration Management | Maintains information about configuration items required to deliver to IT service               |
+| Change Management                          | Primary object is to enable beneficial change to be made with minimum disruption to IT services |
+| Change Evaluation                          | Assesses major changes before changes can be applied e.g. introducing a new service             |
+| Project Management                         | Focuses on transition planning and support such as planning and coordinating                                                                                                |
+
+- 
