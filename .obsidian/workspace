@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+            "file": "Extra/QISP/QISP Notes.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
+                "file": "Extra/QISP/QISP Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
+                "file": "Extra/QISP/QISP Notes.md"
               }
             }
           },

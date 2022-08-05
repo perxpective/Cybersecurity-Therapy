@@ -277,3 +277,7 @@
 - Allows specific key management environments to communicate with other key management systems outside their environments
 
 ### Security Architecture
+| Component  | Description                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------ |
+| Enterprise | Collective of functional organizations or units that is composed of multiple domain and networks |
+| Architec           |                                                                                                  |
