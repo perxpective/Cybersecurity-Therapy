@@ -295,8 +295,17 @@
 - SABSA
 
 ### IS Risk Assessment
+- Assess risk exposure and vulnerabilities
+- Prioritise risks with risk profile
+- Define requirements that incorporates control to address risk
+	- Incorporate standards, laws and expectations
+- In general, need to perform the following:
+	- Impact Analysis
+	- Risk Determination
+	- Controls Recommendation
+- Design and develop preventive, detective, respond and recovery controls
 
-In general, need to perform the following:
-- Impact Analysis
-- Risk Determination
-- Controls Recommendation
+## Operation and Infrastructure Security
+### Zero-Trust Network
+- Network-centric security model based on castle-and-moat concept
+	- Accessing the outside network is difficult
