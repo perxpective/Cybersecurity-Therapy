@@ -339,4 +339,10 @@
 	- **Isolation** - allows discrete applications and workloads to operate independently on the same network
 
 ### Increase Threats of Malware
-- Emergence of Internet of Things 
+- Emergence of Internet of Things (IoT) allows parties to exploit vulnerabilities in computerised devices connected to the Internet to gain valuable information
+- Devices that were once not computerized e.g. refrigerators, washing machines, TVs turned into IoT devices by connecting them to the Internet with software not designed with security in mind
+
+### Types of Malware
+| Malware | Description |
+| ------- | ----------- |
+|         |             |
