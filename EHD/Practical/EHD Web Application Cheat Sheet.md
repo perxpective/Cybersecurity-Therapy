@@ -107,7 +107,8 @@ http://192.168.10.100/dvwa-master
 > Ensure that Windows Firewall not blocking access to DVWA (Add Exception Port 80 if needed)
 
 - Configure proxy in Firefox browser
-![](https://i.imgur.com/N1Xnd9N.png)
+![](https://i.imgur.com/dN1y4gW.png)
+
 
 - Go to **Proxy** tab and 
 
@@ -201,5 +202,5 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 
 - Connect browser to Burp Proxy and enable **Intercept** on Burp
 - Forward packets until submitted form is found
-	- 
+	- Inputs can be modified below
 ![500](https://i.imgur.com/8h2pCRH.png)
