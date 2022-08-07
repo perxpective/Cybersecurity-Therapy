@@ -417,4 +417,19 @@
 - Removal or disabling of unnecessary services, applications and network protocols to prevent vulnerabilities that can be exploited
 - Configure host-based access control according to organisation security policies
 - Ensure that default accounts e.g. guest accounts not in use are removed or disabled
-- Ensuring password policy (password length, complexity and expiry) is defiuned
+- Ensuring password policy (password length, complexity and expiry) is defined
+- Assign privileges to limit access to resources which will be audited to monitor attempts to access them
+
+### 2-Factor Authentication
+- Confirm user claimed identities using combination of two factors:
+	- something they know
+	- something they have
+	- something they are
+
+### Security Awareness Education Training
+- Train users about common social engineering techniques can reduce success of malware
+
+## Software Security
+### Secure Software Development Life Cycle
+> Framework that describes stages used by organisations to design, develop, test and implement software
+
