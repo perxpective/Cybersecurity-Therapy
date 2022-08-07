@@ -486,4 +486,13 @@
 
 ### Security Analytics
 **Key Concepts**
-- 
+- Classification
+- Clustering
+- Structured Data
+- Unstructured Data
+- Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+
+### Red and Blue Teaming
+- Red and Blue Team and strengthen
