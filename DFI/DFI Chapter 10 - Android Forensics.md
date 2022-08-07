@@ -1,6 +1,6 @@
 # DFI Chapter 10 - Android Forensics
 
-###### tags: `DFI`
+###### tags: #DFI
 
 ## Table of Contents
 ```toc

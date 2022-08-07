@@ -1,6 +1,6 @@
 # DFI Chapter 9 - Historical Cellular
 
-###### tags: `DFI`
+###### tags: #DFI
 
 ## Table of Contents
 ```toc

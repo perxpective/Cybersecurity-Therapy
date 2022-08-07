@@ -1,7 +1,6 @@
 # DFI Chapter 2 - Understanding Investigation
 
-###### tags: `DFI`
-
+###### tags: #DFI
 ## Table of Contents
 ```toc
 ```

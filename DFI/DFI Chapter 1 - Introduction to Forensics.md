@@ -1,6 +1,6 @@
 # DFI Chapter 1 - Introduction to Forensics
 
-###### tags: `DFI`
+###### tags: #DFI
 
 ## Table of Contents
 ```toc

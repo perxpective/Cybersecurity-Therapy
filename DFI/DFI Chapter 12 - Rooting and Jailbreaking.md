@@ -1,6 +1,6 @@
 # DFI Chapter 12 - Rooting and Jailbreaking
 
-###### tags: `DFI`
+###### tags: #DFI
 
 ## Table of Contents
 ```toc

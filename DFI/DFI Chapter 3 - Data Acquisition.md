@@ -1,6 +1,6 @@
 # DFI Chapter 3 - Data Acquisition
 
-###### tags: `DFI`
+###### tags: #DFI
 
 ## Table of Contents
 ```toc

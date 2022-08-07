@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
+            "file": "EHD/Practical/EHD Cheat Sheet (IDS).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fa87a3361977464c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
+                "file": "EHD/Practical/EHD Cheat Sheet (IDS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md"
+                "file": "EHD/Practical/EHD Cheat Sheet (IDS).md"
               }
             }
           },
@@ -114,15 +126,15 @@
   },
   "active": "6634c407cc35c4ba",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
-    "EHD/Practical/EHD Cheat Sheet (IDS).md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Practical/EHD Practical 4 - Port Scanning.md",
-    "EHD/Practical/EHD Practical 3 - Footprinting.md",
-    "EHD/Practical/EHD Practical 1b - Network Protocols.md",
-    "EHD/Practical/EHD Practical 1a - Network Protocols.md",
+    "EHD/Practical/EHD Cheat Sheet (IDS).md",
+    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "EHD/Practical/EHD Practical 5 - Firewall.md"
+    "EHD/Practical/EHD Practical 5 - Firewall.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
+    "EHD/Theory/EHD Topic 5 - Firewalls.md",
+    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md"
   ]
 }

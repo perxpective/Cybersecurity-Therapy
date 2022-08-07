@@ -1,6 +1,6 @@
 # DFI Chapter 6 - Analysis and Validation
 
-###### tags: `DFI`
+###### tags: #DFI
 
 ## Table of Contents
 ```toc

@@ -1,6 +1,6 @@
 # EHD Topic 6 - Web Application Security
 
-###### tags: `EHD` `Theory`
+###### tags: #EHD #Theory
 
 ## Table of Contents
 ```toc

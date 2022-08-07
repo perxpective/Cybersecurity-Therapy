@@ -1,6 +1,6 @@
 # EHD Topic 4 - Port Scanning
 
-###### tags: `EHD` `Theory`
+###### tags: #EHD #Theory
 
 ## Table of Contents
 ```toc

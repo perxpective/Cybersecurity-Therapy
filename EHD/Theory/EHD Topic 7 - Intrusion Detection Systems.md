@@ -1,6 +1,6 @@
 # EHD Chapter 7 - Intrusion Detection Systems
 
-###### tags: `EHD` `Theory`
+###### tags: #EHD #Theory
 
 ## Table of Contents
 ```toc

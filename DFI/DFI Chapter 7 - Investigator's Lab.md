@@ -1,6 +1,6 @@
 # DFI Chapter 7 - Investigator's Lab
 
-###### tags: `DFI`
+###### tags: #DFI
 
 ## Table of Contents
 ```toc
