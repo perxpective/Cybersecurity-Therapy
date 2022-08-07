@@ -117,5 +117,11 @@ http://192.168.10.100/dvwa-master
 - Turn on Intercept in **Proxy** tab
 - Login with credentials in DVWA
 - Forward packets intercepted by Burp until username and password found
-- Click **Action** -> **Send to Intruder**
-- 
+- Click **Action** -> **Send to Intruder** -> **Positions**
+- Request sent with parameters highlighted
+- Add username and password to get username and password payloads
+- Set attack type to **cluster bomb**
+- Set one payload for username and one payload for password
+- Load username and password list in respective payloads
+- Check **Store requests** and **Store responses**
+- Start Attack

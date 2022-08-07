@@ -284,7 +284,7 @@ mypass
 24. Select password value `12345678` and click <button>Add</button>
 25. Two payloads: username and password 
 26. Change attack type to <u>cluster bomb</u>
-27. Click on **payloads** tab. 
+27. Click on **Payloads** tab. 
 28. Check that payload set 1 selected (for username)
 29. Under payload options, click on load and browse to `my_user_list` file
 30. Click <button>Open</button> and 2 usernames will be loaded
