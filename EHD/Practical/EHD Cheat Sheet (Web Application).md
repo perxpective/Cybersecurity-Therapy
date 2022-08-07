@@ -212,10 +212,12 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 - Connect browser to Burp Proxy and enable **Intercept** on Burp
 - Forward packets until submitted form is found
 	- Inputs can be modified below
+
 ![500](https://i.imgur.com/8h2pCRH.png)
 
 ### Authentication Bypass
 - Intercept security questions with Burp and modify request such that security questions are always true
+
 ![550](https://i.imgur.com/jMtIc1F.png)
 ![](https://i.imgur.com/UNyKKBx.png)
 
@@ -225,6 +227,7 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
  - Intercept GET request with Burp
  - Forward packets until HTTP request for View Profile found
  - Click **Action** -> **Send to Repeater**
+
 ![](https://i.imgur.com/fJeXrey.png)
 
 **Modify Another Profile**
