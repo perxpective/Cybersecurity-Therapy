@@ -213,6 +213,7 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 - Forward packets until submitted form is found
 	- Inputs can be modified below
 
+
 ![500](https://i.imgur.com/8h2pCRH.png)
 
 ### Authentication Bypass
