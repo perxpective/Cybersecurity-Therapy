@@ -50,5 +50,5 @@ Good Day!
 
 ## SQL Injection
 ```sql
-hello
+hello' or '0' = '0
 ```
