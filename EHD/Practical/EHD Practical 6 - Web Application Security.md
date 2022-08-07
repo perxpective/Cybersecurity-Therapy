@@ -216,6 +216,7 @@ http://Win-10/dvwa-master/vulnerabilities/fi/?page=..\..\..\..\apache\conf\httpd
 6. Change DVWA security level to <u>High</u> and repeat request for non-existent page
 7. This time, error message does not disclose information about webroot
 
+
 ## Burp Suite to Brute Force Passwords
 - **Intercepting Proxies** can be used to crawl websites and intercept and modify HTTP requests/responses
 

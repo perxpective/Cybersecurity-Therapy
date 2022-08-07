@@ -46,4 +46,9 @@ Good Day!
 
 ## Command Injection
 - Type IP of other machines, followed by `&& dir c:\
-- 
+- Directory listing of C drive in Win10 VM shown
+
+## SQL Injection
+```sql
+hello
+```
