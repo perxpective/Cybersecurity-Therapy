@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f1dd8c8d55c394aa",
-        "type": "leaf",
-        "dimension": 43.834688346883475,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
-            "mode": "source",
-            "source": false
+        "id": "067e37e3ca958239",
+        "type": "split",
+        "children": [
+          {
+            "id": "00931932ee23e496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1dd8c8d55c394aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "00931932ee23e496",
-        "type": "leaf",
-        "dimension": 56.16531165311653,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -67,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -83,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md"
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md"
               }
             }
           },
@@ -128,10 +134,10 @@
     "width": 153.85968017578125,
     "collapsed": true
   },
-  "active": "f1dd8c8d55c394aa",
+  "active": "00931932ee23e496",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Web Application Cheat Sheet.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/Untitled.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
