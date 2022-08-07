@@ -212,3 +212,4 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 ![](https://i.imgur.com/UNyKKBx.png)
 
 ### Insecure Direct Object Reference
+ 
