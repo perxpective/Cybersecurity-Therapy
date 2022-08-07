@@ -391,3 +391,9 @@
 
 #### Mandatory Access Control (MAC)
 - System controls access to resources
+- When subject request access to object
+- System examines user identity and access rights and compares to access permissions of object
+- System permits or denies access
+
+#### Discretionary Access Control
+- Owner of object controls
