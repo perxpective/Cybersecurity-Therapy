@@ -785,4 +785,8 @@ man sqlmap
 ```
 
 5. Bring up Developer Tools and click on **Network Tab**
-6. 
+6. Enter a number for user ID and click <kbd>Submit</kbd>
+7. Look under Network tab for HTTP packet that contains request and select it
+
+![](https://i.imgur.com/hXOjAiP.png)
+8. Look for Request URL of selected packet
