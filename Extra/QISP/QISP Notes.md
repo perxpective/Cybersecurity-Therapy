@@ -378,4 +378,7 @@
 | Persistence     | Refers to malware retaining its presence on a system                                                                                                                                                                               |
 
 ### Security Zoning 
-1. **Demilitarized Zone**Network between internal network and Internet that allows 
+1. **Demilitarized Zone**
+	- Network between internal network and Internet that provides layer of security and privacy
+	- DMZ enables external users to access information that organisation deems necessary and will not compromise any internal organisational information
+2. **Intranet**
