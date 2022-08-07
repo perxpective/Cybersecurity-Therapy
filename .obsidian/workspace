@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+            "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md"
+                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md"
               }
             }
           },
@@ -118,9 +117,9 @@
   "active": "6634c407cc35c4ba",
   "lastOpenFiles": [
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Web Application Cheat Sheet.md",
     "Extra/QISP/QISP Notes.md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/Untitled.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
     "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
