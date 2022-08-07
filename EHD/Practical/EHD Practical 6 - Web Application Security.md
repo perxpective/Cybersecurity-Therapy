@@ -573,6 +573,7 @@ However page also states that HTTP response packet sent by WebGoat contains othe
 ![](https://i.imgur.com/y5m2mKF.png)
 
 11. Click on <button>Action</button> and select **Send to Repeater**
+
 ![](https://i.imgur.com/fJeXrey.png)
 
 12. Select **Repeater** tab - HTTP request appears under Request column
