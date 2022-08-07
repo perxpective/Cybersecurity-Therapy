@@ -446,4 +446,13 @@
 
 >**Key objective:**
 >- secure and enforce security in DevOps process by shifting left and automating security controls
->- best practice to integrate security into DevOps is autt
+>- best practice to integrate security into DevOps is **automation of security controls**
+
+### Cloud-Native Application Security
+- Main consideration for cloud-native application security is it can reduce operation overheads to maintain hardware and software
+
+## Cyber Defence
+### Cyber Threat Intelligence
+- Data about threat actors and their motivations, intentions and methods that has been collected, processed, evaluated and analysed
+- Produce output that can help in decision making and encompass how best to protect critical assets of organisation
+- Helps organisations focus on their resources and 
