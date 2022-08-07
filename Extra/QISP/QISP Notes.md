@@ -382,3 +382,12 @@
 	- Network between internal network and Internet that provides layer of security and privacy
 	- DMZ enables external users to access information that organisation deems necessary and will not compromise any internal organisational information
 2. **Intranet**
+	- Subnet portion or segmented zone of internal network that uses web-based technologies
+3. **Extranet**
+	- Subnet or segmented zone of public portion of company's infrastructure that grants resource access by partners and resellers that have proper authorisation and authentication
+
+### Access Control Models
+> Identifying person doing specific job authenticating them by looking at their identification and giving them only the key to door or computer they need access to and nothing more
+
+#### Mandatory Access Control (MAC)
+- System controls access to resources
