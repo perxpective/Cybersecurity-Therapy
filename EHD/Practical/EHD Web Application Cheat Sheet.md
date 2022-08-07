@@ -98,10 +98,14 @@ http://Win-10/dvwa-master/vulnerabilities/fi/?page=..\..\..\..\apache\conf\httpd
 sudo burpsuite
 ```
 
-- Go to DVWA browser on Win10 VM
+- Browse to DVWA on Kali VM
+```
+http://192.168.10.100/dvwa-master
 ```
 
-```
+> Ensure that Windows Firewall not blocking access to DVWA (Add Exception Port 80 if needed)
 
-- Configure proxy in FireFox browser
+- Configure proxy in Firefox browser
+![](https://i.imgur.com/N1Xnd9N.png)
+
 - Go to **Proxy** tab and 
