@@ -395,6 +395,19 @@
 - System examines user identity and access rights and compares to access permissions of object
 - System permits or denies access
 
-#### Discretionary Access Control
+#### Discretionary Access Control (DAC)
 - Owner of object controls who and what may access it
-- Access is at owner's di
+- Access is at owner's discretion
+- Example: shared file server where access permissions are administered by owners of its contents
+
+#### Role-Based Access Control (RBAC)
+- Access permissions granted to roles instead of persons
+- Simplifies management in complex system of many users and objects
+- Makes changes much easier
+
+### Data Recovery
+| Backup Type          | Description                                                   |
+| -------------------- | ------------------------------------------------------------- |
+| Full Complete Backup | Both system files and data files included in full backup      |
+| Incremental Backup   | Only includes files changed since the last incremental backup |
+| Differential Backup  | Only includes files changed since the previous                                                               |
