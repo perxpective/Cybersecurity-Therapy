@@ -772,3 +772,8 @@ grant alter table to UnauthorizedUser
 	- Trial and error with the other alphabets and numbers
 	- To find second character of password: `tom' and substring(password, 2, 1)='a`
 
+## SQL Map
+**On Kali VM**
+1. Browse to DVWA
+2. Login with username "admin" and default password "password"
+3. Set securit

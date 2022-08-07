@@ -2,6 +2,10 @@
 
 ###### tags: `EHD`
 
+## Table of Contents
+```toc
+```
+
 ## XSS
 - Trigger alert in textbox input (Type into textbox)
 ```html
@@ -228,3 +232,4 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 ```sql
 grant alter table to UnauthorizedUser
 ```
+
