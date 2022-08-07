@@ -464,7 +464,9 @@
 - Enables prioritization of deployment of limited resources in mitigating risks
 
 #### Types of CTIs
-| CTI       | Description                                                                                                                                                                          |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Strategic | Written in plain language without technical jargon and focuses on business risk<br> Help make informed decisions about security budgets, staffing levels and other strategic matters |
-| Tactical  | Focuses on adversaries' tactics, techniques and procedures to understand how threat actors                                                                                                                                                                                      |
+| CTI         | Description                                                                                                                                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Strategic   | Written in plain language without technical jargon and focuses on business risk<br> Help make informed decisions about security budgets, staffing levels and other strategic matters                                      |
+| Tactical    | Focuses on adversaries' tactics, techniques and procedures to understand how threat actors are likely to attack organisation<br> (Consumed by defenders e.g. architects, administrators and security staff)               |
+| Operational | Refers to actionable information regarding specific impending attacks against organisation<br> Mitigate attacks by removing attack patterns, fortifying defences.<br> May require infiltrating into hacker communications |
+| Technical   | Refers to technical details of attacker's assets e.g. tools, command and control channels and infrastructure. <br> Differs from tactical CTI, focuses on hash of malware, IP address of C&C servers                                                                                                                                                                                                                           |
