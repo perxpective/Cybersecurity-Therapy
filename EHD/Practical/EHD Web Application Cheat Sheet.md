@@ -189,4 +189,11 @@ sudo nc -l -p <port-number>
 http://Win10-IP/dvwa-master/hackable/uploads/nc-reverse-shell.php
 ```
 
-- 
+## WebGoat
+- Default port: 8080
+- Run command to change port of WebGoat:
+```
+java -jar webgoat-server-nnnn.jar --server.port=9090
+```
+
+- Connect browser t
