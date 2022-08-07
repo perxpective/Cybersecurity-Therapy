@@ -207,5 +207,8 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 ![500](https://i.imgur.com/8h2pCRH.png)
 
 ### Authentication Bypass
-- Intercept security questions with Burp and 
+- Intercept security questions with Burp and modify request such that security questions are always true
+![550](https://i.imgur.com/jMtIc1F.png)
 ![](https://i.imgur.com/UNyKKBx.png)
+
+### Insecure Direct Object Reference
