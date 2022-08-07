@@ -1,6 +1,6 @@
-# EHD Nmap Cheat Sheet
+# EHD Cheat Sheet (Nmap)
 
-###### tags: `EHD`
+###### tags: #EHD
 
 ## Target Specification
 - **Scan a single IP**

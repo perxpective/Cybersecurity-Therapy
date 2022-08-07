@@ -1,6 +1,6 @@
 # EHD Practical 1a - Network Protocols
 
-###### tags: `EHD`
+###### tags: #EHD
 
 ### Table of Contents
 - [[#Using Kali Linux|Using Kali Linux]]

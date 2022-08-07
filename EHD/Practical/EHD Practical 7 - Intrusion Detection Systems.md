@@ -1,6 +1,6 @@
 # EHD Practical 7 - Intrusion Detection Systems
 
-###### tags: `EHD`
+###### tags: #EHD 
 
 ## Table of Contents
 ```toc

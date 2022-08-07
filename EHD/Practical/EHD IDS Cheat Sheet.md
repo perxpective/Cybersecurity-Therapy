@@ -1,2 +1,0 @@
-# EHD IDS Cheat Sheet
-

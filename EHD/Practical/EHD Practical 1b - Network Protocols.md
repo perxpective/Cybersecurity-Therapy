@@ -1,6 +1,6 @@
 # EHD Practical 1b - Network Protocols
 
-###### tags: `EHD`
+###### tags: #EHD
 
 ## Table of Contents
 ```toc

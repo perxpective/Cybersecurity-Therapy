@@ -1,6 +1,6 @@
-# EHD Web Application Cheat Sheet
+# EHD Cheat Sheet (Web Application)
 
-###### tags: `EHD`
+###### tags: #EHD
 
 ## Table of Contents
 ```toc

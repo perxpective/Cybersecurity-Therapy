@@ -1,6 +1,6 @@
 # EHD Practical 6 - Web Application Security
 
-###### tags: `EHD`
+###### tags: #EHD
 
 ## Table of Contents
 ```toc
