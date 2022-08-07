@@ -5,6 +5,7 @@
 ## Table of Contents
 ```toc
 ```
+
 ## Intrusion Detection and Prevention Systems
 > **Intrusion Detection Systems (IDS)** are placed in networks or systems to detect possible malicious activities
 
@@ -64,8 +65,9 @@
 - Sensors can be positioned at either side of firewall
 	- Behind firewall is a more secure location
 
-![](https://i.imgur.com/gQdOdyW.png)
-![](https://i.imgur.com/JuHa1fJ.png)
+![500](https://i.imgur.com/gQdOdyW.png)
+
+![500](https://i.imgur.com/JuHa1fJ.png)
 
 #### Sensor Deployment Concerns
 **Throughput**
