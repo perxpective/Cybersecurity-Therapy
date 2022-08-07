@@ -87,8 +87,6 @@ touch /etc/snort/rules/black_list.rules
 snort -i eno16777736 -c /etc/snort/snort.conf -l /var/log/snort
 ```
 
-^50a927
-
 - Check that Snort can run without any errors
 - Do <kbd>Ctrl</kbd> + <kbd>C</kbd> to end Snort program
 
