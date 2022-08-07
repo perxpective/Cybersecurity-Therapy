@@ -495,4 +495,12 @@
 - Unsupervised Learning
 
 ### Red and Blue Teaming
-- Red and Blue Team and strengthen
+- Red and Blue Team can strengthen each other's defensive and offensive tactics respectively during exercise
+
+**Key Concepts**
+- Indication of Compromise (IOC)
+	- Piece of forensic data observed on network in log file, persistence facility or operating system likely to indicate malicious activity that can aid security operations or incident responders to detect breaches, malicious activity or other form of attacks
+- Lateral Movement
+	- Process of jumping machines to locate and access system with valuable data
+- Command and Control (C&C)
+	- Influence attacker has over compro
