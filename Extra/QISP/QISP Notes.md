@@ -415,4 +415,6 @@
 
 ### Hardening of Operating Systems
 - Removal or disabling of unnecessary services, applications and network protocols to prevent vulnerabilities that can be exploited
-- 
+- Configure host-based access control according to organisation security policies
+- Ensure that default accounts e.g. guest accounts not in use are removed or disabled
+- Ensuring password policy (password length, complexity and expiry) is defiuned
