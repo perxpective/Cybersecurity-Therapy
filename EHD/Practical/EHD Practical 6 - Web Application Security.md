@@ -789,4 +789,16 @@ man sqlmap
 7. Look under Network tab for HTTP packet that contains request and select it
 
 ![](https://i.imgur.com/hXOjAiP.png)
+![](https://i.imgur.com/odLbBlq.png)
+![](https://i.imgur.com/0SVprxI.png)
+
 8. Look for Request URL of selected packet
+9. Look for request headers for selected packet and look for cookie value (provide cookie value to SQLmap)
+10. Run SQLmap with target URL and cookie
+	- `--dbs` option for databases found
+
+```
+sudo sqlmap -u "http//Win10-IP/dvwa-master/vulnerabilties/sqli/?id=3&Submit=Submit" --cookie="security=low;PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" --dbs
+```
+
+11. SQLmap will outp
