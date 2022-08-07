@@ -513,4 +513,9 @@
 - Threat Intelligence
 	- Evidence-based knowledge, context, mechanisms, indicators, implications, actionable advice about existing or emerging threats to assets
 - Tradecraft
-	- Techniques and procedures of conducting covert operations
+	- Techniques and procedures of conducting covert operations typically associated with intelligence community
+
+> **Pointers:**
+> - Important to run exercises like penetration testing as part of cyber defence
+> - Because organisations should assess effectiveness and adequacy of security controls implemented to secure critical assets
+> - Digital forensic investigator must follow due process during an investigation as evidence may be tainted and considered as inadmissible in court
