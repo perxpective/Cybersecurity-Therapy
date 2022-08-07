@@ -521,6 +521,19 @@
 > - Digital forensic investigator must follow due process during an investigation as evidence may be tainted and considered as inadmissible in court
 
 ## Case Studies
-1. Hilary Clinton
+1. Hilary Clinton Email Server
 2. GDPA
-3. 
+3. SABSA
+4. Grabcar Unauthorised Access
+5. Uber Breach
+6. Equifax
+7. Retail Giant Target
+8. Mirai Malware
+9. Travelex Network Ransomware
+10. Wannacry
+11. Operation Aurora
+12. Cloud Based Security
+13. Zoom Security Concerns
+14. Ukraine Powergrid
+15. Georgia Pro-Service Attack
+16. Stuxnet Virus
