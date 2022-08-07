@@ -49,6 +49,8 @@ Good Day!
 - Directory listing of C drive in Win10 VM shown
 
 ## SQL Injection
+
 ```sql
-hello' or '0' = '0
+ppp' or '0' = '0
 ```
+
