@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "2e867df36eacf2a4",
+        "id": "cb65dd16204b8bfc",
         "type": "leaf",
-        "dimension": 47.014361300075585,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +18,6 @@
       {
         "id": "8548e070f61c4004",
         "type": "leaf",
-        "dimension": 52.98563869992441,
         "state": {
           "type": "markdown",
           "state": {
@@ -131,13 +129,13 @@
   "lastOpenFiles": [
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Web Application Cheat Sheet.md",
+    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
+    "DFI/DFI Chapter 9 - Historical Cellular.md",
     "Extra/QISP/QISP Notes.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
-    "BED/BED Chapter 5 - Databases.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "DFI/DFI Chapter 10 - Android Forensics.md",
-    "EHD/Theory/EHD Topic 5 - Firewalls.md"
+    "BED/BED Chapter 5 - Databases.md"
   ]
 }

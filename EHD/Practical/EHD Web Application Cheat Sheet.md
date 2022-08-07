@@ -2,7 +2,10 @@
 
 ###### tags: `EHD`
 
-## Table of Contents
-```toc
+## XSS
+- Trigger alert in textbox input
+```html
+<script>alert("Hello!")</script>
 ```
 
+- Redirect to another page
