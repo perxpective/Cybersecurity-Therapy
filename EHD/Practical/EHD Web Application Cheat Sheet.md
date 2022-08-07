@@ -130,7 +130,7 @@ http://192.168.10.100/dvwa-master
 
 > Use **Grep -Match** and enter keyword to search in the **Add** textbox to find matching keywords from the results
 
-## Upload Malicious Files 
+## File Upload: Malicious Files 
 ![](https://i.imgur.com/poKARAw.png)
 
 - To browse to uploaded file:
@@ -138,8 +138,8 @@ http://192.168.10.100/dvwa-master
 http://Win10-IP/dvwa-master/hackable/uploads/uploaded.file
 ```
 
-## Backdoor
-- List webshell languages:
+### Backdoor
+- List web shell languages:
 ```
 ls /usr/share/webshells/
 ```
@@ -150,4 +150,14 @@ sudo nmap -sV -p 80 <Win10-IP>
 ```
 
 ![](https://i.imgur.com/bdavvg8.png)
+
+- List contents of `php` directory and make simple backdoor script and upload it to DVWA
+
+![](https://i.imgur.com/kxDH0PZ.png)
+
+> **Troubleshooting!**
+> If script runs and gets removed, disable Windows Defender and upload the file and run it again!
+
+- Backdoor can run commands from the URL
+![](https://i.imgur.com/HJivVJH.png)
 
