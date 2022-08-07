@@ -18,6 +18,7 @@
 ```
 
 - If there is a maximum length limit for text input, inspect and modify the input element
+
 ![](https://i.imgur.com/e4sSKVf.png)
 
 - Creating a fake form (type into textbox):
@@ -111,6 +112,7 @@ http://192.168.10.100/dvwa-master
 > Ensure that Windows Firewall not blocking access to DVWA (Add Exception Port 80 if needed)
 
 - Configure proxy in Firefox browser
+
 ![](https://i.imgur.com/dN1y4gW.png)
 
 
@@ -136,6 +138,7 @@ http://192.168.10.100/dvwa-master
 > Use **Grep -Match** and enter keyword to search in the **Add** textbox to find matching keywords from the results
 
 ## File Upload: Malicious Files 
+
 ![](https://i.imgur.com/poKARAw.png)
 
 - To browse to uploaded file:
@@ -164,6 +167,7 @@ sudo nmap -sV -p 80 <Win10-IP>
 > If script runs and gets removed, disable Windows Defender and upload the file and run it again!
 
 - Backdoor can run commands from the URL
+
 ![](https://i.imgur.com/HJivVJH.png)
 ![](https://i.imgur.com/uIvJQqO.png)
 ```
