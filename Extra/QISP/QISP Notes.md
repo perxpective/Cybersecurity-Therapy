@@ -367,9 +367,11 @@
 | Droppers                   | Trojan programme that carries malicious code with it to drop it onto targeted smartphone or PC                                                                                                                                                                  |
 
 ### Malware Infection Vectors
-| Vectors         | Description                                                         |
-| --------------- | ------------------------------------------------------------------- |
-| Sneaker Net     | Relies on copying files off disk onto new system instead of network |
-| Email           | Attachments in emails can contain malware                           |
-| Networks        | Makes use of vulnerable network services to gain entry into system  |
-| Drive-by attack |                                                                     |
+| Vectors         | Description                                                                                                                                                                    |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sneaker Net     | Relies on copying files off disk onto new system instead of network                                                                                                            |
+| Email           | Attachments in emails can contain malware                                                                                                                                      |
+| Networks        | Makes use of vulnerable network services to gain entry into system                                                                                                             |
+| Drive-by Attack | Website can carry malware that gets downloaded and installed without user knowing e.g. clicking on dialog box and exploiting vulnerability in web browser and infected carrier |
+| Boot Sector     | Installed in boot sector. When loading up in the operating system, ensures that system remained infected                                                                       |
+| Virus Infection | Once virus inside a system, infects a file in order to get installed and running on regular basis                                                                                                                                                                               |
