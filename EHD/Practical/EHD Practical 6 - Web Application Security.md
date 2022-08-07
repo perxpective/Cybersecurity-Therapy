@@ -820,4 +820,6 @@ sudo sqlmap –u "http://192.168.13.100/dvwa-master/vulnerabilities/sqli/?id=3&S
 ### Automated Blind SQL Injection
 **On Kali VM**
 1. Use Web Developer Tools (under **Network** tab) and find HTTP packet that contains SQL injection request and select it
-2. 
+2. Target URL will be the request URL of selected packet to provide to SQLmap
+3. Look for cookie value to provide to SQLmap
+4. 
