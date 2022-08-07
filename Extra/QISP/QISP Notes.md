@@ -438,4 +438,12 @@
 - Bug -> defect in implementation
 - Vulnerability -> Security-related software defect that can be exploited to effect undesired behaviour
 - Error handling -> Ensure unintended and incorrect system behaviour securely handled
-- Timely patching -> Security patches can
+- Timely patching -> Security patches can reduce risk of organisation vulnerabilities being exploited by unauthorised users
+
+### Development Security Operations (DevSecOps)
+- Integrates developers and operations team to improve collaboration and productivity by automating infrastructure, workflows and continuously measuring application performance
+- Unify software development and software operation
+
+>**Key objective:**
+>- secure and enforce security in DevOps process by shifting left and automating security controls
+>- best practice to integrate security into DevOps is autt
