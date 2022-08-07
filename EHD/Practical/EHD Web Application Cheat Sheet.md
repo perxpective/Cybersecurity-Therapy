@@ -223,7 +223,7 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 - Forward until View Profile request found
 - Replace `%7Buserid%7D` with another possible user ID value (trial and error)
 
-### SQL
+### SQL Injection (WebGoat)
 - Grant unauthorized user right to alter tables
 ```sql
 grant alter table to UnauthorizedUser
