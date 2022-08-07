@@ -38,6 +38,6 @@ This is a very new web page
 <img width="1" src="http://Win10-IP/dvwa-master/vulnerabilities/csrf/?password_new=12345678&password_conf=12345678&Change=Change">
 ```
 
-- **Example 2:** Contains 1x1 small iframe to 
+- **Example 2:** Contains 1x1 small iframe to manipulate data 
 
 ### 
