@@ -776,4 +776,13 @@ grant alter table to UnauthorizedUser
 **On Kali VM**
 1. Browse to DVWA
 2. Login with username "admin" and default password "password"
-3. Set securit
+3. Set security level to **Low**
+4. See options for SQLmap
+
+```
+sqlmap -h
+man sqlmap
+```
+
+5. Bring up Developer Tools and click on **Network Tab**
+6. 
