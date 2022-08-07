@@ -374,4 +374,8 @@
 | Networks        | Makes use of vulnerable network services to gain entry into system                                                                                                             |
 | Drive-by Attack | Website can carry malware that gets downloaded and installed without user knowing e.g. clicking on dialog box and exploiting vulnerability in web browser and infected carrier |
 | Boot Sector     | Installed in boot sector. When loading up in the operating system, ensures that system remained infected                                                                       |
-| Virus Infection | Once virus inside a system, infects a file in order to get installed and running on regular basis                                                                                                                                                                               |
+| Virus Infection | Once virus inside a system, infects a file in order to get installed and running on regular basis by attaching itself to trusted programme that is used often                  |
+| Persistence     | Refers to malware retaining its presence on a system                                                                                                                                                                               |
+
+### Security Zoning 
+1. **Demilitarized Zone**Network between internal network and Internet that allows 
