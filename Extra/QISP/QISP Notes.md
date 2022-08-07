@@ -365,3 +365,11 @@
 | Popup Download             | Programme downloaded to user computer through popup page, vectors for malware                                                                                     |
 | Drive-by Download          | Programme downloaded to computer without consent                                                                                                                  |
 | Droppers                   | Trojan programme that carries malicious code with it to drop it onto targeted smartphone or PC                                                                                                                                                                  |
+
+### Malware Infection Vectors
+| Vectors         | Description                                                         |
+| --------------- | ------------------------------------------------------------------- |
+| Sneaker Net     | Relies on copying files off disk onto new system instead of network |
+| Email           | Attachments in emails can contain malware                           |
+| Networks        | Makes use of vulnerable network services to gain entry into system  |
+| Drive-by attack |                                                                     |
