@@ -406,8 +406,13 @@
 - Makes changes much easier
 
 ### Data Recovery
-| Backup Type          | Description                                                   |
-| -------------------- | ------------------------------------------------------------- |
-| Full Complete Backup | Both system files and data files included in full backup      |
-| Incremental Backup   | Only includes files changed since the last incremental backup |
-| Differential Backup  | Only includes files changed since the previous                                                               |
+| Backup Type          | Description                                                                                         |
+| -------------------- | --------------------------------------------------------------------------------------------------- |
+| Full Complete Backup | Both system files and data files included in full backup                                            |
+| Incremental Backup   | Only includes files changed since the last incremental backup                                       |
+| Differential Backup  | Only includes files changed since the previous full backup                                          |
+| Continuous Backup    | When data written to storage media, also asynchronously written to second location over the network |
+
+### Hardening of Operating Systems
+- Removal or disabling of unnecessary services, applications and network protocols to prevent vulnerabilities that can be exploited
+- 
