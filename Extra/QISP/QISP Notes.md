@@ -433,3 +433,9 @@
 ### Secure Software Development Life Cycle
 > Framework that describes stages used by organisations to design, develop, test and implement software
 
+**Key concepts**
+- Flaw -> defect in design
+- Bug -> defect in implementation
+- Vulnerability -> Security-related software defect that can be exploited to effect undesired behaviour
+- Error handling -> Ensure unintended and incorrect system behaviour securely handled
+- Timely patching -> Security patches can
