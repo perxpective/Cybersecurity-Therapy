@@ -453,6 +453,12 @@
 
 ## Cyber Defence
 ### Cyber Threat Intelligence
+**Definitions**
 - Data about threat actors and their motivations, intentions and methods that has been collected, processed, evaluated and analysed
 - Produce output that can help in decision making and encompass how best to protect critical assets of organisation
-- Helps organisations focus on their resources and 
+- Helps organisations focus on their resources and attention on trending cyber threats with higher chance of success
+
+**Objectives**
+- Adopt risk-based approach
+- Provide understanding of threats to organisation's assets with assessment of adequacy of defences and impact assessment on harm to assets
+- Enables prioritization of 
