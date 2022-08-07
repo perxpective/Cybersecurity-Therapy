@@ -125,3 +125,11 @@ http://192.168.10.100/dvwa-master
 - Load username and password list in respective payloads
 - Check **Store requests** and **Store responses**
 - Start Attack
+- View results in **Response** tab
+- Find request with <u>correct</u> response
+
+> Use **Grep -Match** and enter keyword to search in the **Add** textbox to find matching keywords from the results
+
+## Upload Malicious Files
+- ![](https://i.imgur.com/poKARAw.png)
+
