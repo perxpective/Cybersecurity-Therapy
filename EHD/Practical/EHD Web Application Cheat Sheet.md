@@ -13,4 +13,14 @@
 <script>document.location="https://www.google.com"</script>
 ```
 
-- If there is a maximum length limit for text input
+- If there is a maximum length limit for text input, inspect and modify the input element
+![](https://i.imgur.com/e4sSKVf.png)
+
+- Creating a fake form (type into textbox):
+```html
+<form>
+Input1: <input type="text"><br>
+Input2: <input type="text"><br>
+<input type="submit" value="submit button">
+</form>
+```
