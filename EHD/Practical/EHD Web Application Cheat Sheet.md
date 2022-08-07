@@ -200,8 +200,12 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 - Configure the following proxy settings `about:config` in Firefox browser
 ![](https://i.imgur.com/H4UQAhV.png)
 
+### Bypass Front-End Restrictions
 - Connect browser to Burp Proxy and enable **Intercept** on Burp
 - Forward packets until submitted form is found
 	- Inputs can be modified below
 ![500](https://i.imgur.com/8h2pCRH.png)
 
+### Authentication Bypass
+- Intercept security questions with Burp and 
+![](https://i.imgur.com/UNyKKBx.png)

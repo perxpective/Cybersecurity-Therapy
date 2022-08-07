@@ -543,7 +543,7 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 
 ![550](https://i.imgur.com/jMtIc1F.png)
 
-7. In Burp, change body of HTTP request so `secQuestion1` and `secQuestion2` will always be true
+7. In Burp, change body of HTTP request so `secQuestion0` and `secQuestion1` will always be true
 8. Set **Intercept is off** in Burp. Modified HTTP request sent to WebGoat
 9. Check if answer is correct in Firefox browser
 
