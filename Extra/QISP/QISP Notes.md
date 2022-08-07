@@ -519,3 +519,8 @@
 > - Important to run exercises like penetration testing as part of cyber defence
 > - Because organisations should assess effectiveness and adequacy of security controls implemented to secure critical assets
 > - Digital forensic investigator must follow due process during an investigation as evidence may be tainted and considered as inadmissible in court
+
+## Case Studies
+1. Hilary Clinton
+2. GDPA
+3. 
