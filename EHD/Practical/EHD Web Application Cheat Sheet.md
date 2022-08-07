@@ -212,4 +212,13 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 ![](https://i.imgur.com/UNyKKBx.png)
 
 ### Insecure Direct Object Reference
- 
+ - Login as "Tom Cat"
+ - View Profile
+ - Intercept GET request with Burp
+ - Forward packets until HTTP request for View Profile found
+ - Click **Action** -> **Send to Repeater**
+![](https://i.imgur.com/fJeXrey.png)
+
+**Modify Another Profile**
+- Click forward until View Profile request found
+- 
