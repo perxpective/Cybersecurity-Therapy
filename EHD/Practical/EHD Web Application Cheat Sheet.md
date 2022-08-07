@@ -130,6 +130,24 @@ http://192.168.10.100/dvwa-master
 
 > Use **Grep -Match** and enter keyword to search in the **Add** textbox to find matching keywords from the results
 
-## Upload Malicious Files
-- ![](https://i.imgur.com/poKARAw.png)
+## Upload Malicious Files 
+![](https://i.imgur.com/poKARAw.png)
+
+- To browse to uploaded file:
+```
+http://Win10-IP/dvwa-master/hackable/uploads/uploaded.file
+```
+
+## Backdoor
+- List webshell languages:
+```
+ls /usr/share/webshells/
+```
+
+- Languages supported by DVWA:
+```
+sudo nmap -sV -p 80 <Win10-IP>
+```
+
+![](https://i.imgur.com/bdavvg8.png)
 
