@@ -229,3 +229,6 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 grant alter table to UnauthorizedUser
 ```
 
+```sql
+SELECT * from employees WHERE last_name = 'a' or '1' = '1' and auth_tan = '3SL99A' or '1' = '1'
+```
