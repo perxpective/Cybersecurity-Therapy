@@ -196,4 +196,10 @@ http://Win10-IP/dvwa-master/hackable/uploads/nc-reverse-shell.php
 java -jar webgoat-server-nnnn.jar --server.port=9090
 ```
 
-- Connect browser t
+- Configure the following proxy settings `about:config` in Firefox browser
+![](https://i.imgur.com/H4UQAhV.png)
+
+- Connect browser to Burp Proxy and enable **Intercept** on Burp
+- Forward packets until submitted form is found
+	- 
+![500](https://i.imgur.com/8h2pCRH.png)
