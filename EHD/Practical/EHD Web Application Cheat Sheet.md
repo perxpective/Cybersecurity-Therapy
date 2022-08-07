@@ -92,7 +92,8 @@ http://Win10-IP/dvwa-master/vulnerabilities/fi/?page=include2.php
 http://Win-10/dvwa-master/vulnerabilities/fi/?page=..\..\..\..\apache\conf\httpd.conf
 ```
 
-## Using Burp Suite to Brute Force Passwords
+## Burp Suite
+### Setting Up
 - Launch Burp Suite
 ```
 sudo burpsuite
@@ -109,3 +110,10 @@ http://192.168.10.100/dvwa-master
 ![](https://i.imgur.com/N1Xnd9N.png)
 
 - Go to **Proxy** tab and 
+
+### Brute Force Password with Dictionary Lists
+- Create new files and store list of usernames
+- Create another new file with list of passwords
+- Turn on Intercept in **Proxy** tab
+- Login with credentials in DVWA
+- 
