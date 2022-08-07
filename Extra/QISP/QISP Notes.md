@@ -503,4 +503,14 @@
 - Lateral Movement
 	- Process of jumping machines to locate and access system with valuable data
 - Command and Control (C&C)
-	- Influence attacker has over compro
+	- Influence attacker has over compromised computer system they control
+- Exfiltration
+	- Extraction of information from target typically through covert channel
+- Rules of Engagement (ROE)
+	- Establishes responsibility, relationship and guidelines between Read Team, client, system owner and stakeholders required for engagement exercise
+- Threat Emulation
+	- Process of mimicking TTPs of specific target
+- Threat Intelligence
+	- Evidence-based knowledge, context, mechanisms, indicators, implications, actionable advice about existing or emerging threats to assets
+- Tradecraft
+	- Techniques and procedures of conducting covert operations
