@@ -116,4 +116,5 @@ http://192.168.10.100/dvwa-master
 - Create another new file with list of passwords
 - Turn on Intercept in **Proxy** tab
 - Login with credentials in DVWA
-- 
+- Forward packets intercepted by Burp until username and password found
+- Click **Action** -> ****
