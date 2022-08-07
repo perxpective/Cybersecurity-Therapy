@@ -361,5 +361,7 @@
 | Backdoor                   | Programmes installed by attackers to gain unauthorised access to system and continue to have unrestricted access after even if initial access is blocked          |
 | Polymorphic Malware        | Malware changes code after each use, makes a different replica of itself from detection perspective                                                               |
 | Armoured Virus             | Malware that makes process of de-compilation and reverse engineering difficult as it contains large amount of misleading logic to deter successful de-compilation |
-| Ransomware                 | Subset of malware where data on victim's computer locks usually by encryption                                                                                                                                                                  |
-
+| Ransomware                 | Subset of malware where data on victim's computer locks usually by encryption                                                                                     |
+| Popup Download             | Programme downloaded to user computer through popup page, vectors for malware                                                                                     |
+| Drive-by Download          | Programme downloaded to computer without consent                                                                                                                  |
+| Droppers                   | Trojan programme that carries malicious code with it to drop it onto targeted smartphone or PC                                                                                                                                                                  |
