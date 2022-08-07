@@ -396,4 +396,5 @@
 - System permits or denies access
 
 #### Discretionary Access Control
-- Owner of object controls
+- Owner of object controls who and what may access it
+- Access is at owner's di
