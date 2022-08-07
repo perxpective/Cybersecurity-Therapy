@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8548e070f61c4004",
+        "id": "2e867df36eacf2a4",
         "type": "leaf",
+        "dimension": 47.014361300075585,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Extra/QISP/QISP Notes.md",
+            "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8548e070f61c4004",
+        "type": "leaf",
+        "dimension": 52.98563869992441,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/QISP/QISP Notes.md",
+                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra/QISP/QISP Notes.md"
+                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md"
               }
             }
           },
@@ -111,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 153.85968017578125,
-    "collapsed": true
+    "width": 153.85968017578125
   },
   "active": "8548e070f61c4004",
   "lastOpenFiles": [
-    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+    "EHD/Practical/EHD Web Application Cheat Sheet.md",
     "Extra/QISP/QISP Notes.md",
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 5 - Databases.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",
-    "EHD/Theory/EHD Topic 5 - Firewalls.md",
-    "DFI/DFI Chapter 3 - Data Acquisition.md",
-    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md"
+    "EHD/Theory/EHD Topic 5 - Firewalls.md"
   ]
 }
