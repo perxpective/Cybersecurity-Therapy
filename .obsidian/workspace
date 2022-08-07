@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
+            "file": "EHD/Practical/EHD IDS Cheat Sheet.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md",
+                "file": "EHD/Practical/EHD IDS Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Web Application Cheat Sheet.md"
+                "file": "EHD/Practical/EHD IDS Cheat Sheet.md"
               }
             }
           },
@@ -116,11 +116,11 @@
   },
   "active": "6634c407cc35c4ba",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Web Application Cheat Sheet.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Practical/EHD Web Application Cheat Sheet.md",
     "Extra/QISP/QISP Notes.md",
-    "EHD/Practical/Untitled.md",
+    "EHD/Practical/EHD IDS Cheat Sheet.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
     "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
