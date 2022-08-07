@@ -461,4 +461,10 @@
 **Objectives**
 - Adopt risk-based approach
 - Provide understanding of threats to organisation's assets with assessment of adequacy of defences and impact assessment on harm to assets
-- Enables prioritization of 
+- Enables prioritization of deployment of limited resources in mitigating risks
+
+#### Types of CTIs
+| CTI       | Description                                                                                                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Strategic | Written in plain language without technical jargon and focuses on business risk<br> Help make informed decisions about security budgets, staffing levels and other strategic matters |
+| Tactical  | Focuses on adversaries' tactics, techniques and procedures to understand how threat actors                                                                                                                                                                                      |
