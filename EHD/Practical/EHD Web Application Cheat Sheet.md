@@ -220,5 +220,12 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 ![](https://i.imgur.com/fJeXrey.png)
 
 **Modify Another Profile**
-- Click forward until View Profile request found
-- 
+- Forward until View Profile request found
+- Replace `%7Buserid%7D` with another possible user ID value (trial and error)
+
+### SQL
+- Grant unauthorized user right to alter tables
+```sql
+grant alter table to UnauthorizedUser
+```
+
