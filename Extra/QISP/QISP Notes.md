@@ -419,7 +419,7 @@
 - Removal or disabling of unnecessary services, applications and network protocols to prevent vulnerabilities that can be exploited
 - Configure host-based access control according to organisation security policies
 - Ensure that **default accounts** e.g. guest accounts not in use are **removed or disabled**
-- Ensuring password policy (password length, complexity and expiry) is defined
+- **Ensuring password policy** (password length, complexity and expiry) is defined
 - Assign privileges to limit access to resources which will be audited to monitor attempts to access them
 
 ### 2-Factor Authentication
@@ -440,7 +440,7 @@
 - Bug -> defect in implementation
 - Vulnerability -> Security-related software defect that can be exploited to effect undesired behaviour
 - Error handling -> Ensure unintended and incorrect system behaviour securely handled
-- Timely patching -> Security patches can reduce risk of organisation vulnerabilities being exploited by unauthorised users
+- **Timely patching** -> Security patches can reduce risk of organisation vulnerabilities being exploited by unauthorised users
 
 ### Development Security Operations (DevSecOps)
 - Integrates developers and operations team to improve collaboration and productivity by automating infrastructure, workflows and continuously measuring application performance
@@ -448,10 +448,10 @@
 
 >**Key objective:**
 >- secure and enforce security in DevOps process by shifting left and automating security controls
->- best practice to integrate security into DevOps is **automation of security controls**
+>- **best practice to integrate security into DevOps is automation of security controls**
 
 ### Cloud-Native Application Security
-- Main consideration for cloud-native application security is it can reduce operation overheads to maintain hardware and software
+- **Main consideration for cloud-native application security is it can reduce operation overheads to maintain hardware and software**
 
 ## Cyber Defence
 ### Cyber Threat Intelligence
@@ -475,7 +475,7 @@
 
 **Implementing a CTI Programme**
 - Demonstrate return to investment of Cyber Threat Intelligence (CTI) to management
-- Always present business case from risk-based perspective and not solely from cybersecurity angle
+- **Always present business case from risk-based perspective and not solely from cybersecurity angle**
 - Important to maintain professional relations with peer organisations for intelligence sharing
 
 **CTI Cycle:**
