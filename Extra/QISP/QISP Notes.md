@@ -62,11 +62,11 @@
 ### Classical Information Security Objectives
 | Objective       | Explanation                                                                                                                                                                   |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Confidentiality | Ensure information not disclosed or made available to unauthorised individuals, entities or processes                                                                         |
-| Integrity       | Protect information and information systems from unauthorised changes                                                                                                         |
-| Availability    | Ensures information or assets is accessible and usable whenever demanded by unauthorised authority                                                                            |
-| Accountability  | Ensures that actions of individual can be traced back to that individual<br>Enables organisations to determine who has executed what action, how and when was action executed |
-| Non-repudiation | Ensures individual or entity cannot deny previous commitments or actions<br>(Can be achieved through digital signatures)                                                                                                      |
+| **Confidentiality** | Ensure information not disclosed or made available to unauthorised individuals, entities or processes                                                                         |
+| **Integrity**       | Protect information and information systems from unauthorised changes                                                                                                         |
+| **Availability**    | Ensures information or assets is accessible and usable whenever demanded by unauthorised authority                                                                            |
+| **Accountability**  | Ensures that actions of individual can be traced back to that individual<br>Enables organisations to determine who has executed what action, how and when was action executed |
+| **Non-repudiation** | Ensures individual or entity cannot deny previous commitments or actions<br>(Can be achieved through digital signatures)                                                                                                      |
 
 
 ### Risk Assessment
@@ -101,10 +101,10 @@
 
 | Option       | Explanation                                                             |
 | ------------ | ----------------------------------------------------------------------- |
-| Avoidance    | Completely avoided risk by eliminating the root cause of consequences   |
-| Mitigation   | Reduce or lower the risk by implementing appropriate controls           |
-| Transference | Transfer risk to another party e.g. purchase of insurance               |
-| Acceptance   | Accept residual risk after employing and exhausting first three options |
+| **Avoidance**    | Completely avoided risk by eliminating the root cause of consequences   |
+| **Mitigation**   | Reduce or lower the risk by implementing appropriate controls           |
+| **Transference** | Transfer risk to another party e.g. purchase of insurance               |
+| **Acceptance**   | Accept residual risk after employing and exhausting first three options |
 
 ### Information Classification
 - Process of classifying data or information assets 
@@ -117,10 +117,10 @@
 	- Information asset value
 - Organisations usually classify information in terms of confidentiality
 - **Typical system of levels of confidentiality:**
-	- Confidential (senior management)
-	- Restricted (most employees)
-	- Internal (all employees)
-	- Public Information (everyone)
+	- **Confidential** (senior management)
+	- **Restricted** (most employees)
+	- **Internal** (all employees)
+	- **Public Information (everyone)
 
 - **Issues of information classification:**
 
