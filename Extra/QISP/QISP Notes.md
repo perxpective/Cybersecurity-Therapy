@@ -141,12 +141,12 @@
 - Best practices:
 	- Installing antivirus software to scan for viruses
 	- Using firewalls to stop unauthorized users from getting information
-	- Restrict privileged access to authorised personnel
+	- **Restrict privileged access to authorised personnel**
 	- Updating apps, web browsers, and OSs on all devices regularly
 	- Keeping hard drives clean by reformatting and wiping them
 	- Changing passwords and using multifactor authentication
-	- Review server and application port settings
-	- Conduct security awareness training
+	- **Review server and application port settings**
+	- **Conduct security awareness training**
 
 ### Different Security Architecture Framework
 > NOTE: Most common answer is **SABSA**
