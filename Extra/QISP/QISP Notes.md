@@ -242,20 +242,19 @@
 - Audit Documentation
 
 **Objectives:**
-- Evaluation of organisation processes and information systems are in place
-- Identify gaps in IT system and management
-- Identify risks to information assets
-- Ensure compliance with IT specific laws policies and standards
-- <u>Important to develop audit programme for target audit areas</u>
+- **Evaluation of organisation processes and information systems are in place**
+- **Identify gaps in IT system and management**
+- **Identify risks to information assets**
+- **Ensure compliance with IT specific laws policies and standards**
+- **Important to develop audit programme for target audit areas**
 
 ## Security Architecture and Engineering
-
 ### Cryptography
 **Objectives:**
 - Ensure confidentiality of information
 - Protect integrity of information against alteration
 - Authenticate source of information
-- Prevent unauthorised access to data or cipher text
+- **Prevent unauthorised access to data or cipher text**
 - Prevent repudiation by sending and receiving parties during message exchange
 
 #### Key Management Principles
@@ -269,7 +268,7 @@
 	- KEKs can be organised into a hierarchy (master KEK used to encrypt, intermediate KEKs stored encrypted only)
 	- Keys with long life must be used sparsely to minimise exposure and reduce possibility of attack
 
-#### Key Management Interoperability (KMIP)
+**#### Key Management Interoperability (KMIP)**
 > KIMP standardises the communication between cryptographic clients that consume keys and key management systems that create and manage those keys
 
 - Leverages other standards like TLS whenever possible and focuses on problem of interoperable messages between cryptographic clients and key management systems
