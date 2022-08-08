@@ -342,7 +342,7 @@
 
 ### Increase Threats of Malware
 - Emergence of Internet of Things (IoT) allows parties to exploit vulnerabilities in computerised devices connected to the Internet to gain valuable information
-- Devices that were once not computerized e.g. refrigerators, washing machines, TVs turned into IoT devices by connecting them to the Internet with software not designed with security in mind
+- Devices that were **once not computerized** e.g. refrigerators, washing machines, TVs turned into IoT devices by connecting them to the Internet with **software not designed** with security in mind
 
 ### Types of Malware
 | Malware                    | Description                                                                                                                                                       |
@@ -371,18 +371,18 @@
 ### Malware Infection Vectors
 | Vectors         | Description                                                                                                                                                                    |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Sneaker Net     | Relies on copying files off disk onto new system instead of network                                                                                                            |
-| Email           | Attachments in emails can contain malware                                                                                                                                      |
-| Networks        | Makes use of vulnerable network services to gain entry into system                                                                                                             |
-| Drive-by Attack | Website can carry malware that gets downloaded and installed without user knowing e.g. clicking on dialog box and exploiting vulnerability in web browser and infected carrier |
-| Boot Sector     | Installed in boot sector. When loading up in the operating system, ensures that system remained infected                                                                       |
-| Virus Infection | Once virus inside a system, infects a file in order to get installed and running on regular basis by attaching itself to trusted programme that is used often                  |
-| Persistence     | Refers to malware retaining its presence on a system                                                                                                                                                                               |
+| **Sneaker Net**     | Relies on copying files off disk onto new system instead of network                                                                                                            |
+| **Email**           | Attachments in emails can contain malware                                                                                                                                      |
+| **Networks**        | Makes use of vulnerable network services to gain entry into system                                                                                                             |
+| **Drive-by Attack** | Website can carry malware that gets downloaded and installed without user knowing e.g. clicking on dialog box and exploiting vulnerability in web browser and infected carrier |
+| **Boot Sector**     | Installed in boot sector. When loading up in the operating system, ensures that system remained infected                                                                       |
+| **Virus Infection** | Once virus inside a system, infects a file in order to get installed and running on regular basis by attaching itself to trusted programme that is used often                  |
+| **Persistence**     | Refers to malware retaining its presence on a system                                                                                                                                                                               |
 
 ### Security Zoning 
 1. **Demilitarized Zone**
 	- Network between internal network and Internet that provides layer of security and privacy
-	- DMZ enables external users to access information that organisation deems necessary and will not compromise any internal organisational information
+	- DMZ enables external users to access information that organisation **deems necessary and will not compromise any internal organisational information**
 2. **Intranet**
 	- Subnet portion or segmented zone of internal network that uses web-based technologies
 3. **Extranet**
