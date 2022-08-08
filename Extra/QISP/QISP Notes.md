@@ -45,12 +45,12 @@
 
 | Motivation | Description                                                                                                                              |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Cash       | From stealing passwords, bank details and holding customer information for ransom                                                        |
-| Challenge  | Driven by challenge to break the unbreakable system to gain recognition from peers                                                       |
-| Hacktivism | Use skills to target and embarrass large organisations and IT teams, break sophisticated security systems and humiliate upper management |
-| Revenge    | Anger, use their skills to directly affect person, group or company without fear of repercussion                                         |
-| Subversion | Accused of meddling in current and corporate affairs (modern day version of espionage)                                                   |
-| Infamy     | Motivated by sense of achievement and working independently or in groups they want to be recognised                                                                                                                                         |
+| **Cash**       | *From stealing passwords, bank details and holding customer information for ransom*                                                        |
+| **Challenge**  | *Driven by challenge to break the unbreakable system to gain recognition from peers*                                                       |
+| **Hacktivism** | *Use skills to target and embarrass large organisations and IT teams, break sophisticated security systems and humiliate upper management* |
+| **Revenge**    | Anger, use their skills to directly affect person, group or company without fear of repercussion                                         |
+| **Subversion** | Accused of meddling in current and corporate affairs (modern day version of espionage)                                                   |
+| **Infamy**     | Motivated by sense of achievement and working independently or in groups they want to be recognised                                                                                                                                         |
 
 ### Information Security Governance
 - Set of responsibilities and actions exercised by Board of Management of an organisation
@@ -71,7 +71,7 @@
 
 ### Risk Assessment
 - Should be undertaken to **identify physical, environmental security threats**
-- Determine appropriate associated controls to be implemented in organisation to counter threats
+- Determine appropriate associated controls to be **implemented in organisation to counter threats**
 - When performing risk assessment, complexity and risk level associated with electronic information assets and facilities environmental systems need to be considered
 - Should be on top of traditional physical security such as security guards, looks and fences
 
@@ -81,8 +81,8 @@
 - Organisation should be proactive in risk monitoring and acting to response to new risks in timely manner
 - Use of indicators in larger organisations can help monitor status of risks more effectively
 - Address this element by including:
-	- Training and awareness programme
-	- Communication of IS policies, standards and procedures
+	- **Training and awareness programme** (help others recognise risk involved)
+	- **Communication of IS policies, standards and procedures**
 
 ### Vulnerabilities
 > Weaknesses that can be exploited in **People, Processes and Technology**
