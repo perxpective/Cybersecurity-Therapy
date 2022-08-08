@@ -497,7 +497,7 @@
 - Unsupervised Learning
 
 ### Red and Blue Teaming
-- Red and Blue Team can strengthen each other's defensive and offensive tactics respectively during exercise
+- **Red and Blue Team can strengthen each other's defensive and offensive tactics respectively during exercise**
 
 **Key Concepts**
 - Indication of Compromise (IOC)
@@ -518,9 +518,9 @@
 	- Techniques and procedures of conducting covert operations typically associated with intelligence community
 
 > **Pointers:**
-> - Important to run exercises like penetration testing as part of cyber defence
+> - **Important to run exercises like penetration testing as part of cyber defence**
 > - Because organisations should assess effectiveness and adequacy of security controls implemented to secure critical assets
-> - Digital forensic investigator must follow due process during an investigation as evidence may be tainted and considered as inadmissible in court
+> - **Digital forensic investigator must follow due process during an investigation as evidence may be tainted and considered as inadmissible in court**
 
 ## Case Studies
 1. Hilary Clinton Email Server
