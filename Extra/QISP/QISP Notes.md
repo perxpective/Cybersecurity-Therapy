@@ -200,8 +200,8 @@
 	- Requiring certain companies to appoint data protection officer to oversee GDPR compliance
 
 > **Important to note:**
-> - GDPR applies to each member state of the EU aiming to create more consistent protection of consumer and personal data across EU countries
-> - Any company that sells goods and services to EU citizens regardless of location is subject to regulations
+> - **GDPR applies to each member state of the EU aiming to create more consistent protection of consumer and personal data across EU countries**
+> - **Any company that sells goods and services to EU citizens regardless of location is subject to regulations**
 
 - EU mandates mandate baseline set of standards for companies that handle EU citizen's data to better safeguard processing and movement of citizen personal data
 
