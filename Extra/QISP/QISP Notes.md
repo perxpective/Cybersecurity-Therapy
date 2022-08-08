@@ -120,7 +120,7 @@
 	- **Confidential** (senior management)
 	- **Restricted** (most employees)
 	- **Internal** (all employees)
-	- **Public Information (everyone)
+	- **Public Information** (everyone)
 
 - **Issues of information classification:**
 
