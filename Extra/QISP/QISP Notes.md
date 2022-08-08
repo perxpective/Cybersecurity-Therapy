@@ -64,7 +64,7 @@
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Confidentiality | Ensure information not disclosed or made available to unauthorised individuals, entities or processes                                                                         |
 | Integrity       | Protect information and information systems from unauthorised changes                                                                                                         |
-| Availability    | Ensures information or assets is accessible and usable whenever demanded by authorised authority                                                                            |
+| Availability    | Ensures information or assets is accessible and usable whenever demanded by unauthorised authority                                                                            |
 | Accountability  | Ensures that actions of individual can be traced back to that individual<br>Enables organisations to determine who has executed what action, how and when was action executed |
 | Non-repudiation | Ensures individual or entity cannot deny previous commitments or actions<br>(Can be achieved through digital signatures)                                                                                                      |
 
