@@ -403,7 +403,7 @@
 - Example: shared file server where access permissions are administered by owners of its contents
 
 #### Role-Based Access Control (RBAC)
-- Access permissions granted to roles instead of persons
+- **Access permissions granted to roles instead of persons**
 - Simplifies management in complex system of many users and objects
 - Makes changes much easier
 
@@ -418,7 +418,7 @@
 ### Hardening of Operating Systems
 - Removal or disabling of unnecessary services, applications and network protocols to prevent vulnerabilities that can be exploited
 - Configure host-based access control according to organisation security policies
-- Ensure that default accounts e.g. guest accounts not in use are removed or disabled
+- Ensure that **default accounts** e.g. guest accounts not in use are **removed or disabled**
 - Ensuring password policy (password length, complexity and expiry) is defined
 - Assign privileges to limit access to resources which will be audited to monitor attempts to access them
 
