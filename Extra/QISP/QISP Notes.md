@@ -11,6 +11,7 @@
 	- Honesty
 	- Integrity
 	- Diligence
+	- Fairness
 
 ###  Professional Standards
 - Act consistently to enhance reputation of AiSP and information security profession
@@ -268,7 +269,7 @@
 	- KEKs can be organised into a hierarchy (master KEK used to encrypt, intermediate KEKs stored encrypted only)
 	- Keys with long life must be used sparsely to minimise exposure and reduce possibility of attack
 
-#### **Key Management Interoperability (KMIP)**
+#### Key Management Interoperability (KMIP)
 > KIMP standardises the communication between cryptographic clients that consume keys and key management systems that create and manage those keys
 
 - Leverages other standards like TLS whenever possible and focuses on problem of interoperable messages between cryptographic clients and key management systems
