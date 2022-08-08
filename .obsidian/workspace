@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fa87a3361977464c",
+        "id": "4bc359d434e9dfee",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,8 +113,9 @@
     "direction": "horizontal",
     "width": 153.85968017578125
   },
-  "active": "93e015461cbc414f",
+  "active": "4bc359d434e9dfee",
   "lastOpenFiles": [
+    "Extra/QISP/QISP Notes.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
@@ -123,7 +124,6 @@
     "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Cheat Sheet (IDS).md",
     "EHD/Theory/EHD Topic 4 - Port Scanning.md",
-    "EHD/Theory/EHD Topic 5 - Firewalls.md",
-    "EHD/Theory/EHD Topic 6 - Web Application Security.md"
+    "EHD/Theory/EHD Topic 5 - Firewalls.md"
   ]
 }

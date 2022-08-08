@@ -140,7 +140,7 @@
 ### Cyber Hygiene
 - Best practices:
 	- Installing antivirus software to scan for viruses
-	- Using firewalls to stop unauthorized users from getting information
+	- Using firewalls to stop unauthorised users from getting information
 	- **Restrict privileged access to authorised personnel**
 	- Updating apps, web browsers, and OSs on all devices regularly
 	- Keeping hard drives clean by reformatting and wiping them
@@ -175,11 +175,11 @@
 
 ### Different IS Governance Framework
 
-#### COBIT
+#### **COBIT**
 > **COBIT** -> Control Objectives for Information and Related Technology
 - Framework for governing and managing enterprise IT to support organisations in the development, implementation and continuous improvement and monitoring of good IT-related governance and management practices
 
-#### COSO
+#### **COSO**
 > **COSO** -> Committee of Sponsoring Organisations of the Treadway Commission
 - Guidance to Executive Management and governance entities on the following critical aspects: 
 	- organisational governance
