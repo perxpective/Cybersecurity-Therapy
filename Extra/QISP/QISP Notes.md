@@ -293,15 +293,18 @@
 - Open Security Architecture (OSA)
 - SABSA
 
+> **SABSA**
+> - Enterprise security architecture framework and methodology that provides guide to integrate risk and security management into enterprise
+
 ### IS Risk Assessment
 - Assess risk exposure and vulnerabilities
 - Prioritise risks with risk profile
 - Define requirements that incorporates control to address risk
 	- Incorporate standards, laws and expectations
 - In general, need to perform the following:
-	- Impact Analysis
-	- Risk Determination
-	- Controls Recommendation
+	- **Impact Analysis**
+	- **Risk Determination**
+	- **Controls Recommendation**
 - Design and develop preventive, detective, respond and recovery controls
 
 ## Operation and Infrastructure Security
@@ -312,7 +315,7 @@
 
 > **Problem:** once attackers gain access to internal network they become trusted like authorised personnel
 
-- In zero-trust network, no one is trusted by default inside or outside the network
+- In zero-trust network, **no one is trusted by default inside or outside the network**
 - Verification is required from everyone gaining access to resources on network
 - Access to more secure resources requires additional stronger authentication
 
@@ -321,10 +324,10 @@
 
 | Process                                    | Description                                                                                                                                                              |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Service Asset and Configuration Management | Maintains information about configuration items required to deliver to IT service                                                                                        |
-| Change Management                          | Primary object is to enable beneficial change to be made with minimum disruption to IT services                                                                          |
-| Change Evaluation                          | Assesses major changes before changes can be applied e.g. introducing a new service                                                                                      |
-| Project Management                         | Focuses on transition planning and support such as planning and coordinating use of resources to deploy major release within predicted cost, time, quality and estimates |
+| **Service Asset and Configuration Management** | Maintains information about configuration items required to deliver to IT service                                                                                        |
+| **Change Management**                          | Primary object is to enable beneficial change to be made with minimum disruption to IT services                                                                          |
+| **Change Evaluation**                          | Assesses major changes before changes can be applied e.g. introducing a new service                                                                                      |
+| **Project Management**                         | Focuses on transition planning and support such as planning and coordinating use of resources to deploy major release within predicted cost, time, quality and estimates |
 | Release and Deployment Management          | Process plans, schedules and controls movement of releases to test and live environments                                                                                 |
 | Services Validation and Testing            | Ensures that deployed releases and resulting services meet customer expectations and verify that IT operations can support new service                                   |
 | Knowledge Management                       | Aim: Gather, analyse, store and share knowledge and information within organisation                                                                                                                                                                         |
