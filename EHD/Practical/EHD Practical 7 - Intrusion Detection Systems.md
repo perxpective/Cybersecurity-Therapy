@@ -8,6 +8,7 @@
 
 ## Network Intrusion Detection Systems (NIDS)
 ### Configuring Snort
+**On web-server2**
 - Display version number of snort
 ```
 snort -V
