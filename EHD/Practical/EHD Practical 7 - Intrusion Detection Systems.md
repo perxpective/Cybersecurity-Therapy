@@ -311,3 +311,9 @@ sudo tripwire --check
 sudo twprint --print-report -r report_filename | less
 ```
 
+## Snort Flags (Additional)
+| Flag | Argument Character |
+| ---- | ------------------ |
+| FIN  | F                  |
+| SYN  | S                  |
+| RST  |                    |
