@@ -312,8 +312,14 @@ sudo twprint --print-report -r report_filename | less
 ```
 
 ## Snort Flags (Additional)
-| Flag | Argument Character |
-| ---- | ------------------ |
-| FIN  | F                  |
-| SYN  | S                  |
-| RST  |                    |
+| Flag           | Argument Character |
+| -------------- | ------------------ |
+| FIN            | F                  |
+| SYN            | S                  |
+| RST            | R                  |
+| PSH            | P                  |
+| ACK            | A                  |
+| URG            | U                  |
+| Reversed Bit 1 | 1                  |
+| Reserved Bit 2 | 2                  |
+| No Flag        | 0                  |
