@@ -126,7 +126,6 @@ include $RULE_PATH/my.rules
 ```
 snort -i eno16777736 -c /etc/snort/snort.conf -l /var/log/snort
 ```
-
 - Run Snort manually
 
 **On Kali VM**
