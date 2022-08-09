@@ -123,7 +123,7 @@ include $RULE_PATH/my.rules
 ### Creating Snort Rules to Detect Illegal TCP Flags
 > **Key files to take note of:**
 > - `/etc/snort/rules` - directory for all Snort rules
-> - `/var/log.`
+> - `/var/log/snort/alert` - file with all logs
 
 **On web-server2 VM**
 - Comment out any existing rules in `/etc/snort/rules/my.rules`
