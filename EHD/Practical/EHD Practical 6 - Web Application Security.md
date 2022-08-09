@@ -803,7 +803,7 @@ man sqlmap
 	- `--dbs` option for databases found
 
 ```
-sudo sqlmap -u "http//Win10-IP/dvwa-master/vulnerabilties/sqli/?id=3&Submit=Submit" --cookie="security=low;PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" --dbs
+sudo sqlmap -u "http://Win10-IP/dvwa-master/vulnerabilties/sqli/?id=3&Submit=Submit" --cookie="security=low;PHPSESSID=ab6iiicumjdbjkmun4cphkdmvo" --dbs
 ```
 
 11. SQLmap will output information about databases found
