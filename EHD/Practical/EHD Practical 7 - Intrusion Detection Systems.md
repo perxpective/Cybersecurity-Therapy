@@ -121,6 +121,10 @@ include $RULE_PATH/my.rules
 	- Contains packets that generated the alerts
 
 ### Creating Snort Rules to Detect Illegal TCP Flags
+> **Key files to take note of:**
+> - `/etc/snort/rules` - directory for all Snort rules
+> - `/var/log.`
+
 **On web-server2 VM**
 - Comment out any existing rules in `/etc/snort/rules/my.rules`
 - Create the following rule:
