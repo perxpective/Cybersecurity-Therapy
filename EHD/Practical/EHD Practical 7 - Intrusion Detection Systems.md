@@ -129,7 +129,7 @@ include $RULE_PATH/my.rules
 - Comment out any existing rules in `/etc/snort/rules/my.rules`
 - Create the following rule:
 ```
-snort -i eno16777736 -c /etc/snort/snort.conf -l /var/log/snort
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg: "Null packet detected!"' flags:0; sid:99998')
 ```
 - Run Snort manually
 
