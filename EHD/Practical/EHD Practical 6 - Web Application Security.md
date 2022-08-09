@@ -767,7 +767,7 @@ grant alter table to UnauthorizedUser
 	- `student` is true but `'1' = '2'` is false, so `SELECT` query is not successful and returns message that <u>user is created</u>
 7. Use SQL inject and substring function on password for "tom" to find if first character of password is 'a'
 	- Assumption: name of column containing password is 'password'
-	- Inject username: `tom` and `substring(password, 1, 1)='a'`
+	- Inject username: `tom and substring(password, 1, 1)='a'`
 	- `tom` is true but because there is a message that user is created - means that `substring(password, 1, 1)='a'` is false
 	- Hence, password does not start with 'a'
 	- Trial and error with the other alphabets and numbers
