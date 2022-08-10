@@ -161,4 +161,7 @@
 - **Answer:**
 	1. Route that evidence takes from time it is found till case is closed or goes to court
 
-**Question:** 
+**Question:** Explain how would you develop **digital forensics resources**?
+- **Answer:**
+	1. Supplement knowledge by developing and maintaining contact with the following:
+		1. computing
