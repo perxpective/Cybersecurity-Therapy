@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "76b99a4c80e3ed21",
+        "id": "5a486110c0f151a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,17 +113,17 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "76b99a4c80e3ed21",
+  "active": "5a486110c0f151a5",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
-    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
-    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
-    "EHD/Practical/EHD Practical 4 - Port Scanning.md",
-    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md"
+    "DFI/DFI Chapter 3 - Data Acquisition.md",
+    "DFI/DFI Chapter 4 - Forensics Tools.md",
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
+    "DFI/DFI Chapter 6 - Analysis and Validation.md",
+    "DFI/DFI Chapter 7 - Investigator's Lab.md",
+    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md"
   ]
 }

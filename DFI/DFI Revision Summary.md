@@ -123,3 +123,8 @@
 - Explain motivations behind rooting and jailbreaking
 - Tools used in rooting and jailbreaking (e.g. JailBreakMe)
 
+## Important Definitions
+### Chapter 1 - Introduction to Forensics
+<summary>
+<details>hello</details>
+</summary>
