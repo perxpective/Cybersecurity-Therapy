@@ -66,3 +66,15 @@
 	- Explain what is FAT, cluster size
 	- Cluster made up of sectors
 	- 1 sector = 512 bytes
+
+**Chapter 6 - Analysis and Validation**
+- Explain scope creep
+- Purpose and features of hexadecimal editors
+- Data-hiding techniques
+	- hiding entire partitions
+	- changing file extensions
+	- setting attribute to hidden
+	- bit-shifting
+	- encryption
+	- password protection
+- Explain steganography
