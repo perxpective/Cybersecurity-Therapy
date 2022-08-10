@@ -19,9 +19,8 @@
 > 
 > - Federal Rules of Evidence (FRE) created to ensure consistency in federal proceedings
 > 
-> - FBI Computer Analysis and Response Team (CART) formed in 1984 to handle cases involving digital evidence
-> 
-> - CART teamed up with the Department of Defence Computer Forensics Laboratory (DCFL) in the late 1990s
+- FBI Computer Analysis and Response Team (CART) formed in 1984 to handle cases involving digital evidence 
+- CART teamed up with the Department of Defence Computer Forensics Laboratory (DCFL) in the late 1990s
 
 ## Case Law
 * Existing laws cannot keep up with the rate of technological advancement
