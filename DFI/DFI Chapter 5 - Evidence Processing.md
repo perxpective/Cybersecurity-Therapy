@@ -252,6 +252,9 @@ BIOS can configure:
 **Resident File Attributes:**
 ![](https://i.imgur.com/6r0BW3w.png)
 
+- All MFT records start at FILE0
+- Swap two bytes for C and E (60 00 -> 00 60 or 70 00 -> 00 70) 
+
 **Nonresident File Attributes:**
 ![](https://i.imgur.com/SPXTBn4.png)
 
