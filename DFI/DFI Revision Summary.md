@@ -136,7 +136,7 @@
 		5. repeatability
 		6. possible expert presentation
 
-- **Question:** Explain what is **case law**
+- **Question:** Explain what is <mark style="background: #FFF3A3A6;">case law</mark> 
 - **Answer:**
 	1. The law as established by <u>outcomes of former cases</u>
 	2. Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
@@ -146,3 +146,4 @@
 - **Answer:**
 	1. *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 	2. This is to ensure that 
+

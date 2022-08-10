@@ -50,5 +50,14 @@
       ],
       "key": "G"
     }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }
