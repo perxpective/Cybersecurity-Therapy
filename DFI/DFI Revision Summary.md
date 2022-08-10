@@ -149,4 +149,6 @@
 > **Public Investigations**
 > 1. Involves government agencies responsible for criminal investigations and prosecution
 > 2. Follows the legal process
-**Private Investigations**
+> 
+> **Private Investigations**
+> 1. Involves <u>private companies</u> and <u>lawyers</u> addressing <u>company policy violations</u> and <u>litigation disputes</u>
