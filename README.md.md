@@ -3,6 +3,7 @@ Welcome to Cybersecurity Therapy, your place of comfort after another typical da
 
 ## Q: Where TF are Year 1 Notes
 Sorry I do not have them, as I wrote them on paper when I myself was Year 1 and I did not know Markdown exists until like Year 2 (bruh)
+I would remake my Year 1 notes here, but why TF would I do that? It doesn't ma
 
 ## Q: What app do you use to make your notes?
 I use Obsidian, a markdown editing app. I use an extension in Obsidian to auto-push my commits over to this therapy repo :)
@@ -25,4 +26,4 @@ My style of memorising:
 3. Write a summary for each chapter featuring important terms or definitions that you feel will most likely come out during exams. You can also include pointers from the focus areas depending on your module
 
 ## Conclusion
-With that, have fun dying in DISM (SOC) and happy mugging! ;-;
+With that, have fun dying in DISM (SOC biomedical science :copium:) and happy mugging! All the best for whatever exams you are dreading and I hope you can get a decent GPA from my notes (and other notes, of course) ;-; 
