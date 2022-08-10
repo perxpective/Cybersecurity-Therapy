@@ -175,4 +175,11 @@
 	4. **Preserve** evidence on <u>different computer</u>
 	5. Set up a <u>chain of custody</u>
 
-
+**Question:** Explain the legal process
+- **Answer:**
+	1. Criminal investigation begins when someone funds evidence or witness of crime
+	2. Police interviews complainant and writes report about crime
+	3. Report processed and management decides to start investigation
+	4. Log information in police blotter
+	5. People involved:
+		1. Digital Evidence First Responder (DEFR) -> arrives at incident scene, assesses situ
