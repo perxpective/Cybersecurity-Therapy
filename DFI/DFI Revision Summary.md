@@ -125,7 +125,7 @@
 
 ## Important Definitions
 ### Chapter 1 - Introduction to Forensics
-**Question:** <u>Explain</u> the definition of **digital forensics**?
+**Question:** Explain the definition of **digital forensics**?
 **Answer:**
 1. Applications of computer science and investigative procedures for legal purposes
 2. Involves the following steps:
@@ -136,7 +136,9 @@
 	5. repeatability
 	6. possible expert presentation
 
-**Question:** <u>Explain</u> what is **case law**
+**Question:** Explain what is **case law**
 **Answer:**
-1. The law as established by outcomes of former cases
-2. 
+1. The law as established by <u>outcomes of former cases</u>
+2. Used by allowing <u>legal counsel</u> to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
+
+**Question:** Explain why is **case law** is required?
