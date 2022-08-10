@@ -112,13 +112,14 @@
 
 **Chapter 11 - iOS Forensics**
 - iOS architecture
-- What is a plist file?
+- What is a `plist` file?
 - What is an EXIF file?
-- What is a .db file?
+- What is a `.db` file?
 - Types of iOS devices
 
 **Chapter 12  - Rooting and Jailbreaking**
 - Explain rooting in Android
 - Explain jailbreaking in iOS
 - Explain motivations behind rooting and jailbreaking
-- 
+- Tools used in rooting and jailbreaking (e.g. JailBreakMe)
+
