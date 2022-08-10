@@ -167,9 +167,12 @@
 	2. Join computer groups in both <u>public</u> and <u>private</u> sectors
 	3. <u>Consult outside experts</u>
 
-**Question:** How wold prepare for a **digital forensics investigation**?
+**Question:** How would prepare for a **digital forensics investigation**?
 - **Answer:**
 	1. *Objective* - <u>gather evidence</u> and **prove** suspect <u>committed a crime</u> or <u>violated company policy</u>
-	2. Collect evidence that can be <u>offered in court</u> or at corporate inquiry
+	2. Collect evidence that can be <u>offered in court</u> or <u>at corporate inquiry</u>
 	3. **Investigate** the <u>suspect's computer</u>
 	4. **Preserve** evidence on <u>different computer</u>
+	5. Set up a <u>chain of custody</u>
+
+
