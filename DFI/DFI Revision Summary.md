@@ -33,4 +33,9 @@
 - Private sector vs public sector investigations
 
 **Chapter 3 - Data Acquisition**
-- Evidence Storage
+- Evidence Storage Formats (raw, proprietary, advanced)
+- Why is acquisition important?
+- Acquisition methods
+- Purpose of write-blocking device
+- Validation techniques
+	- Why is 
