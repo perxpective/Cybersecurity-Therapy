@@ -135,6 +135,11 @@
 > 	5. **repeatability**
 > 	6. **possible expert presentation**
 
-**Question: What is Case Law?**
+**Question: What is case law?**
 > 1. The law established by the <u>outcome of former cases</u>
-> 2. 
+> 2. By allowing legal counsel to <u>apply previous similar cases</u> to current one to <u>address ambiguity in laws</u>
+
+**Question: Why is case law required?**
+> 1. Existing laws <u>cannot keep up</u> with <u>rate of technological change</u>
+
+**Question: **
