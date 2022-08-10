@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
+            "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
             "mode": "preview",
             "source": false
           }
@@ -127,12 +127,12 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "14d225700b87ca57",
+  "active": "ad9449bb9b51720f",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "README.md.md",
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
