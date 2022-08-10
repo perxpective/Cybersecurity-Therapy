@@ -6,5 +6,6 @@
   "obsidian-dynamic-toc",
   "obsidian-discordrpc",
   "obsidian-html-tags-autocomplete",
-  "obsidian-git"
+  "obsidian-git",
+  "highlightr-plugin"
 ]

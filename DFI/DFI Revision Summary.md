@@ -146,10 +146,3 @@
 - **Answer:**
 	1. *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 	2. This is to ensure that 
-
-<details>
-	<summary>click me!</summary>
-	
-	- Secret
-	- bruh
-</details>
