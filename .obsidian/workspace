@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
+            "file": "README.md.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -125,11 +125,11 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "5a486110c0f151a5",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
-    "DFI/Untitled.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+    "README.md.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",

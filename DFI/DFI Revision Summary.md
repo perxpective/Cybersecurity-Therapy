@@ -140,8 +140,9 @@
 **Answer:**
 1. The law as established by <u>outcomes of former cases</u>
 2. Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
-3. Examiners must be 
+3. Examiners must be familiar with *recent court rulings* on <u>search and seizure in electronic movement</u>
 
 **Question:** Explain why is **case law** is required?
 **Answer:**
 1. *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
+2. 
