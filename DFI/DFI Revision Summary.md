@@ -50,4 +50,7 @@
 	- Reconstruction
 	- Reporting
 - Maintain software library in lab
-- Computer forens
+- Computer forensics tools types 
+	- Forensics software (command line, GUI)
+	- Forensics hardware (equipment, commercial options)
+- Always run validation test
