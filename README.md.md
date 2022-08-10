@@ -19,5 +19,10 @@ Humanities people are too good at memorising, so those who are good at humanitie
 Of course DISM students being DISM students, most aren't good to memorise but suck it up you are gonna have to anyways (anything for a 
 decent GPA right). 
 
+My style of memorising:
 1. Make important terms eye-catching or stand out (bolding, underlining, highlighting, whatever catches your attention)
-2. Underline points that are definitely important to in
+2. Underline points that are definitely important to include in your exam answers!
+3. Write a summary for each chapter featuring important terms or definitions that you feel will most likely come out during exams. You can also include pointers from the focus areas depending on your module
+
+## Conclusion
+With that, have fun dying in DISM (SOC) and happy mugging! ;-;
