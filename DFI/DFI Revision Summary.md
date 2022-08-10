@@ -168,4 +168,8 @@
 	3. <u>Consult outside experts</u>
 
 **Question:** How wold prepare for a **digital forensics investigation**?
-- **Answer:** 
+- **Answer:**
+	1. *Objective* - <u>gather evidence</u> and **prove** suspect <u>committed a crime</u> or <u>violated company policy</u>
+	2. Collect evidence that can be <u>offered in court</u> or at corporate inquiry
+	3. **Investigate** the <u>suspect's computer</u>
+	4. **Preserve** evidence on <u>different computer</u>
