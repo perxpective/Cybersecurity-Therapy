@@ -163,5 +163,9 @@
 
 **Question:** Explain how would you develop **digital forensics resources**?
 - **Answer:**
-	1. Supplement knowledge by developing and maintaining contact with the following:
-		1. computing
+	1. <u>Supplement knowledge</u> by developing and maintaining contact with <u>computing, network and investigative professionals</u>
+	2. Join computer groups in both <u>public</u> and <u>private</u> sectors
+	3. <u>Consult outside experts</u>
+
+**Question:** How wold prepare for a **digital forensics investigation**?
+- **Answer:** 
