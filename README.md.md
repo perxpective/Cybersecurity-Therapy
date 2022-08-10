@@ -15,7 +15,7 @@ As much as I love this place to be a sanctuary for most DISM students, it should
 Study notes are useful, but useless if you can't make good use of them! Lemme share with you some tips on how to ace the killer exams DISM lecturers love to set :D
 
 ### Consistency
-Be consistent! Set aside some time every week to make notes for a chapter because everything is so fast paced and lecturers will not ever go back to a topic
+Be consistent! Set aside some time every week to make notes for a chapter because everything is so fast paced with new topics being covered every week, so there is definitely no time to revisit them! If you can do this, last minute revision will not be an issue for you since your consistency has allowed you to make notes to cover all the topics before revising for exams! All you would be left to do is to look through your perfectly made notes created every week and
 
 ### Memorising
 Humanities people are too good at memorising, so those who are good at humanities would have a good time remembering all the cancerous definitions and terms.
