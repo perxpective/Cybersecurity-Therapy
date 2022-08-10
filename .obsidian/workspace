@@ -6,11 +6,25 @@
       {
         "id": "ad9449bb9b51720f",
         "type": "leaf",
+        "dimension": 51.162790697674424,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "14d225700b87ca57",
+        "type": "leaf",
+        "dimension": 48.837209302325576,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Revision Summary.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -113,7 +127,7 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "ad9449bb9b51720f",
+  "active": "14d225700b87ca57",
   "lastOpenFiles": [
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
