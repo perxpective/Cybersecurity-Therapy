@@ -143,6 +143,10 @@
 > 1. Existing laws <u>cannot keep up</u> with <u>rate of technological change</u>
 
 **Question:** Explain what is a chain of custody
-> 1. The route taken by evidence from the time it is found until case is closed or goes to court
+> 1. The <u>route taken by evidence</u> from the <u>time it is found</u> until <u>case is closed</u> or<u> goes to court</u>
 
-**Question:** What are the differences between
+**Question:** What are the differences between **public** investigations and **private** investigations?
+> **Public Investigations**
+> 1. Involves government agencies responsible for criminal investigations and prosecution
+> 2. Follows the legal process
+**Private Investigations**
