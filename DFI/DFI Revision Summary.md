@@ -43,5 +43,11 @@
 	- Issues with remote acquisition
 
 **Chapter 4 - Forensics Tools**
-
-
+- Consult business plan
+- Forensics tools functions
+	- Validation and verification
+	- Extraction
+	- Reconstruction
+	- Reporting
+- Maintain software library in lab
+- Computer forens
