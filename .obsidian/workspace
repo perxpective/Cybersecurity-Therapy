@@ -115,6 +115,8 @@
   },
   "active": "76b99a4c80e3ed21",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
@@ -122,8 +124,6 @@
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 4 - Port Scanning.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-    "Extra/QISP/QISP Notes.md",
-    "conflict-files-obsidian-git.md"
+    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
   ]
 }

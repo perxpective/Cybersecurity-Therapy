@@ -54,3 +54,8 @@
 	- Forensics software (command line, GUI)
 	- Forensics hardware (equipment, commercial options)
 - Always run validation test
+
+**Chapter 5 - Evidence Processing (OS & Files Systems)**
+- Disk partition
+- MBR
+- RAM and File slack
