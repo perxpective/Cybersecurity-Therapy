@@ -17,8 +17,8 @@
 - Each question has sub-questions
 
 ## Areas of Focus
-**Chapter 1 - Intro to Forensics**
--nition of Digital Forensics
+**Chapter 1 - Introduction to Forensics**
+- Definition of Digital Forensics
 - What is Chain of Custody?
 - Difference between Public and Private Investigator
 - Case Law
@@ -126,6 +126,7 @@
 ## Important Definitions
 ### Chapter 1 - Introduction to Forensics
 **Question: What is the definition of digital forensics**
-> **Answer:** 
-> - Applications of computer science and investigative procedures for legal purposes
-> - 
+
+**Answer:**
+> 1. The application of <u>computer science</u> and <u>investigative procedures</u> for <u>legal purposes</u>
+> 2. 
