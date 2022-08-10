@@ -177,16 +177,17 @@
 
 **Question:** Explain the legal process
 - **Answer:**
-	1. Criminal investigation begins when someone funds evidence or witness of crime
-	2. Police interviews complainant and writes report about crime
-	3. Report processed and management decides to start investigation
-	4. Log information in police blotter
-	5. People involved:
-		1. Digital Evidence First Responder (DEFR)
+	1. Criminal investigation begins when someone finds <u>evidence</u> or <u>witness of crime</u>
+	2. Police <u>interviews complainant</u> and <u>writes report</u> about crime
+	3. <u>Report processed</u> and management decides to <u>start investigation</u>
+	4. Log information in <u>police blotter</u>
+	5. <u>People involved:</u>
+		1. **Digital Evidence First Responder (DEFR)**
 			- arrives at incident scene and assesses situation 
 			- takes precautions to acquire and preserve evidence
-		2. Digital Evidence Specialist (DES)
+		2. **Digital Evidence Specialist (DES)**
 			- Has skill to analyse data and determine if another analyst should be called for assistance
-	6. Affidavit
+	6. **Affidavit**
 		- Sworn statement of support of facts or evidence about crime
-		-  
+		-  Includes exhibits supporting the allegation
+
