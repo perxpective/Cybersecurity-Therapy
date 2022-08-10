@@ -12,8 +12,8 @@
 - Logical questions
 - General knowledge
 
-<u>Section B (80%)</u>
-- 4 structured questions (20 marks each)
+<u>Section B (80%)</u> - **4 questions**
+- Structured questions (20 marks each)
 - Each question has sub-questions
 
 ## Areas of Focus
@@ -111,4 +111,14 @@
 - Acquisition on Android phone
 
 **Chapter 11 - iOS Forensics**
-- - 
+- iOS architecture
+- What is a plist file?
+- What is an EXIF file?
+- What is a .db file?
+- Types of iOS devices
+
+**Chapter 12  - Rooting and Jailbreaking**
+- Explain rooting in Android
+- Explain jailbreaking in iOS
+- Explain motivations behind rooting and jailbreaking
+- 
