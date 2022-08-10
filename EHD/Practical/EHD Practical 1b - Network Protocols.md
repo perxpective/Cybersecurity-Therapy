@@ -64,7 +64,7 @@ View Network Information
 net.show
 ```
 
-> :information_source: Type `help` to see available commands and modules and to see which services are running
+> Type `help` to see available commands and modules and to see which services are running
 
 `net.probe` searches for other hosts in the same network. 
 
@@ -75,7 +75,7 @@ net.probe on
 net.probe off
 ```
 
-> :information_source: On Wireshark, `net.probe` broadcasts packets in the network. 
+> On Wireshark, `net.probe` broadcasts packets in the network. 
 
 Configure `arp.spoof` to trick the Windows 10 VM into thinking that the Kali VM is the gateway
 
@@ -166,7 +166,7 @@ Output:
 
 ## DNSChef
 
-#### On Windows 10 VM
+**On Windows 10 VM**
 
 <img title="" src="https://i.imgur.com/vW7Vl2K.png" alt="" width="301" data-align="center">
 

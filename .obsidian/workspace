@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
+            "file": "EHD/Practical/EHD Practical 1b - Network Protocols.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "EHD/Practical/EHD Practical 1b - Network Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "EHD/Practical/EHD Practical 1b - Network Protocols.md"
               }
             }
           },
@@ -129,14 +129,14 @@
   "active": "ad9449bb9b51720f",
   "lastOpenFiles": [
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+    "EHD/Practical/EHD Practical 1b - Network Protocols.md",
+    "EHD/Practical/EHD Practical 1a - Network Protocols.md",
+    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "README.md.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
-    "DFI/DFI Chapter 4 - Forensics Tools.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
-    "DFI/DFI Chapter 6 - Analysis and Validation.md",
-    "DFI/DFI Chapter 7 - Investigator's Lab.md"
+    "DFI/DFI Chapter 4 - Forensics Tools.md"
   ]
 }
