@@ -82,6 +82,12 @@
 
 **Chapter 7 - Digital Forensics Lab**
 - Explain what is a digital forensics lab
-- Physi
+- Physical security
 - Requirements of forensic workstation
 - Business case
+
+**Chapter 8 - Crime and Incidence Scene Processing**
+- Define digital evidence
+- Tasks of investigators (acquisition, identification, evaluation and admission)
+- Rule of evidence
+- Col
