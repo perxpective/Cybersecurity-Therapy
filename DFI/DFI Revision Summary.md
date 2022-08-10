@@ -125,6 +125,4 @@
 
 ## Important Definitions
 ### Chapter 1 - Introduction to Forensics
-<summary>
-<details>hello</details>
-</summary>
+Q:
