@@ -6,25 +6,11 @@
       {
         "id": "ad9449bb9b51720f",
         "type": "leaf",
-        "dimension": 49.219201850780806,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "14d225700b87ca57",
-        "type": "leaf",
-        "dimension": 50.78079814921921,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
-            "mode": "preview",
             "source": false
           }
         }
