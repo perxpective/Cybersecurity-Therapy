@@ -255,14 +255,14 @@ BIOS can configure:
 - All MFT records start at FILE0
 - Swap two bytes for C and E (60 00 -> 00 60 or 70 00 -> 00 70) 
 
-**Nonresident File Attributes:**
+**Non-resident File Attributes:**
 ![](https://i.imgur.com/SPXTBn4.png)
 
 - When a disk is created as NTFS file structure
 	- OS assigns logical clusters to entire disk partition
 - Assigned clusters are called **logical cluster numbers (LCNs)**
-	- Become the addresses that will allow MFT to link to nonresident files on disk partition
-- When data is first written to nonresident files, LCN address assigned to the file
+	- Become the addresses that will allow MFT to link to non-resident files on disk partition
+- When data is first written to non-resident files, LCN address assigned to the file
 	- LCN becomes file's **virtual cluster number (VCN)**
 
 ![](https://i.imgur.com/MJEdC6h.png)
