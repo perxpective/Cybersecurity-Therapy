@@ -182,4 +182,11 @@
 	3. Report processed and management decides to start investigation
 	4. Log information in police blotter
 	5. People involved:
-		1. Digital Evidence First Responder (DEFR) -> arrives at incident scene, assesses situ
+		1. Digital Evidence First Responder (DEFR)
+			- arrives at incident scene and assesses situation 
+			- takes precautions to acquire and preserve evidence
+		2. Digital Evidence Specialist (DES)
+			- Has skill to analyse data and determine if another analyst should be called for assistance
+		3. Affidavit
+			- Sworn statement of support of facts or evidence about crime
+			- 
