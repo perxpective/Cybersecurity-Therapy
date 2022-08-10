@@ -126,29 +126,7 @@
 ## Important Definitions
 ### Chapter 1 - Introduction to Forensics
 **Question:** What is the definition of **digital forensics**?
-> 1. The application of <u>computer science</u> and <u>investigative procedures</u> for <u>legal purposes</u>
-> 2. Involves the following steps:
-> 	1.  **proper search authority**
-> 	2. **chain of custody**
-> 	3. **validation with mathematics**
-> 	4. **use of validated tools**
-> 	5. **repeatability**
-> 	6. **possible expert presentation**
-
-**Question:** What is **case law**?
-> 1. The law established by the <u>outcome of former cases</u>
-> 2. By allowing legal counsel to <u>apply previous similar cases</u> to current one to <u>address ambiguity in laws</u>
-
-**Question:** Why is **case law** required?
-> 1. Existing laws <u>cannot keep up</u> with <u>rate of technological change</u>
-
-**Question:** Explain what is a chain of custody
-> 1. The <u>route taken by evidence</u> from the <u>time it is found</u> until <u>case is closed</u> or<u> goes to court</u>
-
-**Question:** What are the differences between **public** investigations and **private** investigations?
-> **Public Investigations**
-> 1. Involves government agencies responsible for criminal investigations and prosecution
-> 2. Follows the legal process
-> 
-> **Private Investigations**
-> 1. Involves <u>private companies</u> and <u>lawyers</u> addressing <u>company policy violations</u> and <u>litigation disputes</u>
+<details>
+</details>
+**Answer:**
+1. Applications of computer science and investigative procedures for legal purposes
