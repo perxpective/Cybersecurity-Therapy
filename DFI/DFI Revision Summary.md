@@ -90,4 +90,7 @@
 - Define digital evidence
 - Tasks of investigators (acquisition, identification, evaluation and admission)
 - Rule of evidence
-- Col
+- Collecting evidence in private-sector incident scenes
+- Identifying type of OS or digital evidence at start of investigation
+- Modes of storing digital evidence
+- Tools required for initial-response kits
