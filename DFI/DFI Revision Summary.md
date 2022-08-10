@@ -61,3 +61,8 @@
 - RAM and File slack
 	- What is RAM and file slack?
 	- Drive size, data/file size, cluster size, calculate RAM and file slack
+- Cluster and space required
+	- File size/
+- File Allocation Table (FAT)
+	- Explain what is FAT, cluster size
+	- Cluster made up o 
