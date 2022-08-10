@@ -6,10 +6,24 @@
       {
         "id": "ad9449bb9b51720f",
         "type": "leaf",
+        "dimension": 60.12354152367879,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "91abd57e0d70d923",
+        "type": "leaf",
+        "dimension": 39.87645847632121,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +83,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md"
               }
             }
           },
@@ -112,10 +126,10 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "ad9449bb9b51720f",
+  "active": "91abd57e0d70d923",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "README.md.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
