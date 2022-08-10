@@ -18,7 +18,7 @@
 
 ## Areas of Focus
 **Chapter 1 - Intro to Forensics**
-- Definition of Digital Forensics
+-nition of Digital Forensics
 - What is Chain of Custody?
 - Difference between Public and Private Investigator
 - Case Law
@@ -38,4 +38,10 @@
 - Acquisition methods
 - Purpose of write-blocking device
 - Validation techniques
-	- Why is 
+	- Why is validation important?
+- Remote acquisition
+	- Issues with remote acquisition
+
+**Chapter 4 - Forensics Tools**
+
+
