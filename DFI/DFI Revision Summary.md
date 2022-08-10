@@ -14,7 +14,7 @@
 
 <u>Section B (80%)</u> - **4 questions**
 - Structured questions (20 marks each)
-- Each question has sub-questions
+- Each question has sub-questiond
 
 ## Areas of Focus
 **Chapter 1 - Introduction to Forensics**
@@ -125,8 +125,7 @@
 
 ## Important Definitions
 ### Chapter 1 - Introduction to Forensics
-Keyword: digital forensics
-**Question**: What is the definition of **digital forensics**?
+**Question:** What is the definition of **digital forensics**?
 > 1. The application of <u>computer science</u> and <u>investigative procedures</u> for <u>legal purposes</u>
 > 2. Involves the following steps:
 > 	1.  **proper search authority**
@@ -136,11 +135,14 @@ Keyword: digital forensics
 > 	5. **repeatability**
 > 	6. **possible expert presentation**
 
-**Question**: What is **case law**?
+**Question:** What is **case law**?
 > 1. The law established by the <u>outcome of former cases</u>
 > 2. By allowing legal counsel to <u>apply previous similar cases</u> to current one to <u>address ambiguity in laws</u>
 
-**Question**: Why is **case law** required?
+**Question:** Why is **case law** required?
 > 1. Existing laws <u>cannot keep up</u> with <u>rate of technological change</u>
 
-**Question: Explain what is a chain of custody**
+**Question:** Explain what is a chain of custody
+> 1. The route taken by evidence from the time it is found until case is closed or goes to court
+
+**Question:** What are the differences between
