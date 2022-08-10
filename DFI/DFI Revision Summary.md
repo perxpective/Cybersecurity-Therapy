@@ -125,7 +125,7 @@
 
 ---
 
-## Important Definitions
+## Important Explanations
 ### Chapter 1 - Introduction to Forensics
 **Question:** Explain the definition of **digital forensics**?
 - **Answer:**
@@ -159,4 +159,6 @@
 
 **Question:** Define the **chain of custody**
 - **Answer:**
-	1. Route that evidence takes from 
+	1. Route that evidence takes from time it is found till case is closed or goes to court
+
+**Question:** 

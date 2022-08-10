@@ -10,7 +10,6 @@
 > **Define digital forensics**:
 > - Applications of computer science and investigative procedures for legal purposes
 
-
 - Involves: 
 	- proper search authority,
 	- chain of custody, 
