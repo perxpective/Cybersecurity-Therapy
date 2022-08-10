@@ -77,4 +77,11 @@
 	- bit-shifting
 	- encryption
 	- password protection
-- Explain steganography
+- Explain steganography and when to use it
+- Explain watermarking and when to use it
+
+**Chapter 7 - Digital Forensics Lab**
+- Explain what is a digital forensics lab
+- Physi
+- Requirements of forensic workstation
+- Business case
