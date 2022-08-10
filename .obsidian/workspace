@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -125,7 +125,7 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "93e015461cbc414f",
+  "active": "5a486110c0f151a5",
   "lastOpenFiles": [
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
