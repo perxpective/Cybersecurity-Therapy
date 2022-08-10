@@ -129,4 +129,7 @@
 
 **Answer:**
 > 1. The application of <u>computer science</u> and <u>investigative procedures</u> for <u>legal purposes</u>
-> 2. 
+> 2. Involves the following steps:
+> 	- **proper search authority**
+> 	- **chain of custody**
+> 	- 
