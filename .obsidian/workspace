@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+            "file": "DFI/DFI Revision Summary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -116,6 +116,8 @@
   },
   "active": "76b99a4c80e3ed21",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
@@ -123,8 +125,6 @@
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "Extra/QISP/QISP Notes.md",
-    "conflict-files-obsidian-git.md",
-    "EHD/Practical/EHD Practical 5 - Firewall.md",
-    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
