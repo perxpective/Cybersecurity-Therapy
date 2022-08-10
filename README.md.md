@@ -14,4 +14,10 @@ As much as I love this place to be a sanctuary for most DISM students, it should
 Study notes are useful, but useless if you can't make good use of them! Lemme share with you some tips on how to ace the killer exams DISM lecturers love to set :D
 
 ### Memorising
-Humanities people are too good at memorising, so those who are good at humanities would have a good 
+Humanities people are too good at memorising, so those who are good at humanities would have a good time remembering all the cancerous definitions and terms.
+
+Of course DISM students being DISM students, most aren't good to memorise but suck it up you are gonna have to anyways (anything for a 
+decent GPA right). 
+
+1. Make important terms eye-catching or stand out (bolding, underlining, highlighting, whatever catches your attention)
+2. Underline points that are definitely important to in
