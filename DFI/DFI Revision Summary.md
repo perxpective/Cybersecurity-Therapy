@@ -94,3 +94,13 @@
 - Identifying type of OS or digital evidence at start of investigation
 - Modes of storing digital evidence
 - Tools required for initial-response kits
+
+**Chapter 9 - Historic Cellular**
+- How mobile phone contacts stations
+- Purpose of MTSO
+- What is Handoff?
+- Mobile Telecommunication Technologies (iDEN, CDMA and GSM)
+- Cellular Phone Identification Number (understand **format**)
+	- MIN - mobile identity number
+	- MEID - mobile equipment ID and format
+	- IMEI - 
