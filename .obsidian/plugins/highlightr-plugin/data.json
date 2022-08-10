@@ -1,5 +1,5 @@
 {
-  "highlighterStyle": "realistic",
+  "highlighterStyle": "rounded",
   "highlighterMethods": "inline-styles",
   "highlighters": {
     "Pink": "#FFB8EBA6",

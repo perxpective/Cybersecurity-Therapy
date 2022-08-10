@@ -145,5 +145,7 @@
 - **Question:** Explain why is **case law** is required?
 - **Answer:**
 	1. *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
-	2. This is to ensure that 
 
+- **Question:** Explain the differences between public and private sector investigations
+- **Answer:**
+	1. 
