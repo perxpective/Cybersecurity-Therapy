@@ -11,4 +11,7 @@ I use Obsidian, a markdown editing app. I use an extension in Obsidian to auto-p
 As much as I love this place to be a sanctuary for most DISM students, it should **NOT** be your only source of revision! My notes are useful, yes, but you should always cross-reference slides and other learning sources from school as the syllabus of DISM may change from time to time (heck, that one module might be gone in the future :copium:)
 
 ## Tips
-### How to 
+Study notes are useful, but useless if you can't make good use of them! Lemme share with you some tips on how to ace the killer exams DISM lecturers love to set :D
+
+### Memorising
+Humanities people are too good at memorising, so those who are good at humanities would have a good 
