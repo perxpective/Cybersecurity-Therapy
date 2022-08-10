@@ -59,3 +59,5 @@
 - Disk partition
 - MBR
 - RAM and File slack
+	- What is RAM and file slack?
+	- Drive size, data/file size, cluster size, calculate RAM and file slack
