@@ -65,4 +65,5 @@
 	- File size/
 - File Allocation Table (FAT)
 	- Explain what is FAT, cluster size
-	- Cluster made up o 
+	- Cluster made up of sectors
+	- 1 sector = 512 bytes
