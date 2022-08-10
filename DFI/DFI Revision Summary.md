@@ -129,4 +129,11 @@
 **Answer:**
 1. Applications of computer science and investigative procedures for legal purposes
 2. Involves the following steps:
-	1. pro
+	1. proper search authority
+	2. chain of custody
+	3. validation with mathematics
+	4. use of validated tools
+	5. repeatability
+	6. possible expert presentation
+
+****
