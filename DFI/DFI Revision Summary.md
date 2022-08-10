@@ -191,3 +191,4 @@
 		- Sworn statement of support of facts or evidence about crime
 		-  Includes exhibits supporting the allegation
 
+**Question:** Describe the **systemic approach** to a digital forensics investigation
