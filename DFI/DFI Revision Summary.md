@@ -148,7 +148,9 @@
 
 - **Question:** Explain the differences between public and private sector investigations
 - **Answer:**
-	1. Public sector investigations
-		- Involve <u>government agencies</u> responsible for <u>criminal investigations</u> and <u>prosecution</u>
-	2. Private sector investigations
-		- Involve private companies and law
+	1. **Public sector investigations**
+		- Involve <u>government agencies</u>
+		- Responsible for <u>criminal investigations</u> and <u>prosecution</u>
+	2. **Private sector investigations**
+		- Involve <u>private companies</u> and <u>lawyers</u> 
+		- Addressing <u>violations in company policy</u> and <u>litigation disputes</u>
