@@ -140,7 +140,7 @@
 
 **Question:** Explain what is **case law**
  - **Answer:**
- 	1. The law as established by <u>outcomes of former cases</u>
+ 	1. Case law is as established by <u>outcomes of former cases</u>
  	2. Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
  	3. Examiners must be familiar with *recent court rulings* on <u>search and seizure in electronic movement</u>
 
