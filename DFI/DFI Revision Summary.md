@@ -24,5 +24,11 @@
 - Case Law
 	- What is Case Law?
 	- Why is Case Law required?
-	- 
+- Potential Challenges of digital investigators
 
+### Chapter 2 - Understanding Investigation
+- Rule of Computer Forensics (Preserve original evidence)
+- Chain of evidence form
+- Common investigation cases
+- Private sector vs public sector investigations
+- 
