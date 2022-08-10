@@ -9,16 +9,17 @@
 ## Overview of Digital Forensics
 > **Define digital forensics**:
 > - Applications of computer science and investigative procedures for legal purposes
-> - Involves: 
-> 	- proper search authority,
-> 	- chain of custody, 
-> 	- validation with mathematics, 
-> 	- use of validated tools, 
-> 	- repeatability, 
-> 	- possible expert presentation
-> 
-> - Federal Rules of Evidence (FRE) created to ensure consistency in federal proceedings
-> 
+
+
+- Involves: 
+	- proper search authority,
+	- chain of custody, 
+	- validation with mathematics, 
+	- use of validated tools, 
+	- repeatability, 
+	- possible expert presentation
+
+- Federal Rules of Evidence (FRE) created to ensure consistency in federal proceedings 
 - FBI Computer Analysis and Response Team (CART) formed in 1984 to handle cases involving digital evidence 
 - CART teamed up with the Department of Defence Computer Forensics Laboratory (DCFL) in the late 1990s
 
