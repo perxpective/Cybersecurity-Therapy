@@ -125,12 +125,8 @@
 
 ## Important Definitions
 ### Chapter 1 - Introduction to Forensics
-<details>
-	<summary>Answer here:</summary>
-	
-</details>
-**Question:** Explain the definition of **digital forensics**?
-**Answer:**
+- **Question:** Explain the definition of **digital forensics**?
+- **Answer:**
 1. Applications of computer science and investigative procedures for legal purposes
 2. Involves the following steps:
 	1. proper search authority
