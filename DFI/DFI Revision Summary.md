@@ -103,4 +103,12 @@
 - Cellular Phone Identification Number (understand **format**)
 	- MIN - mobile identity number
 	- MEID - mobile equipment ID and format
-	- IMEI - 
+	- IMEI - international mobile equipment identity
+
+**Chapter 10 - Android Forensics**
+- Define Android OS
+- Android Architecture
+- Acquisition on Android phone
+
+**Chapter 11 - iOS Forensics**
+- - 
