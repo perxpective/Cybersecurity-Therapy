@@ -71,11 +71,17 @@
 		- round up sectors required
 		- Sectors required * Sector size = Total sector size required
 		- Total sector size - File size = RAM slack
+- File slack
+		- File slack = (Size of clusters required) - (File size) - (RAM slack) 
 - File Allocation Table (FAT)
 	- Explain what is FAT, cluster size
+	- Concept of FAT
 	- Cluster made up of sectors
 	- 1 sector = 512 bytes
-
+	- Interpret specifications for FAT
+- NTFS
+	- Master File Table (MFT) - understand how NTFS files stored in NTFS system (Resident)
+	- 
 **Chapter 6 - Analysis and Validation**
 - Explain scope creep
 - Purpose and features of hexadecimal editors
