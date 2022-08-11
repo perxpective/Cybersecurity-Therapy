@@ -123,9 +123,7 @@ netstat -tunap
 ```
 
 ## Connecting to Servers
-
 ### Connecting to FTP Server
-
 1. Run wireshark and start capturing packets
 2. Type in terminal: `ftp web-server2-IP`
 3. Username: student00 or anonymous
