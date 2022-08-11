@@ -85,7 +85,8 @@
 		- Partition boot sector
 		- Master file table
 	- MFT contains all information about all files in system
-	- Understand file attributes in MFT
+	- Understand file attributes and structures in MFT
+
 **Chapter 6 - Analysis and Validation**
 - Explain scope creep
 - Purpose and features of hexadecimal editors
