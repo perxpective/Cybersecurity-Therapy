@@ -62,8 +62,15 @@
 	- What is RAM and file slack?
 	- Drive size, data/file size, cluster size, calculate RAM and file slack
 - Cluster and space required for file made up of number of sectors
-- Number of cluster to store file = (File Size)/(Cluster Size)
-- 
+- Number of cluster to store file = (File Size)/(Cluster Size) 
+	- round up clusters required
+- Cluster size determined by number of sectors
+- RAM slack
+	- Per sector size = 512 bytes in general
+	- Sectors required = (File Size)/(Sector Size)
+		- round up sectors required
+		- Sectors required * Sector size = Total sector size required
+		- Total sector size - File size = RAM slack
 - File Allocation Table (FAT)
 	- Explain what is FAT, cluster size
 	- Cluster made up of sectors
