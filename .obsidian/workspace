@@ -6,24 +6,10 @@
       {
         "id": "ad9449bb9b51720f",
         "type": "leaf",
-        "dimension": 60.12354152367879,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "91abd57e0d70d923",
-        "type": "leaf",
-        "dimension": 39.87645847632121,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
             "mode": "source",
             "source": false
           }
@@ -128,12 +114,12 @@
   },
   "active": "ad9449bb9b51720f",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+    "DFI/DFI Revision Summary.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Practical/EHD Practical 1a - Network Protocols.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "README.md.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
