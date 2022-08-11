@@ -80,8 +80,12 @@
 	- 1 sector = 512 bytes
 	- Interpret specifications for FAT
 - NTFS
-	- Master File Table (MFT) - understand how NTFS files stored in NTFS system (Resident)
-	- 
+	- Master File Table (MFT) - understand how NTFS files stored in NTFS system (Resident/Non-resident)
+	- First data set of NTFS disk - resident and non-resident 
+		- Partition boot sector
+		- Master file table
+	- MFT contains all information about all files in system
+	- Understand file attributes in MFT
 **Chapter 6 - Analysis and Validation**
 - Explain scope creep
 - Purpose and features of hexadecimal editors
