@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
+            "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
+                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md"
+                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
               }
             }
           },
@@ -114,8 +114,8 @@
   },
   "active": "ad9449bb9b51720f",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
+    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 1a - Network Protocols.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
