@@ -164,7 +164,7 @@
 	 - Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
 	 - Examiners must be familiar with *recent court rulings* on <u>search and seizure in electronic movement</u>
 
-**Question:** Explain why is **case law** is required?
+**Question:** Why is **case law** is required?
 - **Answer:**
 	- *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 
@@ -195,13 +195,13 @@
 	- **Preserve** evidence on <u>different computer</u>
 	- Set up a <u>chain of custody</u>
 
-**Question:** Explain the legal process
+**Question:** Explain the **legal process**
 - **Answer:**
 	- Criminal investigation begins when someone finds <u>evidence</u> or <u>witness of crime</u>
 	- Police <u>interviews complainant</u> and <u>writes report</u> about crime
 	- <u>Report processed</u> and management decides to <u>start investigation</u>
 	- Log information in <u>police blotter</u>
-	- <u>People involved:</u>
+	- <u>Who are the people involved></u>
 		- **Digital Evidence First Responder (DEFR)**
 			- arrives at incident scene and assesses situation 
 			- takes precautions to acquire and preserve evidence
