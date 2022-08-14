@@ -173,7 +173,7 @@
 
 #### Public & Private Sector Investigations
 **Question:** Explain the differences between public and private sector investigations
-**Answer:**
+- **Answer:**
 
 |                  | Public Sector Investigations | Private Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
@@ -221,4 +221,3 @@
 	- Create a detailed checklist
 	- Determine resources needed
 	- Obtain and copy the evidence drive
-
