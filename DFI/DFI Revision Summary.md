@@ -149,6 +149,16 @@
 ### Chapter 1 - Introduction to Digital Forensics
 
 #### Digital Forensics
+**Definition:**
 - Applications of computer science and investigative procedures for legal purposes
 - Involves the following steps:
-	- 
+	- Proper search authority
+	- Chain of custody
+	- Validation with mathematics
+	- Used of validated tools
+	- Repeatability
+	- Possible expert presentation
+
+#### Case Law
+- The law established by the outcomes of former cases
+- 
