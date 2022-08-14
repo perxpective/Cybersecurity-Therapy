@@ -7,12 +7,8 @@
         "id": "ad9449bb9b51720f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,6 +109,7 @@
   },
   "active": "ad9449bb9b51720f",
   "lastOpenFiles": [
+    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 1a - Network Protocols.md",
@@ -124,7 +118,6 @@
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "README.md.md",
-    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-    "DFI/DFI Chapter 3 - Data Acquisition.md"
+    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md"
   ]
 }
