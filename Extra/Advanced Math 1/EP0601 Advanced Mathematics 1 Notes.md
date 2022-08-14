@@ -440,7 +440,8 @@ Divide the area into $n$ subintervals and approximate using thin fundamental str
 
 Area of each strip =$[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
 Total Area $A$ = $\sum\limits^{n}_{k=1}[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
-Formula = $\int^b_a[f(x)-g(x)]dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
+Formula = $\int^{b}_{a}[f(x)-g(x)]dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
 
 ### Volume of Solid of Revolution
-Volume of solid of revolution about the **x-axis**: $$\int(f(x))^2$$
+Volume of solid of revolution about the **x-axis**: $$\int^{b}_{a}\pi[(f(x))^2-(g(x))^2]dx$$
+Similarly the volume of solid of revolution about the **y-axis**: $$\int^{b}_{a}\pi[g(y)]^2$$
