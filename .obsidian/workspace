@@ -7,8 +7,12 @@
         "id": "ad9449bb9b51720f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md"
+              }
             }
           },
           {
