@@ -147,6 +147,8 @@
 
 ## Important Explanations
 ### Chapter 1 - Introduction to Forensics
+
+#### Digital Forensics
 **Question:** What is the definition of **digital forensics**?
 - **Answer:**
 	- Applications of computer science and investigative procedures for legal purposes
@@ -158,6 +160,7 @@
 		- repeatability
 		- possible expert presentation
 
+#### Case Law
 **Question:** Explain what is **case law**
  - **Answer:**
 	 - Case law is as established by <u>outcomes of former cases</u>
@@ -168,8 +171,8 @@
 - **Answer:**
 	- *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 
+#### Public & Private Sector Investigations
 **Question:** Explain the differences between public and private sector investigations
-
 **Answer:**
 
 |                  | Public Sector Investigations | Private Sector Investigations |
@@ -218,3 +221,4 @@
 	- Create a detailed checklist
 	- Determine resources needed
 	- Obtain and copy the evidence drive
+
