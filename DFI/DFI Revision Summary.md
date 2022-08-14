@@ -149,7 +149,7 @@
 ### Chapter 1 - Introduction to Forensics
 **Question:** Explain the definition of **digital forensics**?
 <details>
-<summary>Answer</summary>
+<summary>**Answer**</summary>
 
 - Applications of computer science and investigative procedures for legal purposes
 - Involves the following steps:
@@ -163,7 +163,7 @@
 
 **Question:** Explain what is **case law**
 <details>
-<summary>Answer</summary>
+<summary>**Answer**</summary>
 
 - Case law is as established by <u>outcomes of former cases</u>
 - Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
@@ -171,11 +171,16 @@
 </details>
 
 **Question:** Explain why is **case law** is required?
-- **Answer:**
-	1. *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
+<details>
+<summary>**Answer**</summary>
+
+- *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
+</details>
 
 **Question:** Explain the differences between public and private sector investigations
-
+<details>
+<summary
+</details>
 
 |                  | Public Sector Investigations | Private Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
