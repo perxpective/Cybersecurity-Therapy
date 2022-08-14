@@ -173,7 +173,8 @@
 
 |                  | Public Sector Investigations | Private Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
-| Parties Involved | Government agencies          | Private companies and                               |
+| Parties Involved | Government agencies          | Private companies and lawyers |
+| Responsibility   | Following the legal process  | Addressing violation in company policies and litigation disputes|
 
 **Question:** Define the **chain of custody**
 - **Answer:**
