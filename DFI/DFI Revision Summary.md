@@ -169,10 +169,7 @@
 	- *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 
 **Question:** Explain the differences between public and private sector investigations
-
-<details>
-<summary></summary>
-</details>
+- **Answer:**
 |                  | Public Sector Investigations | Private Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
 | Parties Involved | Government agencies          | Private companies and lawyers |
@@ -180,21 +177,21 @@
 
 **Question:** Define the **chain of custody**
 - **Answer:**
-	1. Route that evidence takes from time it is found till case is closed or goes to court
+	- Route that evidence takes from time it is found till case is closed or goes to court
 
 **Question:** Explain how would you develop **digital forensics resources**?
 - **Answer:**
-	1. <u>Supplement knowledge</u> by developing and maintaining contact with <u>computing, network and investigative professionals</u>
-	2. Join computer groups in both <u>public</u> and <u>private</u> sectors
-	3. <u>Consult outside experts</u>
+	- <u>Supplement knowledge</u> by developing and maintaining contact with <u>computing, network and investigative professionals</u>
+	- Join computer groups in both <u>public</u> and <u>private</u> sectors
+	- <u>Consult outside experts</u>
 
 **Question:** How would prepare for a **digital forensics investigation**?
 - **Answer:**
-	1. *Objective* - <u>gather evidence</u> and **prove** suspect <u>committed a crime</u> or <u>violated company policy</u>
-	2. Collect evidence that can be <u>offered in court</u> or <u>at corporate inquiry</u>
-	3. **Investigate** the <u>suspect's computer</u>
-	4. **Preserve** evidence on <u>different computer</u>
-	5. Set up a <u>chain of custody</u>
+	- *Objective* - <u>gather evidence</u> and **prove** suspect <u>committed a crime</u> or <u>violated company policy</u>
+	- Collect evidence that can be <u>offered in court</u> or <u>at corporate inquiry</u>
+	- **Investigate** the <u>suspect's computer</u>
+	- **Preserve** evidence on <u>different computer</u>
+	- Set up a <u>chain of custody</u>
 
 **Question:** Explain the legal process
 - **Answer:**
