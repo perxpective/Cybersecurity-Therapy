@@ -149,7 +149,7 @@
 ### Chapter 1 - Introduction to Forensics
 **Question:** Explain the definition of **digital forensics**?
 <details>
-<summary>**Answer**</summary>
+<summary><strong>Answer</strong></summary>
 
 - Applications of computer science and investigative procedures for legal purposes
 - Involves the following steps:
@@ -163,7 +163,7 @@
 
 **Question:** Explain what is **case law**
 <details>
-<summary>**Answer**</summary>
+<summary><strong>Answer</strong></summary>
 
 - Case law is as established by <u>outcomes of former cases</u>
 - Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
@@ -172,20 +172,20 @@
 
 **Question:** Explain why is **case law** is required?
 <details>
-<summary>**Answer**</summary>
+<summary><strong>Answer</strong></summary>
 
 - *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 </details>
 
 **Question:** Explain the differences between public and private sector investigations
 <details>
-<summary
-</details>
+<summary><strong><strong>Answer</strong></strong></summary>
 
 |                  | Public Sector Investigations | Private Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
 | Parties Involved | Government agencies          | Private companies and lawyers |
 | Responsibility   | Following the legal process  | Addressing violation in company policies and litigation disputes|
+</details>
 
 **Question:** Define the **chain of custody**
 - **Answer:**

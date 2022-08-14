@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -106,14 +106,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 186.67056274414062,
-    "collapsed": true
+    "width": 186.67056274414062
   },
-  "active": "80f9ccb57c88205e",
+  "active": "d9549b7e8a36438f",
   "lastOpenFiles": [
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
