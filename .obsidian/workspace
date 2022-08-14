@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9449bb9b51720f",
+        "id": "80f9ccb57c88205e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -114,10 +113,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "ad9449bb9b51720f",
+  "active": "80f9ccb57c88205e",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",

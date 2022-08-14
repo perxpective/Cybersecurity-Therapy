@@ -160,9 +160,7 @@
 	- use of validated tools
 	- repeatability
 	- possible expert presentation
-
 </details>
-- **Answer:**
  	1. Applications of computer science and investigative procedures for legal purposes
  	2. Involves the following steps:
  		1. proper search authority
