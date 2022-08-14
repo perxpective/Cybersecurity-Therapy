@@ -147,7 +147,7 @@
 
 ## Important Explanations
 ### Chapter 1 - Introduction to Forensics
-**Question:** Explain the definition of **digital forensics**?
+**Question:** What is the definition of **digital forensics**?
 - **Answer:**
 	- Applications of computer science and investigative procedures for legal purposes
 	- Involves the following steps:
@@ -201,7 +201,7 @@
 	- Police <u>interviews complainant</u> and <u>writes report</u> about crime
 	- <u>Report processed</u> and management decides to <u>start investigation</u>
 	- Log information in <u>police blotter</u>
-	- <u>Who are the people involved></u>
+	- <u>Who are the people involved?</u>
 		- **Digital Evidence First Responder (DEFR)**
 			- arrives at incident scene and assesses situation 
 			- takes precautions to acquire and preserve evidence
