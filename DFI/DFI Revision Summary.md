@@ -181,15 +181,16 @@
 <details>
 <summary><strong><strong>Answer</strong></strong></summary>
 
-|                  | Public Sector Investigations | Private Sector Investigations |
-| ---------------- | ---------------------------- | ----------------------------- |
-| Parties Involved | Government agencies          | Private companies and lawyers |
-| Responsibility   | Following the legal process  | Addressing violation in company policies and litigation disputes|
+|                  | Public Sector Investigations | Private Sector Investigations                                    |
+| ---------------- | ---------------------------- | ---------------------------------------------------------------- |
+| Parties Involved | Government agencies          | Private companies and lawyers                                    |
+| Responsibility   | Following the legal process  | Addressing violation in company policies and litigation disputes |
 </details>
 
 **Question:** Define the **chain of custody**
-- **Answer:**
-	1. Route that evidence takes from time it is found till case is closed or goes to court
+<details><strong>Answer</strong></details>
+<
+Route that evidence takes from time it is found till case is closed or goes to court
 
 **Question:** Explain how would you develop **digital forensics resources**?
 - **Answer:**
