@@ -188,9 +188,11 @@
 </details>
 
 **Question:** Define the **chain of custody**
-<details><strong>Answer</strong></details>
-<
-Route that evidence takes from time it is found till case is closed or goes to court
+<details>
+<summary><strong>Answer</strong></summary>
+
+- Route that evidence takes from time it is found till case is closed or goes to court
+</details>
 
 **Question:** Explain how would you develop **digital forensics resources**?
 - **Answer:**
