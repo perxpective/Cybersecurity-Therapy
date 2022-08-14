@@ -159,13 +159,10 @@
 		- possible expert presentation
 
 **Question:** Explain what is **case law**
-<details>
-<summary>Answer:</summary>
-
-- Case law is as established by <u>outcomes of former cases</u>
-- Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
-- Examiners must be familiar with *recent court rulings* on <u>search and seizure in electronic movement</u>
-</details>
+ - **Answer:**
+	 - Case law is as established by <u>outcomes of former cases</u>
+	 - Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
+	 - Examiners must be familiar with *recent court rulings* on <u>search and seizure in electronic movement</u>
 
 **Question:** Why is **case law** is required?
 - **Answer:**
@@ -216,3 +213,4 @@
 
 **Question:** Describe the **systemic approach** to a digital forensics investigation
 - **Answer:**
+	- Make an initial assessment 

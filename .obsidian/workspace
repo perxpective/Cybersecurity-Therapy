@@ -13,8 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "5e3cb1ef2aab20d6"
+        }
       },
       {
         "id": "1993980a5b8e5ca4",
@@ -22,12 +21,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
+            "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "5e3cb1ef2aab20d6"
+        }
       }
     ],
     "direction": "vertical"
@@ -129,8 +127,8 @@
   },
   "active": "f11bb8c274540a30",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
