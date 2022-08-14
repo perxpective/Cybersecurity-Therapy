@@ -213,4 +213,3 @@
 
 **Question:** Describe the **systemic approach** to a digital forensics investigation
 - **Answer:**
-	- 
