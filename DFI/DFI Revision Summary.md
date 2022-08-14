@@ -169,7 +169,9 @@
 	- *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 
 **Question:** Explain the differences between public and private sector investigations
-- **Answer:**
+
+**Answer:**
+
 |                  | Public Sector Investigations | Private Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
 | Parties Involved | Government agencies          | Private companies and lawyers |
@@ -195,18 +197,20 @@
 
 **Question:** Explain the legal process
 - **Answer:**
-	1. Criminal investigation begins when someone finds <u>evidence</u> or <u>witness of crime</u>
-	2. Police <u>interviews complainant</u> and <u>writes report</u> about crime
-	3. <u>Report processed</u> and management decides to <u>start investigation</u>
-	4. Log information in <u>police blotter</u>
-	5. <u>People involved:</u>
-		1. **Digital Evidence First Responder (DEFR)**
+	- Criminal investigation begins when someone finds <u>evidence</u> or <u>witness of crime</u>
+	- Police <u>interviews complainant</u> and <u>writes report</u> about crime
+	- <u>Report processed</u> and management decides to <u>start investigation</u>
+	- Log information in <u>police blotter</u>
+	- <u>People involved:</u>
+		- **Digital Evidence First Responder (DEFR)**
 			- arrives at incident scene and assesses situation 
 			- takes precautions to acquire and preserve evidence
-		2. **Digital Evidence Specialist (DES)**
+		- **Digital Evidence Specialist (DES)**
 			- Has skill to analyse data and determine if another analyst should be called for assistance
-	6. **Affidavit**
+	- **Affidavit**
 		- Sworn statement of support of facts or evidence about crime
 		-  Includes exhibits supporting the allegation
 
 **Question:** Describe the **systemic approach** to a digital forensics investigation
+- **Answer:**
+	- 
