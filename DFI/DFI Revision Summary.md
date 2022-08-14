@@ -213,4 +213,8 @@
 
 **Question:** Describe the **systemic approach** to a digital forensics investigation
 - **Answer:**
-	- Make an initial assessment 
+	- Make an initial assessment about type of case being investigated
+	- Determine preliminary design or approach to the case
+	- Create a detailed checklist
+	- Determine resources needed
+	- Obtain and copy the evidence drive
