@@ -59,7 +59,7 @@ Two categories of investigations:
 * They can reduce the risk of litigation:
 	* By publishing and maintaining policies that are easy for employees to read and follow
 * **Acceptable Use Policy** -> defines rules for using company computers and networks
-* **Line of Authority** → states who have legal right to initiate an investigation and who can take possession of evidence and have access to evidence
+* **Line of Authority** -> states who have legal right to initiate an investigation and who can take possession of evidence and have access to evidence
 * Businesses can avoid litigation by displaying a warning banner on computer screens
 	* Inform the user that organization reserves the right to inspect computer systems and network traffic at will
 	* Most common types of situations:

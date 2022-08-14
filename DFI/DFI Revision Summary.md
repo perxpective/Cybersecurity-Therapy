@@ -214,6 +214,8 @@
 		- Sworn statement of support of facts or evidence about crime
 		-  Includes exhibits supporting the allegation
 
+
+
 **Question:** Describe the **systemic approach** to a digital forensics investigation
 - **Answer:**
 	- Make an initial assessment about type of case being investigated
@@ -221,3 +223,4 @@
 	- Create a detailed checklist
 	- Determine resources needed
 	- Obtain and copy the evidence drive
+
