@@ -148,7 +148,6 @@
 ## Important Explanations
 ### Chapter 1 - Introduction to Forensics
 **Question:** Explain the definition of **digital forensics**?
-
 <details>
 <summary>Answer</summary>
 
@@ -176,7 +175,7 @@
 	1. *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 
 **Question:** Explain the differences between public and private sector investigations
-- **Answer:**
+
 
 |                  | Public Sector Investigations | Private Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
