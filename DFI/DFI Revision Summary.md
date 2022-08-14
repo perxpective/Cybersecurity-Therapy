@@ -148,51 +148,37 @@
 ## Important Explanations
 ### Chapter 1 - Introduction to Forensics
 **Question:** Explain the definition of **digital forensics**?
-<details>
-<summary><strong>Answer</strong></summary>
-
-- Applications of computer science and investigative procedures for legal purposes
-- Involves the following steps:
-	- proper search authority
-	- chain of custody
-	- validation with mathematics
-	- use of validated tools
-	- repeatability
-	- possible expert presentation
-</details>
+- **Answer:**
+ 	1. Applications of computer science and investigative procedures for legal purposes
+ 	2. Involves the following steps:
+ 		1. proper search authority
+ 		2. chain of custody
+ 		3. validation with mathematics
+ 		4. use of validated tools
+ 		5. repeatability
+ 		6. possible expert presentation
 
 **Question:** Explain what is **case law**
-<details>
-<summary><strong>Answer</strong></summary>
-
-- Case law is as established by <u>outcomes of former cases</u>
-- Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
-- Examiners must be familiar with *recent court rulings* on <u>search and seizure in electronic movement</u>
-</details>
+ - **Answer:**
+ 	1. Case law is as established by <u>outcomes of former cases</u>
+ 	2. Used by allowing *legal counsel* to <u>apply previous similar cases</u> to current one to <u>handle ambiguity in laws</u>
+ 	3. Examiners must be familiar with *recent court rulings* on <u>search and seizure in electronic movement</u>
 
 **Question:** Explain why is **case law** is required?
-<details>
-<summary><strong>Answer</strong></summary>
-
-- *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
-</details>
+- **Answer:**
+	1. *Existing laws* cannot <u>keep up</u> with the <u>rate of technological advancement</u>
 
 **Question:** Explain the differences between public and private sector investigations
-<details>
-<summary><strong><strong>Answer</strong></strong></summary>
+- **Answer:**
 
-|                  | Public Sector Investigations | Private Sector Investigations                                    |
-| ---------------- | ---------------------------- | ---------------------------------------------------------------- |
-| Parties Involved | Government agencies          | Private companies and lawyers                                    |
-| Responsibility   | Following the legal process  | Addressing violation in company policies and litigation disputes |
-</details>
+|                  | Public Sector Investigations | Private Sector Investigations |
+| ---------------- | ---------------------------- | ----------------------------- |
+| Parties Involved | Government agencies          | Private companies and lawyers |
+| Responsibility   | Following the legal process  | Addressing violation in company policies and litigation disputes|
 
 **Question:** Define the **chain of custody**
-<details>
-<summary><strong>Answer</strong></summary>
-
-- Route that evidence takes from time it is found till case is closed or goes to court
-</details>
+- **Answer:**
+	1. Route that evidence takes from time it is found till case is closed or goes to court
 
 **Question:** Explain how would you develop **digital forensics resources**?
 - **Answer:**
