@@ -147,3 +147,8 @@
 
 ## Chapter Summaries
 ### Chapter 1 - Introduction to Digital Forensics
+
+#### Digital Forensics
+- Applications of computer science and investigative procedures for legal purposes
+- Involves the following steps:
+	- 
