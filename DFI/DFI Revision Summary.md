@@ -160,5 +160,7 @@
 	- Possible expert presentation
 
 #### Case Law
+**Definition:**
 - The law established by the outcomes of former cases
-- 
+- <u>Why is it required?</u>
+	- Existing laws cannot keep up with the rate of technolog
