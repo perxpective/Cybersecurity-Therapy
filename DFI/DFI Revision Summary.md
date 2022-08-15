@@ -242,7 +242,6 @@
 	- Information on hard disks can be **password-protected** so forensics tools needed for investigation
 
 #### Company Violation
-> Employees misusing company resources can cost companies millions of dollars
 - **What are some examples of misusing company resources?**
 	- Surfing the internet
 	- Sending personal emails
@@ -311,4 +310,10 @@
 		- **Examples:**
 			- Viewing pornography in the workplace
 			- Sending inappropriate emails
-		- Organisations must 
+- **Internet Abuse Investigations**
+	- **Requirements for Investigations:**
+		- Organization Internet Proxy Logs
+		- Suspect computer's IP address
+		- Suspect computer's disk drive
+		- Preferred forensics analysis tool
+	- **S**
