@@ -340,4 +340,6 @@
 	- All suspected industrial espionage cases should be treated as criminal cases
 	- **What are the staff needed for industrial espionage cases?**
 		- **Computing Investigator** -> disk forensics investigations
-		- **Technology Speci**
+		- **Technology Specialist** -> Knowledgeable about suspected compromised data
+		- **Network Specialist** -> Perform log analysis and set up network sniffers
+		- **Threat Assessment Specialist** -> Typically an attorney
