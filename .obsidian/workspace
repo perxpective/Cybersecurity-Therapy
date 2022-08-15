@@ -6,6 +6,7 @@
       {
         "id": "cbf7b02162dc56fd",
         "type": "leaf",
+        "dimension": 59.17001338688086,
         "state": {
           "type": "markdown",
           "state": {
@@ -13,21 +14,20 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "a8776cffbbf12ada"
+        }
       },
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
+        "dimension": 40.82998661311915,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
+            "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "a8776cffbbf12ada"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 305.5078125,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md"
               }
             }
           },
@@ -127,12 +128,12 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "cbf7b02162dc56fd",
+  "active": "3ed58b1c377d2880",
   "lastOpenFiles": [
-    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
