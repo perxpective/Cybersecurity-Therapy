@@ -195,4 +195,11 @@
 		- **Description:**
 			- Has the skill to analyse data and determine when another analyst should be called for assistance
 - **What is Affidavit?**
-	- Sworn statement of support of facts or evidence ab
+	- Sworn statement that supports facts or evidence about a crime
+	- Include exhibits that support the allegation
+
+#### Private-Sector Investigations
+- **Objectives:**
+	- Minimize or eliminate litigation
+	- **How to reduce risk of litigation?**
+		- Publishing and maintain
