@@ -1,6 +1,6 @@
 {
   "defaultViewMode": "source",
-  "legacyEditor": true,
+  "legacyEditor": false,
   "promptDelete": false,
   "spellcheck": true,
   "readableLineLength": true,
@@ -23,5 +23,8 @@
   "spellcheckLanguages": [
     "en-GB"
   ],
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "spellcheckDictionary": [
+    "Securable"
+  ]
 }

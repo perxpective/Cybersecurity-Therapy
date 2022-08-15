@@ -401,3 +401,6 @@
 - **What are the steps to gathering evidence?**
 	- Meet the IT manager to interview
 	- Fill up the evidence form and have IT manager sign
+	- Place evidence in secure container
+	- Complete evidence custody form
+	- Secure evidence by locking container
