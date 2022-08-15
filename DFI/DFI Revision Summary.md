@@ -335,4 +335,5 @@
 		- **Obtain** electronic copy of *suspect* and *victim* email **folder** or **data**
 		- **Web-Based Email Investigations:**
 			- Use tools such as **FTK Internet Keyboard Search** to extract all **related email address information**
-		- 
+		- Examine **header data** of all *messages of interest* to investigation
+	- 
