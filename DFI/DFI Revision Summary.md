@@ -304,9 +304,9 @@
 
 #### Private-Sector Investigations
 - **Employee Termination Cases**
-	- Involves employee abuse of corporate assets
+	- Involves employee **abuse of corporate assets**
 	- **Cases investigated:**
-		- Incidents that create a hostile work environment
+		- Incidents that create a **hostile work environment**
 		- **Examples:**
 			- Viewing pornography in the workplace
 			- Sending inappropriate emails
@@ -316,4 +316,7 @@
 		- Suspect computer's IP address
 		- Suspect computer's disk drive
 		- Preferred forensics analysis tool
-	- **S**
+	- **Recommended Steps:**
+		- Use standard forensics analysis techniques and procedures
+		- Use suitable tools to extract all web page URL information
+		- Contact network firewall administrators to request for proxy server log
