@@ -39,8 +39,9 @@
 8. Return evidence to secure container
 9. Process copied evidence with forensics tools
 
-> - Evidence custody form helps document what has been done with original evidence and forensics copies (chain-of-evidence form)
-> - Two types:  - Single-evidence form (Lists each piece of evidence on a separate page)
+ - Evidence custody form helps document what has been done with original evidence and forensics copies (chain-of-evidence form) 
+- Two types: 
+	- Single-evidence form (Lists each piece of evidence on a separate page)
 	- Multi-evidence form
 - Contains the following:
 	- Model number or serial number
@@ -134,13 +135,13 @@
 
 ### Interview and Interrogations in High-Tech Investigations
 > - Definition of **Interview**: conducted to collect information from witness or suspect about specific facts related to investigation.
-
+> 
 > - Definition of **Interrogation**: process of getting a suspect to confess
 
 #### Role of a Computing Investigator:
 - Instruct the investigator who is conducting the interview on what questions to ask and what the answers should be
 
-> Ingredients for a Successful Interview/Interrogation
+> **Ingredients for a Successful Interview/Interrogation**
 > - Being patient throughout interview session
 > - Repeating or rephrasing questions to zero in on specific facts from reluctant witness or suspect
 > - Being tenacious
@@ -162,7 +163,7 @@
 - USB ports
 
 ## Conducting an Investigation
-<u>Items needed:</u>
+**Items needed:**
 - Original storage media
 - Evidence custody form
 - Evidence container for storage media
@@ -171,7 +172,7 @@
 - Securable evidence locker, cabinet or safe 
 
 ## Gathering the Evidence
-### Steps
+**Steps:**
 1. Meet IT manager to interview
 2. Fill evidence form and have IT manager to sign
 3. Place evidence in secure container
@@ -202,7 +203,7 @@
 - Explain computer and network processes
 
 ## Critiquing the Case
-### Questions
+**Questions:**
 - How can you improve your performance in the case?
 - Did you expect the results found? 
 - Did case developed into ways you did not expect?
