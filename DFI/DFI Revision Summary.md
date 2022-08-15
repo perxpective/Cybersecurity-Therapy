@@ -249,13 +249,13 @@
 
 #### System Approach to Digital Forensics Investigations
 - **Steps Taken (MDCDOITACC):**
-	- Make initial assessment about type of case being investigated
-	- Determine preliminary design or approach case
-	- Create detailed checklist
-	- Determine resources needed
-	- Obtain and copy evidence drive
-	- Identify risks
-	- Test the design
+	- Make **initial assessment** about *type* of case being investigated
+	- Determine **preliminary design** or **approach case**
+	- Create **detailed checklist**
+	- Determine **resources** needed
+	- **Obtain** and **copy** evidence drive
+	- Identify **risks**
+	- **Test** the *design*
 	- Analyse and recover digital evidence
 	- Complete the case report
 	- Critique the case (self-evaluation for improvement)
@@ -287,9 +287,9 @@
 	- Single-evidence form (lists each piece of evidence on separate page)
 	- Multi-evidence form
 - **What should an evidence form contain?**
-	- Model number or serial number
-	- Name of investigator who recovered the evidence
-	- Date and time evidence was taken into custody
+	- *Model number* or *serial number*
+	- *Name of investigator* who recovered the evidence
+	- *Date and time* evidence was taken into custody
 
 #### Securing Evidence
 - **How to secure evidence?**
