@@ -12,7 +12,7 @@
           "state": {
             "file": "DFI/DFI Revision Summary.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
@@ -24,8 +24,8 @@
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
-            "mode": "preview",
-            "source": true
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md"
               }
             }
           },
@@ -128,10 +128,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "cbf7b02162dc56fd",
+  "active": "3ed58b1c377d2880",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",

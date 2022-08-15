@@ -8,7 +8,7 @@
   "communityPluginSortOrder": "download",
   "showLineNumber": false,
   "tabSize": 4,
-  "livePreview": false,
+  "livePreview": true,
   "showFrontmatter": false,
   "pdfExportSettings": {
     "pageSize": "A4",
