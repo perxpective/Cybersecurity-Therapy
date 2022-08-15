@@ -372,4 +372,4 @@
 - **Definition of Interviews:**
 	- Conducted to collect information from witness or suspect about specific facts related to investigation
 - **Definition of Interrogation:**
-	- Process of getting a suspect to ****
+	- Process of getting a suspect to **confess**
