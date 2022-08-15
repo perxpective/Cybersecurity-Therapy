@@ -4,26 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7b6065028d1c8c",
+        "id": "3ed58b1c377d2880",
         "type": "leaf",
-        "dimension": 41.467065868263475,
+        "dimension": 44.72285497342445,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+            "file": "DFI/DFI Revision Summary.md",
             "mode": "preview",
             "source": false
           }
         }
       },
       {
-        "id": "3ed58b1c377d2880",
+        "id": "7e7b6065028d1c8c",
         "type": "leaf",
-        "dimension": 58.532934131736525,
+        "dimension": 55.277145026575546,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
+            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
             "mode": "preview",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DFI",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -127,11 +127,11 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "7e7b6065028d1c8c",
+  "active": "3ed58b1c377d2880",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
