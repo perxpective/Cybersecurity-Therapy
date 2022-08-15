@@ -190,4 +190,9 @@
 	- Digital Evidence First Responder
 		- **Description:**
 			- Arrives at incident scene and **assesses situation**
-			- Takes **precautions** to **acquire** and preserve evidence
+			- Takes **precautions** to **acquire and preserve evidence**
+	- Digital Evidence Specialist
+		- **Description:**
+			- Has the skill to analyse data and determine when another analyst should be called for assistance
+- **What is Affidavit?**
+	- Sworn statement of support of facts or evidence ab
