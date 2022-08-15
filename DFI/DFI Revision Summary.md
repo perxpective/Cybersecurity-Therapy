@@ -179,4 +179,10 @@
 |                  | Public-Sector Investigations | Private-Sector Investigations |
 | ---------------- | ---------------------------- | ----------------------------- |
 | Parties Involved | Government agencies          | Private companies and lawyers |
-| Objectives       | Follow the legal process     | Discuss                               |
+| Objectives       | Follow the legal process     | Address company policy violations and litigation disputes                              |
+
+#### Legal Process
+- **Steps:**
+	- Criminal investigation begins when someone finds evidence or witness of crime
+	- Police **interviews complainant** and **writes report about the crime**
+	- Report is processed and management decides to start investigation or log information in **police blotter**
