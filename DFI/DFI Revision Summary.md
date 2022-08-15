@@ -223,4 +223,6 @@
 
 #### Preparing for a Digital Forensics Investigation
 - **Objective**
-	- Gather evidence 
+	- Gather evidence to prove a suspect committed a crime or violated company policy
+- **How to conduct a digital forensics investigation?**
+	- Collect evidence that can be offered in cour
