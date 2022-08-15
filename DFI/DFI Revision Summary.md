@@ -147,7 +147,6 @@
 
 ## Chapter Summaries
 ### Chapter 1 - Introduction to Digital Forensics
-
 #### Digital Forensics
 - **Definition:**
 	- Applications of computer science and investigative procedures for legal purposes
@@ -217,3 +216,5 @@
 	- Internet abuse
 
 #### Maintaining Professional Conduct
+**How can investigators maintain a high level of professional conduct?**
+- Maintain 
