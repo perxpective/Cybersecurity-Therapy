@@ -295,4 +295,7 @@
 #### Securing Evidence
 - **How to secure evidence?**
 	- Use evidence bag to secure and catalogue evidence
-	- Use computer safe prof
+	- Use computer safe products when collecting computer evidence (antistatic bags and pads)
+	- Use well-padded containers
+	- Use evidence tape to seal all openings
+		- CD drive bays and insertion slots for o
