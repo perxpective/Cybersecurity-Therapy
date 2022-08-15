@@ -406,8 +406,9 @@
 	- Secure evidence by locking container
 
 #### Bit-stream Copies
-- **Explanation:**
+- **Definition:**
 	- Bit-by-bit copy of original storage medium
 	- Exact copy of original disk
+- ?**
 	- Backup software only copies known files
 	- Backup software cannot copy deleted files, email messages or recover file fragments

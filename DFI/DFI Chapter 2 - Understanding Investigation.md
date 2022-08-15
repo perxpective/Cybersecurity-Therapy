@@ -183,8 +183,9 @@
 ## Bit-Stream Copies
 - Bit-by-bit copy of original storage medium
 - Exact copy of original disk
-- Backup software only copies known files
-- Backup software cannot copy deleted files, email messages or recover file fragments
+- Different from simple backup copy:
+	- Backup software only copies known files
+	- Backup software cannot copy deleted files, email messages or recover file fragments
 
 ### Bit-Stream Image
 - File containing bit-stream copy of all data on disk or partition
