@@ -80,11 +80,6 @@
 - Contact network firewall administrator to request for proxy server log
 - Compare data recovered from forensic analysis to proxy server log
 - Continue analysing computer disk drive data
-- Use standard forensic analysis techniques and procedures
-- Use appropriate tools to extract all web page URL information
-- Contact network firewall administrator to request for proxy server log
-- Compare data recovered from forensic analysis to proxy server log
-- Continue analysing computer disk drive data
 
 ### Email Abuse Investigations
 #### Requirements for Investigations:
