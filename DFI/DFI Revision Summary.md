@@ -248,13 +248,18 @@
 	- Sending personal emails
 	- Using company computers for personal uses
 
-#### Systemic Approach
+#### System Approach to Digital Forensics Investigations
 - **Steps Taken:**
 	1. Make initial assessment about type of case being investigated
 	2. Determine preliminary design or approach case
 	3. Create detailed checklist
 	4. Determine resources needed
 	5. Obtain and copy evidence drive
+	6. Identify risks
+	7. Test the design
+	8. Analyse and recover digital evidence
+	9. Complete the case report
+	10. Critique the case (self-evaluation for improvement)
 
 ### Chapter 2 - Understanding Investigation
-####
+#### Assessing the Case
