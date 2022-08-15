@@ -303,4 +303,6 @@
 	- Write initials on tape to prove evidence is not tampered with
 	- Consider computer specific temperature and humidity ranges
 
-#### Procedures for Private-Sector Investigations
+#### Private-Sector Investigations
+- **Employee Termination Cases**
+	- 
