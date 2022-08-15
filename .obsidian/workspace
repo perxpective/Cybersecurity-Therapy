@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -128,10 +128,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "3ed58b1c377d2880",
+  "active": "cbf7b02162dc56fd",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "DFI/DFI Revision Summary.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",

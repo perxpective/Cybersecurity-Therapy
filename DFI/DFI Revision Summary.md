@@ -368,3 +368,8 @@
 		- Review investigation scope with management and corporate attorneys
 		- Gather resources to conduct the investigation
 
+#### Interviews and Interrogations
+- **Definition of Interviews:**
+	- Conducted to collect information from witness or suspect about specific facts related to investigation
+- **Definition of Interrogation:**
+	- Process of getting a suspect to ****
