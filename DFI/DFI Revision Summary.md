@@ -293,4 +293,6 @@
 	- Date and time evidence was taken into custody
 
 #### Securing Evidence
-- 
+- **How to secure evidence?**
+	- Use evidence bag to secure and catalogue evidence
+	- Use computer safe prof

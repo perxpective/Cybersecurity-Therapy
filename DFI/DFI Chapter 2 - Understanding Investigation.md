@@ -49,7 +49,7 @@
 > 	- Date and time
 
 ## Securing Evidence
-- Use evidence to secure bags and catalogue evidence
+- Use evidence bags to secure and catalogue evidence
 - Use computer safe products when collecting computer evidence (e.g. antistatic bags and pads)
 - Use well padded containers
 - Use evidence tape to seal all openings
@@ -63,8 +63,8 @@
 ### Employee Termination Cases
 - The majority of investigative work for termination cases involves employee abuse of corporate assets
 - Incidents that create a hostile work environment are the predominant types of cases investigated
-  - Viewing pornography in the workplace
-  - Sending inappropriate e-mails
+	- Viewing pornography in the workplace
+	- Sending inappropriate e-mails
 - Organizations must have appropriate policies in place (consult with HR)
 
 ### Internet Abuse Investigations
