@@ -114,9 +114,9 @@
 
 | Advantages                     | Disadvantages                                       |
 | ------------------------------ | --------------------------------------------------- |
-| easy to use                    | Excessive resource requirements                     |
-| multitasking                   | Produce inconsistent results due to type of OS used |
-| no need for learning older OSs | Create tool dependencies                            |
+| Easy to use                    | Excessive resource requirements                     |
+| Multitasking                   | Produce inconsistent results due to type of OS used |
+| No need for learning older OSs | Create tool dependencies                            |
 
 ## Forensic Workstations
 - Categories
