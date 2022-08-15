@@ -282,3 +282,6 @@
 	- Make **forensic copy** of evidence
 	- **Return** evidence to secure container
 	- **Process** copied evidence with **forensics tools**
+- **Purpose of chain-of-evidence (Evidence Custody Form):**
+	- Help document what has been done with original evidence and forensics copies
+- 

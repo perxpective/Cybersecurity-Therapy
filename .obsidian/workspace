@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -125,10 +125,10 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "a131e937a06364fe",
+  "active": "a9ffbdc83b260556",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/Untitled.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
