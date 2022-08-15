@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.50484466552734
+    "width": 223.00175094604492
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -127,10 +127,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "3ed58b1c377d2880",
+  "active": "7e7b6065028d1c8c",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "DFI/DFI Revision Summary.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
