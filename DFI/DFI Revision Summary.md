@@ -381,4 +381,4 @@
 	- Being tenacious
 
 #### Understanding Data Recovery Workstations and Software
-- **Computer **
+- **What are the basic requirements for a digital forensics works**
