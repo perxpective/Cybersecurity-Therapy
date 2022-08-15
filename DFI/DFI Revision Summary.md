@@ -317,6 +317,11 @@
 		- Suspect computer's **disk drive**
 		- Preferred **forensics analysis tool**
 	- **Recommended Steps:**
-		- Use standard forensics analysis techniques and procedures
+		- Use standard forensics analysis **techniques** and **procedures**
 		- Use suitable tools to extract all **web page URL information**
-		- Contact **network firewall administrators** to **request for proxy server log**
+		- Contact **network firewall administrators** to request for **proxy server log**
+
+**Table Summary:**
+|                                 | Internet Abuse | Email Abuse |
+| ------------------------------- | -------------- | ----------- |
+| Requirements for Investigations |                |             |
