@@ -374,10 +374,10 @@
 - **Definition of Interrogation:**
 	- Process of getting a suspect to **confess**
 - **What is the role of a computing investigator?**
-	- Instruct the investigator who is conducting the interview on what questions to ask, and what the answers should be
+	- **Instruct** the investigator who is conducting the interview on what questions to ask, and what the answers should be
 - **What are the ingredients for a successful interview?**
-	- Being patient throughout the interview
-	- Repeating or rephrasing questions to zero in on specific facts from reluctant interviewees (suspect or witness)
+	- Being **patient** throughout the interview
+	- **Repeating** or **rephrasing** questions to zero in on specific facts from **reluctant** interviewees (*suspect* or *witness*)
 	- Being tenacious
 
 #### Understanding Data Recovery Workstations and Software
@@ -407,28 +407,28 @@
 
 #### Bit-stream Copies
 - **Definition:**
-	- Bit-by-bit copy of original storage medium
-	- Exact copy of original disk
+	- **Bit-by-bit copy** of original storage medium
+	- **Exact copy** of original disk
 - **Why are they different from simple backup copies?**
 	- Backup software only copies known files
 	- Backup software cannot copy deleted files, email messages or recover file fragments
 
 #### Acquiring Image of Evidence Media
 - **Guidelines:**
-	- Preserve the original evidence
-	- Only conduct analysis on the copy of the data
-	- Windows tools require write-blocking device when acquiring data from FAT or NTFS file systems
+	- **Preserve** the *original evidence*
+	- Only conduct analysis on the **copy of the data**
+	- Windows tools require **write-blocking device** when acquiring data from **FAT** or **NTFS** file systems
 
 #### Completing the Evidence
 - **Steps:**
 	- Produce **final report**
 		- state what was **done** and what was **found**
-	- **Repeat** steps to **produce** the <u>same results</u>
-	- Use report template if required
-		- report should show conclusive evidence
-	- Keep journal of everything that was done during the investigation
-	- Answer the 5W1H
-	- Explain the computer and network processes
+	- **Repeat** steps to **produce** the *same results*
+	- Use **report template** if required
+		- report should show **conclusive evidence**
+	- Keep **journal** of everything that was done during the investigation
+	- **Answer** the 5W1H
+	- Explain the **computer** and **network processes**
 
 #### Critiquing the Case
 - **Questions to ask: (HDDWWDD)**
