@@ -305,4 +305,10 @@
 
 #### Private-Sector Investigations
 - **Employee Termination Cases**
-	- 
+	- Involves employee abuse of corporate assets
+	- **Cases investigated:**
+		- Incidents that create a hostile work environment
+		- **Examples:**
+			- Viewing pornography in the workplace
+			- Sending inappropriate emails
+		- Organisations must 
