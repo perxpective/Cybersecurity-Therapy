@@ -249,7 +249,7 @@
 	- Using company computers for personal uses
 
 #### System Approach to Digital Forensics Investigations
-- **Steps Taken:**
+- **Steps Taken (MDCDOITACC):**
 	- Make initial assessment about type of case being investigated
 	- Determine preliminary design or approach case
 	- Create detailed checklist
@@ -263,7 +263,7 @@
 
 ### Chapter 2 - Understanding Investigation
 #### Case Assessment
-- **Case details to outline:**
+- **Case details to outline: (SNSTKL)**
 	- Situation
 	- Nature of case
 	- Specifics of case
@@ -276,4 +276,6 @@
 	- **Acquire** evidence
 	- **Complete evidence form** and **establish chain of custody**
 	- **Transfer** evidence to **computer forensics lab**
-	- 
+	- **Secure** evidence in **approved secure container**
+	- **Prepare** forensics workstation
+	- Retrieve evidence from 
