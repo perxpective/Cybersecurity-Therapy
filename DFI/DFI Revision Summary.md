@@ -200,6 +200,10 @@
 
 #### Private-Sector Investigations
 - **Objectives:**
-	- Minimize or eliminate litigation
+	- **Minimize** or **eliminate** litigation
 	- **How to reduce risk of litigation?**
-		- Publishing and maintain
+		- **Publishing** and maintaining **policies** that are easy for employees to **read** and **follow**
+- **What is Acceptance Use Policy?**
+	- Defines rules for using company computers and networks
+- **What is Line of Authority?**
+	- States who have legal right
