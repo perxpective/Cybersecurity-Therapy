@@ -359,4 +359,11 @@
 		- **Determine** suspect **location** in relation to **vulnerable asset**
 		- **Study** suspect's work **habits**
 		- **Collect** all *incoming* and *outgoing* **phone logs**
-	- **What are the steps to conducting an**
+	- **What are the steps to conducting an industrial espionage case?**
+		- Gather all personnel assigned to investigation and brief them on the plan
+		- Place surveillance systems at key locations
+		- Discreetly gather any additional evidence
+		- Collect all log data from networks and email servers
+		- Report regularly to management and corporate attorneys
+		- Review investigation scope with management and corporate attorneys
+		- Gather resources to conduct 
