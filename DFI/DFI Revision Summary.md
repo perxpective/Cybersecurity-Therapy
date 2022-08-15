@@ -360,21 +360,21 @@
 		- **Study** suspect's work **habits**
 		- **Collect** all *incoming* and *outgoing* **phone logs**
 	- **What are the steps to conducting an industrial espionage case?**
-		- Gather all personnel assigned to investigation and brief them on the plan
-		- Place surveillance systems at key locations
-		- Discreetly gather any additional evidence
-		- Collect all log data from networks and email servers
-		- Report regularly to management and corporate attorneys
-		- Review investigation scope with management and corporate attorneys
+		- **Gather** all personnel assigned to investigation and **brief** them on the plan
+		- **Place** surveillance systems at **key locations**
+		- **Discreetly gather** any additional evidence
+		- **Collect** all **log data** from *networks* and *email* servers
+		- **Report** regularly to **management** and **corporate attorneys**
+		- **Review** investigation scope with management and corporate attorneys
 		- Gather resources to conduct the investigation
 
 #### Interviews and Interrogations
 - **Definition of Interviews:**
-	- Conducted to collect information from witness or suspect about specific facts related to investigation
+	- Conducted to **collect information** from *witness* or *suspect* about specific facts related to investigation
 - **Definition of Interrogation:**
 	- Process of getting a suspect to **confess**
 - **What is the role of a computing investigator?**
-	- **Instruct** the investigator who is conducting the interview on what questions to ask, and what the answers should be
+	- **Instruct** the investigator who is conducting the interview on **what questions to ask**, and **what the answers should be**
 - **What are the ingredients for a successful interview?**
 	- Being **patient** throughout the interview
 	- **Repeating** or **rephrasing** questions to zero in on specific facts from **reluctant** interviewees (*suspect* or *witness*)
