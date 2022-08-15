@@ -226,3 +226,10 @@
 	- Gather evidence to prove a suspect **committed a crime** or **violated company policy**
 - **How to conduct a digital forensics investigation?**
 	- Collect evidence that can be **offered in court** or at **corporate inquiry**
+	- Investigate suspect's computer
+	- Preserve evidence on different computer (forensics workstation)
+- **What is a Chain of Custody?**
+	- Route that evidence takes from the time it is found until case is closed or goes to court
+
+#### Computer Crime
+- **What can information in **
