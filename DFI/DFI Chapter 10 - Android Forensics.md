@@ -21,8 +21,8 @@
 	- Take picture of location using a camera
 - Chain of custody:
 
-> - Document to maintain each record of digital evidence from collection to presentation
-> - Another part of documentation is:
+ - Document to maintain each record of digital evidence from collection to presentation
+ - Another part of documentation is:
 > 	- Taking pictures of crime scene
 > 	- Acquiring the following:
 > 		- Original state of mobile device

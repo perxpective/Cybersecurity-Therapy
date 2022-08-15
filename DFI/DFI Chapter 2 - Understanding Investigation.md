@@ -151,7 +151,7 @@
 - Specially configured PC
 - Loaded with additional bays and forensics software
 - Write-blockers devices
-  - Allows you to boot to Windows without writing data to evidence drive
+	- Allows you to boot to Windows without writing data to evidence drive
 
 ### Basic Requirements
 - Workstation running Windows XP or later
