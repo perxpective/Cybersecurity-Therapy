@@ -6,7 +6,7 @@
       {
         "id": "7e7b6065028d1c8c",
         "type": "leaf",
-        "dimension": 42.866622428666226,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,11 +19,11 @@
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
-        "dimension": 57.133377571333774,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+            "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
             "mode": "preview",
             "source": false
           }
@@ -129,10 +129,10 @@
   },
   "active": "7e7b6065028d1c8c",
   "lastOpenFiles": [
-    "BED/BED Chapter 7 - Authentication and Authorization.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Revision Summary.md",
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
+    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "README.md.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
