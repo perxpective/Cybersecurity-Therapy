@@ -199,6 +199,8 @@
 
 ## Completing the Evidence
 - Produce a final report (State what was done and what was found)
+- Repeat the steps and produce the same results
+- Use a report template if required
 - Report should show conclusive evidence
 - Keep a journal of everything that was done
 - Answer the 5W1H
