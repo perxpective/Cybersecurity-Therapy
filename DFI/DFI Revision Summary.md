@@ -172,4 +172,11 @@
 	- Join computer groups in both public and private sectors
 		- **Example:** Computer Technology and Investigators Network (CITN)
 	- Consult **outside experts**
-	
+
+#### Public and Private Investigations
+- **Differences:**
+
+|                  | Public-Sector Investigations | Private-Sector Investigations |
+| ---------------- | ---------------------------- | ----------------------------- |
+| Parties Involved | Government agencies          | Private companies and lawyers |
+| Objectives       | Follow the legal process     | Discuss                               |
