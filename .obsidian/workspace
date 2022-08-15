@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a131e937a06364fe",
+        "id": "7e7b6065028d1c8c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -126,7 +126,7 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "a131e937a06364fe",
+  "active": "7e7b6065028d1c8c",
   "lastOpenFiles": [
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Revision Summary.md",

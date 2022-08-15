@@ -305,7 +305,7 @@
 #### Private-Sector Investigations
 - **Employee Termination Cases**
 	- Involves employee **abuse of corporate assets**
-	- **What :**
+	- **What the cases investigated?**
 		- Incidents that create a **hostile work environment**
 		- **Examples:**
 			- Viewing pornography in the workplace
@@ -333,9 +333,13 @@
 	- **Recommended Steps**
 		- Use standard forensic analysis techniques and procedures
 		- **Obtain** electronic copy of *suspect* and *victim* email **folder** or **data**
-		- **Web-Based Email Investigations:**
+		- **For Web-Based Email Investigations:**
 			- Use tools such as **FTK Internet Keyboard Search** to extract all **related email address information**
 		- Examine **header data** of all *messages of interest* to investigation
 - **Industrial Espionage Investigations**
 	- All suspected industrial espionage cases should be treated as criminal cases
 	- **What are the staff needed for industrial espionage cases?**
+		| Staff                  | Roles and Responsibility   |
+		| ---------------------- | -------------------------- |
+		| Computing Investigator | Disk forensic examinations |
+		|                        |                            |
