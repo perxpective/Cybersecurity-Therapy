@@ -324,9 +324,12 @@
 		- Analyse computer disk drive data
 - **Email Abuse Investigations**
 	- **Requirements for Investigations:**
-		- Electronic copy of offending email
-			- Containing message header data
-		- Email server logs
-		- Access to email central server where user message stored
+		- **Electronic copy** of offending email
+			- Containing **message header data**
+		- Email **server logs**
+		- Access to **email central server** where user message stored
 		- Access to computer to perform forensic analysis on
-		- Preferred computer forensics analysis tool 
+		- Preferred **computer forensics analysis tool** 
+	- **Recommended Steps**
+		- Use standard forensic analysis techniques and procedures
+		- 
