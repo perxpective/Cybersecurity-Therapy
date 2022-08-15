@@ -40,7 +40,6 @@
 9. Process copied evidence with forensics tools
 
 > - Evidence custody form helps document what has been done with original evidence and forensics copies (chain-of-evidence form)
-> 
 > - Two types:
 > 	- Single-evidence form (Lists each piece of evidence on a separate page)
 > 	- Multi-evidence form

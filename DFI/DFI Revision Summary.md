@@ -287,4 +287,7 @@
 - **Two types of evidence forms:**
 	- Single-evidence form (lists each piece of evidence on separate page)
 	- Multi-evidence form
-- **What should **
+- **What should an evidence form contain?**
+	- Model number or serial number
+	- Name of investigator who recovered the evidence
+	- Date and time evidence was taken into custody
