@@ -216,11 +216,11 @@
 	- Internet abuse
 
 #### Maintaining Professional Conduct
-**How can investigators maintain a high level of professional conduct?**
-- **Maintain the following:**
-	- objectivity
-	- credibility by maintaining confidentiality
-- 
+- **How can investigators maintain a high level of professional conduct?**
+	- **Maintain the following:**
+		- objectivity
+		- credibility by maintaining confidentiality
+	- Attend training to stay current with latest technical changes
 
 #### Preparing for a Digital Forensics Investigation
 - **Objective**
@@ -236,5 +236,8 @@
 - **What can information in computers help law enforcement determine?**
 	- Chain of events leading up to the crime
 	- Evidence that can lead to a conviction
-
-- **Why must law enforcement officers **
+- **Why must law enforcement officers follow proper procedure?**
+	- Evidence can be easily altered by overeager investigators
+- **What is one potential challenge?**
+	- Information on hard disks can be **password-protected** so forensics tools needed for investigation
+	- 
