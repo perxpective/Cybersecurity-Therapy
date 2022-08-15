@@ -232,4 +232,7 @@
 	- Route that evidence takes from the time it is found until case is closed or goes to court
 
 #### Computer Crime
-- **What can information in **
+- **What can information in computers help law enforcement determine?**
+	- Chain of events leading up to the crime
+	- Evidence that can lead to a conviction
+	- Law enforcement officers should follow proper procedure when acquiring evidence as evidence can be easily altered by overeager investigat
