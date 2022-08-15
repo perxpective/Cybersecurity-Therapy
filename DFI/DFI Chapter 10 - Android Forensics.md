@@ -19,16 +19,15 @@
 ## Seizure and Isolation
 - Take note of location where mobile phone is collected
 	- Take picture of location using a camera
-- Chain of custody:
-
- - Document to maintain each record of digital evidence from collection to presentation
- - Another part of documentation is:
-> 	- Taking pictures of crime scene
-> 	- Acquiring the following:
-> 		- Original state of mobile device
-> 		- Make, model and serial number
-> 		- IMEI number
-> 		- OS version
+- **Chain of custody:**
+	 - Document to maintain each record of digital evidence from collection to presentation
+	 - Another part of documentation is:
+		- Taking pictures of crime scene
+		- Acquiring the following:
+			- Original state of mobile device
+			- Make, model and serial number
+			- IMEI number
+			- OS version
 
 - Take pictures of mobile phone before starting any progress
 - Request for pin, pattern, password, SIM pin
@@ -326,6 +325,7 @@
 - Most of data belonging to user e.g. contacts, SMS, dialled number etc. stored in this folder
 - Significant importance from forensics perspective as it contains valuable data
 	- <u>Important sub-directories under</u> `/data` <u>or</u> `/userdata`
+
 | Partitions      | Descriptions                                                                                                                 |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | `/dalvik-cache` | Folder contains several logs that might be useful during examination depending on underlying requirements                    |
