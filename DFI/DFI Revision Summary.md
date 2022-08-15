@@ -414,3 +414,7 @@
 	- Backup software cannot copy deleted files, email messages or recover file fragments
 
 #### Acquiring Image of Evidence Media
+- **Guidelines:**
+	- Preserve the original evidence
+	- Only conduct analysis on the copy of the data
+	- Windows tools require write-blocking device when acquiring data from FAT or NTFS file system
