@@ -189,6 +189,7 @@
 ### Bit-Stream Image
 - File containing bit-stream copy of all data on disk or partition
 - Also known as "image"
+- Copy image file to target disk that matches original disk manufacturer, size or model
 
 ## Acquiring Image of Evidence Media
 - The first rule of digital forensics is to **preserve the original evidence**
