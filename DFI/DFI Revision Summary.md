@@ -256,9 +256,9 @@
 	- **Obtain** and **copy** evidence drive
 	- Identify **risks**
 	- **Test** the *design*
-	- Analyse and recover digital evidence
-	- Complete the case report
-	- Critique the case (self-evaluation for improvement)
+	- **Analyse** and **recover** digital evidence
+	- **Complete** the case report
+	- **Critique** the case (self-evaluation for improvement)
 
 ### Chapter 2 - Understanding Investigation
 #### Case Assessment
@@ -312,11 +312,11 @@
 			- Sending inappropriate emails
 - **Internet Abuse Investigations**
 	- **Requirements for Investigations:**
-		- Organization Internet Proxy Logs
-		- Suspect computer's IP address
-		- Suspect computer's disk drive
-		- Preferred forensics analysis tool
+		- Organization **Internet Proxy Logs**
+		- Suspect computer's **IP address**
+		- Suspect computer's **disk drive**
+		- Preferred **forensics analysis tool**
 	- **Recommended Steps:**
 		- Use standard forensics analysis techniques and procedures
-		- Use suitable tools to extract all web page URL information
+		- Use suitable tools to extract all **web page URL information**
 		- Contact network firewall administrators to request for proxy server log
