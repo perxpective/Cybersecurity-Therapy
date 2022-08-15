@@ -168,4 +168,8 @@
 
 #### Digital Forensics Resources
 - **How to develop resources?**
-	- Su
+	- **Supplement knowledge** by <u>developing</u> and <u>maintaining</u> contact with **computing, network and investigative professionals**
+	- Join computer groups in both public and private sectors
+		- **Example:** Computer Technology and Investigators Network (CITN)
+	- Consult **outside experts**
+	
