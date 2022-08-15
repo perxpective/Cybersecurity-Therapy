@@ -206,4 +206,7 @@
 - **What is Acceptance Use Policy?**
 	- Defines rules for using company computers and networks
 - **What is Line of Authority?**
-	- States who have legal right
+	- States who have the **legal right** to **initiate** an investigation
+	- Who can **take possession** of evidence and **have access** to evidence
+- **How can businesses avoid litigation?**
+	- 
