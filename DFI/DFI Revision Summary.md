@@ -298,4 +298,9 @@
 	- Use computer safe products when collecting computer evidence (antistatic bags and pads)
 	- Use well-padded containers
 	- Use evidence tape to seal all openings
-		- CD drive bays and insertion slots for o
+		- CD drive bays and insertion slots for power supply cord
+		- USB cables
+	- Write initials on tape to prove evidence is not tampered with
+	- Consider computer specific temperature and humidity ranges
+
+#### Procedures for Private-Sector Investigations
