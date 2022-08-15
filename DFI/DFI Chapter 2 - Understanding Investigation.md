@@ -46,8 +46,8 @@
 > 	- Multi-evidence form
 > - Contains the following:
 > 	- Model number or serial number
-> 		- Name of investigator who recovered evidence
-> 		- Date and time
+> 	- Name of investigator who recovered evidence
+> 	- Date and time
 
 ## Securing Evidence
 - Use evidence to secure bags and catalogue evidence
