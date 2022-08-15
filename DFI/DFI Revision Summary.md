@@ -319,4 +319,4 @@
 	- **Recommended Steps:**
 		- Use standard forensics analysis techniques and procedures
 		- Use suitable tools to extract all **web page URL information**
-		- Contact network firewall administrators to request for proxy server log
+		- Contact **network firewall administrators** to **request for proxy server log**
