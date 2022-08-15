@@ -208,8 +208,8 @@
 	- States who have the **legal right** to **initiate** an investigation
 	- Who can **take possession** of evidence and **have access** to evidence
 - **How can businesses avoid litigation?**
-	- Display warning banner on computer screens
-	- Inform user that organization reserves the right to inspect computer systems and network traffic at will
+	- Display **warning banner** on **computer screens**
+	- Inform user that organization reserves the **right to inspect computer systems** and **network traffic** at will
 - **What are the most common types of situations?**
 	- Abuse or misuse of computer assets
 	- Email abuse
@@ -217,12 +217,12 @@
 
 #### Maintaining Professional Conduct
 **How can investigators maintain a high level of professional conduct?**
-- Maintain the following:
+- **Maintain the following:**
 	- objectivity
 	- credibility by maintaining confidentiality
 
 #### Preparing for a Digital Forensics Investigation
 - **Objective**
-	- Gather evidence to prove a suspect committed a crime or violated company policy
+	- Gather evidence to prove a suspect **committed a crime** or **violated company policy**
 - **How to conduct a digital forensics investigation?**
-	- Collect evidence that can be offered in cour
+	- Collect evidence that can be **offered in court** or at **corporate inquiry**
