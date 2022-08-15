@@ -271,4 +271,9 @@
 	- Known disk format
 	- Location of evidence
 
-#### Plan
+#### Planning the Investigation
+- **Steps Involved in a Basic Investigation Plan:**
+	- **Acquire** evidence
+	- **Complete evidence form** and **establish chain of custody**
+	- **Transfer** evidence to **computer forensics lab**
+	- 
