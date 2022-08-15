@@ -183,6 +183,11 @@
 
 #### Legal Process
 - **Steps:**
-	- Criminal investigation begins when someone finds evidence or witness of crime
+	- Criminal investigation begins when someone **finds evidence** or **witness of crime**
 	- Police **interviews complainant** and **writes report about the crime**
 	- Report is processed and management decides to start investigation or log information in **police blotter**
+- **Parties Involved:**
+	- Digital Evidence First Responder
+		- **Description:**
+			- Arrives at incident scene and **assesses situation**
+			- Takes **precautions** to **acquire** and preserve evidence
