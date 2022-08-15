@@ -373,3 +373,5 @@
 	- Conducted to collect information from witness or suspect about specific facts related to investigation
 - **Definition of Interrogation:**
 	- Process of getting a suspect to **confess**
+- **What is the role of a computing investigator?**
+	- Instruct the investigator who is conducting the interview 

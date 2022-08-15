@@ -6,7 +6,7 @@
       {
         "id": "cbf7b02162dc56fd",
         "type": "leaf",
-        "dimension": 39.83805668016194,
+        "dimension": 53.04755525787006,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
-        "dimension": 60.16194331983805,
+        "dimension": 46.95244474212994,
         "state": {
           "type": "markdown",
           "state": {
@@ -130,10 +130,10 @@
   },
   "active": "cbf7b02162dc56fd",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "DFI/DFI Revision Summary.md",
-    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
