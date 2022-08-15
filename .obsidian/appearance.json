@@ -3,7 +3,7 @@
   "textFontFamily": "Inter,SF Pro Display,Segoe UI",
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "Notation",
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "theme": "obsidian",
   "translucency": false
 }

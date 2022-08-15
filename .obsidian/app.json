@@ -1,6 +1,6 @@
 {
   "defaultViewMode": "source",
-  "legacyEditor": false,
+  "legacyEditor": true,
   "promptDelete": false,
   "spellcheck": true,
   "readableLineLength": true,
@@ -8,7 +8,7 @@
   "communityPluginSortOrder": "download",
   "showLineNumber": false,
   "tabSize": 4,
-  "livePreview": true,
+  "livePreview": false,
   "showFrontmatter": false,
   "pdfExportSettings": {
     "pageSize": "A4",

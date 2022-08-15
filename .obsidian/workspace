@@ -6,26 +6,24 @@
       {
         "id": "cbf7b02162dc56fd",
         "type": "leaf",
-        "dimension": 49.028801071667786,
+        "dimension": 56.558441558441565,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       },
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
-        "dimension": 50.971198928332214,
+        "dimension": 43.44155844155844,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
-            "mode": "preview",
-            "source": false
+            "mode": "preview"
           }
         }
       }
