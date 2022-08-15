@@ -381,4 +381,19 @@
 	- Being tenacious
 
 #### Understanding Data Recovery Workstations and Software
-- **What are the basic requirements for a digital forensics works**
+- **What are the basic requirements for a digital forensics investigation?**
+	- Workstation running on Windows XP or later
+	- Write-blockers
+	- Acquisition tool
+	- Analysis tool
+	- Target device to receive source or suspect disk data
+	- Spare PATA or SATA ports
+	- USB ports
+
+#### Conducting an Investigation
+- **What are the items needed to conduct an investigation?**
+	- Original storage media
+	- Evidence custody form
+	- Evidence container for storage media
+	- Bit-stream imaging tool
+	- Forensic workstation to cop
