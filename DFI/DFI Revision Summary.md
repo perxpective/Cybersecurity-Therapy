@@ -421,10 +421,21 @@
 
 #### Completing the Evidence
 - **Steps:**
-	- Produce final report
-		- state what was done and what was found
-	- Repeat steps to produce the same results
+	- Produce **final report**
+		- state what was **done** and what was **found**
+	- **Repeat** steps to **produce** the <u>same results</u>
 	- Use report template if required
 		- report should show conclusive evidence
 	- Keep journal of everything that was done during the investigation
-	- Answer the 
+	- Answer the 5W1H
+	- Explain the computer and network processes
+
+#### Critiquing the Case
+- **Questions to ask: (HDDWWDD)**
+	- How can you improve your performance in the case?
+	- Did you expect the results found? 
+	- Did case developed into ways you did not expect?
+	- Was documentation as thorough as it could have been?
+	- What feedback has been received from requesting source?
+	- Did you discover any new problems?
+	- Did you use any new techniques during the case or research?
