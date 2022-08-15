@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -66,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",

@@ -339,7 +339,5 @@
 - **Industrial Espionage Investigations**
 	- All suspected industrial espionage cases should be treated as criminal cases
 	- **What are the staff needed for industrial espionage cases?**
-		| Staff                  | Roles and Responsibility   |
-		| ---------------------- | -------------------------- |
-		| Computing Investigator | Disk forensic examinations |
-		|                        |                            |
+		- **Computing Investigator** -> disk forensics investigations
+		- **Technology Speci**
