@@ -305,7 +305,7 @@
 #### Private-Sector Investigations
 - **Employee Termination Cases**
 	- Involves employee **abuse of corporate assets**
-	- **Cases investigated:**
+	- **What :**
 		- Incidents that create a **hostile work environment**
 		- **Examples:**
 			- Viewing pornography in the workplace
@@ -336,4 +336,6 @@
 		- **Web-Based Email Investigations:**
 			- Use tools such as **FTK Internet Keyboard Search** to extract all **related email address information**
 		- Examine **header data** of all *messages of interest* to investigation
-	- 
+- **Industrial Espionage Investigations**
+	- All suspected industrial espionage cases should be treated as criminal cases
+	- **What are the staff needed for industrial espionage cases?**
