@@ -163,5 +163,9 @@
 - **Definition:**
 	- The law established by the <u>outcomes of former cases</u>
 	- Used by allowing **legal counsel** to apply previous similar cases to current one to **handle ambiguity in laws**
-- <u>Why is it required?</u>
-	- Existing laws cannot keep up with the rate of technological advancement
+- **Why is it required?**
+	- Existing laws cannot keep up with the **rate of technological advancement**
+
+#### Digital Forensics Resources
+- **How to develop resources?**
+	- Su
