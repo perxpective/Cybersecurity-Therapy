@@ -217,4 +217,10 @@
 
 #### Maintaining Professional Conduct
 **How can investigators maintain a high level of professional conduct?**
-- Maintain 
+- Maintain the following:
+	- objectivity
+	- credibility by maintaining confidentiality
+
+#### Preparing for a Digital Forensics Investigation
+- **Objective**
+	- Gather evidence 
