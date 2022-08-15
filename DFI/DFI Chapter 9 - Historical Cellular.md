@@ -143,7 +143,7 @@
 
 ### IMEI (International Mobile Equipment Identity)
 - Unique 15-digit code to identify individual GSM mobile telephone to mobile network
-- Can be displayed on most phones by dialing `*#06#`
+- Can be displayed on most phones by dialling `*#06#`
 
 #### IMEI Checksum Verification
 - Validated in 3 steps:
