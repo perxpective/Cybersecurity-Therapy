@@ -6,7 +6,7 @@
       {
         "id": "cbf7b02162dc56fd",
         "type": "leaf",
-        "dimension": 47.85522788203753,
+        "dimension": 39.83805668016194,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
-        "dimension": 52.14477211796247,
+        "dimension": 60.16194331983805,
         "state": {
           "type": "markdown",
           "state": {
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,15 +130,15 @@
   },
   "active": "cbf7b02162dc56fd",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
+    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "README.md.md",
-    "DFI/DFI Chapter 7 - Investigator's Lab.md",
-    "DFI/DFI Chapter 6 - Analysis and Validation.md"
+    "DFI/DFI Chapter 7 - Investigator's Lab.md"
   ]
 }
