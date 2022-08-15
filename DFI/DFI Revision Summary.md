@@ -367,4 +367,3 @@
 		- Report regularly to management and corporate attorneys
 		- Review investigation scope with management and corporate attorneys
 		- Gather resources to conduct the investigation
-
