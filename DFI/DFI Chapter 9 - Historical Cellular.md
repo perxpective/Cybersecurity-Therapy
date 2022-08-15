@@ -100,15 +100,14 @@
 
 #### BitPIM Software for CDMA
 > Open source, cross-platform program allowing the viewing and manipulation of data on many CDMA phones
-> 
-> Includes PhoneBook, Calendar, Wallpapers, Ringtones, File System
-- Analyze most Qualcomm CDMA chipset based phones
+> - Includes PhoneBook, Calendar, Wallpapers, Ringtones, File System
+- Analyse most Qualcomm CDMA chipset based phones
 - PIM stands for Personal Information Management
 
 #### Qualcomm for CDMA
 - Created CDMA and components in the late 1990s
 - Commercially launched in 1995
-- Originally built base stations, chipsets, and cellphones
+- Originally built base stations, chipsets, and cell phones
 - Owns patent on CDMA
 
 ### GSM
