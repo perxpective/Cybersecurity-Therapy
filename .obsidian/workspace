@@ -6,25 +6,11 @@
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
-        "dimension": 44.72285497342445,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7e7b6065028d1c8c",
-        "type": "leaf",
-        "dimension": 55.277145026575546,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -67,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.00175094604492
+    "width": 206.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -130,6 +116,7 @@
   "active": "3ed58b1c377d2880",
   "lastOpenFiles": [
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
@@ -137,7 +124,6 @@
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "README.md.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
-    "DFI/DFI Chapter 6 - Analysis and Validation.md",
-    "DFI/DFI Chapter 9 - Historical Cellular.md"
+    "DFI/DFI Chapter 6 - Analysis and Validation.md"
   ]
 }
