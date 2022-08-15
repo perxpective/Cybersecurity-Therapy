@@ -320,5 +320,5 @@
 		- Use standard forensics analysis **techniques** and **procedures**
 		- Use suitable tools to extract all **web page URL information**
 		- Contact **network firewall administrators** to request for **proxy server log**
-
-**Table Summary:**
+		- Compare data recovered from forensics analysis to proxy log
+		- Analyse computer disk drive data

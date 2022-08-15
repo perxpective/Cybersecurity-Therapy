@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
+            "file": "DFI/DFI Revision Summary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3ed58b1c377d2880",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
             "mode": "source",
             "source": false
           }
@@ -49,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -115,15 +128,15 @@
   },
   "active": "a131e937a06364fe",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "README.md.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",
-    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-    "DFI/DFI Chapter 10 - Android Forensics.md",
-    "DFI/DFI Chapter 3 - Data Acquisition.md",
-    "DFI/DFI Chapter 2 - Understanding Investigation.md"
+    "DFI/DFI Chapter 10 - Android Forensics.md"
   ]
 }
