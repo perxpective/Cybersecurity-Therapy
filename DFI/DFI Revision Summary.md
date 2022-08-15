@@ -322,7 +322,3 @@
 		- Contact **network firewall administrators** to request for **proxy server log**
 
 **Table Summary:**
-|                                 | Internet Abuse                                                                                                                           | Email Abuse |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| Requirements for Investigations | Organization Internet Proxy Logs<br> Suspect computer IP Address<br> Suspect computer disk drive<br> Preferred forensics analysis tool |             |
-| Recommended Steps                                |                                                                                                                                          |             |

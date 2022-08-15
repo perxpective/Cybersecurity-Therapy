@@ -32,7 +32,7 @@
 | Can integrate metadata into file                                                 |                                                      |
 
 ### Advanced Forensics Format
-#### Design goals:
+**Design goals:**
 - Provide compressed or uncompressed image files
 - No size reduction for disk-to-image files
 - Provide space in image file or segmented files for metadata
@@ -68,7 +68,7 @@
 - EnCase, SnapCopy, SafeBack
 
 ### Logical/Sparse Acquisition
-#### Reasons
+**Reasons:**
 - Use when you time is limited
 	- **Logical acquisition** captures only specific files of interest to case
 	- **Sparse acquisition** captures deleted data

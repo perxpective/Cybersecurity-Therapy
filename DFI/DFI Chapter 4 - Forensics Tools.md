@@ -65,6 +65,7 @@
 - Most challenging to master
 - Recovering data is first step in analysing investigation data
 - **Subfunctions of extraction**
+
 | Subfunction       | Description                                               |
 | ----------------- | --------------------------------------------------------- |
 | Data Viewing      | Different tools provide different ways of viewing data    |
