@@ -417,4 +417,14 @@
 - **Guidelines:**
 	- Preserve the original evidence
 	- Only conduct analysis on the copy of the data
-	- Windows tools require write-blocking device when acquiring data from FAT or NTFS file system
+	- Windows tools require write-blocking device when acquiring data from FAT or NTFS file systems
+
+#### Completing the Evidence
+- **Steps:**
+	- Produce final report
+		- state what was done and what was found
+	- Repeat steps to produce the same results
+	- Use report template if required
+		- report should show conclusive evidence
+	- Keep journal of everything that was done during the investigation
+	- Answer the 
