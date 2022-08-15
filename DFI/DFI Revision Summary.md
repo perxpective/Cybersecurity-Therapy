@@ -338,8 +338,13 @@
 		- Examine **header data** of all *messages of interest* to investigation
 - **Industrial Espionage Investigations**
 	- All suspected industrial espionage cases should be treated as criminal cases
-	- **What are the staff needed for industrial espionage cases?**
+	- **What are the staff needed for industrial espionage cases? (CTNT)**
 		- **Computing Investigator** -> disk forensics investigations
 		- **Technology Specialist** -> Knowledgeable about suspected compromised data
 		- **Network Specialist** -> Perform log analysis and set up network sniffers
 		- **Threat Assessment Specialist** -> Typically an attorney
+	- **What are some guidelines to follow when initiating an investigation? (DCDG)** 
+		- Determine if investigation involves possible espionage incident
+		- Consult with corporate attorneys and upper management
+		- Determine what information needed to substantiate allegation
+		- Generate list of keywords for disk forensics and sniffer monitoring
