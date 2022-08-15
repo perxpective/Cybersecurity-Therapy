@@ -220,6 +220,7 @@
 - **Maintain the following:**
 	- objectivity
 	- credibility by maintaining confidentiality
+- 
 
 #### Preparing for a Digital Forensics Investigation
 - **Objective**

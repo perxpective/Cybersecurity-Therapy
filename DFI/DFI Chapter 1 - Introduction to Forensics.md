@@ -66,7 +66,9 @@ Two categories of investigations:
 	    * Abuse or misuse of computer assets
 	    * E-mail abuse
 	    * Internet abuse
-* **Private-sector investigators**->
+* **Private-sector investigators** -> minimize risk to the company
+* **Bring Your Own Device (BYOD) environment**
+	* Personal devices that are connected to a network falls under same rules as company property
 
 ## Maintaining Professional Conduct
 * Investigators must exhibit highest level of professional behaviour at all times
