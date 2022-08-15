@@ -240,4 +240,10 @@
 	- Evidence can be easily altered by overeager investigators
 - **What is one potential challenge?**
 	- Information on hard disks can be **password-protected** so forensics tools needed for investigation
-	- 
+
+#### Company Violation
+> Employees misusing company resources can cost companies millions of dollars
+- **What are some examples of misusing company resources?**
+	- Surfing the internet
+	- Sending personal emails
+	- Using company computers for personal uses
