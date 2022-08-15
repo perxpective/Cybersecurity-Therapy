@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md"
               }
             }
           },
@@ -125,10 +126,10 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "1993980a5b8e5ca4",
+  "active": "a9ffbdc83b260556",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",

@@ -235,4 +235,5 @@
 - **What can information in computers help law enforcement determine?**
 	- Chain of events leading up to the crime
 	- Evidence that can lead to a conviction
-	- Law enforcement officers should follow proper procedure when acquiring evidence as evidence can be easily altered by overeager investigat
+
+- **Why must law enforcement officers **

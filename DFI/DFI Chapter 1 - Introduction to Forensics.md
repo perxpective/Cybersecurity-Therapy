@@ -66,6 +66,7 @@ Two categories of investigations:
 	    * Abuse or misuse of computer assets
 	    * E-mail abuse
 	    * Internet abuse
+* **Private-sector investigators**->
 
 ## Maintaining Professional Conduct
 * Investigators must exhibit highest level of professional behaviour at all times
