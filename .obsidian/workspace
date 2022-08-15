@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+            "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
             "mode": "preview",
             "source": false
           }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -128,15 +127,15 @@
   },
   "active": "1993980a5b8e5ca4",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 1a - Network Protocols.md",
-    "EHD/Practical/EHD Practical 1b - Network Protocols.md",
-    "DFI/DFI Chapter 2 - Understanding Investigation.md"
+    "EHD/Practical/EHD Practical 1b - Network Protocols.md"
   ]
 }

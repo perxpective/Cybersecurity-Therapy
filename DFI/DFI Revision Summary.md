@@ -186,11 +186,11 @@
 	- Police **interviews complainant** and **writes report about the crime**
 	- Report is processed and management decides to start investigation or log information in **police blotter**
 - **Parties Involved:**
-	- Digital Evidence First Responder
+	- **Digital Evidence First Responder**
 		- **Description:**
 			- Arrives at incident scene and **assesses situation**
 			- Takes **precautions** to **acquire and preserve evidence**
-	- Digital Evidence Specialist
+	- **Digital Evidence Specialist**
 		- **Description:**
 			- Has the skill to analyse data and determine when another analyst should be called for assistance
 - **What is Affidavit?**
@@ -255,3 +255,6 @@
 	3. Create detailed checklist
 	4. Determine resources needed
 	5. Obtain and copy evidence drive
+
+### Chapter 2 - Understanding Investigation
+####
