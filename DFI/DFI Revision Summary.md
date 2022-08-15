@@ -374,4 +374,4 @@
 - **Definition of Interrogation:**
 	- Process of getting a suspect to **confess**
 - **What is the role of a computing investigator?**
-	- Instruct the investigator who is conducting the interview 
+	- Instruct the investigator who is conducting the interview on what questions to ask, and what the answers should be
