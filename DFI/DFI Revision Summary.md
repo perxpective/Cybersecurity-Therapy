@@ -332,4 +332,7 @@
 		- Preferred **computer forensics analysis tool** 
 	- **Recommended Steps**
 		- Use standard forensic analysis techniques and procedures
+		- **Obtain** electronic copy of *suspect* and *victim* email **folder** or **data**
+		- **Web-Based Email Investigations:**
+			- Use tools such as **FTK Internet Keyboard Search** to extract all **related email address information**
 		- 
