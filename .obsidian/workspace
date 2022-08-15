@@ -6,6 +6,7 @@
       {
         "id": "7e7b6065028d1c8c",
         "type": "leaf",
+        "dimension": 42.866622428666226,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,10 +19,11 @@
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
+        "dimension": 57.133377571333774,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
+            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
             "mode": "preview",
             "source": false
           }
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DFI",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,13 +63,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 206.50484466552734
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -120,15 +120,17 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 186.67056274414062
+    "width": 186.67056274414062,
+    "collapsed": true
   },
   "active": "7e7b6065028d1c8c",
   "lastOpenFiles": [
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
+    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
@@ -136,8 +138,6 @@
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
-    "DFI/DFI Chapter 11 - iOS Forensics.md",
-    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-    "DFI/DFI Chapter 10 - Android Forensics.md"
+    "DFI/DFI Chapter 11 - iOS Forensics.md"
   ]
 }
