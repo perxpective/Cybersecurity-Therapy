@@ -366,4 +366,4 @@
 		- Collect all log data from networks and email servers
 		- Report regularly to management and corporate attorneys
 		- Review investigation scope with management and corporate attorneys
-		- Gather resources to conduct 
+		- Gather resources to conduct the investigation
