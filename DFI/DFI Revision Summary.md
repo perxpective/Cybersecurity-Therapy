@@ -344,7 +344,10 @@
 		- **Network Specialist** -> Perform log analysis and set up network sniffers
 		- **Threat Assessment Specialist** -> Typically an attorney
 	- **What are some guidelines to follow when initiating an investigation? (DCDG)** 
-		- Determine if investigation involves possible espionage incident
-		- Consult with corporate attorneys and upper management
-		- Determine what information needed to substantiate allegation
-		- Generate list of keywords for disk forensics and sniffer monitoring
+		- **Determine** if investigation involves **possible espionage incident**
+		- **Consult** with **corporate attorneys** and **upper management**
+		- **Determine** what information needed to **substantiate allegation**
+		- **Generate** *list of keywords* for **disk forensics** and **sniffer monitoring**
+		- **List** and **collect** *resources* for investigation
+		- **Determine goal** and **scope** of investigation
+		- Initiate investigation after approval from management
