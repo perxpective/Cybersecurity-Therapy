@@ -350,4 +350,10 @@
 		- **Generate** *list of keywords* for **disk forensics** and **sniffer monitoring**
 		- **List** and **collect** *resources* for investigation
 		- **Determine goal** and **scope** of investigation
-		- Initiate investigation after approval from management
+		- **Initiate** investigation after **approval** from management
+	- **What are some planning considerations to take note of?**
+		- Examine all emails of suspected employees
+		- Search Internet newsgroups or message boards
+		- Initiate physical surveillance
+		- Examine facility physical access logs for sensitive information
+		- Determine suspect location in relation to vulnerable asset
