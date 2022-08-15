@@ -209,4 +209,11 @@
 	- States who have the **legal right** to **initiate** an investigation
 	- Who can **take possession** of evidence and **have access** to evidence
 - **How can businesses avoid litigation?**
-	- 
+	- Display warning banner on computer screens
+	- Inform user that organization reserves the right to inspect computer systems and network traffic at will
+- **What are the most common types of situations?**
+	- Abuse or misuse of computer assets
+	- Email abuse
+	- Internet abuse
+
+#### Maintaining Professional Conduct
