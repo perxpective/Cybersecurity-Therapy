@@ -247,3 +247,11 @@
 	- Surfing the internet
 	- Sending personal emails
 	- Using company computers for personal uses
+
+#### Systemic Approach
+- **Steps Taken:**
+	1. Make initial assessment about type of case being investigated
+	2. Determine preliminary design or approach case
+	3. Create detailed checklist
+	4. Determine resources needed
+	5. Obtain and copy evidence drive
