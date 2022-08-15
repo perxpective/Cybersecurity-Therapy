@@ -107,7 +107,7 @@
 > - Destroy any previous combinations after setting up new ones
 > - Allows only authorized personnel to change lock combinations
 > - Change combinations every six months when required
-
+> 
 > **If keyed padlock used:**
 > - Appoint a key custodian
 > 	- Responsible for distributing keys
