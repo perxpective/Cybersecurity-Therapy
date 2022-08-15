@@ -263,7 +263,7 @@
 
 ### Chapter 2 - Understanding Investigation
 #### Case Assessment
-- **Case details to outline: (SNSTKL)**
+- **Case details to outline: (SNS TKL)**
 	- Situation
 	- Nature of case
 	- Specifics of case
@@ -272,10 +272,13 @@
 	- Location of evidence
 
 #### Planning the Investigation
-- **Steps Involved in a Basic Investigation Plan:**
+- **Steps Involved in a Basic Investigation Plan: (ACTS PRMRP)**
 	- **Acquire** evidence
 	- **Complete evidence form** and **establish chain of custody**
 	- **Transfer** evidence to **computer forensics lab**
 	- **Secure** evidence in **approved secure container**
 	- **Prepare** forensics workstation
-	- Retrieve evidence from 
+	- **Retrieve** evidence from secure container
+	- Make **forensic copy** of evidence
+	- **Return** evidence to secure container
+	- **Process** copied evidence with **forensics tools**
