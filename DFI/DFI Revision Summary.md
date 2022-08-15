@@ -404,3 +404,10 @@
 	- Place evidence in secure container
 	- Complete evidence custody form
 	- Secure evidence by locking container
+
+#### Bit-stream Copies
+- **Explanation:**
+	- Bit-by-bit copy of original storage medium
+	- Exact copy of original disk
+	- Backup software only copies known files
+	- Backup software cannot copy deleted files, email messages or recover file fragments
