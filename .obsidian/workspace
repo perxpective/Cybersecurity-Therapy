@@ -6,11 +6,11 @@
       {
         "id": "7e7b6065028d1c8c",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 41.467065868263475,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
+            "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
             "mode": "preview",
             "source": false
           }
@@ -19,7 +19,7 @@
       {
         "id": "3ed58b1c377d2880",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 58.532934131736525,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md",
+                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 2 - Understanding Investigation.md"
+                "file": "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
               }
             }
           },
@@ -127,17 +127,17 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "3ed58b1c377d2880",
+  "active": "7e7b6065028d1c8c",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
+    "DFI/DFI Revision Summary.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "README.md.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",
-    "DFI/DFI Chapter 9 - Historical Cellular.md",
-    "DFI/DFI Chapter 11 - iOS Forensics.md"
+    "DFI/DFI Chapter 9 - Historical Cellular.md"
   ]
 }
