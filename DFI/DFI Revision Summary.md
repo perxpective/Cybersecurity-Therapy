@@ -396,4 +396,8 @@
 	- Evidence custody form
 	- Evidence container for storage media
 	- Bit-stream imaging tool
-	- Forensic workstation to cop
+	- Forensic workstation to copy and examine evidence
+	- Securable evidence locker, cabinet or safe
+- **What are the steps to gathering evidence?**
+	- Meet the IT manager to interview
+	- Fill up the evidence form and have IT manager sign
