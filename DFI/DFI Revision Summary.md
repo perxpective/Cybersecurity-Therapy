@@ -375,3 +375,10 @@
 	- Process of getting a suspect to **confess**
 - **What is the role of a computing investigator?**
 	- Instruct the investigator who is conducting the interview on what questions to ask, and what the answers should be
+- **What are the ingredients for a successful interview?**
+	- Being patient throughout the interview
+	- Repeating or rephrasing questions to zero in on specific facts from reluctant interviewees (suspect or witness)
+	- Being tenacious
+
+#### Understanding Data Recovery Workstations and Software
+- **Computer **
