@@ -409,6 +409,8 @@
 - **Definition:**
 	- Bit-by-bit copy of original storage medium
 	- Exact copy of original disk
-- ?**
+- **Why are they different from simple backup copies?**
 	- Backup software only copies known files
 	- Backup software cannot copy deleted files, email messages or recover file fragments
+
+#### Acquiring Image of Evidence Media
