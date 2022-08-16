@@ -808,7 +808,10 @@
 		- Check the Internet for new editions, updates, patches and validation tests for tools
 
 ### Chapter 5 - Evidence Processing
-#### 
+#### Boot Sequence
+- **CMOS**
+	> **CMOS** - Complementary Metal Oxide Semiconductor
+
 
 ---
 ## Table Summaries
