@@ -1014,6 +1014,10 @@
 	- **Alternate data stream** becomes **additional file attribute**
 		- Allows file to be associated with different applications
 	- Can only tell whether file has data stream attached by examining that file's MFT entry
+- **NTFS Compressed Files**
+	- **Description:**
+		- Compression is similar to FAT
+		- 
 
 ---
 ## Table Summaries
