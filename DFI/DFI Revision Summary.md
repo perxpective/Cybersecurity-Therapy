@@ -618,9 +618,15 @@
 		- Use hashing algorithms e.g. CRC-32, SHA-1, MD5
 	- **Filtering:**
 		- Separate good files and files that need to be investigated
-		- Discriminate files based on file types
+			- based on hash value sets
 	- **Analysing file headers**
-		- Check onthe 
+		- Check on change of file type
+			- discriminate files based on file type
+		- **Where can the compiled list of known file hashes be found?**
+			- National Software Reference Library (NSRL)
+			- Includes:
+				- OS
+				- A
 
 ---
 ## Table Summaries
