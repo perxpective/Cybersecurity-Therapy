@@ -535,4 +535,10 @@
 	- SHA-1
 	- SHA-512
 - **Windows Validation Methods:**
-	- Use third-party utilities such as WinHe
+	- Use third-party utilities such as WinHex (hexadecimal editor)
+	- Commercial computer forensics programs have built-in validation features
+		- Each program having their own validation techniques
+		- Prodiscover `.eve` files contain metadata in acquisition file or segmented files
+			- including hash value of suspect drive or parition
+		- Raw image format does not contain metadata
+			- separate manual validatio n
