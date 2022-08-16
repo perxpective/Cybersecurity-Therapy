@@ -173,6 +173,8 @@
 	- Consult **outside experts**
 
 #### Public and Private Investigations
+- **Public-Sector Investigations**
+	- **Party Involved** -> 
 - **Differences:**
 
 |                  | Public-Sector Investigations | Private-Sector Investigations |
@@ -606,6 +608,10 @@
 
 ##### Validation and Verification
 - **Validation**
-	- **Definition:**
+	- **Explanation:**
 		- A way to confirm a tool is function as intended
 		- Ensuring that integrity of data is being copied
+- **Verification**
+	- **Explanation:**
+
+## Table Summaries
