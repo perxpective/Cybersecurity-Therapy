@@ -525,3 +525,6 @@
 	- Acquired data must be protected by well-tested write-blocker hardware device
 	- Tools cannot acquire data from disk's host protected data
 	- Several countries have not accepted use of write-blocking devices for data acquisitions
+
+#### Validation of Data Acquisitions
+> Validation requires a hashing algor
