@@ -710,7 +710,12 @@
 	- **Advantages:**
 		- Customized to your needs
 		- Saves money
-	- **Disad**
+	- **Disadvantages:**
+		- Hard to find support for problems
+		- Can become expensive if not careful
+- **What are some recommendations for forensics workstations?**
+	- Have vendor support to save time and frustration when problems arise
+	- Mix and match 
 
 ---
 ## Table Summaries
