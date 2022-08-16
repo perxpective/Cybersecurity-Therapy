@@ -450,4 +450,5 @@
 		- Fast data transfers
 		- Ignore minor data read errors on source drive
 		- Most computer forensics tools can read raw format
+	- **Disadvantages:**
 		- 
