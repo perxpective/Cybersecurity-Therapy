@@ -855,7 +855,11 @@
 
 #### Solid-State Storage Devices
 - **What is wear-levelling?**
-	- Internal firmware feature used in solid-state drives to ensure 
+	- Internal firmware feature used in solid-state drives to ensure even wear of read and writes for all memory cells
+
+	> Generally, memory cells can perform 10k-100k reads and writes
+
+	- 
 
 ---
 ## Table Summaries
