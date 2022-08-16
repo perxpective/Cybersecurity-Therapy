@@ -694,7 +694,12 @@
 		- Easy to use
 		- Allows multitasking
 		- No need to learn older OS's
-	- **Disadvantages**
+	- **Disadvantages:**
+		- Excessive resources required
+		- Produces inconsistent results due to type of OS used (Example: 64x vs 32x OS)
+		- Creates tool dependencies:
+			- Investigators might only want to use one tool
+			- Investigators need to be familiar with more than one tool
 ---
 ## Table Summaries
 
