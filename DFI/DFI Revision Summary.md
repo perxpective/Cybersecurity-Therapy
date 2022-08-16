@@ -715,7 +715,12 @@
 		- Can become expensive if not careful
 - **What are some recommendations for forensics workstations?**
 	- Have vendor support to save time and frustration when problems arise
-	- Mix and match 
+	- Mix and match components to get capabilities required of forensics workstation
+	- Determine where data acquisitions will take place
+- **What are some recommendations for stationary and lightweight workstations?**
+	- Full tower to allow for expansion devices
+	- Get as much memory and processor power as budget allows
+	- Different sizes of har 
 
 ---
 ## Table Summaries
