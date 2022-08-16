@@ -1000,7 +1000,15 @@
 		- Offset `0x14` - length of header (indicates where next attributes starts)
 			- Convert hexadecimal to decimal for number of bytes
 		- Offset `0x1C` -`0x1F` - size of entire MFT record
-		- Offset `0x32` - `0x33` - update sequence array stores 
+		- Offset `0x32` - `0x33` - update sequence array that stores last 2 bytes of first sector of MFT record
+			- Update sequence array used as checksum for record integrity validation
+	- **Standard Information Attribute**
+		- Date and time of creation
+		- Last modified date and time 
+		- Last access date and time
+		- Record update date and time
+
+
 ---
 ## Table Summaries
 
