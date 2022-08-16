@@ -538,7 +538,9 @@
 	- Use third-party utilities such as WinHex (hexadecimal editor)
 	- Commercial computer forensics programs have built-in validation features
 		- Each program having their own validation techniques
-		- Prodiscover `.eve` files contain metadata in acquisition file or segmented files
-			- including hash value of suspect drive or parition
-		- Raw image format does not contain metadata
-			- separate manual validatio n
+		- **Examples:**
+			- ProDiscover `.eve` files contain metadata in acquisition file or segmented files
+				- including hash value of suspect drive or partition
+			- Raw image formats do not contain metadata
+				- separate manual validation is recommended for all raw acquisitions
+- **Using Remote Network Acqui**
