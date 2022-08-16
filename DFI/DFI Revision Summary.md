@@ -678,7 +678,16 @@
 	- Bookmarking and tagging
 	- Log reports (documentation of investigative steps)
 	- Report generator
-- **Consideration for **
+
+#### Consideration for Tools
+- **Considerations:**
+	- Flexibility
+	- Reliability
+	- Future expandability
+
+#### GUI Forensics Tools
+- Simplifies digital forensics investigations
+- Simp
 ---
 ## Table Summaries
 
