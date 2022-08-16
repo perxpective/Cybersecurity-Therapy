@@ -164,12 +164,12 @@
 	- Ideal for GUI forensics tools
 	- prevents Windows or Linux from writing data to blocked drive
 	- Act as bridge between suspect drive and forensic workstation
-- Can navigate to the blocked drive with any application 
-- Discards written data
-- Connecting technologies
-	- FireWire
-	- USB 2.0 & 3.0
-	- SATA, PATA, SCSI controllers
+	- Can navigate to the blocked drive with any application 
+	- Discards written data
+	- Connecting technologies
+		- FireWire
+		- USB 2.0 & 3.0
+		- SATA, PATA, SCSI controllers
 
 ## Validating and Testing Forensic Software
 - Important to make sure evidence recovered and analysed can be admitted in court

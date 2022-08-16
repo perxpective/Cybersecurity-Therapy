@@ -733,11 +733,17 @@
 - **Purposes of Write-Blocker:**
 	- Prevents data writes to the hard disk
 - **Two types of write-blockers:**
+	- **Software write-blockers**
+		- Typically runs in shell mode (Windows CLI)
+		- **Example:** PDBlock from Digital Intelligence
 	- **Hardware write-blockers**
 		- Ideal for GUI forensics tools
 		- Prevents Windows or Linux from writing data to blocked drive
 		- Act as bridge between suspect drive and forensics workstation
-	- Can navigate to blocked drive with any applocation
+		- Can navigate to blocked drive with any application
+		- Discards written data
+		- **Connecting technologies:**
+			- 
 ---
 ## Table Summaries
 
