@@ -784,9 +784,14 @@
 	- Use at least two tools for the following purposes:
 		- Retrieving and examination
 		- Verification
-	- Compare results and identify 
+	- Compare results and identify new tools by using **hexadecimal disk editor**
+	- **What are disk editors used for?**
+		- Viewing data on disk in raw format
+		- Accessing raw data
 
-
+#### Computer Forensics Examination Protocol
+- **Guidelines:**
+	- Perform investigation with GUI tool
 
 ---
 ## Table Summaries
