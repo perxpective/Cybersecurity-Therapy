@@ -160,7 +160,7 @@
 
 #### Case Law
 - **Definition:**
-	- The law established by the <u>outcomes of former cases</u>
+	- The law established by the **outcomes of former cases**
 	- Used by allowing **legal counsel** to apply previous similar cases to current one to **handle ambiguity in laws**
 - **Why is it required?**
 	- Existing laws cannot keep up with the **rate of technological advancement**
