@@ -25,14 +25,14 @@
 
 ![](https://i.imgur.com/tdf3C9g.png)
 
-BIOS can configure:
-- System Time/Date
-- Boot Sequence
-- Plug and Play
-- Mouse/Keyboard
-- Drive Configuration
-- Security
-- Power Management etc.
+- BIOS can configure:
+	- System Time/Date
+	- Boot Sequence
+	- Plug and Play
+	- Mouse/Keyboard
+	- Drive Configuration
+	- Security
+	- Power Management etc.
 
 ## Understanding Disk Drives
 - Disk drives are made up of one or more platters coated with magnetic material
