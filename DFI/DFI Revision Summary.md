@@ -513,4 +513,10 @@
 	- Copy **Host Protected Area (HPA)**
 		- area not visible for OS on drive
 - **What are some challenges in image acquisition?**
-	- Windows has whole disk encryption called BitLocker 
+	- Windows has whole disk encryption called BitLocker which makes static acquisition difficult
+	- Decryption keys provided by suspect is require to decrypt data
+		- suspect may not want to cooperate
+
+#### Acquisition Tools
+**What are the advantages and disadvantages of acquisition tools for Windows?**
+- 
