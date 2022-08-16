@@ -612,8 +612,7 @@
 - **Verification**
 	- **Explanation:**
 		- Proving that the two sets of data are identical by calculating hash values or using similar methods
-		- Related process is filtering
-		- 
+- ****
 
 ---
 ## Table Summaries
