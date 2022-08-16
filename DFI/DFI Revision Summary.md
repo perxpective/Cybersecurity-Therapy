@@ -706,7 +706,11 @@
 	- **Stationary** workstations
 	- **Portable** workstations
 	- **Lightweight** workstations
-- 
+- **What are the advantages and disadvantages of building your own forensics workstation?**
+	- **Advantages:**
+		- Customized to your needs
+		- Saves money
+	- **Disad**
 
 ---
 ## Table Summaries
