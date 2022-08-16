@@ -498,4 +498,6 @@
 			- does not remove data permanently and target does not need to be too big
 			- Verification can be done with digital signatures
 		- When working with large devices, alternative is using tape backup system
-	- **Whether rt**
+	- **Whether the disk can be retained**
+		- Original disk may need to be returned to the original owners after copying
+
