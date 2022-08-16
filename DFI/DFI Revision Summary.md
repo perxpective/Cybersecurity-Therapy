@@ -955,7 +955,13 @@
 	- **What does it mean when NTFS is known as a journaling file system?**
 		- Records transaction before system deletes file
 - **What is inside a NTFS disk?**
-	- First data set - 
+	- First data set - **Partition Boot Sector**
+	- **Master File Table (MFT)**
+
+> - NTFS results in less file slack space
+> - NTFS clusters are smaller for smaller disk drives
+> - Uses Unicode (international date format)
+
 
 
 ---

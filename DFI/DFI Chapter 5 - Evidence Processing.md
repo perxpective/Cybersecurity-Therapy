@@ -182,7 +182,7 @@
 	- First data set - **Partition Boot Sector**
 	- Next - **Master File Table (MFT)**
 - Results in much <u>less file slack space</u>
-- Clusters smaller for smaller smaller disk drives
+- Clusters smaller for smaller disk drives
 - Uses **Unicode** - international data format
 
 | Drive size                    | Sectors per cluster | Cluster Size |
