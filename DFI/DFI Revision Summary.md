@@ -755,8 +755,10 @@
 
 #### Using NIST Tools
 - **What is NIST?**
-> - **NIST** - National Institute of Standards and Technology
-
+	> **NIST** - National Institute of Standards and Technology 
+	
+	- Publishes articles, provides tools and creates procedures for testing and validating forensics software
+	- Computing 
 ---
 ## Table Summaries
 
