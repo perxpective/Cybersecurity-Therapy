@@ -897,6 +897,11 @@
 	- Located in **Sector 0** of the disk drive
 	- Precedes the first partition
 	- Stores information about partitions in a disk and their locations, size and other important items
+- **Partition Table in Hexadecimal Editor**
+	- **File system hexadecimal code (First Partition):**
+		- **3 bytes** from `0x1BE`
+	- **Sector address**
+		- 
 
 ---
 ## Table Summaries
