@@ -905,6 +905,8 @@
 	- **Number of sectors assigned to partition:**
 		- **12 bytes** from `0x1BE`
 
+
+
 #### File Allocation Tables (FAT)
 ---
 ## Table Summaries
