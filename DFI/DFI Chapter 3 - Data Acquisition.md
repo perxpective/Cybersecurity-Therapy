@@ -71,7 +71,7 @@
 
 ### Logical/Sparse Acquisition
 **Reasons:**
-- Use when you time is limited
+- Use when your time is limited
 	- **Logical acquisition** captures only specific files of interest to case
 	- **Sparse acquisition** captures deleted data
 - Large disks
