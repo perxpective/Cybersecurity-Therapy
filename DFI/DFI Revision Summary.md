@@ -174,7 +174,11 @@
 
 #### Public and Private Investigations
 - **Public-Sector Investigations**
-	- **Party Involved** -> 
+	- **Party Involved:** government agencies
+	- Follows the legal process
+- **Private-Sector Investigations**
+	- **Parties Involved:** Private companies and lawyers
+	- Addresses company policy violations and litigation disputes
 - **Differences:**
 
 |                  | Public-Sector Investigations | Private-Sector Investigations |
