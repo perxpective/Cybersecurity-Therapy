@@ -648,8 +648,14 @@
 		- Potential problem for the investigation
 	- **Bookmarking (or tagging)**
 - **Password Recovery:**
-	- Use password recovery tools to 
+	- Use password recovery tools 
+		- have feature to generate potential password lists for password dictionary attack
+	- If password dictionary attack fails, run brute-force attack
 
+#### Reconstruction
+- **Objective:**
+	- To recreate the suspect drive to show what happened during the crime or incident
+	- Create copy of suspect drive for other investigators
 ---
 ## Table Summaries
 
