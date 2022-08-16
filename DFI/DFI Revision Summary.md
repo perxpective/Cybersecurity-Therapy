@@ -949,8 +949,13 @@
 - **What is NTFS?**
 	- Introduced with Windows NT
 	- Main file system for Windows 8 or later
-	- Improvement over FAT file systems
-	- 
+	- What are some improvements NTFS has over FAT?
+		- Provides more information about a file
+		- Gives more control over files and folders
+	- **What does it mean when NTFS is known as a journaling file system?**
+		- Records transaction before system deletes file
+- **What is inside a NTFS disk?**
+	- First data set - 
 
 
 ---

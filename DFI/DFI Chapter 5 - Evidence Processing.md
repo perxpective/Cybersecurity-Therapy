@@ -173,7 +173,7 @@
 > - Main file system for Windows 8 or later
 
 - Improvement over FAT file systems
-	- Provides more information able file
+	- Provides more information about a file
 	- Gives more control over files and folders
 - Microsoft's move towards <u>journaling file system</u>
 	- Records transaction before system deletes a file
