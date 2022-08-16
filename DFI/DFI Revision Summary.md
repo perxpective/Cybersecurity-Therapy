@@ -639,7 +639,7 @@
 - **Subfunctions of extraction**
 	- **Data viewing:**
 		- Different tools can provide different ways of viewing data
-	- **Keywor**
+	- **Keyword Searching:**
 
 ---
 ## Table Summaries
