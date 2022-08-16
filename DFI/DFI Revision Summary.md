@@ -506,10 +506,11 @@
 		- Original disk may need to be returned to the original owners after copying
 
 #### Contingency Planning for Image Acquisition
-- Create duplicate copy of evidence image file in case of failure
-- Make at least two images of digital evidence
-	- using different tools and techniques
-- Copy **Host Protected Area (HPA)**
-	- area not visible for OS on drive
-- Dealing with encrypted drives
-	- 
+- **How to do contingency planning for image acquisition?**
+	- Create duplicate copy of evidence image file in case of failure
+	- Make at least two images of digital evidence
+		- using different tools and techniques
+	- Copy **Host Protected Area (HPA)**
+		- area not visible for OS on drive
+- **What are some challenges in image acquisition?**
+	- Windows has whole disk encryption called BitLocker 
