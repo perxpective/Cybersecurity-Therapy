@@ -652,7 +652,7 @@
 		- have feature to generate potential password lists for password dictionary attack
 	- If password dictionary attack fails, run brute-force attack
 
-#### Reconstruction
+##### Reconstruction
 - **Objective:**
 	- To recreate the suspect drive to show what happened during the crime or incident
 	- Create copy of suspect drive for other investigators
@@ -672,6 +672,9 @@
 				- Linux `dd` command
 				- ProDiscover
 				- Voom Technologies Shadow Drive
+
+##### Reporting
+- **Subfunctions of reporting:**
 
 ---
 ## Table Summaries
