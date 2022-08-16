@@ -865,6 +865,13 @@
 #### Microsoft File Structures (MFS)
 - **Clusters**
 	- Storage allocation of one or more sectors
+	- **Combining Sectors**
+		- Reduces overhead of writing and reading files to disk
+	- **Numbering in NTFS and FAT**
+		- 0 (NTFS)
+		- 2 (FAT)
+	- **First sector**
+		- 
 
 
 
