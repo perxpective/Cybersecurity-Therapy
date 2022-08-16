@@ -921,7 +921,10 @@
 	- FAT32
 	- exFAT
 - **What is drive slack?**
-	- Unused space 
+	- Unused space in a cluster between end of an active file and end of the cluster
+	- **Consists of the following:**
+		- **RAM slack**
+			- Portion of last sector
 ---
 ## Table Summaries
 
