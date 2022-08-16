@@ -556,4 +556,7 @@
 		- **Additional Functions:**
 			- Create volatile system state information
 			- Analyse current running processes on remote system
-			- Locate unseen files and processes on remote system that migh
+			- Locate unseen files and processes on remote system that might be running malware or spyware
+			- Remotely view and listen to IP ports on compromised system
+			- Run hash comparisons on remote systems to search for Trojans and rootkits
+			- Create has inventory of all files on system remotely to establish baseline if attacked
