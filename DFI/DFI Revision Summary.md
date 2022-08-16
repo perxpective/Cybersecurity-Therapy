@@ -750,6 +750,7 @@
 #### Validation and Testing of Forensics Software
 - **Why is it important to test and validate forensics software?**
 	- Ensure that evidence recovered and analysed can be admitted in court
+	- Ensure that forensics software does not damage the evidence
 
 > Test and validate forensics software to prevent damaging the evidence
 
@@ -792,6 +793,10 @@
 #### Computer Forensics Examination Protocol
 - **Guidelines:**
 	- Perform investigation with GUI tool
+	- Verify results with disk editor
+	- Compare hash values obtained from both tools
+
+#### Digi
 
 ---
 ## Table Summaries
