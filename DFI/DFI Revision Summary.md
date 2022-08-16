@@ -972,6 +972,8 @@
 	- Files and folders stored in separate records of **1024 bytes each**
 	- Each record contains file or folder information
 		- Divided into record fields containing metadata
+		- Record field referred as attribute ID
+		- File or folder information stored in two ways in 
 
 ---
 ## Table Summaries

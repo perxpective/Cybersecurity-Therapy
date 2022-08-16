@@ -24,6 +24,7 @@
           {
             "id": "b1a2680135355386",
             "type": "leaf",
+            "dimension": 58.527607361963184,
             "state": {
               "type": "markdown",
               "state": {
@@ -36,6 +37,7 @@
           {
             "id": "912fbdabc64b593d",
             "type": "leaf",
+            "dimension": 41.47239263803681,
             "state": {
               "type": "markdown",
               "state": {
@@ -146,7 +148,7 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "912fbdabc64b593d",
+  "active": "477a6c2d6b06c676",
   "lastOpenFiles": [
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Revision Summary.md",

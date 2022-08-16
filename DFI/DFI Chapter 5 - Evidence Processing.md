@@ -225,9 +225,9 @@
 - Each record contains file or folder information
 	- Information divided into record fields containing metadata
 - Record field referred to as an **attribute ID**
-- File or folder information typically stored in one of two ways in NFT record:
+- File or folder information typically stored in one of two ways in MFT record:
 	- **Resident**
-	- **Nonresident**
+	- **Non-resident**
 
 | Attribute ID | Purpose                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
