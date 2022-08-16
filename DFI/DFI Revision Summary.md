@@ -675,7 +675,10 @@
 
 ##### Reporting
 - **Subfunctions of reporting:**
-
+	- Bookmarking and tagging
+	- Log reports (documentation of investigative steps)
+	- Report generator
+- **Consideration for **
 ---
 ## Table Summaries
 
