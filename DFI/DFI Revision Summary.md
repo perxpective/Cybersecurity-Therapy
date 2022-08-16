@@ -881,7 +881,10 @@
 		- Sector numbers
 		- From address 0 to last sector of disk
 
-
+#### Disk Partitions
+- **What is a partition?**
+	-  A logical drive
+	- 
 
 
 ---

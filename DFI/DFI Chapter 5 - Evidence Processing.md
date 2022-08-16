@@ -88,7 +88,7 @@
 	<img title="" src="https://i.imgur.com/DJ3Jwuz.png" alt="" data-align="center" width="384">
 
 > **Partition Gap:** unused space between partitions and can be used to hide data
-> 
+
 > **Partition Table:** a table maintained on disk by the operating system describing partitions on the disk
 
 - key hexadecimal codes are used to identify and maintain file system
