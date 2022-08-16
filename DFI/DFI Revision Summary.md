@@ -445,4 +445,5 @@
 	- Raw Format 
 	- Proprietary Format
 	- Advanced Forensics Format (AFF)
-- 
+- **What are the advantages and disadvantages of Raw Format?**
+	- 
