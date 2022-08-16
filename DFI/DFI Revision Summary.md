@@ -774,9 +774,17 @@
 	- Stands for the **National Software Reference Library** 
 	- Collects all known hash values for commercial software applications and OS files
 	- Uses SHA-1 to generate known set of digital signatures - **Reference Data Set (RDS)**
-	- **Explain the use of F**
-	- Helps filtering known information -> speeds up investigation time
-	- 
+	- **Explain the use of Reference Data Set (RDS)**
+		- Helps filtering known information -> speeds up investigation time
+		- Identifies bad files
+
+#### Using Validation Protocols
+- **How to verify results from the investigation?**
+	- Verify the results by performing the same tasks with other forensics tools
+	- Use at least two tools for the following purposes:
+		- Retrieving and examination
+		- Verification
+	- Compare results and identify 
 
 
 
