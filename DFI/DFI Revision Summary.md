@@ -1022,7 +1022,17 @@
 	- Files, folders or entire volumes can be compressed
 	- Most computer forensics tools can unzip and analyse compressed Windows data
 
-#### NTFS Encrypting File Systems 
+#### NTFS Encrypting File Systems (EFS)
+- **Description:**
+	- Introduced with Windows 2000
+	- Implements public and private key method of encrypting files, folders and disk volumes
+- **When EFS is used in Windows 2000 or later:**
+	- Recovery certificate generated
+	- Sent to local Windows administrator account
+	- Recovery certificate required if there is a problem
+	- Users can apply EFS to files stored on local workstations or remote server
+- **EFS Recovery Key Agent**
+	- Implements recovery certificate in Windows administrator account
 
 ---
 ## Table Summaries
