@@ -985,13 +985,16 @@
 		- Also known as **data runs**
 	- **Files smaller than 512 bytes**
 		- All metadata and data stored in MFT record
-- **Resident file attributes**
-	- All MFT records start at `FILE0`
-	- Swap two bytes for start of attribute
-	- Length of header indicates where next attributes starts
-- **Non-resident file attributes**
-	- OS assigns logical clusters to entire disk partition
-		- 
+	- **Resident file attributes**
+		- All MFT records start at `FILE0`
+		- Swap two bytes for start of attribute
+		- Length of header indicates where next attributes starts
+	- **Non-resident file attributes**
+		- OS assigns logical clusters to entire disk partition - **logical cluster numbers (LCN)**
+			- Addresses that allows MFT to link non-resident files on disk partition
+		- When data is first written to non-resident files, LCN address assigned to file
+			- LCNs become the file's **virtual cluster number (VCN)**
+- **MFT S**
 
 ---
 ## Table Summaries
