@@ -862,6 +862,13 @@
 - **Why must a full forensic copy be made when dealing with solid-state drives?**
 	- In case there is a need to recover data from unallocated space, wear-levelling feature automatically overwrites unallocated space
 
+#### Microsoft File Structures (MFS)
+- **Clusters**
+	- Storage allocation of one or more sectors
+
+
+
+
 ---
 ## Table Summaries
 
