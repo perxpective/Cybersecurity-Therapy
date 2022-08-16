@@ -766,11 +766,16 @@
 	- Establish categories for digital forensics tools
 	- Identify forensics category requirements
 	- Develop test assertions
-		- Based on requirements, create tests to test the tool capability
+		- Based on requirements
+		- Create tests to test the tool capability
 	- Identify test cases
 	- Report test results
 - **What is the NSRL created by NIST?**
+	- Stands for the **National Software Reference Library** 
 	- Collects all known hash values for commercial software applications and OS files
+	- Uses SHA-1 to generate known set of digital signatures - **Reference Data Set (RDS)**
+	- **Explain the use of F**
+	- Helps filtering known information -> speeds up investigation time
 	- 
 
 
