@@ -21,7 +21,7 @@
 	- Displays the key/keys you pressed to open CMOS setup screen
 		- Besides date and time, BIOS settings are stored in CMOS
 - CMOS should be modified to boot from a forensic floppy disk or CD
-	- prevents evidence from hard disk being overwritten
+	- prevents evidence from hard disk being overwritten ^4653a1
 
 ![](https://i.imgur.com/tdf3C9g.png)
 

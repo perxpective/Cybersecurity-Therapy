@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "1f94d6f07944881f",
+        "id": "e6128b81da3132f9",
         "type": "leaf",
+        "dimension": 53.751914241960186,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,13 +17,14 @@
         }
       },
       {
-        "id": "e6128b81da3132f9",
+        "id": "477a6c2d6b06c676",
         "type": "leaf",
+        "dimension": 46.248085758039814,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -125,7 +127,7 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "1f94d6f07944881f",
+  "active": "e6128b81da3132f9",
   "lastOpenFiles": [
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Revision Summary.md",
