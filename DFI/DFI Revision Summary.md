@@ -486,7 +486,8 @@
 	- Creating logical disk-to-disk
 	- Creating a sparse copy of the file or folder
 
-| Collection Method | Description                                                                                                                      |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Disk-to-image     | Most common and flexible method<br> More than one copy can be made<br> Copies are for bit-for-bit replications of original drive<br> ProDiscover, Encase, FTK, SMART,  |
-| Disk-to-disk      | Used when disk-to-image not possible<br> Tools can adjust disk's geometry like trackers and sectors<br>                                                                                                                                 |
+| Collection Method | Description                                                                                                                                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Disk-to-image     | Most common and flexible method<br> More than one copy can be made<br> Copies are for bit-for-bit replications of original drive<br> Tools that use disk-to-image: ProDiscover, Encase, FTK, SMART, Sleuth Kit, X-Ways, iLookIX |
+| Disk-to-disk      | Used when disk-to-image not possible<br> Tools can adjust disk's geometry like trackers and sectors<br> Tools that use disk-to-disk: Encase, SnapCopy and Safeback                                                              |
+|                   |                                                                                                                                                                                                                                 |

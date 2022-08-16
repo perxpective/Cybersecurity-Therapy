@@ -62,7 +62,7 @@
 - Most common method, most flexibility
 - More than one copy can be made
 - Copies are bit-for-bit replications of original drive
-- ProDiscover, EnCase, FTK, SMART, Sleuth Kit, X-Ways, iLookIX –
+- Example of tools: ProDiscover, EnCase, FTK, SMART, Sleuth Kit, X-Ways, iLookIX
 
 ### Creating Disk-to-Disk
 - When disk-to-image copy is not possible
