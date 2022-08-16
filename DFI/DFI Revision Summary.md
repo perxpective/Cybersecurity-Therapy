@@ -438,7 +438,7 @@
 	- Was **documentation as thorough** as it could have been?
 	- What **feedback** has been received from **requesting source**?
 	- Did you discover any **new problems**?
-	- Did you **use any new techniques** during the case or research?'
+	- Did you **use any new techniques** during the case or research?
 
 ### Chapter 3 - Data Acquisition
 #### Image Formats
@@ -535,4 +535,4 @@
 	- SHA-1
 	- SHA-512
 - **Windows Validation Methods:**
-	- 
+	- Use third-party utilities such as WinHe
