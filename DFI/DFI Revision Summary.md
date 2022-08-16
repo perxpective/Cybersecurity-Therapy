@@ -585,3 +585,14 @@
 	- Extraction
 	- Reconstruction
 	- Reporting
+
+#### Acquisition
+- **What are the subfunctions of acquisitions?**
+	- Physical data copy 
+	- Logical data copy (logical partition)
+	- Data acquisition formats
+	- GUI acquisition
+	- Remote, live and memory acquisitions
+- **What is a typical feature in vendor acquisition tools?**
+	- Creating smaller segmented files
+- ****
