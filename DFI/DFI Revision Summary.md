@@ -985,8 +985,13 @@
 		- Also known as **data runs**
 	- **Files smaller than 512 bytes**
 		- All metadata and data stored in MFT record
-- **Resident file**
-	- ****
+- **Resident file attributes**
+	- All MFT records start at `FILE0`
+	- Swap two bytes for start of attribute
+	- Length of header indicates where next attributes starts
+- **Non-resident file attributes**
+	- OS assigns logical clusters to entire disk partition
+		- 
 
 ---
 ## Table Summaries
