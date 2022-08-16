@@ -890,7 +890,13 @@
 	- Can be used to hide data
 - **Partition Table**
 	- Table maintained on disk by operating system describing partitions on the disk
-- **How are **
+	- Located in the **Master Boot Record (MBR)**
+- **How is the file system identified and maintained?**
+	- Key hexadecimal codes
+- **Master Boot Record (MBR)**
+	- Located in **Sector 0** of the disk drive
+	- Precedes the first partition
+	- Stores information about partitions in a disk and their locations, size and other important items
 
 ---
 ## Table Summaries
