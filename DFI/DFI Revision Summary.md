@@ -626,7 +626,16 @@
 			- National Software Reference Library (NSRL)
 			- Includes:
 				- OS
-				- A
+				- Applications
+				- Images
+		- Most computer forensics programs have list of common header values 
+			- check if file extension is incorrect for the file type
+
+##### Extraction
+- **Explanation:**
+	- Recovery task in digital investigation
+	- Most challenging task to master
+	- Re
 
 ---
 ## Table Summaries
