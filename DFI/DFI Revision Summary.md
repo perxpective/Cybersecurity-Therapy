@@ -480,6 +480,9 @@
 - **Types of data acquisition:**
 	- Static acquisition
 	- Live acquisition
+
+> - **Live Acquisition** is used when suspect computer cannot be shut down for static acquisition
+
 - **Types of data collection methods:**
 	- Creating disk-to-image file
 	- Creating disk-to-disk
