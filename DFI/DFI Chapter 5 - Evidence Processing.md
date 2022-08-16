@@ -248,7 +248,7 @@
 | `0x100`      | $Logged_Utility_Stream<br> This field is used by Encrypting File System (EFS) in Windows 2000 or later                                                                                                                                                                                                                                                                                                                                                                              |
 
 - Basic Information of file in MFT starts at `0x10`
-- Each MFT record starts with header specifying if it is resident or nonresident
+- Each MFT record starts with header specifying if it is resident or non-resident
 - Files that are larger than 512 bytes are stored outside the MFT
 	- MFT record provides cluster where file is stored on drive's partition
 	- Referred to as data runs

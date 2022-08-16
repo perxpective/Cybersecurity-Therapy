@@ -973,7 +973,11 @@
 	- Each record contains file or folder information
 		- Divided into record fields containing metadata
 		- Record field referred as attribute ID
-		- File or folder information stored in two ways in 
+		- File or folder information stored in two ways:
+			- Resident
+			- Non-resident
+	- Basic information of file in MFT starts at `0x10`
+		- Each record starts with header specifying if it is resident or non-resident
 
 ---
 ## Table Summaries
