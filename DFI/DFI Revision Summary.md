@@ -595,4 +595,7 @@
 	- Remote, live and memory acquisitions
 - **What is a typical feature in vendor acquisition tools?**
 	- Creating smaller segmented files
-- 
+
+> Remote acquisition is common in larger organizations
+
+- **Two types of**

@@ -36,7 +36,7 @@
 - Two types of data-copying methods used in software acquisitions:
 	- Physical copying of entire drive
 	- Logical copying of disk partition
-	- Formats for disk acquisitions vary from raw data to vendor-specific proprietary
+- Formats for disk acquisitions vary from raw data to vendor-specific proprietary
 
 ### Validation and Verification
 #### Validation
