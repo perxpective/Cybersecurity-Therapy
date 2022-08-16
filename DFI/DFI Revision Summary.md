@@ -807,7 +807,8 @@
 		- Use a test hard disk for validation purposes
 		- Check the Internet for new editions, updates, patches and validation tests for tools
 
-## Chapter 5 - Evidence Processing
+### Chapter 5 - Evidence Processing
+
 
 ---
 ## Table Summaries
