@@ -42,6 +42,11 @@
 	- Tracks
 	- Cylinders
 	- Sectors (Typically has 512 bytes each)
+
+![400](https://i.imgur.com/wkHaFVz.png)
+
+![](https://i.imgur.com/UmSCptT.png)
+
 - Properties handled at drive's hardware or firmware level include:
 
 | Property                 | Explanation                                                                      |
