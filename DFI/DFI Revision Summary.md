@@ -647,7 +647,8 @@
 	- **Decrypting:**
 		- Potential problem for the investigation
 	- **Bookmarking (or tagging)**
-	- 
+- **Password Recovery:**
+	- Use password recovery tools to 
 
 ---
 ## Table Summaries
