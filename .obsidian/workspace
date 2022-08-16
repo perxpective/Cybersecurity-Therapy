@@ -8,12 +8,8 @@
         "type": "leaf",
         "dimension": 49.02840059790732,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DFI/DFI Revision Summary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,10 +120,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "91ae0e8930d4ddf4",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
-    "DFI/Untitled 1.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/Untitled 1.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/Untitled.md",
