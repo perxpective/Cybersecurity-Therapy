@@ -635,7 +635,14 @@
 - **Explanation:**
 	- Recovery task in digital investigation
 	- Most challenging task to master
-	- Re
+	- Recovering data is first step in analysing investigation data
+- **Subfunctions of extraction**
+	- **Data viewing:**
+		- Different tools can provide different ways of viewing data
+	- **Keywor**
 
 ---
 ## Table Summaries
+
+---
+## Abbreviations 
