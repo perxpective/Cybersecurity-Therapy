@@ -915,6 +915,10 @@
 	- Timestamps
 	- Starting cluster
 	- File attributes
+- **Current versions of FAT**
+	- FAT12
+	- FAT16
+	- FAT32
 ---
 ## Table Summaries
 
