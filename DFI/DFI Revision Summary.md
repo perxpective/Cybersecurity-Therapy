@@ -812,12 +812,19 @@
 - **CMOS**
 	> **CMOS** - Complementary Metal Oxide Semiconductor
 	
-	- Stores sys configuration, date and time information
+	- Stores sys configuration, date and time information and BIOS information
 - **BIOS/EFI**
 	> **BIOS** - Basic Input Output System
 	> **EFI** - Extensible Firmware Interface
 	
-	- Contains p
+	- Contains programs that perform input/output at the hardware level
+- **Bootstrap Process**
+	- Contained in **ROM (Read-Only Memory)**
+	- Tells computer how to proceed
+	- Displays the keys pressed to open the CMOS setup
+	- CMOS should be modified to boot from forensic floppy disk or CD
+		- Prevent evidence from hard disk from being overwritten
+		- [[DFI Chapter 5 - Evidence Processing#]]
 
 ---
 ## Table Summaries
