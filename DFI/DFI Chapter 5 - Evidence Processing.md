@@ -131,7 +131,7 @@
 | 1024-2048 MB | 64                  | 32 KB     |
 | 2048-4096 MB | 128                 | 64 KB     |
 
-- Microsoft OS allocate disk space for files by clusters -- results in **drive slack** 
+- Microsoft OS allocate disk space for files by clusters - results in **drive slack** 
 
 > **Drive slack**: Unused space in a cluster between end of an active file and end of the cluster
 
