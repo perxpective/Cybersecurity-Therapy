@@ -91,7 +91,7 @@
 
 > **Partition Table:** a table maintained on disk by the operating system describing partitions on the disk
 
-- key hexadecimal codes are used to identify and maintain file system
+- Key hexadecimal codes are used to identify and maintain file system
 - **Partition table** is located in the **Master Boot Record (MBR)**
 	- Located at sector 0 of the disk drive, preceding first partition
 - MBR stores information about partitions on a disk and their locations, size and other important items

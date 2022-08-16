@@ -884,8 +884,13 @@
 #### Disk Partitions
 - **What is a partition?**
 	-  A logical drive
-	- 
-
+- Windows OS have three primary partitions followed by an extended partition that can contain more more than one partition
+- **Partition Gap**
+	- Unused space between partitions 
+	- Can be used to hide data
+- **Partition Table**
+	- Table maintained on disk by operating system describing partitions on the disk
+- **How are **
 
 ---
 ## Table Summaries
