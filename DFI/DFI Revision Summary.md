@@ -762,6 +762,13 @@
 	- Based on the following:
 		- Standard testing methods
 		- ISO 17025 criteria for testing items with no current standards
+- **What is the criteria for tool testing?**
+	- Establish categories for digital forensics tools
+	- Identify forensics category requirements
+	- Develop test assertions
+		- Based on requirements, create tests to test the tool capability
+	- Identify test cases
+	- Report test results
 ---
 ## Table Summaries
 
