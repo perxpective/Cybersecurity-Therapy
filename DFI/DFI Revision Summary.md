@@ -907,6 +907,14 @@
 
 #### File Allocation Tables (FAT)
 - **Definition:**
+	- File structure database Microsoft originally designed for **floppy disks**
+- **Contains the following information:**
+	- Filenames
+	- Directory names
+	- Date
+	- Timestamps
+	- Starting cluster
+	- File attributes
 ---
 ## Table Summaries
 
