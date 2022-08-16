@@ -463,4 +463,10 @@
 	- **Disadvantages:**
 		- Unable to share image between different tool or vendors
 		- File size limitation for each segmented volume
-- **What are the design goals of **
+- **What are the design goals of AFF?**
+	- Provide compress or uncompressed image files
+	- No size reduction for disk-to-image files
+	- Provide space in image file or segmented files for metadata
+	- Open source
+	- Extensibility
+	- OSS vendor have no implementation

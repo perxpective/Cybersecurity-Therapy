@@ -32,6 +32,8 @@
 | Can integrate metadata into file                                                 |                                                      |
 
 ### Advanced Forensics Format
+> AFF is **open source**
+
 **Design goals:**
 - Provide compressed or uncompressed image files
 - No size reduction for disk-to-image files
