@@ -90,8 +90,8 @@
 	- Rebuilding files from data runs and carving
 - How to re-create image of suspect drive
 	- Copy image to another location (e.g. partition, physical disk or virtual machine)
-  - Simplest method is to use tool that makes direct disk-to-image copy
-  - Examples:
+	- Simplest method is to use tool that makes direct disk-to-image copy
+- Examples:
 	- Linux dd command
 	- ProDiscover
 	- Voom Technologies Shadow Drive

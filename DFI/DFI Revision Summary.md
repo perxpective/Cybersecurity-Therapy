@@ -656,7 +656,12 @@
 - **Objective:**
 	- To recreate the suspect drive to show what happened during the crime or incident
 	- Create copy of suspect drive for other investigators
-- 
+- **Methods:**
+	- Disk-to-disk
+	- Partition-to-partition
+	- Image-to-disk
+	- Rebuilding files from data runs and carving
+- **How to recreate image of suspect drive?**
 ---
 ## Table Summaries
 
