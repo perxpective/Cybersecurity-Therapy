@@ -477,3 +477,12 @@
 		- `.afm` (AFF metadata)
 
 #### Acquisition Methods
+- **Types of data acquisition:**
+	- Static acquisition
+	- Live acquisition
+- **Types of data collection methods:**
+	- Creating disk-to-image file
+	- Creating disk-to-disk
+	- Creating logical disk-to-disk
+	- Creating a sparse copy of the file or folder
+	- 
