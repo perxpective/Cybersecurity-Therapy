@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 155.5,
-    "collapsed": true
+    "width": 155.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -130,15 +129,15 @@
   },
   "active": "356041efcc707053",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 3 - Data Acquisition.md",
+    "DFI/Untitled.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
-    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
-    "README.md.md"
+    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md"
   ]
 }

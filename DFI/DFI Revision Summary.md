@@ -455,8 +455,12 @@
 		- Tools might not collect marginal sectors 
 			- due to low threshold of retry reads on weak media spots on drive
 - **What are the advantages and disadvantages of Proprietary Format?**
-	- **Advantages**
+	- **Advantages:**
 		- Option to compress or not compress image files to save space
 		- Can split image into smaller segmented files 
 			- provide integrity check for split data
-		- Able to 
+		- Able to integrate metadata into file
+	- **Disadvantages:**
+		- Unable to share image between different tool or vendors
+		- File size limitation for each segmented volume
+- **What are the design goals of **
