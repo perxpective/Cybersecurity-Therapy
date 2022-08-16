@@ -440,4 +440,9 @@
 	- Did you discover any new problems?
 	- Did you use any new techniques during the case or research?'
 
-### Chapter 3 - 
+### Chapter 3 - Data Acquisition
+- **Image Formats: (RPA)**
+	- Raw Format 
+	- Proprietary Format
+	- Advanced Forensics Format (AFF)
+- 

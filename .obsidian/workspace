@@ -6,6 +6,7 @@
       {
         "id": "356041efcc707053",
         "type": "leaf",
+        "dimension": 52.72727272727272,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +19,7 @@
       {
         "id": "cbf7b02162dc56fd",
         "type": "leaf",
+        "dimension": 47.27272727272727,
         "state": {
           "type": "markdown",
           "state": {
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 155.5
+    "width": 155.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -81,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 3 - Data Acquisition.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 3 - Data Acquisition.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -125,10 +128,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "cbf7b02162dc56fd",
+  "active": "356041efcc707053",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
