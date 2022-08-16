@@ -54,6 +54,7 @@
 ## Rooting Android
 - Varies significantly from device to device due to differences in hardware
 - Rooting steps:
+
 | Step                       | Description                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------- |
 | Flash Recovery             | Enter Recovery and is meant to backup device and load new OS                       |
