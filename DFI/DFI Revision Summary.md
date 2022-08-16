@@ -769,6 +769,12 @@
 		- Based on requirements, create tests to test the tool capability
 	- Identify test cases
 	- Report test results
+- **What is the NSRL created by NIST?**
+	- Collects all known hash values for commercial software applications and OS files
+	- 
+
+
+
 ---
 ## Table Summaries
 
