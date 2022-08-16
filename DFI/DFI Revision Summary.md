@@ -732,7 +732,7 @@
 #### Write-Blockers
 - **Purposes of Write-Blocker:**
 	- Prevents data writes to the hard disk
-- **Two types of write-blockers**
+- **Two types of write-blockers:**
 
 ---
 ## Table Summaries
