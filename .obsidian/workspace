@@ -17,17 +17,36 @@
         }
       },
       {
-        "id": "b1a2680135355386",
-        "type": "leaf",
+        "id": "e87819e0b0653a20",
+        "type": "split",
         "dimension": 48.085758039816234,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
-            "mode": "source",
-            "source": false
+        "children": [
+          {
+            "id": "b1a2680135355386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "912fbdabc64b593d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Revision Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -127,7 +146,7 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "477a6c2d6b06c676",
+  "active": "912fbdabc64b593d",
   "lastOpenFiles": [
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Revision Summary.md",

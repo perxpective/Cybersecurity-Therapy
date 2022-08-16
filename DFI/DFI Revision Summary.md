@@ -962,7 +962,12 @@
 > - NTFS clusters are smaller for smaller disk drives
 > - Uses Unicode (international date format)
 
-
+- **What is the Master File Table (MFT)?**
+	- Contains the following information:
+		- All files in the disk
+		- Includes system files OS uses
+		- 15 records reserved for system files
+		- Metadata (records in MFT)
 
 ---
 ## Table Summaries
