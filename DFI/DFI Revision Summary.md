@@ -749,7 +749,13 @@
 
 #### Validation and Testing of Forensics Software
 - **Why is it important to test and validate forensics software?**
-	- Ensure that evidence recovered and analysed can be ad
+	- Ensure that evidence recovered and analysed can be admitted in court
+
+> Test and validate forensics software to prevent damaging the evidence
+
+#### Using NIST Tools
+
+
 ---
 ## Table Summaries
 
