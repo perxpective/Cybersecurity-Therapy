@@ -811,7 +811,13 @@
 #### Boot Sequence
 - **CMOS**
 	> **CMOS** - Complementary Metal Oxide Semiconductor
-
+	
+	- Stores sys configuration, date and time information
+- **BIOS/EFI**
+	> **BIOS** - Basic Input Output System
+	> **EFI** - Extensible Firmware Interface
+	
+	- 
 
 ---
 ## Table Summaries
