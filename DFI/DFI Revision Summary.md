@@ -524,4 +524,4 @@
 - **Disadvantages:**
 	- Acquired data must be protected by well-tested write-blocker hardware device
 	- Tools cannot acquire data from disk's host protected data
-	- Several countrie
+	- Several countries have not accepted use of write-blocking devices for data acquisitions
