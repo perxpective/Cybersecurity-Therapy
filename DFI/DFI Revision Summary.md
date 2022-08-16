@@ -485,4 +485,7 @@
 	- Creating disk-to-disk
 	- Creating logical disk-to-disk
 	- Creating a sparse copy of the file or folder
-	- 
+
+| Collection Method | Description |
+| ----------------- | ----------- |
+| Disk-to-image     | Most common and flexible method<br> More than one copy can be mad            |
