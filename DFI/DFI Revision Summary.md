@@ -547,6 +547,9 @@
 	- **Tools that support remote acquisition:**
 		- Encase
 		- ProDiscover
+	- **Issues with remote acquisition:**
+		- Antiviruses, antispyware and firewalls tools can be configured to ignore remote access programs and access can be blocked
+		- Suspects can easily inst
 	- **Capabilities of Remote Acquisition Tools:**
 		- Preview suspect drive remotely while in use or powered on
 		- Perform live acquisition (aka smear) as disk data is altered while suspect computer is turned on
