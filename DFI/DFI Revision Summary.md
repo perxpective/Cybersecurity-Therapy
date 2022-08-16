@@ -452,4 +452,6 @@
 		- Most computer forensics tools can read raw format
 	- **Disadvantages:**
 		- Requires too much storage as original disk or data
-		- Tools might not collect marginal sectors due to low threshold of retry reads on weak media spots on drive
+		- Tools might not collect marginal sectors 
+			- due to low threshold of retry reads on weak media spots on drive
+- **What are the advantages and disadvantages of Proprietary Format**
