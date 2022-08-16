@@ -843,7 +843,9 @@
 	- Cylinders
 	- Sectors (typically 512 bytes each)
 - **Properties of drive handled at drive's hardware or firmware level:**
-	- **Zone Bit Recording (ZBR)** - 
+	- **Zone Bit Recording (ZBR)**
+		- Method of grouping tracks by zones to ensure all tracks hold the same amount of data
+		- 
 
 ---
 ## Table Summaries
