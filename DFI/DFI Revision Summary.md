@@ -976,8 +976,15 @@
 		- File or folder information stored in two ways:
 			- Resident
 			- Non-resident
-	- Basic information of file in MFT starts at `0x10`
+	- **Basic information of file in MFT** 
+		- Starts at `0x10`
 		- Each record starts with header specifying if it is resident or non-resident
+	- **Files larger than 512 bytes** 
+		- Stored **outside MFT**
+		- MFT record provides **cluster where file is stored** on drive partition
+		- Also known as **data runs**
+	- **Files smaller than 512 bytes**
+		- All metadata and data stored in MFT record
 
 ---
 ## Table Summaries
