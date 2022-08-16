@@ -994,8 +994,13 @@
 			- Addresses that allows MFT to link non-resident files on disk partition
 		- When data is first written to non-resident files, LCN address assigned to file
 			- LCNs become the file's **virtual cluster number (VCN)**
-- **MFT S**
-
+- **MFT Structures for File Data**
+	- **Headers of record fields of interest:**
+		- Offset `0x00` - MFT record identifier file
+		- Offset `0x14` - length of header (indicates where next attributes starts)
+			- Convert hexadecimal to decimal for number of bytes
+		- Offset `0x1C` -`0x1F` - size of entire MFT record
+		- Offset `0x32` - `0x33` - update sequence array stores 
 ---
 ## Table Summaries
 
