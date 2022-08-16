@@ -440,7 +440,7 @@
 	- Did you discover any **new problems**?
 	- Did you **use any new techniques** during the case or research?
 
-### [[chapter3|Chapter 3 - Data Acquisition]]
+### Chapter 3 - Data Acquisition
 #### Image Formats
 - **Image Formats: (RPA)**
 	- Raw Format 
@@ -564,7 +564,7 @@
 			- Run hash comparisons on remote systems to search for Trojans and rootkits
 			- Create has inventory of all files on system remotely to establish baseline if attacked
 
-### [[DFI Chapter 4 - Forensics Tools|Chapter 4 - Forensics Tools]]
+### Chapter 4 - Forensics Tools
 #### Overview of Forensics Tools
 - **Types of Forensics Tools:**
 	- **Hardware forensics tools**
@@ -807,7 +807,7 @@
 		- Use a test hard disk for validation purposes
 		- Check the Internet for new editions, updates, patches and validation tests for tools
 
-### [[DFI Chapter 5 - Evidence Processing|Chapter 5 - Evidence Processing]]
+### Chapter 5 - Evidence Processing
 #### Boot Sequence
 - **CMOS**
 	> **CMOS** - Complementary Metal Oxide Semiconductor
@@ -824,7 +824,6 @@
 	- Displays the keys pressed to open the CMOS setup
 	- CMOS should be modified to boot from forensic floppy disk or CD
 		- Prevent evidence from hard disk from being overwritten
-		- [[DFI Chapter 5 - Evidence Processing#^4653a1]]
 
 ---
 ## Table Summaries
