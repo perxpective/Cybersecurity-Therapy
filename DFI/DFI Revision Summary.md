@@ -754,7 +754,8 @@
 > Test and validate forensics software to prevent damaging the evidence
 
 #### Using NIST Tools
-
+- **What is NIST?**
+> - **NIST** - National Institute of Standards and Technology
 
 ---
 ## Table Summaries
