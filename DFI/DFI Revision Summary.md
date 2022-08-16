@@ -937,8 +937,13 @@
 	- Assigned a starting cluster position to file
 	- Data for file written to the first sector of first assigned cluster
 	- When first assigned cluster filled and runs out of room, FAT assigns next available cluster to file
-	- **Document size:** 5000 bytes of data
+- **Deleting FAT files**
+	- Directory entry marked as deleted file
 	- 
+
+
+
+
 ---
 ## Table Summaries
 
