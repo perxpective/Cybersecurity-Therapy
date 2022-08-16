@@ -549,7 +549,7 @@
 		- ProDiscover
 	- **Issues with remote acquisition:**
 		- Antiviruses, antispyware and firewalls tools can be configured to ignore remote access programs and access can be blocked
-		- Suspects can easily inst
+		- Suspects can easily install their own security tools that trigger alarms to inform them of remote access intrusions
 	- **Capabilities of Remote Acquisition Tools:**
 		- Preview suspect drive remotely while in use or powered on
 		- Perform live acquisition (aka smear) as disk data is altered while suspect computer is turned on
@@ -565,4 +565,5 @@
 			- Create has inventory of all files on system remotely to establish baseline if attacked
 
 ### Chapter 4 - Forensics Tools
-#### Types of Forensics Tools
+#### Overview of Forensics Tools
+****
