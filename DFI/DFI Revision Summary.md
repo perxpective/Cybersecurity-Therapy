@@ -667,7 +667,12 @@
 			- partition
 			- physical disk
 			- virtual machine
-		- 
+		- Use a tool that makes direct disk-to-image copy
+			- **Examples:**
+				- Linux `dd` command
+				- ProDiscover
+				- Voom Technologies Shadow Drive
+
 ---
 ## Table Summaries
 
