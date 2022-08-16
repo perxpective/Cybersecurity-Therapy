@@ -432,13 +432,13 @@
 
 #### Critiquing the Case
 - **Questions to ask: (HDDWWDD)**
-	- How can you improve your performance in the case?
-	- Did you expect the results found? 
-	- Did case developed into ways you did not expect?
-	- Was documentation as thorough as it could have been?
-	- What feedback has been received from requesting source?
-	- Did you discover any new problems?
-	- Did you use any new techniques during the case or research?'
+	- How can you **improve your performance** in the case?
+	- Did you **expect the results** found? 
+	- Did case **developed** into ways you did not expect?
+	- Was **documentation as thorough** as it could have been?
+	- What **feedback** has been received from **requesting source**?
+	- Did you discover any **new problems**?
+	- Did you **use any new techniques** during the case or research?'
 
 ### Chapter 3 - Data Acquisition
 - **Image Formats: (RPA)**
@@ -447,4 +447,7 @@
 	- Advanced Forensics Format (AFF)
 - **What are the advantages and disadvantages of Raw Format?**
 	- **Advantages:**
+		- Fast data transfers
+		- Ignore minor data read errors on source drive
+		- Most computer forensics tools can read raw format
 		- 
