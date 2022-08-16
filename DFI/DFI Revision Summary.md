@@ -743,7 +743,13 @@
 		- Can navigate to blocked drive with any application
 		- Discards written data
 		- **Connecting technologies:**
-			- 
+			- FireWire
+			- USB 2.0/3.0
+			- SATA, PATA, SCSI controllers
+
+#### Validation and Testing of Forensics Software
+- **Why is it important to test and validate forensics software?**
+	- Ensure that evidence recovered and analysed can be ad
 ---
 ## Table Summaries
 
