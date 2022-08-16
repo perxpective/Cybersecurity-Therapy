@@ -567,11 +567,21 @@
 ### Chapter 4 - Forensics Tools
 #### Overview of Forensics Tools
 - **Types of Forensics Tools:**
-	- Hardware forensics tools
+	- **Hardware forensics tools**
 		- Ranges from:
 			- single-purpose components to;
 			- complete computer systems and servers
-	- Software forensics tools
+	- **Software forensics tools**
 		- Ranges from $300 and above
 		- Can be either of the following:
-			- command-lin
+			- command-line applications
+			- GUI applications
+		- Commonly used to copy data from suspect disk drive to image file
+
+#### Tasks Performed by Digital Forensics Tools
+- **Tasks in Digital Forensics:**
+	- Acquisition
+	- Validation and Verification
+	- Extraction
+	- Reconstruction
+	- Reporting
