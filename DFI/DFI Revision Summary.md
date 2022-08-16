@@ -879,6 +879,7 @@
 		- Address point to relative position
 	- **What are physical addresses?**
 		- Sector numbers
+		- From address 0 to last sector of disk
 
 
 
