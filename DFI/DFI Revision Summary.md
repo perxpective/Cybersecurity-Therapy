@@ -870,8 +870,15 @@
 	- **Numbering in NTFS and FAT**
 		- 0 (NTFS)
 		- 2 (FAT)
-	- **First sector**
-		- 
+	- **First sector contains the following:**
+		- system area
+		- boot record
+		- file structure database
+	- **What are logical addresses?**
+		- Cluster number assigned by the OS
+		- Address point to relative position
+	- **What are physical addresses?**
+		- Sector numbers
 
 
 
