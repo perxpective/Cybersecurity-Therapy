@@ -845,7 +845,17 @@
 - **Properties of drive handled at drive's hardware or firmware level:**
 	- **Zone Bit Recording (ZBR)**
 		- Method of grouping tracks by zones to ensure all tracks hold the same amount of data
-		- 
+	- **Track Density**
+		- Space between each track
+		- Smaller the space, the more track on the platter
+	- **Areal Density**
+		- Number of bits in one square inch of a disk platter
+	- **Head and Cylinder Skew**
+		- Improves disk performance by minimizing movement of read and write head
+
+#### Solid-State Storage Devices
+- **What is wear-levelling?**
+	- Internal firmware feature used in solid-state drives to ensure 
 
 ---
 ## Table Summaries
