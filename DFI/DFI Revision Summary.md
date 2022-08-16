@@ -612,7 +612,15 @@
 - **Verification**
 	- **Explanation:**
 		- Proving that the two sets of data are identical by calculating hash values or using similar methods
-- ****
+- **Subfunctions of validation and verification:**
+	- **Hashing:**
+		- Ensuring that data is not changed
+		- Use hashing algorithms e.g. CRC-32, SHA-1, MD5
+	- **Filtering:**
+		- Separate good files and files that need to be investigated
+		- Discriminate files based on file types
+	- **Analysing file headers**
+		- Check onthe 
 
 ---
 ## Table Summaries
