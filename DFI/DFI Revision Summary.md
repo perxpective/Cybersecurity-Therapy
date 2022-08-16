@@ -727,7 +727,12 @@
 	- Ergonomic keyboard and mouse
 	- Good video card
 	- at least 17 inch monitor
-	- High-end vi
+	- High-end video card and dual monitors
+
+#### Write-Blockers
+- **Purposes of Write-Blocker:**
+	- Prevents data writes to the hard disk
+- **Two types of **
 
 ---
 ## Table Summaries
