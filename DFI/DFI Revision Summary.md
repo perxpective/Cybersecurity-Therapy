@@ -482,6 +482,7 @@
 	- Live acquisition
 
 > - **Live Acquisition** is used when suspect computer cannot be shut down for static acquisition
+> - Not repeatable as data is continually being altered by suspect computer's OS
 
 - **Types of data collection methods:**
 	- Creating disk-to-image file
