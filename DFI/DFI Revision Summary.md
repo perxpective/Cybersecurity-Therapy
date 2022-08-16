@@ -985,6 +985,8 @@
 		- Also known as **data runs**
 	- **Files smaller than 512 bytes**
 		- All metadata and data stored in MFT record
+- **Resident file**
+	- ****
 
 ---
 ## Table Summaries
