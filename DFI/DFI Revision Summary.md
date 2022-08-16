@@ -504,3 +504,6 @@
 		- When working with large devices, alternative is using tape backup system
 	- **Whether the disk can be retained**
 		- Original disk may need to be returned to the original owners after copying
+
+#### Contingency Planning for Image Acquisition
+- Create duplicate copy of evidence image file
