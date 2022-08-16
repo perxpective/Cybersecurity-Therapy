@@ -549,4 +549,11 @@
 		- ProDiscover
 	- **Capabilities of Remote Acquisition Tools:**
 		- Preview suspect drive remotely while in use or powered on
-		- Perform live acquisition (aka smear) as disk data is altered 
+		- Perform live acquisition (aka smear) as disk data is altered while suspect computer is turned on
+		- Encrypts connection between suspect and examiner computer
+		- Copy suspect computer's RAM while computer is on
+		- Use optional stealth mode to hide remote connection from suspect while data is being acquired or previewed
+		- **Additional Functions:**
+			- Create volatile system state information
+			- Analyse current running processes on remote system
+			- Locate unseen files and processes on remote system that migh
