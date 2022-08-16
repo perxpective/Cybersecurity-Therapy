@@ -796,7 +796,17 @@
 	- Verify results with disk editor
 	- Compare hash values obtained from both tools
 
-#### Digi
+#### Digital Forensics Tool Upgrade Protocol
+- **Why?**
+	- Ensures that evidence data is not corrupted
+- **Steps:**
+	- Test for:
+		- New releases
+		- OS patches and upgrades
+	- Report forensics tool to vendors if there are problems
+		- Do not use forensics tool until the problem is fixed
+	- Use a test hard disk for validation purposes
+	- Check web 
 
 ---
 ## Table Summaries
