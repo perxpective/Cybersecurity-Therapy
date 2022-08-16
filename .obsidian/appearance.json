@@ -2,7 +2,7 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter,SF Pro Display,Segoe UI",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "Primary",
+  "cssTheme": "Sanctum",
   "baseFontSize": 13,
   "theme": "obsidian",
   "translucency": false

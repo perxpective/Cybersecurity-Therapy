@@ -100,7 +100,7 @@
 - To perform analysis disk analysis and examination, report must be created
 - **Subfunctions of reporting:**
 	- Bookmarking or tagging
-	- Log reports -- documentation investigation steps
+	- Log reports - documentation investigation steps
 	- Report generator
 
 ## Considerations For Tools

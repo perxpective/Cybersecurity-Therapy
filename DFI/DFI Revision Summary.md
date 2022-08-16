@@ -662,6 +662,12 @@
 	- Image-to-disk
 	- Rebuilding files from data runs and carving
 - **How to recreate image of suspect drive?**
+	- Copy the image to another location
+		- Sources:
+			- partition
+			- physical disk
+			- virtual machine
+		- 
 ---
 ## Table Summaries
 
