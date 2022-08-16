@@ -179,12 +179,6 @@
 - **Private-Sector Investigations**
 	- **Parties Involved:** Private companies and lawyers
 	- Addresses company policy violations and litigation disputes
-- **Differences:**
-
-|                  | Public-Sector Investigations | Private-Sector Investigations |
-| ---------------- | ---------------------------- | ----------------------------- |
-| Parties Involved | Government agencies          | Private companies and lawyers |
-| Objectives       | Follow the legal process     | Address company policy violations and litigation disputes                              |
 
 #### Legal Process
 - **Steps:**
@@ -612,10 +606,12 @@
 
 ##### Validation and Verification
 - **Validation**
-	- **Explanation:**
+> - **Explanation:**
 		- A way to confirm a tool is function as intended
 		- Ensuring that integrity of data is being copied
 - **Verification**
 	- **Explanation:**
+		- Proving that the two sets of data 
 
+---
 ## Table Summaries
