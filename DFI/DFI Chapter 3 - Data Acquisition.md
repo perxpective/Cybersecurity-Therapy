@@ -152,7 +152,7 @@
 - Raw image format do not contain metadata
 	- Separate manual validation recommended for all raw acquisitions
 
-### Using Remote Network Acquisition Tools
+## Using Remote Network Acquisition Tools
 - It is possible to remotely connect to suspect computer and copy data from it
 - Many tools e.g. Encase and ProDiscover allow remote acquisition
 - Drawbacks:

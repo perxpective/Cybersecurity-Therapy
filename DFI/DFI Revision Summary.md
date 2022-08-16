@@ -543,4 +543,10 @@
 				- including hash value of suspect drive or partition
 			- Raw image formats do not contain metadata
 				- separate manual validation is recommended for all raw acquisitions
-- **Using Remote Network Acqui**
+- **Remote Network Acquisition Tools**
+	- **Tools that support remote acquisition:**
+		- Encase
+		- ProDiscover
+	- **Capabilities of Remote Acquisition Tools:**
+		- Preview suspect drive remotely while in use or powered on
+		- Perform live acquisition (aka smear) as disk data is altered 
