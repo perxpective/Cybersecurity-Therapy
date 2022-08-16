@@ -520,4 +520,5 @@
 #### Acquisition Tools
 **What are the advantages and disadvantages of acquisition tools for Windows?**
 - **Advantages:**
-	- Connecting suspect drive
+	- Makes acquiring evidence from evidence drive more convenient
+- **Disad**
