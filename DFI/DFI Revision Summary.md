@@ -898,11 +898,14 @@
 	- Precedes the first partition
 	- Stores information about partitions in a disk and their locations, size and other important items
 - **Partition Table in Hexadecimal Editor**
-	- **File system hexadecimal code (First Partition):**
+	- **File system hexadecimal code (first partition):**
 		- **3 bytes** from `0x1BE`
-	- **Sector address**
-		- 
+	- **Sector address of where partition starts:**
+		- **8 bytes** from `0x1BE`
+	- **Number of sectors assigned to partition:**
+		- **12 bytes** from `0x1BE`
 
+#### File Allocation Tables (FAT)
 ---
 ## Table Summaries
 
