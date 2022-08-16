@@ -700,6 +700,14 @@
 		- Creates tool dependencies:
 			- Investigators might only want to use one tool
 			- Investigators need to be familiar with more than one tool
+
+#### Forensics Workstations
+- **Categories of forensics workstations:**
+	- **Stationary** workstations
+	- **Portable** workstations
+	- **Lightweight** workstations
+- 
+
 ---
 ## Table Summaries
 
