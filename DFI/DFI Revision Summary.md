@@ -968,6 +968,10 @@
 		- Includes system files OS uses
 		- 15 records reserved for system files
 		- Metadata (records in MFT)
+- **MFT File Attributes**
+	- Files and folders stored in separate records of **1024 bytes each**
+	- Each record contains file or folder information
+		- Divided into record fields containing metadata
 
 ---
 ## Table Summaries
