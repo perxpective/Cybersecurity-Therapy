@@ -859,7 +859,8 @@
 
 	> Generally, memory cells can perform 10k-100k reads and writes
 
-	- 
+- **Why must a full forensic copy be made when dealing with solid-state drives?**
+	- In case there is a need to recover data from unallocated space, wear-levelling feature automatically overwrites unallocated space
 
 ---
 ## Table Summaries
