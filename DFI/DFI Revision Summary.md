@@ -720,7 +720,14 @@
 - **What are some recommendations for stationary and lightweight workstations?**
 	- Full tower to allow for expansion devices
 	- Get as much memory and processor power as budget allows
-	- Different sizes of har 
+	- Different sizes of hard drives
+	- 400W or better power supply (+ battery backup)
+	- External FireWire and USB 2.0 ports
+	- Assortment of drive adapter bridges
+	- Ergonomic keyboard and mouse
+	- Good video card
+	- at least 17 inch monitor
+	- High-end vi
 
 ---
 ## Table Summaries
