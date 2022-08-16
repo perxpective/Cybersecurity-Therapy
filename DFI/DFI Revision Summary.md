@@ -939,9 +939,18 @@
 	- When first assigned cluster filled and runs out of room, FAT assigns next available cluster to file
 - **Deleting FAT files**
 	- Directory entry marked as deleted file
+	- Hex **E5** character replacing first letter of filename
+	- FAT chain for that file set to 0
+	- Data in file remains on disk drive
+	- Area of disk where deleted file resides becomes **unallocated disk space**
+		- Available to receive new data from newly created files or other files needing more space
+
+#### NTFS Disks
+- **What is NTFS?**
+	- Introduced with Windows NT
+	- Main file system for Windows 8 or later
+	- Improvement over FAT file systems
 	- 
-
-
 
 
 ---
