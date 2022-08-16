@@ -806,7 +806,7 @@
 	- Report forensics tool to vendors if there are problems
 		- Do not use forensics tool until the problem is fixed
 	- Use a test hard disk for validation purposes
-	- Check web 
+	- Check the Internet for new editions, updates, patches and validation tests for tools
 
 ---
 ## Table Summaries
