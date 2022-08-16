@@ -441,6 +441,7 @@
 	- Did you **use any new techniques** during the case or research?'
 
 ### Chapter 3 - Data Acquisition
+#### Image Formats
 - **Image Formats: (RPA)**
 	- Raw Format 
 	- Proprietary Format
@@ -469,4 +470,10 @@
 	- Provide space in image file or segmented files for metadata
 	- Open source
 	- Extensibility
-	- OSS vendor have no implementation
+	- OSS vendor have no implementation restrictions on this format
+	- Internal consistency checks for self-authentication
+	- **File formats for AFF**
+		- `.afd` (segmented image files)
+		- `.afm` (AFF metadata)
+
+#### Acquisition Methods
