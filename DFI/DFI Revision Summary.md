@@ -521,4 +521,7 @@
 **What are the advantages and disadvantages of acquisition tools for Windows?**
 - **Advantages:**
 	- Makes acquiring evidence from evidence drive more convenient
-- **Disad**
+- **Disadvantages:**
+	- Acquired data must be protected by well-tested write-blocker hardware device
+	- Tools cannot acquire data from disk's host protected data
+	- Several countrie
