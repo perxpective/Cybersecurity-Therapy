@@ -824,6 +824,19 @@
 	- Displays the keys pressed to open the CMOS setup
 	- CMOS should be modified to boot from forensic floppy disk or CD
 		- Prevent evidence from hard disk from being overwritten
+- **What information can BIOS configure?**
+	- System Time/Date
+	- Boot Sequence
+	- Plug and Play
+	- Mouse and Keyboard
+	- Drive Configuration
+	- Security
+	- Power Management
+
+#### Disk Drives
+- **Description:**
+	- Disk drives made up of one or more platters coaters with magnetic material
+- **Disk**
 
 ---
 ## Table Summaries
