@@ -365,8 +365,8 @@
 		- **Discreetly gather** any additional evidence
 		- **Collect** all **log data** from *networks* and *email* servers
 		- **Report** regularly to **management** and **corporate attorneys**
-		- **Review** investigation scope with management and corporate attorneys
-		- Gather resources to conduct the investigation
+		- **Review** *investigation scope* with management and corporate attorneys
+		- **Gather resources** to conduct the investigation
 
 #### Interviews and Interrogations
 - **Definition of Interviews:**
