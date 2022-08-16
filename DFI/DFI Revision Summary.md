@@ -606,9 +606,8 @@
 
 ##### Validation and Verification
 - **Validation**
-> - **Explanation:**
-		- A way to confirm a tool is function as intended
-		- Ensuring that integrity of data is being copied
+> - A way to confirm a tool is function as intended
+> - Ensuring that integrity of data is being copied
 - **Verification**
 	- **Explanation:**
 		- Proving that the two sets of data 
