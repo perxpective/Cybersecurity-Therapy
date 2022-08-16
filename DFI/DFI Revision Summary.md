@@ -640,6 +640,11 @@
 	- **Data viewing:**
 		- Different tools can provide different ways of viewing data
 	- **Keyword Searching:**
+		- Drawback: Produces noise if wrong keyword is used
+	- **Carving:**
+		- Reconstruct file fragments
+	- **Decrypting:**
+		- Potential problem
 
 ---
 ## Table Summaries
