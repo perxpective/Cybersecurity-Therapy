@@ -598,4 +598,7 @@
 
 > Remote acquisition is common in larger organizations
 
-- **Two types of**
+- **What are the types of data-copying methods used in acquisitions?**
+	- Physical copying of the entire drive
+	- Logical copying of disk partition
+- Formats for disk acquisitions vary fr
