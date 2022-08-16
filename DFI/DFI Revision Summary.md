@@ -457,4 +457,6 @@
 - **What are the advantages and disadvantages of Proprietary Format?**
 	- **Advantages**
 		- Option to compress or not compress image files to save space
-		- Can split image into smaller segmented files for integrity 
+		- Can split image into smaller segmented files 
+			- provide integrity check for split data
+		- Able to 
