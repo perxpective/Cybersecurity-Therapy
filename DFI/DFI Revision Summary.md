@@ -560,3 +560,6 @@
 			- Remotely view and listen to IP ports on compromised system
 			- Run hash comparisons on remote systems to search for Trojans and rootkits
 			- Create has inventory of all files on system remotely to establish baseline if attacked
+
+### Chapter 4 - Forensics Tools
+#### Types of Forensics Tools

@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 4 - Forensics Tools.md",
-            "mode": "preview",
+            "file": "DFI/DFI Chapter 3 - Data Acquisition.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -129,9 +129,9 @@
   },
   "active": "cbf7b02162dc56fd",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 4 - Forensics Tools.md",
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
+    "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/Untitled.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
