@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf7b02162dc56fd",
+        "id": "356041efcc707053",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cbf7b02162dc56fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Chapter 3 - Data Acquisition.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5078125,
-    "collapsed": true
+    "width": 155.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 3 - Data Acquisition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 3 - Data Acquisition.md"
               }
             }
           },
@@ -116,15 +127,15 @@
   },
   "active": "cbf7b02162dc56fd",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 3 - Data Acquisition.md",
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
-    "README.md.md",
-    "DFI/DFI Chapter 7 - Investigator's Lab.md"
+    "README.md.md"
   ]
 }
