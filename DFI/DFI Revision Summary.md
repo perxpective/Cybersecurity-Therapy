@@ -931,6 +931,7 @@
 	- Reduces fragmentation as cluster size increased
 - **What if there is no more space for allocated cluster?**
 	- OS allocates another cluster for file creating more slack space on disk
+	- Creating more slack space on 
 ---
 ## Table Summaries
 
