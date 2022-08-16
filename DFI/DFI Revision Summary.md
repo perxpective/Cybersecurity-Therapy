@@ -836,7 +836,14 @@
 #### Disk Drives
 - **Description:**
 	- Disk drives made up of one or more platters coaters with magnetic material
-- **Disk**
+- **Disk Drive Components:**
+	- Geometry (Structure of data)
+	- Head
+	- Tracks
+	- Cylinders
+	- Sectors (typically 512 bytes each)
+- **Properties of drive handled at drive's hardware or firmware level:**
+	- **Zone Bit Recording (ZBR)** - 
 
 ---
 ## Table Summaries
