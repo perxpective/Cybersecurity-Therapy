@@ -601,4 +601,11 @@
 - **What are the types of data-copying methods used in acquisitions?**
 	- Physical copying of the entire drive
 	- Logical copying of disk partition
-- Formats for disk acquisitions vary fr
+
+> Formats for disk acquisitions vary from raw data to vendor-specific proprietary
+
+##### Validation and Verification
+- **Validation**
+	- **Definition:**
+		- A way to confirm a tool is function as intended
+		- Ensuring that integrity of data is being copied
