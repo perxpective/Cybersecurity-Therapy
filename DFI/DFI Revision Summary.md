@@ -519,4 +519,5 @@
 
 #### Acquisition Tools
 **What are the advantages and disadvantages of acquisition tools for Windows?**
-- 
+- **Advantages:**
+	- Connecting suspect drive
