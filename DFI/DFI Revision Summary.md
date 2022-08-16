@@ -606,11 +606,14 @@
 
 ##### Validation and Verification
 - **Validation**
-> - A way to confirm a tool is function as intended
-> - Ensuring that integrity of data is being copied
+	- **Explanation:**
+		- A way to confirm a tool is function as intended
+		- Ensuring that integrity of data is being copied
 - **Verification**
 	- **Explanation:**
-		- Proving that the two sets of data 
+		- Proving that the two sets of data are identical by calculating hash values or using similar methods
+		- Related process is filtering
+		- 
 
 ---
 ## Table Summaries
