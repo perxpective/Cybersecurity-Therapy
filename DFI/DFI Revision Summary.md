@@ -1007,7 +1007,13 @@
 		- Last modified date and time 
 		- Last access date and time
 		- Record update date and time
-
+- **NTFS Alternate Data Streams**
+	- **Description:**
+		- Ways data can be appended to existing files
+		- Can obscure valuable evidentiary data intentionally or by coincidence
+	- **Alternate data stream** becomes **additional file attribute**
+		- Allows file to be associated with different applications
+	- Can only tell whether file has data stream attached by examining that file's MFT entry
 
 ---
 ## Table Summaries
