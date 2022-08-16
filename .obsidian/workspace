@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "356041efcc707053",
+        "id": "cbf7b02162dc56fd",
         "type": "leaf",
-        "dimension": 56.36363636363636,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,14 +16,13 @@
         }
       },
       {
-        "id": "cbf7b02162dc56fd",
+        "id": "91ae0e8930d4ddf4",
         "type": "leaf",
-        "dimension": 43.63636363636363,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 3 - Data Acquisition.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -127,7 +125,7 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "356041efcc707053",
+  "active": "cbf7b02162dc56fd",
   "lastOpenFiles": [
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Revision Summary.md",

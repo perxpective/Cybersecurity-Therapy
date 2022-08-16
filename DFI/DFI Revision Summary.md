@@ -497,4 +497,5 @@
 		- Lossless compression is useful
 			- does not remove data permanently and target does not need to be too big
 			- Verification can be done with digital signatures
-		- When l
+		- When working with large devices, alternative is using tape backup system
+	- **Whether rt**

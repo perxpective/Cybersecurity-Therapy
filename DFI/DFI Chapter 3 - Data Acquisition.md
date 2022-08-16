@@ -81,7 +81,7 @@
 - Size of source disk
 	- Lossless compression might be useful (does not remove data permanently, target does not need to be too big)
 	- Use digital signatures for verification
-- When working with large devices, alternative is using tape backup system
+	- When working with large devices, alternative is using tape backup system
 - Whether you can retain the disk
 	- Sometimes after copy, original disk may need to be returned to owners 
 
