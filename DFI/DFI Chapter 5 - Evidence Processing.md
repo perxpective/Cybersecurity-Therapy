@@ -323,7 +323,7 @@
 	- MS-DOS command prompt
 		- Cipher (NTSF only)
 		- Copy
-		- `efsrecvr` ( for decrypting EFS files. NTSF only)
+		- `efsrecvr` (for decrypting EFS files. NTSF only)
 
 ### Deleting NTFS Files
 - When file deleted in Windows NT and later:

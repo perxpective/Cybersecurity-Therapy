@@ -1033,6 +1033,18 @@
 	- Users can apply EFS to files stored on local workstations or remote server
 - **EFS Recovery Key Agent**
 	- Implements recovery certificate in Windows administrator account
+	- **How to recover keys?**
+		- In two ways:
+			- via Windows
+			- MS-COS command prompt
+				- Cipher (NTFS only)
+				- Copy
+				- `efsrecvr` (decrypting EFS files only)
+
+#### Deleting NTFS Files
+- **What happens when file deleted in Windows NT or later?**
+	- OS renames it and moves it to Recycle Bin
+	- Use Del (delete) MS-DOS command to delete file
 
 ---
 ## Table Summaries
