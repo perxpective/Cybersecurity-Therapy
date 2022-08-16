@@ -733,7 +733,11 @@
 - **Purposes of Write-Blocker:**
 	- Prevents data writes to the hard disk
 - **Two types of write-blockers:**
-
+	- **Hardware write-blockers**
+		- Ideal for GUI forensics tools
+		- Prevents Windows or Linux from writing data to blocked drive
+		- Act as bridge between suspect drive and forensics workstation
+	- Can navigate to blocked drive with any applocation
 ---
 ## Table Summaries
 
