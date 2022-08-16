@@ -927,7 +927,10 @@
 			- Portion of last sector used in assigned ccluster
 		- **File slack**
 			- Unused space allocated for a file
-		- Unintentional
+- **What is an unintentional side effect of FAT16 having large clusters?**
+	- Reduces fragmentation as cluster size increased
+- **What if there is no more space for allocated cluster?**
+	- OS allocates another cluster for file creating more slack space on disk
 ---
 ## Table Summaries
 
