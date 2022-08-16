@@ -518,13 +518,21 @@
 		- suspect may not want to cooperate
 
 #### Acquisition Tools
-**What are the advantages and disadvantages of acquisition tools for Windows?**
-- **Advantages:**
-	- Makes acquiring evidence from evidence drive more convenient
-- **Disadvantages:**
-	- Acquired data must be protected by well-tested write-blocker hardware device
-	- Tools cannot acquire data from disk's host protected data
-	- Several countries have not accepted use of write-blocking devices for data acquisitions
+- **What are the advantages and disadvantages of acquisition tools for Windows?**
+	- **Advantages:**
+		- Makes acquiring evidence from evidence drive more convenient
+	- **Disadvantages:**
+		- Acquired data must be protected by well-tested write-blocker hardware device
+		- Tools cannot acquire data from disk's host protected data
+		- Several countries have not accepted use of write-blocking devices for data acquisitions
 
 #### Validation of Data Acquisitions
-> Validation requires a hashing algor
+> Validation requires a **hashing algorithm utility**
+
+- **Validation Techniques**
+	- CRC-32
+	- MD-5
+	- SHA-1
+	- SHA-512
+- **Windows Validation Methods:**
+	- 
