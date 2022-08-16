@@ -758,7 +758,10 @@
 	> **NIST** - National Institute of Standards and Technology 
 	
 	- Publishes articles, provides tools and creates procedures for testing and validating forensics software
-	- Computing 
+	- Created criteria for Computer Forensics Tool Testing (CFTT) to manage research on computer forensics tools
+	- Based on the following:
+		- Standard testing methods
+		- ISO 17025 criteria for testing items with no current standards
 ---
 ## Table Summaries
 
