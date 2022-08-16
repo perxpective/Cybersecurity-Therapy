@@ -1007,17 +1007,22 @@
 		- Last modified date and time 
 		- Last access date and time
 		- Record update date and time
-- **NTFS Alternate Data Streams**
-	- **Description:**
-		- Ways data can be appended to existing files
-		- Can obscure valuable evidentiary data intentionally or by coincidence
-	- **Alternate data stream** becomes **additional file attribute**
-		- Allows file to be associated with different applications
-	- Can only tell whether file has data stream attached by examining that file's MFT entry
-- **NTFS Compressed Files**
-	- **Description:**
-		- Compression is similar to FAT
-		- 
+- 
+#### NTFS Alternate Data Streams
+- **Description:**
+	- Ways data can be appended to existing files
+	- Can obscure valuable evidentiary data intentionally or by coincidence
+- **Alternate data stream** becomes **additional file attribute**
+	- Allows file to be associated with different applications
+- Can only tell whether file has data stream attached by examining that file's MFT entry
+
+#### NTFS Compressed Files
+- **Description:**
+	- Compression is similar to FAT
+	- Files, folders or entire volumes can be compressed
+	- Most computer forensics tools can unzip and analyse compressed Windows data
+
+#### NTFS Encrypting File Systems 
 
 ---
 ## Table Summaries
