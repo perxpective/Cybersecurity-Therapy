@@ -790,23 +790,24 @@
 		- Viewing data on disk in raw format
 		- Accessing raw data
 
-#### Computer Forensics Examination Protocol
-- **Guidelines:**
-	- Perform investigation with GUI tool
-	- Verify results with disk editor
-	- Compare hash values obtained from both tools
+- **Computer Forensics Examination Protocol**
+	- **Guidelines:**
+		- Perform investigation with GUI tool
+		- Verify results with disk editor
+		- Compare hash values obtained from both tools
+- **Digital Forensics Tool Upgrade Protocol**
+	- **Why?**
+		- Ensures that evidence data is not corrupted
+	- **Steps:**
+		- Test for:
+			- New releases
+			- OS patches and upgrades
+		- Report forensics tool to vendors if there are problems
+			- Do not use forensics tool until the problem is fixed
+		- Use a test hard disk for validation purposes
+		- Check the Internet for new editions, updates, patches and validation tests for tools
 
-#### Digital Forensics Tool Upgrade Protocol
-- **Why?**
-	- Ensures that evidence data is not corrupted
-- **Steps:**
-	- Test for:
-		- New releases
-		- OS patches and upgrades
-	- Report forensics tool to vendors if there are problems
-		- Do not use forensics tool until the problem is fixed
-	- Use a test hard disk for validation purposes
-	- Check the Internet for new editions, updates, patches and validation tests for tools
+## Chapter 5 - Evidence Processing
 
 ---
 ## Table Summaries
