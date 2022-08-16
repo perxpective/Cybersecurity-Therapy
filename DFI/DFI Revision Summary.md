@@ -686,8 +686,15 @@
 	- Future expandability
 
 #### GUI Forensics Tools
-- Simplifies digital forensics investigations
-- Simp
+- **Why are GUI Forensics Tools widely used?**
+	- Simplifies digital forensics investigations
+	- Provides simplified training for beginning examiners
+- **What are the advantages and disadvantages of GUI forensics tools?**
+	- **Advantages:**
+		- Easy to use
+		- Allows multitasking
+		- No need to learn older OS's
+	- **Disadvantages**
 ---
 ## Table Summaries
 
