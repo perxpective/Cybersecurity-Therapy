@@ -2180,7 +2180,18 @@
 	- Combines both logical and file system acquisition methods
 - **Cloud Acquisition**
 	- iCloud backups
-	- iCloud drive full
+	- iCloud Drive
+	- iCloud Photos
+	- Health data
+	- FileVault2 Recovery Token (Disk encryption program in Mac OS)
+	- Messages
+		- iMessage
+		- SMS
+	- **Drawbacks:**
+		- Requires proper authentication credentials
+		- Requires user's Apple ID password and 2FA
+- **iTunes Backup Acquisition**
+	- 
 
 
 ---
