@@ -6,6 +6,7 @@
       {
         "id": "912fbdabc64b593d",
         "type": "leaf",
+        "dimension": 54.30067314884069,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,11 +19,12 @@
       {
         "id": "70d3c2fe33c9954f",
         "type": "leaf",
+        "dimension": 45.69932685115931,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }

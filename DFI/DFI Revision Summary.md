@@ -1090,7 +1090,26 @@
 		- Registry editor
 		- Program for Windows 9x systems
 	- **Regeft32 for Windows 2000, XP, Vista**
-	- Both can 
+	- Both can be used for Windows 7 or later
+- **Registry Terminology:**
+	- Registry
+	- Registry Editor
+	- HKEY
+	- Key 
+	- Subkey
+	- Branch
+	- Value
+	- Default Value
+	- Hives
+- **HKEYs**
+	- `HKEY_CLASS_ROOT`
+		- Provides the following:
+			- file type and file extension information
+			- URL protocol prefixes
+	- `HKEY_CURRENT_USER`
+		- Stores settings for currently logged-on users
+	- `HKEY_USERS`
+		- Stores information for currently logged-in 
 
 
 ---
