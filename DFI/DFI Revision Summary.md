@@ -1108,8 +1108,15 @@
 			- URL protocol prefixes
 	- `HKEY_CURRENT_USER`
 		- Stores settings for currently logged-on users
+	- `HKEY_LOCAL_MACHINE`
+		- Contains information about installed hardware and software
 	- `HKEY_USERS`
-		- Stores information for currently logged-in 
+		- Stores information for currently logged-on
+		- Only one HKEY linked to`HKEY_CURRENT_USER`
+	- `HKEY_CURRENT_CONFIG`
+		- Link to current hardware profile
+	- `HKEY_DYN_DATA`
+		- Used only in Windows 9x/
 
 
 ---

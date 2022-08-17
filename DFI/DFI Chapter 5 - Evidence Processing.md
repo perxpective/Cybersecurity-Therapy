@@ -388,9 +388,10 @@
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | `HKEY_CLASS_ROOT`     | Symbolic link to `HKEY_LOCAL_MACHINE\SOFTWARE\Classes`<br> Provides file type and file extension information, URL protocol prefixes etc. |
 | `HKEY_CURRENT_USER`   | Symbolic link to `HKEY_USERS`<br> Stores settings for currently logged-on users                                                          |
+| `HKEY_LOCAL_MACHINE`  | Contains information about installed hardware and software                                                                                                                                         |
 | `HKEY_USERS`          | Stores information for currently logged-on user; only one key in HKEY linked to `HKEY_CURRENT_USER`                                      |
 | `HKEY_CURRENT_CONFIG` | Symbolic link to `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\HardwareProfile\xxxx`<br> Where xxxx represents current hardware profile   |
-| `HKEY_DYN_DATA`                      | Used only in Windows 9x/Me systems, stores hardware configuration systems                                                                                                                                          |
+| `HKEY_DYN_DATA`       | Used only in Windows 9x/Me systems, stores hardware configuration systems                                                                |
 
 ## Understanding Microsoft Startup Tasks
 ### Startup in Windows 7 and 8
