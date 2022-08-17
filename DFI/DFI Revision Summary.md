@@ -1644,7 +1644,7 @@
 		- admitting digital evidence
 - **Difference between digital evidence and physical evidence:**
 	- Digital evidence can be changed easily
-	- 
+	- **How to detect changes**
 
 
 
