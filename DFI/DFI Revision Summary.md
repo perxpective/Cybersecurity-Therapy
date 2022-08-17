@@ -547,7 +547,7 @@
 	- **Tools that support remote acquisition:**
 		- Encase
 		- ProDiscover
-	- **Issues with remote acquisition:**
+	- **What are some issues with remote acquisition?**
 		- Antiviruses, antispyware and firewalls tools can be configured to ignore remote access programs and access can be blocked
 		- Suspects can easily install their own security tools that trigger alarms to inform them of remote access intrusions
 	- **Capabilities of Remote Acquisition Tools:**
