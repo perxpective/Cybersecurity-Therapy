@@ -1327,7 +1327,8 @@
 		- Term for detecting and analysing steganography files
 - **Digital Watermarking**
 	- **Explanation:**
-		- Developed to protect file ownership
+		- **Purpose:**
+			- Developed to protect file ownership
 		- Not visible when used for steganography
 - **Steganography tools**
 	- Freeware or shareware
@@ -1389,7 +1390,9 @@
 				- makes cracking passwords more difficult
 
 ### Chapter 7 - Investigator's Lab
-#### Duties of Lab Manager an
+#### Duties
+- **Duties of Lab Manager**
+	- Set up processes 
 
 
 ---
