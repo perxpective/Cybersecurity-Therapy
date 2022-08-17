@@ -1486,6 +1486,10 @@
 				- including unintentional radio/electrical signals, sounds and vibrations
 	- **Limitations:**
 		- Expensive
+		- Low-emanation workstations can be used instead
+
+#### Evidence Containers
+> Also known as **evidence lockers**
 
 
 
