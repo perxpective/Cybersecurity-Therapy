@@ -1051,6 +1051,21 @@
 - **Features offered by whole disk encryption tools:**
 	- **Preboot authentication**
 		- Single sign-on password and fingerprint scan
+	- **Full or partial disk encryption with secure hibernation**
+		- Password protected screen saver
+	- **Advanced encryption algorithms**
+		- AES or IDEA
+	- **Key management function**
+		- Passphrase to reset password
+
+> - WDE tools encrypt each sector of drive separately
+> - WDE tools encrypt the drive's boot sector
+> 	- **Why?**
+> 		- Prevents efforts to bypass secured drive's partition
+
+- **How to examine an encrypted drive?**
+	- Run vendor-specific program to decrypt the drive
+	- Many vendors use boot table CD or USB drive that prompts for OTP
 ---
 ## Table Summaries
 
