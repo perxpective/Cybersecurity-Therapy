@@ -1911,7 +1911,21 @@
 		- Standards for the Global System for Mobile Communications
 		- Based on TDMA
 		- 70-80% of world's phones
-		- Digital cellular technology used for 
+		- Digital cellular technology used for transmitting mobile voice and data services
+		- Established in 1987 as a standard
+		- Available in 212 countries and territories
+		- **Frequency range:**
+			- 850-1900 MHz
+		- Utilizes SIM technology
+
+#### Cell Phone Identification Numbers
+- **MIN**
+	- **Format:**
+		- 10-digit number
+		- Length varies based on country code
+		- **Two different ap**
+	- **Description:**
+		- Assigned by carrier
 
 
 
