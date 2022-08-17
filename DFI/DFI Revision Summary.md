@@ -1807,7 +1807,7 @@
 
 ### Chapter 9 - Historical Cellular
 #### Cell-Phones
-- **Modes of communication:**
+- **How does a phone contact a station?**
 	- **Full-Duplex**
 		- Operates on two channels
 		- Sends and receives at the same time
@@ -1838,6 +1838,13 @@
 	- Evaluates the signal strength between devices and network
 		- **How?**
 			- Tells the device or network to make the appropriate adjustments to the transmission
+- **How is data transmitted?**
+	- Phone makes an outbound call
+	- Sends radio signal to the MTSO
+	- MTSO sends the signal to the PTSN
+
+#### Wireless Frequency
+- **How is voice or data transmitted**
 
 
 
