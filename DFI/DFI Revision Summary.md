@@ -1322,6 +1322,7 @@
 	- **Definition:**
 		- Greek word for hidden writing
 		- Hides messages in such a way only the intended recipient knows the message is there
+		- Used by suspects to hide existence of message from a third-party (digital forensics investigators)
 - **Steganalysis**
 	- **Definition:**
 		- Term for detecting and analysing steganography files
@@ -1392,7 +1393,32 @@
 ### Chapter 7 - Investigator's Lab
 #### Duties
 - **Duties of Lab Manager**
-	- Set up processes 
+	- Set up processes for managing cases
+	- Review processes regularly
+	- Promote group consensus in decision making
+	- Maintain fiscal responsibility
+	- Enforce ethical standards among lab staff
+	- Plan updates for lab
+	- Establish and promote quality
+		- Assurance processes
+		- Ensure staff know what to do when case arrives
+	- Set reasonable production schedules
+		- Based on existing resources
+	- Estimate how many cases investigator can handle
+	- Estimate when to expect preliminary and final results
+	- Create and monitor 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
