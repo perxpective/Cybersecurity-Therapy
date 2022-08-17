@@ -2131,7 +2131,18 @@
 		- **View system:**
 			- Allows building of UI of application
 		- **Resource manager:**
-			- Pro
+			- Provides access to non-code components of application like localized strings, graphics and layout files
+		- **Notification manager:**
+			- Allows applications to display custom alerts
+		- **Activity manager:**
+			- Manages life cycle as application and back stacks order in each activity is opened
+		- **Content Providers:**
+			- Allows applications to access other application data and share their own
+- **System Apps**
+	- Apps that are preinstalled on phone
+	- Cannot be uninstalled or changed by user
+	- **Reason:**
+		- Read-only production devices
 
 
 
