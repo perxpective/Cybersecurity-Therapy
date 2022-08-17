@@ -930,7 +930,7 @@
 	- Unused space in a cluster between end of an active file and end of the cluster
 	- **Consists of the following:**
 		- **RAM slack**
-			- Portion of last sector used in assigned ccluster
+			- Portion of last sector used in assigned cluster
 		- **File slack**
 			- Unused space allocated for a file
 - **What is an unintentional side effect of FAT16 having large clusters?**
@@ -1181,7 +1181,7 @@
 	- Total sector size required: $$TotalSectorsRequired= SectorsRequired \times SectorSize$$
 - **File Slack:** $$FileSlack = SizeOfClusterRequired-FileSize-RAMSlack$$
 
-#### Chapter 6 - Analysis and Validation
+### Chapter 6 - Analysis and Validation
 - **Factors affecting examination and analysis of data:**
 	- Nature of the investigation
 	- Amount of data to process
