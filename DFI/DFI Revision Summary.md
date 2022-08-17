@@ -1338,10 +1338,18 @@
 		- only have covered file to analyse
 	- **Known cover attack:**
 		- Has both covered file and converted file to analyse
+	- **Known message attack:**
+		- When hidden message is revealed later
+	- **Chosen steganography attack**
+		- Where a steganography tool is used
+	- **Chosen message attack**
+		- Steganalyst generates stego-object from steganography tool or algorithm of chosen message
 
-
-
-
+##### Encrypted Files
+- **How to decode an encrypted file?**
+	- Provide password or passphrase
+- **What is key escrow?**
+	- Designed to recover encrypted daata i
 
 
 

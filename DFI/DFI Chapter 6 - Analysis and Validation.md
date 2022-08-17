@@ -174,7 +174,7 @@
 
 ### Examining Encrypted Files
 - To decode an encrypted file
-  - Users provide password or passphrase
+	- Users provide password or passphrase
 - Many encryption programs use technology called "key escrow"
 
 > **Key escrows** are designed to recover encrypted data if users forget their passphrases or if user key corrupted after a system failure
