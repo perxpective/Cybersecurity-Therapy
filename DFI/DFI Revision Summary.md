@@ -1453,7 +1453,12 @@
 			- AccessData Certified Examiner Certification
 		- **EC-Council**
 		- **SANS**
-			- **Dra**
+			- **Limitation:**
+				- Expensive
+		- **DCITA**
+			- Defence Cyber Investigations Training Academy
+
+#### Physical Requirements for a Computer Forensics Lab
 
 
 
