@@ -1526,7 +1526,20 @@
 	- Escort cleaning crew as they work
 	- Minimize the risk of static electricity
 		- Antistatic pads
-		- Clean floor and carpets to mini
+		- Clean floor and carpets to minimize dust
+	- Maintain two separate trash containers:
+		- 1 for Materials unrelated to investigation
+		- 1 for Sensitive materials
+	- If possible, hire specialized companies for disposing sensitive materials
+
+#### Physical Security Needs
+- Enhance security by setting security policies
+- **How to enforce policy?**
+	- Maintain sign-in log for visitors
+		- **Who is a visitor?**
+			- Anyone not assigned to the lab
+	- Escort visitors in the lab at all times
+	- 
 
 
 
