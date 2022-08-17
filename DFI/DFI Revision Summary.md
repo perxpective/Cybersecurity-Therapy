@@ -2055,7 +2055,10 @@
 		- Root access
 - **Mode of transfers:**
 	- **Bluetooth**
-		- Mobile acquisition can be done using the Android Debugging Bridge (ADB)
+		- Mobile acquisition can be done using the Android Debugging Bridge (ADB) via **Bluetooth connection**.
+	- **Wireless**
+		- Acquisition can be done using ADB via **Wi-Fi**
+		- Mobile device and acquisition machine must be connected to the same Wi-Fi network
 
 
 
