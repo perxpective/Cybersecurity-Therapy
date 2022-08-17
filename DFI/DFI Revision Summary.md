@@ -1886,14 +1886,33 @@
 		- Stands for the **Code Division Multiple Access**
 		- Utilizes spread-spectrum technology
 		- **What is spread-spectrum technology?**
-			- Channels are spread across entire frequency range 
+			- Channels are spread across entire frequency range (1850-1990 MHz) instead of dedicated to one
 		- Spreads information contained in particular signal of interest over much greater bandwidth than original signal
 		- Assigns code to each piece of data passed across spectrum
 		- Unable to carry voice and data simultaneously
 		- **Two channels:**
 			- Encode
 			- Decode
-		- 
+	- **BitPIM Software for CDMA**
+		- **What does PIM stand for?**
+			- Personal Information Management
+		- **Description:**
+			- Open source, cross-platform program
+			- Allows the manipulation of data on many CDMA phones
+				- Includes the following:
+					- PhoneBook
+					- Calendar
+					- Wallpapers
+					- Ringtones
+					- File system
+			- Analyses most Qualcomm CDMA chipset based phones
+- **GSM**
+	- **Description:**
+		- Standards for the Global System for Mobile Communications
+		- Based on TDMA
+		- 70-80% of world's phones
+		- Digital cellular technology used for 
+
 
 
 
