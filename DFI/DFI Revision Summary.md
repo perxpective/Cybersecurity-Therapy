@@ -1881,7 +1881,7 @@
 			- Sprint
 			- AT&T
 			- Verizon
-- CDMA
+- **CDMA**
 	- **Description:**
 		- Stands for the **Code Division Multiple Access**
 		- Utilizes spread-spectrum technology
