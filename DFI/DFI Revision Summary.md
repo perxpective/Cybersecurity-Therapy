@@ -1278,9 +1278,17 @@
 		- Shift 1 bit to the left
 	- Encryption
 	- Password protection
-- **Changing file extensions:**
-	- 
 
+##### Changing file extensions
+- Advanced digital forensics tools check file headers
+- Compares file extension and verifies if it is correct
+- If there are discrepancies, tool flags file as possible altered file
+- **Another hiding technique:**
+	- Selecting hidden attribute in file's properties dialog box
+
+##### Hiding partitions
+- By using the following command: `diskpart remove letter`
+	- Unassigns parit
 
 
 
