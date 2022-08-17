@@ -183,7 +183,7 @@
 
 ### Recovering Passwords
 - Password cracking tools available for handling password-protected data or systems
-  - Some integrated into digital forensics tools
+	- Some integrated into digital forensics tools
 
 **Standalone tools:**
 - Last Bit

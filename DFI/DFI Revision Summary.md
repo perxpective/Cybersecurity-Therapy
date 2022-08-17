@@ -1349,8 +1349,21 @@
 - **How to decode an encrypted file?**
 	- Provide password or passphrase
 - **What is key escrow?**
-	- Designed to recover encrypted daata i
+	- Designed to recover encrypted data if users forget passphrases
+	- Or if user key corrupted after system failure
+	- Key sizes of 2048 or 4096 bits make breaking them almost impossible with current technology
 
+##### Recovering Passwords
+- Password cracking tools available for handling password-protected data or systems
+	- integrated into digital forensics tools
+- **Examples of standalone tools:**
+	- Last Bit
+	- AccessData PRTK
+	- ophcrack
+	- John The Ripper
+	- Passware
+- **Brute Force Attacks**
+	- 
 
 
 
