@@ -1182,7 +1182,7 @@
 - **File Slack:** $$FileSlack = SizeOfClusterRequired-FileSize-RAMSlack$$
 
 #### Chapter 6 - Analysis and Validation
-
+- **Factors affecting what data to collect and analyse**
 
 ---
 ## Table Summaries
