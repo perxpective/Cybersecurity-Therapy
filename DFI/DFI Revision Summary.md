@@ -1759,6 +1759,17 @@
 	- Files stored offsite that are accessed easily
 	- Availability of cloud storage that cannot be stored physically
 		- Stored on drives where data from many subscribers might be stored
+- **What if computers are not allowed to be taken to a lab?**
+	- Determine resources needed to acquire digital evidence
+	- What tools can speed up data acquisition
+
+#### Tools Needed for Incident/Crime Scene
+- **Two types of field kits:**
+	- **Initial-response field kits**
+		- Should be lightweight and easy to transport
+	- **Extensive-response field kits**
+		- Includes all tools that you can afford to take to the field
+		- Extract only items needed to acquire evidence
 
 	
 	
