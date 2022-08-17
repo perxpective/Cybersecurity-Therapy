@@ -2123,8 +2123,15 @@
 		- Allows several virtual machines to run on low-memory devices by executing DEX (Dalvik Executable files)
 - **Native C/C++ Libraries**
 	- **Contains:** 
-	- C and C++ native libraries
-	- 3D graphics
+		- C and C++ native libraries
+		- 3D graphics
+- **Java API Framework**
+	- Framework that allows developers to create applications using modular system components and services as building blocks
+	- **Components:**
+		- **View system:**
+			- Allows building of UI of application
+		- **Resource manager:**
+			- Pro
 
 
 
