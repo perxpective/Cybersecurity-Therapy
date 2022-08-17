@@ -1229,8 +1229,17 @@
 	- Identify function of every executable file that does not match known hash values
 	- Maintain control of all evidence and findings
 - **Recommendations for Investigation Plan:**
-	- Even if initial plan is sound, might need to deviate from the pl
+	- Even if initial plan is sound, might need to deviate from the plan to follow the evidence
+	- Knowing which types of files to look can maximise time
+	- Start with a plan but remain flexible in the face of new evidence
 
+#### OSForensics Data Analysis
+- **Supported File Systems:**
+	- FAT12
+	- FAT16
+	- FAT32
+	- NTFS
+	- Mac HFS+ and 
 
 
 ---
