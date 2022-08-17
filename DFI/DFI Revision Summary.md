@@ -1785,7 +1785,27 @@
 		- Digital camera with extra batteries
 		- Evidence log forms
 		- Notebook
-		- Computer evidence bags
+		- Computer evidence bags (or Faraday bags)
+		- Evidence labels, tape and tags
+		- Permanent ink marker
+		- External USB devices
+	- **Extensive-response field kits:**
+		- Initial-response field kit
+		- Laptop
+		- Tablet 
+		- Electrical power strips
+		- Additional hand tools
+		- Leather or disposable gloves
+		- Hand truck and luggage cart
+		- Large garbage bags
+		- Rubber bands
+		- Magnifying glass
+		- Printer paper
+		- Small brush for cleaning dust from devices
+		- USB drives
+		- External hard drives (more than 1TB)
+
+### Chapter 9 - 
 
 	
 	
