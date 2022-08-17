@@ -6,7 +6,7 @@
       {
         "id": "912fbdabc64b593d",
         "type": "leaf",
-        "dimension": 54.30067314884069,
+        "dimension": 54.207733131159976,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "70d3c2fe33c9954f",
         "type": "leaf",
-        "dimension": 45.69932685115931,
+        "dimension": 45.79226686884003,
         "state": {
           "type": "markdown",
           "state": {
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 6 - Analysis and Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 6 - Analysis and Validation.md"
               }
             }
           },
@@ -128,10 +129,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "912fbdabc64b593d",
+  "active": "70d3c2fe33c9954f",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 6 - Analysis and Validation.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 6 - Analysis and Validation.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",

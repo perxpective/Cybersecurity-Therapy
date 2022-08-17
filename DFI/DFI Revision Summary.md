@@ -1199,7 +1199,20 @@
 			- Criminal investigations require more detail examination of evidence before trial]
 			- Scope creep can help prosecutors fend off attacks from defence attorneys
 - **Approaching digital forensics cases**
-	- 
+	- Create an investigation plan
+	- **What should an investigation plan define?**
+		- Goal and scope of investigation
+		- Materials needed
+		- Tasks to perform
+	- **Differences approaching different types of cases:**
+		- **Corporate cases** 
+			- tend to be easier due to easy access to evidencec
+		- **Criminal cases**
+			- M
+		
+
+
+
 
 ---
 ## Table Summaries
