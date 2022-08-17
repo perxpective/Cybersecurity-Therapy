@@ -57,7 +57,7 @@
 	
 #### Best Evidence Rule
 > **Best Evidence Rule states:**
-> - to prove content of written document recording, photograph, ordinarily the original writing, recording, or photograph is required
+> - to prove content of written document, recording, photograph, ordinarily the original writing, recording, or photograph is required
 > - Allows duplicates instead of originals when produced by the same impression as the original
 > 	- Although not always possible to produce original
 

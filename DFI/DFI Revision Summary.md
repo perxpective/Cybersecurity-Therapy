@@ -1675,7 +1675,13 @@
 		- Demonstrate that specific person created the records
 		- **Example:**
 			- Author of Microsoft Word document can be identified with file metadata
-			- May not be easy as records recovered
+			- May not be easy as records recovered from slack space or unallocated disk space usually do not identify author
+
+#### Best Evidence Rule
+- **Definition:**
+	- To prove the content of the written document, recording or photograph, the original copy is required
+	- Allows duplicates (copy) instead of the original if produced by the same impression as the original
+		- Although not always possibl
 
 
 
