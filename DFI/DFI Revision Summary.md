@@ -1497,12 +1497,22 @@
 	- Limit number of authorized persons accessing the containers
 	- Maintain records on who authorized to access container
 	- Containers should remain locked when not in use
-- **What if combination locking system is used?**
+- **If combination locking system is used:**
 	- Provide same level of security for combination as for container's contents
 	- Destroy any previous combinations after setting up new ones
 	- Allow only authorised personnel to change lock combination
 	- Change combination every six months when required
-
+- **If keyed padlock is used:**
+	- Appoint key custodian
+		- Responsible for distributing keys
+	- Stamp sequential numbers for each duplicate key
+	- Maintain registry listing of which key is assigned to which authorized person
+	- Conduct monthly audit
+	- Take inventory of all keys
+	- Place keys in lockable container
+	- Maintain same level of security for key as evidence containers
+	- Change locks and keys annually
+- **Mater**
 
 
 
