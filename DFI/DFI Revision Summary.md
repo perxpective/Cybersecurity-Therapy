@@ -1141,9 +1141,28 @@
 	- **BCD store (Namespace container for BCD objects)**
 		- Replaces Windows XP `boot.ini` file for boot sequences
 	- **What are the start-up files for Windows XP?**
-		- 
+		-  `NTLDR`
+		-   `boot.ini`
+		-   `ntoskrnl.exe`
+		-   `bootvid.dll`
+		-   `hal.dll`
+		-   `bootsect.dos`
+		-   `NTDetect.com`
+		-   `NTBootdd.sys`
+		-   `pagefile.sys`
+	- **Why is it important to know the start-up process?**
+		- Contamination concerns with Windows XP
+		- When Windows XP NTFS workstation is started, several files are accessed immediately
+			- Last access date and time stamp for files change to current date and time
+			- This destroys potential evidence that shows when Windows XP workstation was last used
 
-
+#### Virtual Machines
+- **Definition:**
+	- Representation of another computer on an existing physical computer
+	- Several files on hard drive that must be allocated space to
+- **Why use VMs?**
+	- Make it possible to restore suspect drives
+	- Tests can be performed and run non
 
 
 ---

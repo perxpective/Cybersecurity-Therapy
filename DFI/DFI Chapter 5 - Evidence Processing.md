@@ -430,7 +430,7 @@
 **Why know the start-up process?**
 - Contamination concerns with Windows XP
 - When you start Windows XP NTFS workstation, several files accessed immediately
-	- Last access date an time stamp for files change to current date and time
+	- Last access date and time stamp for files change to current date and time
 	- Destroys any potential evidence that shows when Windows XP workstation was last used
 
 ## Virtual Machines
