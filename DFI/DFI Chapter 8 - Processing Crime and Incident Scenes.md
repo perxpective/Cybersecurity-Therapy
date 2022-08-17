@@ -42,7 +42,7 @@
 - **Computer-generated records** -> Data maintained by system and not usually data created by human
 - **Computer-stored records** -> Electronic data person creates and save on a computer, such as a spreadsheet or word processing document. 
 - Computer and digitally stored records must be shown to be <u>authentic</u> and <u>trustworthy</u>
-	- So can be admitted into evidence
+	- So can be admitted into court
 - Computer-generated records considered authentic if program created the output function correctly
 	- Considered an exception to hearsay rule
 - Collecting evidence according to proper steps of evidence control helps ensure that computer evidence is authentic

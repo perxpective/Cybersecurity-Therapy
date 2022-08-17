@@ -1656,7 +1656,15 @@
 
 - **Computer records:**
 	- **Types:**
-		- Data ma
+		- **Computer-generated records**
+			- Data maintained by system and not usually data created by humans
+		- **Computer-stored records**
+			- Electronic data person created and saved on a computer such as a spreadsheet or word processing document
+	- **Conditions for evidence to be admitted into court**
+		- Authentic
+		- Trustworthy
+	- **In what way are computer-generated records considered authentic?**
+		- Program created the output cro
 
 
 
