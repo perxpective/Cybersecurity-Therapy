@@ -1521,7 +1521,12 @@
 		- Update it every time evidence container is opened or closed
 
 #### Facility Maintenance
-- How to maintain 
+- **How to maintain digital forensics lab?**
+	- Immediately repair physical damage
+	- Escort cleaning crew as they work
+	- Minimize the risk of static electricity
+		- Antistatic pads
+		- Clean floor and carpets to mini
 
 
 
