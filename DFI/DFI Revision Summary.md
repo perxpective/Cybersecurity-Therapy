@@ -1680,8 +1680,25 @@
 #### Best Evidence Rule
 - **Definition:**
 	- To prove the content of the written document, recording or photograph, the original copy is required
-	- Allows duplicates (copy) instead of the original if produced by the same impression as the original
-		- Although not always possibl
+	- Allows duplicates (copy) instead of the original if produced by the same impression as the original if the original cannot be obtained
+		- Although not always possible to produce the original
+- **Notes:**
+	- As long as bit-stream copies of data are created and maintained properly
+		- can be admitted in court though not considered best evidence
+	- **Examples of not being able to use original evidence:**
+		- Investigations involving network servers:
+			- Removing server from network to acquire data can cause harm to business or its owner
+			- Might be an innocent bystander to crime or civil wrong
+
+#### Useful Evidence
+- **What are the properties of useful evidence?**
+	- Admissibility
+	- Authenticity
+	- Completeness
+	- Reliability
+	- Believability
+
+#### Collecting Evidence in Private-Sector Incident SD
 
 
 
