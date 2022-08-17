@@ -2164,10 +2164,23 @@
 	- Linux is family of open-source UNIX-like OS
 - **Architecture:**
 	- **Cocoa Touch**
-		- Layer at which most Application interacts with
+		- Layer at which most application interacts with
 	- **Media**
-		- Med
+		- Media layer with media services e.g. audio and video
+	- **Core Services**
+		- Used in upper layers
+	- **Core OS**
+		- Where most Mac OS X components are in
+		- Low level and works closely with computational instructions
+	- **Kernel and Device Drivers**
+		- Layer which most applications interact with
 
+#### Acquisition Procedures
+- **Advanced Logical**
+	- Combines both logical and file system acquisition methods
+- **Cloud Acquisition**
+	- iCloud backups
+	- iCloud drive full
 
 
 ---
