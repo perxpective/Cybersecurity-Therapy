@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+            "file": "DFI/DFI Chapter 10 - Android Forensics.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -127,13 +127,13 @@
     "direction": "horizontal",
     "width": 186.67056274414062
   },
-  "active": "70d3c2fe33c9954f",
+  "active": "912fbdabc64b593d",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
-    "DFI/DFI Revision Summary.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
+    "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
