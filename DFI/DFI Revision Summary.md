@@ -1119,11 +1119,19 @@
 		- Used only in Windows 9x/Me systems, stores hardware configuration systems
 
 #### Microsoft Startup Tasks
-- **How to startup in Windows 7 and 8?**
+- **How to start-up in Windows 7 and 8?**
 	- Boot process uses a **boot configuration data (BCD) store**
 	- **What is contained in BCD?**
 		- Boot loader that initiates the system bootstrap process
-		- Press <kbd>F8</kbd> or <kbd></kbd>
+		- Press <kbd>F8</kbd> or <kbd>F12</kbd> when system starts to access Advanced Boot Options
+- **How to start-up in Windows NT or later?**
+	- **Steps:**
+		- Power-on Self Test (POST)
+		- Initial startup
+		- Hardware detection and configuration
+		- Kernel loading
+		- User login
+	- **What are the start-up files for Windows Vista?**
 
 
 
