@@ -1807,13 +1807,30 @@
 
 ### Chapter 9 - Historical Cellular
 #### Cell-Phones
+- **Modes of communication:**
+	- **Full-Duplex**
+		- Operates on two channels
+		- Sends and receives at the same time
+		- **How does a cell-phone send a signal?**
+			- Converts electrical signal and transmits it via radio waves to nearest cell tower
+	- **Half-Duplex**
+		- Citizen-Band (CB) radios
+		- Only one part can speak at a time
+		- **How do CB radios communicate?**
+			- Uses radio waves to talk to cell tower that connects it to the rest of the phone network
 
-	
-	
-	
-	
-	
- 
+#### Cellular Layout
+- 
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## Table Summaries
