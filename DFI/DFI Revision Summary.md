@@ -1187,30 +1187,39 @@
 	- Amount of data to process
 	- Corporate investigations locating and recovering specific items like emails
 		- simplifies and speeds up processing
-- **Scope Creep**
-	- **Explanation:**
-		- Occurs when expands beyond the original description 
-		- **Reason:**
-			- Due to unexpected evidence found
-		- Attorneys might ask investigators to examine other areas to obtain more evidence
-		- Increases time and resources needed to extract, analyse and present evidence
-		- Required to document additional time spent on recovering additional evidences
-		- **Why is scope creep getting more common?**
-			- Criminal investigations require more detail examination of evidence before trial]
-			- Scope creep can help prosecutors fend off attacks from defence attorneys
-- **Approaching digital forensics cases**
-	- Create an investigation plan
-	- **What should an investigation plan define?**
-		- Goal and scope of investigation
-		- Materials needed
-		- Tasks to perform
-	- **Differences approaching different types of cases:**
-		- **Corporate cases** 
-			- tend to be easier due to easy access to evidencec
-		- **Criminal cases**
-			- M
-		
 
+#### Scope Creep
+- **Explanation:**
+	- Occurs when expands beyond the original description 
+	- **Reason:**
+		- Due to unexpected evidence found
+	- Attorneys might ask investigators to examine other areas to obtain more evidence
+	- Increases time and resources needed to extract, analyse and present evidence
+	- Required to document additional time spent on recovering additional evidences
+	- **Why is scope creep getting more common?**
+		- Criminal investigations require more detail examination of evidence before trial]
+		- Scope creep can help prosecutors fend off attacks from defence attorneys
+
+#### Approaching Digital Forensics Cases
+- Create an investigation plan
+- **What should an investigation plan define?**
+	- Goal and scope of investigation
+	- Materials needed
+	- Tasks to perform
+- **Differences approaching different types of cases:**
+	- **Corporate cases** 
+		- tend to be easier due to easy access to evidence
+	- **Criminal cases**
+		- more difficult due to scope
+		- Internet Service Providers (ISP) need to be contacted to gather evidence
+- **What are the basic steps to take for digital forensics investigations?**
+	- Use recently wiped media that have been reformatted and inspected for viruses
+	- Inventory hardware on suspect computer 
+		- Note the condition of the seized computer
+	- **For static acquisitions:**
+		- remove original drive
+		- check data and time in system CMOS
+	- Reco
 
 
 

@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 6 - Analysis and Validation.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 6 - Analysis and Validation.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -129,10 +129,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "70d3c2fe33c9954f",
+  "active": "912fbdabc64b593d",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
