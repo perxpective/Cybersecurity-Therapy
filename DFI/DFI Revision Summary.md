@@ -2066,7 +2066,22 @@
 	- **Enabling USB Debugging**
 		- Developer option enables analysis machine to connect to device via ADB
 			- ADB accts as bridge between computer and mobile phone
-		- To use ADB, USB debugging options must be 
+		- To use ADB, USB debugging options must be enabled on the phone
+	- **Increasing Screen Time**
+		- Makes mobile phone stay awake longer and prevents it from locking
+		- Usually found under Settings > Developer Options
+
+#### Acquisition Methods
+- **Advanced Logical**
+	- Combines both logical and file system acquisition methods
+- **Manual Acquisition:**
+	- Examiner uses UI of phone to browse and investigate
+	- No special tools or techniques required
+	- Manual extraction of chat messages
+		- In the form of screenshots, export to external media
+	- **What are some limitations of manual acquisition?**
+		- Only files and data visible through normal UI
+		- Data e
 
 
 
