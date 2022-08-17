@@ -534,7 +534,7 @@
 > Validation requires a **hashing algorithm utility**
 
 - **Why is validation necessary?**
-	- 
+	- To ensure that the data is not tampered so that it is admissible in court
 - **Validation Techniques**
 	- CRC-32
 	- MD-5
