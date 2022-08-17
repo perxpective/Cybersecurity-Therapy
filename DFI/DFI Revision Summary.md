@@ -1421,13 +1421,15 @@
 	- daily
 	- quarterly
 	- annual
-- Use past investigation expenses to extract expected of future costs
 - **What should be the expenses for lab?**
 	- hardware
 	- software
-	- fa
-
-
+	- facility space
+	- training personnel
+- **Important notes for lab budget planning:**
+	- Use past investigation expenses to extract expected future costs
+	- Estimate number of computer cases the lab expects to examine
+	- Use statistics to determine type of 
 
 
 
