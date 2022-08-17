@@ -2024,7 +2024,23 @@
 	- **If device is off:**
 		- Do not turn it on
 		- Place in evidence bag or box
-		- If 
+		- If Faraday bag is available, place phone, adapter and chargers into the bag
+		- Bring back to forensics lab
+		- Write-protect SD card and remove SIM card
+		- Perform acquisition of SIM and SD card
+		- Phone cannot be left powered during acquisition process
+		- Turn on phone if necessary and treat it as if it was on
+		- Apply isolation techniques mentioned earlier
+
+#### Hashing
+- **Purpose:**
+	- Prove integrity of evidence
+- **Description:**
+	- Done after acquisition of device
+	- Perform MD5 or SHA to calculate has values
+	- Document hash values to maintain record of digital evidence
+
+#### Device 
 
 
 
@@ -2040,4 +2056,4 @@
 ---
 ## Abbreviations
 
-## Illustrations
+## Illus
