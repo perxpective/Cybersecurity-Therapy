@@ -85,6 +85,7 @@
 	- Allows corporate investigators to conduct **covert surveillance** with little or no cause
 	- **Access company systems** without warrant
 - Companies should display warning banner and publish policies
+
 > State that they reserve the right to inspect computing assets at will.
 
 - Corporate investigators should know under what circumstances they can examine employee's computer

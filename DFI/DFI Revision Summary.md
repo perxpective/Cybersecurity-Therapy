@@ -1698,8 +1698,12 @@
 	- Reliability
 	- Believability
 
-#### Collecting Evidence in Private-Sector Incident SD
-
+#### Collecting Evidence in Private-Sector Incident Scenes
+- **How to analyse a policy violation?**
+	- Businesses have inventory databases of computer hardware and software
+	- Understand what hardware and software help with computer forensics tools needed to analyse policy violation
+- **Corporate policy statement about misuse of digital assets:**
+	- Allows corporate investigators to conduct covert su
 
 
 ---
