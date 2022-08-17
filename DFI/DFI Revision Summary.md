@@ -2102,8 +2102,21 @@
 #### Android Operating System
 - **Description:**
 	- Mobile operating system based on modified version of Linux kernel
-	- 
+	- Developed by Open Handset Alliance (OHA)
+	- Created by Google
 
+#### Android Architecture
+- **Linux Kernel**
+	- **Functions:**
+		- Process management
+		- Memory management
+		- Security
+		- Networking
+- **Hardware Abstraction Level (HAL)**
+	- **Functions:**
+		- Allows higher level Java framework to work with hardware of mobile device
+		- Can be done due to multiple library modules
+			- provides interfaces for different types of hardware component
 
 
 
