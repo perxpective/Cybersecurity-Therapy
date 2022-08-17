@@ -20,8 +20,8 @@
 > - Required to document additional time spent on recovering additional evidences
 
 - **Scope creep** is becoming more common
-	- Criminal investigations require more detailed examination of evidence before trial
-	- Help prosecutors fend off attacks from defence attorneys
+  - Criminal investigations require more detailed examination of evidence before trial
+  - Help prosecutors fend off attacks from defence attorneys
 
 ## Approaching Digital Forensics Cases
 - Begin case by creating investigation plan to define the following:
@@ -46,7 +46,7 @@
 7. Examine contents of all data files in folders (starting from root directory)
 8. Recover file contents for all password-protected files (use password recovery tools)
 9. Identify function of every executable file (`.exe`) that does not match <u>known hash values</u>
-10. Maintain control of all evidence and findings
+10. maintain control of all evidence and findings
 
 ## Using OSForensics to Analyse Data
 - Can perform forensics analysis on the following file systems:
@@ -62,9 +62,9 @@
 ## Validating Forensic Data
 - Ensuring integrity of data collected is essential for presenting evidence in court
 - Most forensic tools offer hashing of image files
-  
-  > Example: ProDiscover loads an image file:
-  > - Runs a hash and compares value with original hash calculated when image first acquired
+
+> Example: ProDiscover loads an image file:
+> - Runs a hash and compares value with original hash calculated when image first acquired
 
 ### Validating with Hexadecimal Editors
 - Offers features not available in digital forensics tools like:
@@ -127,7 +127,6 @@
 
 ### Marking Bad Clusters
 > **Explaining Marking Bad Clusters**
-> 
 > - Data hiding technique used in FAT file systems by placing sensitive or incriminating data in free or slack space on disk partition clusters
 > - Involves using old utilities such as Norton and DiskEdit
 
@@ -163,19 +162,19 @@
 
 #### Steganalysis Methods
 - **Steg-only attack**
-	- Only have covered file to analyse
+  - Only have covered file to analyse
 - **Known cover attack**
-	- Has both covered file and converted covered file to analyze
+  - Has both covered file and converted covered file to analyze
 - **Known message attack**
-	- When hidden message is revealed later
+  - When hidden message is revealed later
 - **Chosen steganography attack**
-	- Steganography tool is used
+  - Steganography tool is used
 - **Chosen message attack**
-	- Steganalyst generates stego-object from steganography tool or algorithm of chosen message
+  - Steganalyst generates stego-object from steganography tool or algorithm of chosen message
 
 ### Examining Encrypted Files
 - To decode an encrypted file
-	- Users provide password or passphrase
+  - Users provide password or passphrase
 - Many encryption programs use technology called "key escrow"
 
 > **Key escrows** are designed to recover encrypted data if users forget their passphrases or if user key corrupted after a system failure
@@ -184,7 +183,7 @@
 
 ### Recovering Passwords
 - Password cracking tools available for handling password-protected data or systems
-	- Some integrated into digital forensics tools
+  - Some integrated into digital forensics tools
 
 **Standalone tools:**
 - Last Bit
@@ -203,7 +202,7 @@
 - With many passwords, hackers <u>can build profiles</u> of suspect to help determine their password (common information)
 - Many password-protected OSs and applications store passwords in MD5 or SHA hash values
 - Brute-force attack requires converting dictionary password from plaintext to hash value
-	- Requires additional CPU cycle time
+  - Requires additional CPU cycle time
 
 #### Rainbow Attack
 - File containing hash values of every possible password that can be generated from computer keyboard

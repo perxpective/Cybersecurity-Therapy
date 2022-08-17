@@ -1307,7 +1307,12 @@
 		- DiskEdit only runs on MS-DOS and can access only FAT-formatted disk media
 
 ##### Bit Shifting
-- 
+- **Description:**
+	- Done by changing the order of binary data
+		- by using low-level encryption programs
+	- Makes altered data unreadable 
+	- To secure a file, users run assembler program to scramble bits
+	- Run another program to restore scrambleed 
 
 
 
