@@ -1725,7 +1725,11 @@
 	- Work with corporate attorney on how to respond to police request for more information
 
 #### Processing Law Enforcement Crime Scenes
-
+- Law enforcement officers may only search and seize criminal evidence with probable cause
+	- **What is probable cause?**
+		- Reasonable grounds to believe that particular person has committed a crime
+			- especially to justify search preferring charge
+		- Refers to standard specifying whether 
 
 	
 	
