@@ -1168,6 +1168,7 @@
 	- File slack and unallocated space do not exist on VM so many standard items may not work on VMs
 
 #### Calculations Required
+- 
 - Calculating the cluster and space required for file made up of $x$ sectors: $$x=\frac{FileSize}{ClusterSize}$$
 - Calculating number of clusters to store the file: $$Clusters=\frac{FileSize}{ClusterSize}$$
 
