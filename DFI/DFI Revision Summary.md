@@ -1312,7 +1312,24 @@
 		- by using low-level encryption programs
 	- Makes altered data unreadable 
 	- To secure a file, users run assembler program to scramble bits
-	- Run another program to restore scrambleed 
+	- Run another program to restore scrambled bits to original order
+
+> **Bit-Shifting** changes data from readable code to data that looks like binary executable code
+
+
+##### Steganalysis
+- **Steganography**
+	- **Definition:**
+		- Greek word for hidden writing
+		- Hides messages in such a way only the intended recipient knows the message is there
+- **Steganalysis**
+	- **Definition:**
+		- Term for detecting and analysing steganography files
+- **Digital Watermarking**
+	- **Explanation:**
+		- Developed to protect file ownership
+		- Not visible when used for steganography
+		- 
 
 
 

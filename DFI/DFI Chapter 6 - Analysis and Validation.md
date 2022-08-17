@@ -145,7 +145,7 @@
 - **Bit shifting** changes data from readable code to data that looks like binary executable code
 - **WinHex** has feature for shifting bits
 
-## Steganalysis Analysis
+## Steganalysis
 > **Steganography**
 > - Greek word for 'hidden writing'
 > - Hides messages in such a way that only the intended recipient knows the message is there
