@@ -1729,7 +1729,10 @@
 	- **What is probable cause?**
 		- Reasonable grounds to believe that particular person has committed a crime
 			- especially to justify search preferring charge
-		- Refers to standard specifying whether 
+		- Refers to standard specifying whether police officer has the right to make an arrest, conduct personal or property search or obtain warrant for arrest
+		- With probable cause, police officer can get a warrant from the judge
+			- Authorizes a search and seizure of specific evidence related to criminal complaint
+			- Fourth Amendment states that only warrants describing the place to be searched and persons or things to be siez
 
 	
 	
