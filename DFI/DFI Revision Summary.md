@@ -1195,6 +1195,9 @@
 		- Attorneys might ask investigators to examine other areas to obtain more evidence
 		- Increases time and resources needed to extract, analyse and present evidence
 		- Required to document additional time spent on recovering additional evidences
+		- **Why is scope creep getting more common?**
+			- Criminal investigations require more detail examination of evidence before trial]
+			- Help
 
 ---
 ## Table Summaries

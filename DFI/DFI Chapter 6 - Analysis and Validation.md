@@ -20,8 +20,8 @@
 > - Required to document additional time spent on recovering additional evidences
 
 - **Scope creep** is becoming more common
-  - Criminal investigations require more detailed examination of evidence before trial
-  - Help prosecutors fend off attacks from defence attorneys
+	- Criminal investigations require more detailed examination of evidence before trial
+	- Help prosecutors fend off attacks from defence attorneys
 
 ## Approaching Digital Forensics Cases
 - Begin case by creating investigation plan to define the following:
@@ -50,10 +50,10 @@
 
 ## Using OSForensics to Analyse Data
 - Can perform forensics analysis on the following file systems:
-  - Microsoft FAT12, FAT16, FAT32
-  - Microsoft NTFS
-  - Mac HFS+, HFSX
-  - Linux Ext2fs and Ext4fs
+	- Microsoft FAT12, FAT16, FAT32
+	- Microsoft NTFS
+	- Mac HFS+, HFSX
+	- Linux Ext2fs and Ext4fs
 - OSForensics and also analyse data from other sources including image files from other vendors
 
 ![](https://i.imgur.com/Dz2YLfi.png)
