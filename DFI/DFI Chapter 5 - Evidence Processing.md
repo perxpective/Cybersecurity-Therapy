@@ -257,7 +257,7 @@
 **Resident File Attributes:**
 ![](https://i.imgur.com/6r0BW3w.png)
 
-- All MFT records start at FILE0
+- All MFT records start at `FILE0`
 - Swap two bytes for start of attribute (60 00 -> 00 60 or 70 00 -> 00 70)
 - Length of header indicates where next attribute starts
 
@@ -286,12 +286,13 @@
 
 **Standard Information Attribute (Locations)** 
 
+![](https://i.imgur.com/ixkgFhI.png)
+
 |        | Left                      | Right                       |
 | ------ | ------------------------- | --------------------------- |
 | Top    | Create date and time      | Last modified date and time |
 | Bottom | Last access date and time | Record update date and time |
 
-![](https://i.imgur.com/ixkgFhI.png)
 
 ### NTFS Alternate Data Streams
 > **Alternate Data Streams**
