@@ -1496,7 +1496,8 @@
 	- Locate them in a restricted area
 	- Limit number of authorized persons accessing the containers
 	- Maintain records on who authorized to access container
-	- 
+	- Containers should remain locked when not in use
+- 
 
 
 
