@@ -48,7 +48,6 @@
 - Take note of changes in technology
 - Use statistics to determine type of computer crimes more likely to occur
 	- Better estimate resources needed
-
 - When setting up lab for private company, check the following:
 	- Hardware and software inventory
 	- Problems reported last year
