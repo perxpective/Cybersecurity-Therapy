@@ -17,17 +17,38 @@
         }
       },
       {
-        "id": "70d3c2fe33c9954f",
-        "type": "leaf",
+        "id": "8f9b1617e5412374",
+        "type": "split",
         "dimension": 45.69932685115931,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
-            "mode": "preview",
-            "source": false
+        "children": [
+          {
+            "id": "70d3c2fe33c9954f",
+            "type": "leaf",
+            "dimension": 65.84766584766585,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6bd4ed799f6ef60",
+            "type": "leaf",
+            "dimension": 34.15233415233415,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Revision Summary.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -128,10 +149,10 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "93e015461cbc414f",
+  "active": "912fbdabc64b593d",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
+    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/Untitled.md",

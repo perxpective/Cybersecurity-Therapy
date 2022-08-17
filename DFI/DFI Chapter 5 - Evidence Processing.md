@@ -361,17 +361,17 @@
 	- BIOS configured so that hard drive boots first before checking other peripherals
 
 ## Understanding the Windows Registry
-- #### Registry
-	- Database that stores the following:
-		- Hardware and software configuration information
-		- Network connections
-		- User preferences
-		- Setup information
-	- To view registry, use the following:
-		- **Regedit** (Registry Editor)
-			- program for Windows 9x systems
-		- **Regedt32** for Windows 2000, XP, Vista
-		- Both utilities can be used for Windows 7 or later
+#### Registry
+- Database that stores the following:
+	- Hardware and software configuration information
+	- Network connections
+	- User preferences
+	- Setup information
+- To view registry, use the following:
+	- **Regedit** (Registry Editor)
+		- program for Windows 9x systems
+	- **Regedt32** for Windows 2000, XP, Vista
+	- Both utilities can be used for Windows 7 or later
 
 #### Registry Terminology
 - Registry

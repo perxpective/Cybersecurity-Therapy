@@ -1118,7 +1118,7 @@
 	- `HKEY_DYN_DATA`
 		- Used only in Windows 9x/Me systems, stores hardware configuration systems
 
-#### Microsoft Startup Tasks
+#### Microsoft Start-up Tasks
 - **How to start-up in Windows 7 and 8?**
 	- Boot process uses a **boot configuration data (BCD) store**
 	- **What is contained in BCD?**
@@ -1168,7 +1168,8 @@
 	- File slack and unallocated space do not exist on VM so many standard items may not work on VMs
 
 #### Calculations Required
-
+- Calculating the cluster and space required for file made up of $x$ sectors: $$x=\frac{FileSize}{ClusterSize}$$
+- Calculating number of cluste
 
 ---
 ## Table Summaries
