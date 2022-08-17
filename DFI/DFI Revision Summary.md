@@ -1072,9 +1072,25 @@
 - **What are the hardware and software requirements of Microsoft Bitlocker?**
 	- Computer capable of running Windows Vista or later
 	- **Trusted Platform Module microchip version 1.2 or later**
-		- 
+		- **Function:**
+			- stores RSA encryption keys specific to host system for hardware authentication
+		- Computer BIOS compliant with **Trusted Computing Group (TCG)**
+		- 2 NTFS partitions
+		- BIOS configured so that hard drive boots first before checking other peripherals
 
-
+#### Microsoft Registry
+- **Functions:**
+	- Stores the following data:
+		- Hardware and software software configuration information
+		- Network connections
+		- User preferences
+		- Setup information
+- **How to view the Windows Registry?**
+	- **Regedit**
+		- Registry editor
+		- Program for Windows 9x systems
+	- **Regeft32 for Windows 2000, XP, Vista**
+	- Both can 
 
 
 ---
