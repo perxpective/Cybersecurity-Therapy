@@ -1512,8 +1512,16 @@
 	- Place keys in lockable container
 	- Maintain same level of security for key as evidence containers
 	- Change locks and keys annually
-- **Physical requirements of evidence containers:**
-	- 
+- **Requirements of evidence containers:**
+	- Made of steel with internal cabinet or external padlock
+	- Acquire media safe if possible
+		- Designed to protect electronic media
+	- Strong evidence storage room in lab
+	- Keep evidence log
+		- Update it every time evidence container is opened or closed
+
+#### Facility Maintenance
+- How to maintain 
 
 
 

@@ -118,7 +118,6 @@
 > - Maintain same level of security for keys as evidence containers
 > - Change locks and keys annually
 
-
 - Container should be made of steel with internal cabinet or external padlock
 - Acquire media safe if possible
 	- Designed to protect electronic media 
