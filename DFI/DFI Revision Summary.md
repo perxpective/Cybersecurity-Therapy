@@ -1482,7 +1482,10 @@
 		- Electromagnetic Radiation Proofed
 			- **Reasons for proofing EMR:**
 				- Leaking signals can be used to reconstruct information
-				- Stops information systems from leaking through emnations
+			- Stops information systems from leaking through emanations 
+				- including unintentional radio/electrical signals, sounds and vibrations
+	- **Limitations:**
+		- Expensive
 
 
 
