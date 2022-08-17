@@ -1044,7 +1044,10 @@
 #### Deleting NTFS Files
 - **What happens when file deleted in Windows NT or later?**
 	- OS renames it and moves it to Recycle Bin
-	- Use Del (delete) MS-DOS command to delete file
+- **What happens when  Del (delete) MS-DOS command is used to delete file?**
+	- Eliminates file from MFT listing in the same way FAT does
+
+#### Whole Disk Encryption
 
 ---
 ## Table Summaries
