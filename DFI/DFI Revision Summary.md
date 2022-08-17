@@ -1834,7 +1834,10 @@
 			- Process of transferring ongoing call or data session from one cell to another cell
 	- Communicates with the **PTSN** 
 		- Stands for the Public Switch Telephone Network
-		- 
+		- Brain of the cell phone network
+	- Evaluates the signal strength between devices and network
+		- **How?**
+			- Tells the device or network to make the appropriate adjustments to the transmission
 
 
 
