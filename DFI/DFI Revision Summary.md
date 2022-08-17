@@ -1805,6 +1805,15 @@
 		- USB drives
 		- External hard drives (more than 1TB)
 
+#### Storage Media for Digital Evidence
+- **CDs, DVDs**
+	- Ideal media
+	- **Capacity:** 17GB
+	- **Lifespan:** 2-5 years
+- **Magnetic Tapes (4mm DAT)**
+	- **Capacity:** 40-72GB
+	- **Lifespan:** 30 years (Longest)
+
 ### Chapter 9 - Historical Cellular
 #### Cell Phones
 - **How does a phone contact a station?**
