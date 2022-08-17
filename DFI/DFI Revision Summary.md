@@ -1703,8 +1703,17 @@
 	- Businesses have inventory databases of computer hardware and software
 	- Understand what hardware and software help with computer forensics tools needed to analyse policy violation
 - **Corporate policy statement about misuse of digital assets:**
-	- Allows corporate investigators to conduct covert su
+	- Allows corporate investigators to conduct covert surveillance with little or no cause
+	- Access company systems without warrant
+	- Companies display warning banner and publish policies
+		- Stating that they reserve the right to inspect computing assets at will
 
+> Corporate investigators must know under what circumstances they can examine employee's computer
+> - Every organization must have well-defined process describing when investigation can be initiated
+
+- **What happens if corporate investigator finds out employee is committing a crime or has committed a crime?**
+	- Employer can file criminal complaint to p
+	- 
 
 ---
 ## Table Summaries
