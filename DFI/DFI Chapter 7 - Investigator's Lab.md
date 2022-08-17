@@ -155,7 +155,7 @@
 	- Doors and door locks
 	- Visitor logs
 	- Evidence container logs
-	- Secure all evidence that is not being process in forensic workstation at the end of every workday
+	- Secure all evidence that is not being processed in forensic workstation at the end of every workday
 
 ## Determining Floor Plans for Digital Forensics Labs
 - Factors affecting configuration of work area

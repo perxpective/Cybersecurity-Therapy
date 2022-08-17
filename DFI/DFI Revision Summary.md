@@ -1546,11 +1546,30 @@
 
 #### Auditing Digital Forensics Lab
 - **Include the following in an audit:**
-	- Inspection of the following facility components and practices
+	- Inspection of the following facility components and practices:
 		- Ceiling, floor, roof, exterior walls of lab
 		- Door and door locks
 		- Visitor logs
-		- Evidence 
+		- Evidence container logs
+		- Secure all evidence that is not being processed in forensics workstation at the end of every workday
+
+#### Determining Floor Plans for Digital Forensics Lab
+- **Factors affecting configuration of work area:**
+	- Budget
+	- Amount of floor space available
+	- Number of computers assigned to each computing investigator
+- **Ideal configuration for digital forensics lab:**
+	- 2 forensics workstations
+		- 1 workstation for 2-3 cases a month
+	- 1 non-forensic workstation with Internet access
+
+#### Selecting Basic Forensics Workstation
+- **How to select a basic forensics workstation:**
+	- Depends on budget and needs
+	- Use less powerful workstations for mundane tasks
+	- Use multipurpose workstations for resource-heavy analysis tasks
+
+
 
 
 
