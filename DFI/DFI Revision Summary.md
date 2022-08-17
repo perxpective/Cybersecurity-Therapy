@@ -1499,7 +1499,9 @@
 	- Containers should remain locked when not in use
 - **What if combination locking system is used?**
 	- Provide same level of security for combination as for container's contents
-	- Destroy any previous combinations after setting up
+	- Destroy any previous combinations after setting up new ones
+	- Allow only authorised personnel to change lock combination
+	- Change combination every six months when required
 
 
 
