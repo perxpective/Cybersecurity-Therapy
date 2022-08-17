@@ -1469,6 +1469,10 @@
 		- It should preserve the integrity of data
 	- **Minimum requirements:**
 		- Small room with true floor-to-ceiling walls
+		- Door access with locking mechanism
+		- Secure container
+		- Visitor's log
+		- Brief staff about security policy
 		- 
 
 
