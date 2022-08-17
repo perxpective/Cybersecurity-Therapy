@@ -1197,7 +1197,9 @@
 		- Required to document additional time spent on recovering additional evidences
 		- **Why is scope creep getting more common?**
 			- Criminal investigations require more detail examination of evidence before trial]
-			- Help
+			- Scope creep can help prosecutors fend off attacks from defence attorneys
+- **Approaching digital forensics cases**
+	- 
 
 ---
 ## Table Summaries
