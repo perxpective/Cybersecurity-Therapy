@@ -1712,8 +1712,24 @@
 > - Every organization must have well-defined process describing when investigation can be initiated
 
 - **What happens if corporate investigator finds out employee is committing a crime or has committed a crime?**
-	- Employer can file criminal complaint to p
-	- 
+	- Employer can file criminal complaint to police
+	- Investigator should report to corporate management immediately
+
+> - Employers are more interested in enforcing company policy rather than seeking out and prosecuting employees
+> - Corporate investigators are mainly concerned with protecting company assets
+
+- **What to do if you discover evidence of crime during company policy investigation?**
+	- Determine whether incident meets aspects of criminal law
+	- Inform management of incident
+	- Stop investigation to ensure 4th Amendment restrictions on obtaining evidence is not violated
+	- Work with corporate attorney on how to respond to police request for more information
+
+	
+	
+	
+	
+	
+ 
 
 ---
 ## Table Summaries
