@@ -1291,7 +1291,11 @@
 	- Unassigns partition's letter, hides it from File Explorer
 - To unhide, use `diskpart assign letter`
 - **Examples of disk management tools:**
-	- Partition magic
+	- Partition Magic
+	- Partition Master
+	- Grand Unified Bootloader (GRUB)
+- **How to detect if partition is hidden?**
+	- 
 
 
 
