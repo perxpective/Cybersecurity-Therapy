@@ -1785,6 +1785,7 @@
 		- Digital camera with extra batteries
 		- Evidence log forms
 		- Notebook
+		- Computer evidence bags
 
 	
 	
