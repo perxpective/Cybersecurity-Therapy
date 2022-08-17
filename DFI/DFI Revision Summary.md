@@ -441,6 +441,8 @@
 	- Did you **use any new techniques** during the case or research?
 
 ### Chapter 3 - Data Acquisition
+#### Overview
+- **Why is acquisqiti**
 #### Image Formats
 - **Image Formats: (RPA)**
 	- Raw Format 
@@ -1170,7 +1172,7 @@
 #### Calculations Required
 - Calculating the cluster and space required for file made up of $x$ sectors: $$x=\frac{FileSize}{ClusterSize}$$
 - **RAM Slack:**
-	- Per sector size: 512 bytes in general
+	- **Per sector size:** 512 bytes in general
 	- Number of sectors required: $$SectorsRequired=\frac{FileSize}{SectorSize}$$
 	- Total sector size required: $$TotalSectorsRequired= SectorsRequired \times SectorSize$$
 - **File Slack:** $$FileSlack = SizeOfClusterRequired-FileSize-RAMSlack$$
