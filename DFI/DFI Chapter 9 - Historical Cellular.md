@@ -138,7 +138,7 @@
 		- 000000 - For small quantities of test/prototype mobiles
 		- 000001 - FFFFFE - Allocated to regional administration bodies or mobile manufacturers (subject to industry agreement)
 		- FFFFFF - Reserved
-	- ZZZZZZ: Manufacturer assigned to uniquely ID device
+	- ZZZZZZ: Manufacturer assigned to unique ID device
 	C: Check Digit
 
 ![600](https://i.imgur.com/r39l7hY.png)

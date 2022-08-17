@@ -1932,13 +1932,27 @@
 		- Stands for **Mobile Identity Number**
 		- Assigned by carrier
 - **MEID**
+	- Fields are in hexadecimal values
 	- **Format:**
-		- RR: Regional code (globally administered)
-		- XXXXXX:
+		- `RR`: Regional code (globally administered)
+		- `XXXXXX`:
 			- 000000
 				- For small quantities of prototype mobiles
-			- 000001
-				- Allocated to: regional administration bodies or mobile manufacturers
+			- `000001` to `FFFFFE`
+				- **Allocated to:**
+					- regional administration bodies
+					- mobile manufacturers
+			- `FFFFFF`
+				- **Reserved**
+		- `ZZZZZZ`:
+			- Manufacturer assigned to unique ID device
+		- `C`:
+			- Check digit
+- **IMEI**
+	- **Format:**
+		- Unique 15-digit code 
+			- Used to identify individual GSM mobile telephone to mobile network
+	- **Display**
 
 
 
