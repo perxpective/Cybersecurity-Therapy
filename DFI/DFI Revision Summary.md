@@ -1478,7 +1478,11 @@
 > High-risk investigations demand more security minimum lab requirements
 
 - Requires **TEMPEST facilities**
-	- **P**
+	- **Requirements:**
+		- Electromagnetic Radiation Proofed
+			- **Reasons for proofing EMR:**
+				- Leaking signals can be used to reconstruct information
+				- Stops information systems from leaking through emnations
 
 
 
