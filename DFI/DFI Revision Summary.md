@@ -1608,7 +1608,19 @@
 	- Quicken
 		- Personal finance management tool
 	- Programming languages
-		- C_
+		- Visual Basic and C++
+	- Specialised viewers
+	- LibreOffice, OpenOffice and Apache OpenOffice
+	- Peachtree and QuickBooks accounting applications
+
+### Chapter 8 - Processing Crime and Incident Scenes
+#### Digital Evidence
+- **What is digital evidence?**
+	- Any information stored or transmitted in digital form
+	- Different from document evidence
+	- **Example:**
+		- SWGDE (Scientific Working Group on Digital Evidence)
+		- Sets standards for recovering, preserving and examining 
 
 
 
