@@ -1842,9 +1842,22 @@
 	- Phone makes an outbound call
 	- Sends radio signal to the MTSO
 	- MTSO sends the signal to the PTSN
+- **When phone is turned on:**
+	- Phone listens for carrier and looks for a match
+	- Phone must match service or phone goes into roam or no service
+- **What happens when phone makes a call?**
+	- Phone sends the destination number to the nearest cell tower
+	- Nearest cell tower checks for the strongest channel
+	- Sends signal to the MTSO 
+	- MTSO sends to PSTN
+	- PSTN confirms signal tone and sends back a key to the phone
 
 #### Wireless Frequency
-- **How is voice or data transmitted**
+- **How is voice or data transmitted?**
+	- via electric waves set to specific frequencies
+	- measured in Hertz (Hz)
+
+	- 
 
 
 
