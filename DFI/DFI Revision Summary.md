@@ -1406,7 +1406,26 @@
 		- Based on existing resources
 	- Estimate how many cases investigator can handle
 	- Estimate when to expect preliminary and final results
-	- Create and monitor 
+	- Create and monitor lab policies for staff
+	- Provide safe and secure workplace for staff and evidence
+- **Duties of staff members**
+	- **Have the knowledge and training in the following:**
+		- Hardware and software
+		- OS and file types
+		- Deductive reasoning 
+		- Work reviewed regularly by lab manager to ensure quality of work maintained
+		- Check ASCLD site for online manual and information
+
+#### Lab Budget
+- **How to break expenses down into?**
+	- daily
+	- quarterly
+	- annual
+- Use past investigation expenses to extract expected of future costs
+- **What should be the expenses for lab?**
+	- hardware
+	- software
+	- fa
 
 
 
