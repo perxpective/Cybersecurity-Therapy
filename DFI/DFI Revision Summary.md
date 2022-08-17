@@ -2040,7 +2040,22 @@
 	- Perform MD5 or SHA to calculate has values
 	- Document hash values to maintain record of digital evidence
 
-#### Device 
+#### Device Accessibility
+- **Factors affecting mobile acquisition of device:**
+	- Android version
+	- **Device security:**
+		- Pattern
+		- PIN
+		- Password
+		- Fingerprint
+		- Facial recognition
+		- Bluetooth device lock and unlock
+	- **Device accessibility:**
+		- Non-root access
+		- Root access
+- **Mode of transfers:**
+	- **Bluetooth**
+		- Mobile acquisition can be done using the Android Debugging Bridge (ADB)
 
 
 
@@ -2056,4 +2071,4 @@
 ---
 ## Abbreviations
 
-## Illus
+## Illustrations
