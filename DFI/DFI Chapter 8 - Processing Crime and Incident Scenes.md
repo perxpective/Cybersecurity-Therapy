@@ -171,7 +171,7 @@
 ### Determining Whether Computers and Digital Devices Can Be Seized
 - <u>Type of case and location of evidence:</u>
 	- Determine whether digital evidence can be removed
-	- Ideal situation is seizing computers and brining them to a lab for processing
+	- Ideal situation is seizing computers and bringing them to a lab for processing
 - Law enforcement investigators need warrant to remove computers from crime scene (and transport them to a lab)
 - If removing computer harms a business, computers should not be taken away
 

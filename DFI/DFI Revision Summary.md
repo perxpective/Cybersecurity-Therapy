@@ -1739,9 +1739,18 @@
 - **Why is it difficult for law enforcement?**
 	- Crime scene is not controlled
 	- They might not know the type of computer used to commit a crime or how they are used
-	- **What to identify OS or device by?**
-		- Approximate size of drive on suspect computer
-		- How many devices to process at the scene
+- **What to identify OS or device by?**
+	- Approximate size of drive on suspect computer
+	- Number of devices to process at the scene
+- **Identify the following OS and hardware involved:**
+	- Microsoft
+	- Linux
+	- UNIX
+	- Macintosh
+	- Mainframe computer
+- **Determining whether computers and digital devices can be seized**
+	- Determine whether digital evidence can be removed
+	- Ideal situation is seizing computer and bringing them to a lab for processing
 
 	
 	
