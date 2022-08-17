@@ -1246,8 +1246,13 @@
 - **Why is it important?**
 	- To ensure integrity of data collected essential for presenting evidence in court
 - **Validating with hexadecimal editor**
-	- 
-
+	- **Features offered that are not available in digital forensics tools:**
+		- Hashing specific files or sectors
+	- **What can hash values be used for?**
+		- Forensics tools can be used to check for suspicious files that might have its name changed to look like a legitimate file
+		- **Discriminating data:**
+			- **Example:**
+				- AccessData has hashing database called Known File Filter (KFF)
 
 
 
