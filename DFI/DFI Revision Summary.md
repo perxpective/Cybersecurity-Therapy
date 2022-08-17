@@ -1473,8 +1473,12 @@
 		- Secure container
 		- Visitor's log
 		- Brief staff about security policy
-		- 
 
+#### Conducting High-Risk Investigations
+> High-risk investigations demand more security minimum lab requirements
+
+- Requires **TEMPEST facilities**
+	- **P**
 
 
 
