@@ -1630,7 +1630,21 @@
 	- Rebuild evidence or repeat situation to verify that results can be reproduced reliably (Admission)
 
 ### Rules of Evidence
--**Consistent **
+- **Why must evidence by handled consistently?**
+	- Verify work
+	- Enhance credibility
+- **Notes:**
+	- Comply with state rules of evidence
+		- for security and accountability control of evidence
+	- Evidence admitted in criminal case can be used in civil suit and vice versa
+	- **Be updated on latest rulings and directives on the following:**
+		- collecting
+		- processing
+		- storing
+		- admitting digital evidence
+- **Difference between digital evidence and physical evidence:**
+	- Digital evidence can be changed easily
+	- 
 
 
 
