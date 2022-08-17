@@ -1182,7 +1182,16 @@
 - **File Slack:** $$FileSlack = SizeOfClusterRequired-FileSize-RAMSlack$$
 
 #### Chapter 6 - Analysis and Validation
-- **Factors affecting what data to collect and analyse**
+- **Factors affecting examination and analysis of data:**
+	- Nature of the investigation
+	- Amount of data to process
+	- Corporate investigations locating and recovering specific items like emails
+		- simplifies and speeds up processing
+- **Scope Creep**
+	- **Explanation:**
+		- Occurs when expands beyond the original description
+		- **Reason:**
+			- 
 
 ---
 ## Table Summaries
