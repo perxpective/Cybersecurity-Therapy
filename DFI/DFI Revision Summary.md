@@ -1180,6 +1180,10 @@
 	- Number of sectors required: $$SectorsRequired=\frac{FileSize}{SectorSize}$$
 	- Total sector size required: $$TotalSectorsRequired= SectorsRequired \times SectorSize$$
 - **File Slack:** $$FileSlack = SizeOfClusterRequired-FileSize-RAMSlack$$
+
+#### Chapter 6 - Analysis and Validation
+
+
 ---
 ## Table Summaries
 

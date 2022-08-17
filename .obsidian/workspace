@@ -17,38 +17,17 @@
         }
       },
       {
-        "id": "8f9b1617e5412374",
-        "type": "split",
+        "id": "70d3c2fe33c9954f",
+        "type": "leaf",
         "dimension": 45.69932685115931,
-        "children": [
-          {
-            "id": "70d3c2fe33c9954f",
-            "type": "leaf",
-            "dimension": 65.84766584766585,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6bd4ed799f6ef60",
-            "type": "leaf",
-            "dimension": 34.15233415233415,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DFI/DFI Revision Summary.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Chapter 6 - Analysis and Validation.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -88,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -152,15 +130,15 @@
   },
   "active": "912fbdabc64b593d",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
+    "DFI/DFI Chapter 6 - Analysis and Validation.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/Untitled.md",
     "DFI/Untitled 1.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
+    "BED/BED Chapter 4 - Restful Web Services with Express.md"
   ]
 }
