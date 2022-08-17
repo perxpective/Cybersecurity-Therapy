@@ -1806,7 +1806,7 @@
 		- External hard drives (more than 1TB)
 
 ### Chapter 9 - Historical Cellular
-#### Cell-Phones
+#### Cell Phones
 - **How does a phone contact a station?**
 	- **Full-Duplex**
 		- Operates on two channels
@@ -1861,7 +1861,7 @@
 - **When is handoff needed?**
 	- When signal on channel from tower servicing the call becomes weaker during the call
 	- If there is no tower with a stronger signal, the call is dropped
-- **Types of handoff**
+- **Types of handoff:**
 	- **Hard Handoff**
 		- Existing connection must be broken when new one created (Break then make)
 		- Allocates different frequency
@@ -1874,10 +1874,26 @@
 
 #### Cellular Subsets
 - **iDEN**
-	- Stands for the **Integrated Digital Enhanced Network**
-	- iDEN phones support SMS, voicemail, data networking like VPN, Internet and Intranets
-	- Used by the following ISPs:
-		- Sp
+	- **Description:**
+		- Stands for the **Integrated Digital Enhanced Network**
+		- iDEN phones support SMS, voicemail, data networking like VPN, Internet and Intranets
+		- Used by the following ISPs:
+			- Sprint
+			- AT&T
+			- Verizon
+- CDMA
+	- **Description:**
+		- Stands for the **Code Division Multiple Access**
+		- Utilizes spread-spectrum technology
+		- **What is spread-spectrum technology?**
+			- Channels are spread across entire frequency range 
+		- Spreads information contained in particular signal of interest over much greater bandwidth than original signal
+		- Assigns code to each piece of data passed across spectrum
+		- Unable to carry voice and data simultaneously
+		- **Two channels:**
+			- Encode
+			- Decode
+		- 
 
 
 
