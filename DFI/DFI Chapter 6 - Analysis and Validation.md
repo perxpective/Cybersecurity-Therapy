@@ -139,7 +139,6 @@
 - Some users use low-level encryption program, changing the order of binary data
   
   > **Does this by:**
-  > 
   > - Making altered data unreadable
   > - To secure a file, users run assembler program (macro) to scramble bits
   > - Run another program to restore scrambled bits to original order

@@ -1296,7 +1296,18 @@
 	- Grand Unified Bootloader (GRUB)
 - **How to detect if partition is hidden?**
 	- Account for all disk space when examining an evidence drive
-	- Analyse any disk areas containing more space that 
+	- Analyse any disk areas containing more space that cannot be accounted for
+	- Hidden partition appears as highest available drive letter set in BIOS
+
+##### Marking Bad Clusters
+- **Description:**
+	- Data hiding technique used in FAT file systems
+	- Places sensitive or incriminating data in free or slack space on disk partition clusters
+	- Involves using old utilities such as Norton or DiskEdit
+		- DiskEdit only runs on MS-DOS and can access only FAT-formatted disk media
+
+##### Bit Shifting
+- 
 
 
 
