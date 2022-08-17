@@ -1620,7 +1620,17 @@
 	- Different from document evidence
 	- **Example:**
 		- SWGDE (Scientific Working Group on Digital Evidence)
-		- Sets standards for recovering, preserving and examining 
+		- Sets standards for recovering, preserving and examining digital evidence
+
+#### General Tasks Performed by Investigators
+- **Tasks:**
+	- Identify digital information or artefacts that can be used as digital evidence (Seizure)
+	- Collect, preserve and document evidence (Acquisition)
+	- Analyse, identify and organize evidence (Examination)
+	- Rebuild evidence or repeat situation to verify that results can be reproduced reliably (Admission)
+
+### Rules of Evidence
+-**Consistent **
 
 
 
