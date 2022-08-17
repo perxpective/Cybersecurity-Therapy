@@ -2059,6 +2059,14 @@
 	- **Wireless**
 		- Acquisition can be done using ADB via **Wi-Fi**
 		- Mobile device and acquisition machine must be connected to the same Wi-Fi network
+- **Pre-requisites**
+	- **Media Transfer Protocol**
+		- Allow media files to be transferred automatically between portable device
+		- Guarantees uninterrupted device acquisition
+	- **Enabling USB Debugging**
+		- Developer option enables analysis machine to connect to device via ADB
+			- ADB accts as bridge between computer and mobile phone
+		- To use ADB, USB debugging options must be 
 
 
 
