@@ -2143,8 +2143,17 @@
 	- Cannot be uninstalled or changed by user
 	- **Reason:**
 		- Read-only production devices
+		- Some devices offer the option to disable these apps
+	- **Location:**
+		- `/system/partition`
+- **User Installed Apps**
+	- Applications downloaded and installed by user from distribution platforms
+		- Example: Google Play
+	- **Location:**
+		- `/data`
 
-
+### Chapter 11 - iOS Forensics
+#### iOS Arc
 
 
 ---
