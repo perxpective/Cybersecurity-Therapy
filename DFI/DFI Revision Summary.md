@@ -1189,9 +1189,12 @@
 		- simplifies and speeds up processing
 - **Scope Creep**
 	- **Explanation:**
-		- Occurs when expands beyond the original description
+		- Occurs when expands beyond the original description 
 		- **Reason:**
-			- 
+			- Due to unexpected evidence found
+		- Attorneys might ask investigators to examine other areas to obtain more evidence
+		- Increases time and resources needed to extract, analyse and present evidence
+		- Required to document additional time spent on recovering additional evidences
 
 ---
 ## Table Summaries
