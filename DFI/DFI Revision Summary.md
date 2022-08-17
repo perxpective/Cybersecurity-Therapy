@@ -1459,7 +1459,17 @@
 			- Defence Cyber Investigations Training Academy
 
 #### Physical Requirements for a Computer Forensics Lab
-- Physical lba 
+- Physical lab must be secured
+	- **Reasons:**
+		- So that evidence is not lost, corrupted or destroyed
+		- Provide safe and secure physical environment
+		- Keep inventory control of assets
+- **Lab security needs:**
+	- **Secure facility**
+		- It should preserve the integrity of data
+	- **Minimum requirements:**
+		- Small room with true floor-to-ceiling walls
+		- 
 
 
 
