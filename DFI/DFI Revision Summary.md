@@ -1823,7 +1823,18 @@
 - Mobile phone network is composed of a cell
 	- Cells can join and overlap each other to form large coverage areas
 	- Users on network can cross into different cells without losing connection
-	- Allows **frequency resuse**
+	- Allows **frequency reuse** which causes crosstalk
+
+#### Mobile Telephone Switching Office
+- **Explanation:**
+	- Contains switching equipment for routing mobile phone calls
+	- Handles the entire cell network
+	- Controls **hand-off**
+		- **What is hand-off?**
+			- Process of transferring ongoing call or data session from one cell to another cell
+	- Communicates with the **PTSN** 
+		- Stands for the Public Switch Telephone Network
+		- 
 
 
 
