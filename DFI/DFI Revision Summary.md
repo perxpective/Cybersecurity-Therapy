@@ -1259,6 +1259,15 @@
 				- **ProDiscover**
 					- `.eve` files contain metadata and hash values
 					- Includes preference that can be enabled using **Auto Verify Image Checksum** when image files loaded
+					- **When Auto Verify Image Checksum and `.eve` file hash do not match:**
+						- ProDiscover notifies that acquisition is corrupt and cannot be considered reliable evidence
+- **Why must raw image files be validated manually?**
+	- Raw image files do not contain metadata and cannot be used by other forensics tools that only support files that contain metadata
+	- Ensure integrity
+
+#### Data Hiding
+- **Definition:**
+	- Changing or manipulating a file to conceal inform
 
 
 
