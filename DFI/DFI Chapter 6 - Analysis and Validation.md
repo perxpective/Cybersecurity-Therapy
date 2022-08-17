@@ -46,7 +46,7 @@
 7. Examine contents of all data files in folders (starting from root directory)
 8. Recover file contents for all password-protected files (use password recovery tools)
 9. Identify function of every executable file (`.exe`) that does not match <u>known hash values</u>
-10. maintain control of all evidence and findings
+10. Maintain control of all evidence and findings
 
 ## Using OSForensics to Analyse Data
 - Can perform forensics analysis on the following file systems:

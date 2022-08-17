@@ -1219,7 +1219,17 @@
 	- **For static acquisitions:**
 		- remove original drive
 		- check data and time in system CMOS
-	- Reco
+	- Record how data was acquired from suspect drive
+	- Process drive contents methodically and logically
+	- List files and folders on image and drive and note where it was found
+	- Examine contents of all data files in folders
+		- starting from root directory
+	- Recover file contents for all password-protected files
+		- by using password recovery tools
+	- Identify function of every executable file that does not match known hash values
+	- Maintain control of all evidence and findings
+- **Recommendations for Investigation Plan:**
+	- Even if initial plan is sound, might need to deviate from the pl
 
 
 
