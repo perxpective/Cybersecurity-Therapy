@@ -1986,7 +1986,15 @@
 			- MSIN (Mobile Station Identification Number) - 10 digits
 
 ### Chapter 10 - Android Forensics
+- **What is Android Forensics?**
+	- Handling of recovering and analysis of data in an Android device via techniques under forensically sound conditions
+- **What are some challenges in mobile forensics?**
+	- Wide range of operating systems and device models
+	- Preventing data alterations on mobile devices
+	- Inherent security features
+	- Legal issues
 
+#### Seuiz
 
 
 
