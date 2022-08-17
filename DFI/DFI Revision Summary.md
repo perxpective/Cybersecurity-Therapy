@@ -1724,6 +1724,9 @@
 	- Stop investigation to ensure 4th Amendment restrictions on obtaining evidence is not violated
 	- Work with corporate attorney on how to respond to police request for more information
 
+#### Processing Law Enforcement Crime Scenes
+
+
 	
 	
 	
