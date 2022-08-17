@@ -1490,9 +1490,13 @@
 
 #### Evidence Containers
 > Also known as **evidence lockers**
-
 - **Why must evidence lockers be secured?**
-	- Must be secured 
+	- No unauthorized person have easy access to evidence
+- **Recommendations for evidence containers:**
+	- Locate them in a restricted area
+	- Limit number of authorized persons accessing the containers
+	- Maintain records on who authorized to access container
+	- 
 
 
 
