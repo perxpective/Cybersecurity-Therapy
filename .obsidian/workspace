@@ -24,7 +24,7 @@
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 5 - Evidence Processing.md"
               }
             }
           },
@@ -126,12 +125,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 186.67056274414062
+    "width": 186.67056274414062,
+    "collapsed": true
   },
-  "active": "912fbdabc64b593d",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/Untitled.md",

@@ -1162,7 +1162,12 @@
 	- Several files on hard drive that must be allocated space to
 - **Why use VMs?**
 	- Make it possible to restore suspect drives
-	- Tests can be performed and run non
+	- Tests can be performed and run nonstandard software that suspect might have loaded
+- **What are some potential issues with using VMs?**
+	- Virtual machine can be used to attack another system or network
+	- File slack and unallocated space do not exist on VM so many standard items may not work on VMs
+
+#### Calculations Required
 
 
 ---
