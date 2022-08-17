@@ -14,7 +14,7 @@
 
 <u>Section B (80%)</u> - **4 questions**
 - Structured questions (20 marks each)
-- Each question has sub-questiond
+- Each question has sub-questions
 
 ## Areas of Focus
 **Chapter 1 - Introduction to Forensics**
@@ -1044,11 +1044,13 @@
 #### Deleting NTFS Files
 - **What happens when file deleted in Windows NT or later?**
 	- OS renames it and moves it to Recycle Bin
-- **What happens when  Del (delete) MS-DOS command is used to delete file?**
+- **What happens when Del (delete) MS-DOS command is used to delete file?**
 	- Eliminates file from MFT listing in the same way FAT does
 
 #### Whole Disk Encryption
-
+- **Features offered by whole disk encryption tools:**
+	- **Preboot authentication**
+		- Single sign-on password and fingerprint scan
 ---
 ## Table Summaries
 
