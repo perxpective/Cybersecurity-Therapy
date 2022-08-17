@@ -1857,6 +1857,16 @@
 	- via electric waves set to specific frequencies
 	- measured in Hertz (Hz)
 
+#### Cellular Hand Off
+- **When is handoff needed?**
+	- When signal on channel from tower servicing the call becomes weaker during the call
+	- If there is no tower with a stronger signal, the call is dropped
+- **Types of handoff**
+	- **Hard Handoff**
+		- Existing connection must be broken when new one created
+		- Allocates different frequency
+		- Usually not very complicated
+		- Handset is always communicated with one base station at a time
 	- 
 
 
