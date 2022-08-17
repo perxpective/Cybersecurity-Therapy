@@ -1647,11 +1647,16 @@
 	- **How to detect changes in digital evidence?**
 		- Compare original data with duplicate hash values
 - **Hearsay**
+	- Most courts interprets computer records as hearsay evidence
 	- **Definition:**
 		- Second-hand or indirect evidence
 		- Evidence of a statement made other than a witness
 
-> Generally, digital records considered admissible if qualified as bus
+> Generally, digital records considered admissible if qualified as business record
+
+- **Computer records:**
+	- **Types:**
+		- Data ma
 
 
 
