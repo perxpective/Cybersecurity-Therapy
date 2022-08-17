@@ -1813,6 +1813,13 @@
 - **Magnetic Tapes (4mm DAT)**
 	- **Capacity:** 40-72GB
 	- **Lifespan:** 30 years (Longest)
+	- **Costs:**
+		- Drive = $400
+		- Tape = $40
+- **Super Digital Linear Tape (SDLT)**
+	- Specifically designed for large RAID data backups
+	- **Capacity:** 1TB (Largest)
+	- Smaller external SDLT drives can connect to workstation via SCSI card
 
 ### Chapter 9 - Historical Cellular
 #### Cell Phones
