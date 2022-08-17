@@ -1564,13 +1564,22 @@
 	- 1 non-forensic workstation with Internet access
 
 #### Selecting Basic Forensics Workstation
-- **How to select a basic forensics workstation:**
+- **How to select a basic forensics workstation?**
 	- Depends on budget and needs
 	- Use less powerful workstations for mundane tasks
 	- Use multipurpose workstations for resource-heavy analysis tasks
 
-
-
+#### Selecting Workstations for a Lab
+- **How to select a workstation for a lab?**
+	- Identify environment dealt with:
+		- Hardware platform
+		- Operating system
+			- Windows or Mac
+- **Selecting workstations for police labs:**
+	- Police labs have more diverse needs for computing investigation tools
+		- Legacy systems and software to match what is used in the community
+	- Typical configuration for small local police department:
+		- 1 multipurpose forensics
 
 
 
