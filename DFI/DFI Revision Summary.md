@@ -1295,7 +1295,8 @@
 	- Partition Master
 	- Grand Unified Bootloader (GRUB)
 - **How to detect if partition is hidden?**
-	- 
+	- Account for all disk space when examining an evidence drive
+	- Analyse any disk areas
 
 
 
