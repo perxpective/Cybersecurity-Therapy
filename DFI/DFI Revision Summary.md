@@ -1459,7 +1459,7 @@
 			- Defence Cyber Investigations Training Academy
 
 #### Physical Requirements for a Computer Forensics Lab
-
+- Physical lba 
 
 
 
