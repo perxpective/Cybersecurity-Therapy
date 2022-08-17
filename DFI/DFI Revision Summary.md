@@ -1664,7 +1664,18 @@
 		- Authentic
 		- Trustworthy
 	- **In what way are computer-generated records considered authentic?**
-		- Program created the output cro
+		- Program created the output correctly
+		- Considered an exception to hearsay rule
+
+> Evidence collected according to proper step of evidence control ensures that computer evidence is authentic
+
+- **How would attorneys challenge digital evidence?**
+	- By raising issue of whether computer-generated records were altered or damaged
+	- **How to prove if computer records are authentic?**
+		- Demonstrate that specific person created the records
+		- **Example:**
+			- Author of Microsoft Word document can be identified with file metadata
+			- May not be easy as records recovered
 
 
 
