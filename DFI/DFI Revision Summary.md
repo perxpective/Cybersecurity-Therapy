@@ -1952,7 +1952,13 @@
 	- **Format:**
 		- Unique 15-digit code 
 			- Used to identify individual GSM mobile telephone to mobile network
-	- **Display**
+	- Can be displayed by dialling `*#06#`
+	- **Checksum validation:**
+		- **Steps to validate:**
+			- Starting from right, double every other digit (alternate)
+			- Sum all the digits together
+			- Check if sum is divisible by 10
+				- Checksum 
 
 
 
