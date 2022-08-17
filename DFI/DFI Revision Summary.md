@@ -1994,7 +1994,21 @@
 	- Inherent security features
 	- Legal issues
 
-#### Seuiz
+#### Seizure and Isolation
+- **What to do when seizing an Android phone?**
+	- Note location where mobile phone was found
+	- Take picture of location with camera
+	- **Establish chain of custody**
+		- Take pictures of crime scene
+		- **Acquire the following:**
+			- Original state of mobile device
+			- Make, model and serial number
+			- IMEI number
+			- OS version of device
+	- Take picture of the phone before starting any progress
+	- Request for PIN, pattern, password SIM pin
+	- Check for Unified Endpoint Management Solutions:
+	- 
 
 
 
