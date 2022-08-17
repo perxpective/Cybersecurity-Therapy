@@ -442,7 +442,9 @@
 
 ### Chapter 3 - Data Acquisition
 #### Overview
-- **Why is acquisqiti**
+- **Why is acquisition necessary?**
+	- To create a forensics copy of the piece of media to be suitable to be used as evidence in a court of law
+
 #### Image Formats
 - **Image Formats: (RPA)**
 	- Raw Format 
@@ -531,6 +533,8 @@
 #### Validation of Data Acquisitions
 > Validation requires a **hashing algorithm utility**
 
+- **Why is validation necessary?**
+	- 
 - **Validation Techniques**
 	- CRC-32
 	- MD-5
