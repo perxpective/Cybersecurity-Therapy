@@ -1442,7 +1442,18 @@
 #### Acquiring Certification and Training
 - **Reasons:**
 	- It is important to stay relevant and update skills through relevant training
-- 
+	- **How?**
+		- Thoroughly research requirements, cost and acceptability in area of employment
+		- Address minimum skills for conducting investigations at various levels
+	- **Examples:**
+		- **IACIS**
+			- Stands for **International Association of Computer Investigative Specialists**
+			- Those who pass the test are **Certified Forensic Computer Examiners (CFCE)** 
+		- **ACE**
+			- AccessData Certified Examiner Certification
+		- **EC-Council**
+		- **SANS**
+			- **Dra**
 
 
 
