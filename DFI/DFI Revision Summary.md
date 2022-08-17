@@ -1497,7 +1497,9 @@
 	- Limit number of authorized persons accessing the containers
 	- Maintain records on who authorized to access container
 	- Containers should remain locked when not in use
-- 
+- **What if combination locking system is used?**
+	- Provide same level of security for combination as for container's contents
+	- Destroy any previous combinations after setting up
 
 
 
