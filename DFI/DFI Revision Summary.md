@@ -1239,7 +1239,22 @@
 	- FAT16
 	- FAT32
 	- NTFS
-	- Mac HFS+ and 
+	- Mac HFS+ and HFSX
+	- Linux Ext2fs/Ext4fs
+
+#### Validating Forensic Data
+- **Why is it important?**
+	- To ensure integrity of data collected essential for presenting evidence in court
+- **Validating with hexadecimal editor**
+	- 
+
+
+
+
+
+
+
+
 
 
 ---

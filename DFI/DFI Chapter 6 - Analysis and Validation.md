@@ -68,8 +68,8 @@
 
 ### Validating with Hexadecimal Editors
 - Offers features not available in digital forensics tools like:
-  - Hashing specific files or sectors
-  - Use forensics tool to search for suspicious file that might have its name changed to look like an innocuous file
+	- Hashing specific files or sectors
+	- Use forensics tool to search for suspicious file that might have its name changed to look like an innocuous file
 
 ![](https://i.imgur.com/VdrpxHK.png)
 
@@ -83,9 +83,9 @@
 - `.eve` files contain metadata that includes hash values
 - Has a preference that can be enabled for using **Auto Verify Image Checksum** feature when image files loaded
 - If Auto Verify Image Checksum and hashes in `.eve` file metadata do not match:
-  - ProDiscover will notify that acquisition is corrupt and cannot be considered reliable evidence
+	- ProDiscover will notify that acquisition is corrupt and cannot be considered reliable evidence
 - Raw format image files do not contain metadata
-  - They must be validated manually to ensure integrity
+	- They must be validated manually to ensure integrity
 
 ## Data Hiding
 > **What is data hiding?**
@@ -105,22 +105,22 @@
 ### Hiding Files Using OS
 #### Changing File Extensions
 - Advanced digital forensics tools check file headers
-  - Compares the file extension to verify that it is correct
-  - If there are discrepancies, tool flags the file as a possible altered file
+	- Compares the file extension to verify that it is correct
+	- If there are discrepancies, tool flags the file as a possible altered file
 - Another hiding technique is **selecting the hidden attribute in file's properties dialog box**
 
 #### Hiding Partitions
 - Using the `diskpart remove letter` command.
-  - Can unassign partition's letter which hides it from view in File Explorer
+	- Can unassign partition's letter which hides it from view in File Explorer
 - To unhide, use `diskpart assign letter` command.
 - Other disk management tools:
-  - Partition Magic
-  - Partition Master
-  - Linux Grand Unified Bootloader (GRUB)
+	- Partition Magic
+	- Partition Master
+	- Linux Grand Unified Bootloader (GRUB)
 - To detect if partition is hidden:
-  - Account for all disk space when examining evidence drive
-  - Analyse any disk areas containing space that cannot be accounted for
-  - In ProDiscover, hidden partition appears as highest available drive letter set in BIOS
+	- Account for all disk space when examining evidence drive
+	- Analyse any disk areas containing space that cannot be accounted for
+	- In ProDiscover, hidden partition appears as highest available drive letter set in BIOS
 
 ![](https://i.imgur.com/fn9jN82.png)
 ![](https://i.imgur.com/HotG2fn.png)
@@ -132,7 +132,7 @@
 > - Involves using old utilities such as Norton and DiskEdit
 
 - They can mark good clusters and bad clusters in FAT table so OS considers them as unusable
-  - Only way they can be access from OS is to change them back to good clusters using a disk editor
+	- Only way they can be access from OS is to change them back to good clusters using a disk editor
 - **DiskEdit** only runs in MS-DOS and can access only FAT-formatted disk media
 
 ### Bit Shifting
@@ -164,19 +164,19 @@
 
 #### Steganalysis Methods
 - **Steg-only attack**
-  - Only have covered file to analyse
+	- Only have covered file to analyse
 - **Known cover attack**
-  - Has both covered file and converted covered file to analyze
+	- Has both covered file and converted covered file to analyze
 - **Known message attack**
-  - When hidden message is revealed later
+	- When hidden message is revealed later
 - **Chosen steganography attack**
-  - Steganography tool is used
+	- Steganography tool is used
 - **Chosen message attack**
-  - Steganalyst generates stego-object from steganography tool or algorithm of chosen message
+	- Steganalyst generates stego-object from steganography tool or algorithm of chosen message
 
 ### Examining Encrypted Files
 - To decode an encrypted file
-  - Users provide password or passphrase
+	- Users provide password or passphrase
 - Many encryption programs use technology called "key escrow"
 
 > **Key escrows** are designed to recover encrypted data if users forget their passphrases or if user key corrupted after a system failure
@@ -185,7 +185,7 @@
 
 ### Recovering Passwords
 - Password cracking tools available for handling password-protected data or systems
-  - Some integrated into digital forensics tools
+	- Some integrated into digital forensics tools
 
 **Standalone tools:**
 - Last Bit
@@ -204,7 +204,7 @@
 - With many passwords, hackers <u>can build profiles</u> of suspect to help determine their password (common information)
 - Many password-protected OSs and applications store passwords in MD5 or SHA hash values
 - Brute-force attack requires converting dictionary password from plaintext to hash value
-  - Requires additional CPU cycle time
+	- Requires additional CPU cycle time
 
 #### Rainbow Attack
 - File containing hash values of every possible password that can be generated from computer keyboard
