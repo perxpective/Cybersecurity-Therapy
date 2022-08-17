@@ -1578,11 +1578,37 @@
 - **Selecting workstations for police labs:**
 	- Police labs have more diverse needs for computing investigation tools
 		- Legacy systems and software to match what is used in the community
-	- Typical configuration for small local police department:
-		- 1 multipurpose forensics
+	- **Typical configuration for small local police department:**
+		- 1 multipurpose forensics workstation
+		- 1-2 general-purpose workstations
+- **How to create a lightweight mobile forensic workstation?**
+	- Laptop PC with FireWire
+	- USB 3.0
+	- SATA hard disks
 
+#### Stocking Hardware Peripherals
+- **Items every lab should have in stock:**
+	- Any labs should have the following in stock:
+		- IDE cables
+		- Ribbon cables for floppy disks
+		- Extra USB 3.0 or newer cables
+		- SATA cards
+		- SCSI cards (preferably ultrawide)
+		- Graphics cards (both PCI and AGP types)
+		- Assorted FireWire
+		- USB adapters
+		- Hard disk drives
+		- At least two 2.5 inch Notebook IDE hard drives 
+			- to standard IDE/ATA or SATA adapter
+		- Computer hand tools
 
-
+#### Maintaining Operating System and Software Inventories
+- **Licensed copies of software to maintain:**
+	- Microsoft Office
+	- Quicken
+		- Personal finance management tool
+	- Programming languages
+		- C_
 
 
 
