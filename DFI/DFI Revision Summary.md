@@ -1539,7 +1539,18 @@
 		- **Who is a visitor?**
 			- Anyone not assigned to the lab
 	- Escort visitors in the lab at all times
-	- 
+	- Use visible or audible indicators that visitor is inside in the premises
+		- **Example:** visitor badge
+	- Install intrusion alarm system
+	- Hire guard force for lab
+
+#### Auditing Digital Forensics Lab
+- **Include the following in an audit:**
+	- Inspection of the following facility components and practices
+		- Ceiling, floor, roof, exterior walls of lab
+		- Door and door locks
+		- Visitor logs
+		- Evidence 
 
 
 
