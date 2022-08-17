@@ -2008,7 +2008,23 @@
 	- Take picture of the phone before starting any progress
 	- Request for PIN, pattern, password SIM pin
 	- Check for Unified Endpoint Management Solutions:
-	- 
+	- Account for status of the device:
+		- Check if it is powered on or off
+			- **If powered on:**
+				- Check battery and network status
+			- Check where screen is locked
+	- Check if there are cables located around
+- **How to isolate the phone?**
+	- **If device is on:**
+		- Enable airplane mode
+		- Check and manually disable hotspots or GPS locations, Wi-Fi and Bluetooth
+		- Do not remove SIM or SD cards
+		- Connect phone to power bank
+		- Put phone, adapters and chargers in a Faraday bag
+	- **If device is off:**
+		- Do not turn it on
+		- Place in evidence bag or box
+		- If 
 
 
 
