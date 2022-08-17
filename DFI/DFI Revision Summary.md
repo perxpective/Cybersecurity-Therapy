@@ -2087,11 +2087,22 @@
 
 #### Operating Modes of Android
 - **Recovery Mode**
+	- **Description:**
+		- Android-based lightweight runtime environment separate from and parallel to main Android OS
 	- **Types of recovery:**
 		- Stock
 		- Custom
+- **Fastboot Mode**
+	- **Description:**
+		- Tool that comes with SDK package
+		- Can be used to reflash partitions on Android device
+		- Alternative to recovery mode for doing installation and updates
+		- Used for unlocking bootloader for some Android device models
 
-
+#### Android Operating System
+- **Description:**
+	- Mobile operating system based on modified version of Linux kernel
+	- 
 
 
 
