@@ -1822,6 +1822,8 @@
 #### Cellular Layout
 - Mobile phone network is composed of a cell
 	- Cells can join and overlap each other to form large coverage areas
+	- Users on network can cross into different cells without losing connection
+	- Allows **frequency resuse**
 
 
 
