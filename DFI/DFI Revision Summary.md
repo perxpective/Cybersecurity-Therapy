@@ -2191,8 +2191,13 @@
 		- Requires proper authentication credentials
 		- Requires user's Apple ID password and 2FA
 - **iTunes Backup Acquisition**
-	- 
-
+	- Used if iOS device is not available
+	- Backup retrieved from the workstation (Windows or Mac)
+	- Device that typically connects to for update or syncing music, movies and apps
+	- iTunes performs automated backup during sync process when upgrade to iOS performed
+- **Manual Acquisition**
+	- Examiner uses UI of phone to browse and investigate
+	- No special tools or techinques requi
 
 ---
 ## Table Summaries
