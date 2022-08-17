@@ -1329,7 +1329,10 @@
 	- **Explanation:**
 		- Developed to protect file ownership
 		- Not visible when used for steganography
-		- 
+- **Steganography tools**
+	- Freeware or shareware
+	- Inserts information into variety of files
+- If plaintext file encrypted with PGP and encrypted text is inserted into steganography file -> cracking encrypted message is difficult
 
 
 
