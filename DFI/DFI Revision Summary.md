@@ -1252,7 +1252,13 @@
 		- Forensics tools can be used to check for suspicious files that might have its name changed to look like a legitimate file
 		- **Discriminating data:**
 			- **Example:**
-				- AccessData has hashing database called Known File Filter (KFF)
+				- **AccessData**
+					- AccessData has hashing database called **Known File Filter (KFF)**
+					- Filters known program files from view and contains hash values of known illegal files
+					- Compares known file hash values with files on evidence drive to see if they contain suspicious data
+				- **ProDiscover**
+					- `.eve` files contain metadata and hash values
+					- Includes preference that can be enabled using **Auto Verify Image Checksum** when image files loaded
 
 
 
