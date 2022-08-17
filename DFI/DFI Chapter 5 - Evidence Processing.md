@@ -284,11 +284,12 @@
 
 ![](https://i.imgur.com/TnPkwO3.png)
 
-**Standard Information Attribute**
-- Create date and time
-- Last modified date and time
-- Last access date and time
-- Record update date and time
+**Standard Information Attribute (Locations)** 
+
+|        | Left                      | Right                       |
+| ------ | ------------------------- | --------------------------- |
+| Top    | Create date and time      | Last modified date and time |
+| Bottom | Last access date and time | Record update date and time |
 
 ![](https://i.imgur.com/ixkgFhI.png)
 
