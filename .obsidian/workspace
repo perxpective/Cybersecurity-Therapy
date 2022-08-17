@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 6 - Analysis and Validation.md",
+            "file": "DFI/DFI Chapter 7 - Investigator's Lab.md",
             "mode": "source",
             "source": false
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -131,15 +130,15 @@
   },
   "active": "912fbdabc64b593d",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 6 - Analysis and Validation.md",
+    "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 6 - Analysis and Validation.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/Untitled.md",
     "DFI/Untitled 1.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
-    "DFI/DFI Chapter 2 - Understanding Investigation.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md"
+    "DFI/DFI Chapter 2 - Understanding Investigation.md"
   ]
 }
