@@ -72,7 +72,7 @@
 		- Sectors required * Sector size = Total sector size required
 		- Total sector size - File size = RAM slack
 - File slack
-		- File slack = (Size of clusters required) - (File size) - (RAM slack) 
+	- File slack = (Size of clusters required) - (File size) - (RAM slack) 
 - File Allocation Table (FAT)
 	- Explain what is FAT, cluster size
 	- Concept of FAT
@@ -1066,6 +1066,17 @@
 - **How to examine an encrypted drive?**
 	- Run vendor-specific program to decrypt the drive
 	- Many vendors use boot table CD or USB drive that prompts for OTP
+	- Without necessary credentials to unlock encrypted drives, not possible to view any logical information
+
+#### Microsoft Bitlocker
+- **What are the hardware and software requirements of Microsoft Bitlocker?**
+	- Computer capable of running Windows Vista or later
+	- **Trusted Platform Module microchip version 1.2 or later**
+		- 
+
+
+
+
 ---
 ## Table Summaries
 
