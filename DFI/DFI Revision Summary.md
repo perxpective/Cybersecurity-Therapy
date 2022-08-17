@@ -1770,6 +1770,21 @@
 	- **Extensive-response field kits**
 		- Includes all tools that you can afford to take to the field
 		- Extract only items needed to acquire evidence
+- **List of tools required:**
+	- **Initial-response field kits:**
+		- Small computer toolkit
+		- Large capacity drive
+		- IDE ribbon cable
+		- SATA cable
+		- Forensic boot media containing acquisition utility
+		- Laptop IDE
+		- Laptop or tablet computer
+		- FireWire
+		- USB dual write-protect external bay
+		- Flashlight
+		- Digital camera with extra batteries
+		- Evidence log forms
+		- Notebook
 
 	
 	
