@@ -6,7 +6,7 @@
       {
         "id": "912fbdabc64b593d",
         "type": "leaf",
-        "dimension": 49.3939393939394,
+        "dimension": 52.91887793783169,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,12 +19,12 @@
       {
         "id": "70d3c2fe33c9954f",
         "type": "leaf",
-        "dimension": 50.60606060606061,
+        "dimension": 47.081122062168305,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 9 - Historical Cellular.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }

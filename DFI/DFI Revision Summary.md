@@ -1923,10 +1923,22 @@
 	- **Format:**
 		- 10-digit number
 		- Length varies based on country code
-		- **Two different ap**
+		- **Two different parts:**
+			- MIN1
+				- 24-bit number after area code
+			- MIN2
+				- area and mobile subscriber mode
 	- **Description:**
+		- Stands for **Mobile Identity Number**
 		- Assigned by carrier
-
+- **MEID**
+	- **Format:**
+		- RR: Regional code (globally administered)
+		- XXXXXX:
+			- 000000
+				- For small quantities of prototype mobiles
+			- 000001
+				- Allocated to: regional administration bodies or mobile manufacturers
 
 
 
