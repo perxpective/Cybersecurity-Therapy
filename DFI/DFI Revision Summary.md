@@ -1363,7 +1363,21 @@
 	- John The Ripper
 	- Passware
 - **Brute Force Attacks**
-	- 
+	- Method done by using every possible letter, number and character found on a keyboard
+	- Requires a lot of time and processing power
+- **Dictionary Attack**
+	- Use of common words in the dictionary and tries them as passwords
+	- Uses variety of languages
+	- **What can hackers do with many passwords?**
+		- Build profiles of suspect to help determine their password from common information
+	- **Where do most password-protected apps store their passwords?**
+		- MD5
+		- SHA
+	- **What are the requirements to carry out a brute-force attack?**
+		- Converting dictionary password from plaintext to hash value
+		- Additional CPU cycle time
+- **Rainbow Attack**
+	- File containing hash value of every possible
 
 
 

@@ -202,7 +202,7 @@
 - With many passwords, hackers <u>can build profiles</u> of suspect to help determine their password (common information)
 - Many password-protected OSs and applications store passwords in MD5 or SHA hash values
 - Brute-force attack requires converting dictionary password from plaintext to hash value
-  - Requires additional CPU cycle time
+	- Requires additional CPU cycle time
 
 #### Rainbow Attack
 - File containing hash values of every possible password that can be generated from computer keyboard
