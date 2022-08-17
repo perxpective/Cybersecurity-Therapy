@@ -2081,8 +2081,15 @@
 		- In the form of screenshots, export to external media
 	- **What are some limitations of manual acquisition?**
 		- Only files and data visible through normal UI
-		- Data e
+		- Data on the device can be modified easily (tamper and damages evidence)
+- **Brute-Force Acquisition**
+	- Use of offensive techniques like password cracking, patterns, pins and rooting the device to gain access to the phone
 
+#### Operating Modes of Android
+- **Recovery Mode**
+	- **Types of recovery:**
+		- Stock
+		- Custom
 
 
 

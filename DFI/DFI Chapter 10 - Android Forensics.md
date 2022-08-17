@@ -114,8 +114,8 @@
 - Manual extraction of chat messages (screenshots, export to external media)
 - Limitation:
 	- Only files and data visible through normal UI
-	- Data extracted through other methods can also be verified using this
 	- Data on device can be modified easily
+- Data extracted through other methods can also be verified using this
 
 ### Brute-Force Acquisition
 - Use of offensive techniques like password cracking, patterns, pins and rooting the device
