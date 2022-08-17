@@ -1288,7 +1288,10 @@
 
 ##### Hiding partitions
 - By using the following command: `diskpart remove letter`
-	- Unassigns parit
+	- Unassigns partition's letter, hides it from File Explorer
+- To unhide, use `diskpart assign letter`
+- **Examples of disk management tools:**
+	- Partition magic
 
 
 
