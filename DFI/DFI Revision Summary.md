@@ -1732,7 +1732,16 @@
 		- Refers to standard specifying whether police officer has the right to make an arrest, conduct personal or property search or obtain warrant for arrest
 		- With probable cause, police officer can get a warrant from the judge
 			- Authorizes a search and seizure of specific evidence related to criminal complaint
-			- Fourth Amendment states that only warrants describing the place to be searched and persons or things to be siez
+			- **Fourth Amendment:** 
+				- Warrants can be issued if it describes the place to be searched and persons or things to be seized
+
+#### Identifying Type of OS or Digital Devices
+- **Why is it difficult for law enforcement?**
+	- Crime scene is not controlled
+	- They might not know the type of computer used to commit a crime or how they are used
+	- **What to identify OS or device by?**
+		- Approximate size of drive on suspect computer
+		- How many devices to process at the scene
 
 	
 	
