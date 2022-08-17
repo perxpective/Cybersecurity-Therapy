@@ -1644,7 +1644,14 @@
 		- admitting digital evidence
 - **Difference between digital evidence and physical evidence:**
 	- Digital evidence can be changed easily
-	- **How to detect changes**
+	- **How to detect changes in digital evidence?**
+		- Compare original data with duplicate hash values
+- **Hearsay**
+	- **Definition:**
+		- Second-hand or indirect evidence
+		- Evidence of a statement made other than a witness
+
+> Generally, digital records considered admissible if qualified as bus
 
 
 
