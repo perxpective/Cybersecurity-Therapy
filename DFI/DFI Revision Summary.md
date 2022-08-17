@@ -1267,7 +1267,19 @@
 
 #### Data Hiding
 - **Definition:**
-	- Changing or manipulating a file to conceal inform
+	- Changing or manipulating a file to conceal information
+-  **Techniques:**
+	- Hiding entire partitions
+		- using disk management
+	- Changing file extensions
+	- Setting file attributes to hidden
+		- by changing file signatures
+	- Bit-shifting
+		- Shift 1 bit to the left
+	- Encryption
+	- Password protection
+- **Changing file extensions:**
+	- 
 
 
 
