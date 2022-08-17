@@ -1750,7 +1750,15 @@
 	- Mainframe computer
 - **Determining whether computers and digital devices can be seized**
 	- Determine whether digital evidence can be removed
-	- Ideal situation is seizing computer and bringing them to a lab for processing
+	- **Ideal situation:**
+		- Seize computer and bring them to a lab for processing
+	- Law enforcement investigators require a warrant to remove computer from a crime scene and transport them to a lab
+- **When should computers not be removed?**
+	- If removing the computer harms the business
+- **Additional complications:**
+	- Files stored offsite that are accessed easily
+	- Availability of cloud storage that cannot be stored physically
+		- Stored on drives where data from many subscribers might be stored
 
 	
 	
