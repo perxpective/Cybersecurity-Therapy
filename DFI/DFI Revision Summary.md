@@ -1101,7 +1101,7 @@
 	- Value
 	- Default Value
 	- Hives
-- **HKEYs**
+- **List of HKEYs**
 	- `HKEY_CLASS_ROOT`
 		- Provides the following:
 			- file type and file extension information
@@ -1116,7 +1116,17 @@
 	- `HKEY_CURRENT_CONFIG`
 		- Link to current hardware profile
 	- `HKEY_DYN_DATA`
-		- Used only in Windows 9x/
+		- Used only in Windows 9x/Me systems, stores hardware configuration systems
+
+#### Microsoft Startup Tasks
+- **How to startup in Windows 7 and 8?**
+	- Boot process uses a **boot configuration data (BCD) store**
+	- **What is contained in BCD?**
+		- Boot loader that initiates the system bootstrap process
+		- Press <kbd>F8</kbd> or <kbd></kbd>
+
+
+
 
 
 ---
