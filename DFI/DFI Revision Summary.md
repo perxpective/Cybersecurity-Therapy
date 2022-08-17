@@ -1863,11 +1863,21 @@
 	- If there is no tower with a stronger signal, the call is dropped
 - **Types of handoff**
 	- **Hard Handoff**
-		- Existing connection must be broken when new one created
+		- Existing connection must be broken when new one created (Break then make)
 		- Allocates different frequency
 		- Usually not very complicated
 		- Handset is always communicated with one base station at a time
-	- 
+	- **Soft Handoff**
+		- Connection is made before old one is released (Make before break)
+		- More complex than hard handoff
+		- Communicate up to 3-4 base stations simultaneously
+
+#### Cellular Subsets
+- **iDEN**
+	- Stands for the **Integrated Digital Enhanced Network**
+	- iDEN phones support SMS, voicemail, data networking like VPN, Internet and Intranets
+	- Used by the following ISPs:
+		- Sp
 
 
 
