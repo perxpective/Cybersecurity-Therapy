@@ -1820,7 +1820,8 @@
 			- Uses radio waves to talk to cell tower that connects it to the rest of the phone network
 
 #### Cellular Layout
-- 
+- Mobile phone network is composed of a cell
+	- Cells can join and overlap each other to form large coverage areas
 
 
 
