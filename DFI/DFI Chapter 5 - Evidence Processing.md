@@ -393,22 +393,22 @@
 | `HKEY_CURRENT_CONFIG` | Symbolic link to `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\HardwareProfile\xxxx`<br> Where xxxx represents current hardware profile   |
 | `HKEY_DYN_DATA`       | Used only in Windows 9x/Me systems, stores hardware configuration systems                                                                |
 
-## Understanding Microsoft Startup Tasks
-### Startup in Windows 7 and 8
+## Understanding Microsoft Start-up Tasks
+### Start-up in Windows 7 and 8
 - Windows 7/8 is a multiplatform OS
 - Boot process uses a **boot configuration data (BCD)** store
 - BCD contains **boot loader** that initiates system bootstrap process
 	- Press <kbd>F8</kbd> or <kbd>F12</kbd> when system starts to access Advanced Boot Options
 
-### Startup in Windows NT and Later
+### Start-up in Windows NT and Later
 - All NTFS computers perform following steps when computer turned on:
 	- Power-on Self Test (POST)
-	- Initial startup
+	- Initial start-up
 	- Boot loader
 	- Hardware detection and configuration
 	- Kernel loading
 	- User logon
-- Startup Files for Windows Vista
+- Start-up Files for Windows Vista
 	- `Bootmgr.exe`
 	- `Winload.exe`
 	- `Winresume.exe`
@@ -416,7 +416,7 @@
 - BCD store (Namespace container for BCD objects)
 	- Replaces Windows XP `boot.ini` file
 	- Old Windows uses `boot.ini` to configure boot sequences
-- Startup files for Windows XP:
+- Start-up files for Windows XP:
 	- `NTLDR`
 	- `boot.ini`
 	- `ntoskrnl.exe`
@@ -439,7 +439,7 @@
 > - Just a few files on hard drive that must be allocated space to
 - Virtual machine recognizes components of physical machine it is loaded on
 	- Virtual OS limited by physical machine OS
-	- This is because behavior of virtual OS could be affected by physical machine's OS
+	- This is because behaviour of virtual OS could be affected by physical machine's OS
 - Virtual machines make it possible to restore suspect drives
 - Test can be performed and run nonstandard software suspect might have loaded
 - **Potential Issues:**

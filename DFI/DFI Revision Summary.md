@@ -1127,12 +1127,21 @@
 - **How to start-up in Windows NT or later?**
 	- **Steps:**
 		- Power-on Self Test (POST)
-		- Initial startup
+		- Initial start-up
 		- Hardware detection and configuration
 		- Kernel loading
 		- User login
 	- **What are the start-up files for Windows Vista?**
-
+		- `Bootmgr.exe`
+		- `Winload.exe`
+		- `Winresume.exe`
+	- **Includes BCD editor**
+		- Modifies boot options
+		- Updates BCD registry file
+	- **BCD store (Namespace container for BCD objects)**
+		- Replaces Windows XP `boot.ini` file for boot sequences
+	- **What are the start-up files for Windows XP?**
+		- 
 
 
 
