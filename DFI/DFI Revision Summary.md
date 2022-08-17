@@ -1955,10 +1955,19 @@
 	- Can be displayed by dialling `*#06#`
 	- **Checksum validation:**
 		- **Steps to validate:**
-			- Starting from right, double every other digit (alternate)
+			- Starting from right, double every two digits
 			- Sum all the digits together
 			- Check if sum is divisible by 10
-				- Checksum 
+				- Checksum is the number that when added makes sum divisible by 10
+- **IMSI**
+	- **Description:**
+		- Global unique identifier
+			- Always 56-bit and unique in every network
+	- **Format:**
+		- **Consists of 3 parts:**
+			- MCC (Mobile Country Code) - 3 digits
+			- MNC (Mobile Network Code) - 2 digits
+			- MSIN (Mobile Station Identification Number) - 10 digits
 
 
 

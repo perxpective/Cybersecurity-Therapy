@@ -155,7 +155,7 @@
 	3. Check if sum is divisible by 10
 
 ### ISMI (International Mobile Subscriber Identity)
-- Global unique identifier (Always 56-but and unique in every network)
+- Global unique identifier (Always 56-bit and unique in every network)
 - Allowed for authentication of device to a network
 - Consists of 3 parts:
 	- MCC - Mobile Country Code (3 digits)
