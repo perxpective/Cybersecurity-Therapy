@@ -2153,7 +2153,21 @@
 		- `/data`
 
 ### Chapter 11 - iOS Forensics
-#### iOS Arc
+#### iOS Architecture
+- **History of iOS:**
+	- Evolved from Apple OS called Darwin
+- **Definition:**
+	- Proprietary mobile system owned by Apple
+	- Only allowed to be installed in Apple devices
+- **Descriptions:**
+	- UNIX-like OS
+	- Linux is family of open-source UNIX-like OS
+- **Architecture:**
+	- **Cocoa Touch**
+		- Layer at which most Application interacts with
+	- **Media**
+		- Med
+
 
 
 ---
