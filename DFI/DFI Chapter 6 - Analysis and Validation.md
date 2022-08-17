@@ -164,7 +164,7 @@
 - **Steg-only attack**
   - Only have covered file to analyse
 - **Known cover attack**
-  - Has both covered file and converted covered file to analyze
+  - Has both covered file and converted covered file to analyse
 - **Known message attack**
   - When hidden message is revealed later
 - **Chosen steganography attack**

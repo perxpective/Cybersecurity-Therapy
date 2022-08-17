@@ -1333,6 +1333,11 @@
 	- Freeware or shareware
 	- Inserts information into variety of files
 - If plaintext file encrypted with PGP and encrypted text is inserted into steganography file -> cracking encrypted message is difficult
+- **Steganalysis methods:**
+	- **Steg-only attack:**
+		- only have covered file to analyse
+	- **Known cover attack:**
+		- Has both covered file and converted file to analyse
 
 
 
