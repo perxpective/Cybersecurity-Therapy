@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -126,11 +126,11 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "3ea5f267fcc84f67",
+  "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
