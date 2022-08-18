@@ -52,7 +52,7 @@
 | Property                 | Explanation                                                                      |
 | ------------------------ | -------------------------------------------------------------------------------- |
 | Zone bit recording (ZBR) | Grouping tracks by zones ensures that all tracks hold the same amount of data    |
-| Track density            | Space between each track -- the smaller the space, the more track on the platter |
+| Track density            | Space between each track - the smaller the space, the more track on the platter |
 | Areal density            | Number of bits in one square inch of a disk platter                              |
 | Head and cylinder skew   | Improve disk performance by minimizing movement of read/write head               |
 
