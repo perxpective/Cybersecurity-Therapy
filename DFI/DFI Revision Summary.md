@@ -2268,7 +2268,12 @@
 		- Depending on device used to capture image or sound
 
 #### SQLite Data Format
-- 
+- **File Extension:** `.db`
+- **Description:**
+	- Popular format for mobile device and open source applications
+	- Logical extraction of iPhones can provide many SQLite database files
+	- Uses SQLite databases to store user data
+
 ---
 ## Table Summaries
 
