@@ -861,7 +861,7 @@
 	- First data set - **Partition Boot Sector**
 	- **Master File Table (MFT)**
 
-> - NTFS results in less file slack space
+> NTFS results in less file slack space
 > - NTFS clusters are smaller for smaller disk drives
 > - Uses Unicode (international date format)
 
@@ -910,7 +910,7 @@
 		- Last modified date and time 
 		- Last access date and time
 		- Record update date and time
-- 
+
 #### NTFS Alternate Data Streams
 - **Description:**
 	- Ways data can be appended to existing files
@@ -1020,44 +1020,6 @@
 		- Link to current hardware profile
 	- `HKEY_DYN_DATA`
 		- Used only in Windows 9x/Me systems, stores hardware configuration systems
-
-#### Microsoft Start-up Tasks
-- **How to start-up in Windows 7 and 8?**
-	- Boot process uses a **boot configuration data (BCD) store**
-	- **What is contained in BCD?**
-		- Boot loader that initiates the system bootstrap process
-		- Press <kbd>F8</kbd> or <kbd>F12</kbd> when system starts to access Advanced Boot Options
-- **How to start-up in Windows NT or later?**
-	- **Steps:**
-		- Power-on Self Test (POST)
-		- Initial start-up
-		- Hardware detection and configuration
-		- Kernel loading
-		- User login
-	- **What are the start-up files for Windows Vista?**
-		- `Bootmgr.exe`
-		- `Winload.exe`
-		- `Winresume.exe`
-	- **Includes BCD editor**
-		- Modifies boot options
-		- Updates BCD registry file
-	- **BCD store (Namespace container for BCD objects)**
-		- Replaces Windows XP `boot.ini` file for boot sequences
-	- **What are the start-up files for Windows XP?**
-		-  `NTLDR`
-		-   `boot.ini`
-		-   `ntoskrnl.exe`
-		-   `bootvid.dll`
-		-   `hal.dll`
-		-   `bootsect.dos`
-		-   `NTDetect.com`
-		-   `NTBootdd.sys`
-		-   `pagefile.sys`
-	- **Why is it important to know the start-up process?**
-		- Contamination concerns with Windows XP
-		- When Windows XP NTFS workstation is started, several files are accessed immediately
-			- Last access date and time stamp for files change to current date and time
-			- This destroys potential evidence that shows when Windows XP workstation was last used
 
 #### Virtual Machines
 - **Definition:**
