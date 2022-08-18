@@ -2197,7 +2197,15 @@
 	- iTunes performs automated backup during sync process when upgrade to iOS performed
 - **Manual Acquisition**
 	- Examiner uses UI of phone to browse and investigate
-	- No special tools or techinques requi
+	- No special tools or techniques required
+	- **Limitations:**
+		- Only files and data visible through normal UI examined
+	- Data on device can be easily modified
+- **Brute Force Acquisition**
+	- Use of offensive techniques like password cracking and jailbreaking
+
+#### Operating Modes of iOS Devices
+
 
 ---
 ## Table Summaries

@@ -6,12 +6,12 @@
       {
         "id": "912fbdabc64b593d",
         "type": "leaf",
-        "dimension": 52.91887793783169,
+        "dimension": 66.40625,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
+            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,7 +19,7 @@
       {
         "id": "70d3c2fe33c9954f",
         "type": "leaf",
-        "dimension": 47.081122062168305,
+        "dimension": 33.59375,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
               }
             }
           },
@@ -130,8 +130,8 @@
   },
   "active": "912fbdabc64b593d",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 11 - iOS Forensics.md",
     "README.md.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
