@@ -998,11 +998,12 @@
 	- File slack and unallocated space do not exist on VM so many standard items may not work on VMs
 
 #### Calculations Required
-- Calculating the cluster and space required for file made up of $x$ sectors: $$NumberOfSectors=\frac{FileSize}{ClusterSize}$$
+- Calculating the number of clusters required to store a file: $$NumberOfClusters=\frac{FileSize}{ClusterSize}$$
 - **RAM Slack:**
 	- **Per sector size:** 512 bytes in general
 	- Number of sectors required: $$SectorsRequired=\frac{FileSize}{SectorSize}$$
-	- Total sector size required: $$TotalSectorsRequired= SectorsRequired \times SectorSize$$
+	- Total sector size required: $$TotalSectorSize= SectorsRequired \times SectorSize$$
+	- RAM Slack: $$RAMSlack = TotalSectorSize-FileSize$$
 - **File Slack:** $$FileSlack = SizeOfClusterRequired-FileSize-RAMSlack$$
 
 ### Chapter 6 - Analysis and Validation
