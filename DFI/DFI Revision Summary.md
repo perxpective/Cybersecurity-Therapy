@@ -678,15 +678,16 @@
 
 #### Validation and Testing of Forensics Software
 - **Why is it important to test and validate forensics software?**
-	- Ensure that evidence recovered and analysed can be admitted in court
 	- Ensure that forensics software does not damage the evidence
+	- Ensure that evidence recovered and analysed can be admitted in court
 
 > Test and validate forensics software to prevent damaging the evidence
 
 #### Using NIST Tools
 - **What is NIST?**
+
 	> **NIST** - National Institute of Standards and Technology 
-	
+ 
 	- Publishes articles, provides tools and creates procedures for testing and validating forensics software
 	- Created criteria for Computer Forensics Tool Testing (CFTT) to manage research on computer forensics tools
 	- Based on the following:
@@ -718,7 +719,6 @@
 	- **What are disk editors used for?**
 		- Viewing data on disk in raw format
 		- Accessing raw data
-
 - **Computer Forensics Examination Protocol**
 	- **Guidelines:**
 		- Perform investigation with GUI tool
