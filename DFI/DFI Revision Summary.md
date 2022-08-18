@@ -683,32 +683,6 @@
 
 > Test and validate forensics software to prevent damaging the evidence
 
-#### Using NIST Tools
-- **What is NIST?**
-
-	> **NIST** - National Institute of Standards and Technology 
- 
-	- Publishes articles, provides tools and creates procedures for testing and validating forensics software
-	- Created criteria for Computer Forensics Tool Testing (CFTT) to manage research on computer forensics tools
-	- Based on the following:
-		- Standard testing methods
-		- ISO 17025 criteria for testing items with no current standards
-- **What is the criteria for tool testing?**
-	- Establish categories for digital forensics tools
-	- Identify forensics category requirements
-	- Develop test assertions
-		- Based on requirements
-		- Create tests to test the tool capability
-	- Identify test cases
-	- Report test results
-- **What is the NSRL created by NIST?**
-	- Stands for the **National Software Reference Library** 
-	- Collects all known hash values for commercial software applications and OS files
-	- Uses SHA-1 to generate known set of digital signatures - **Reference Data Set (RDS)**
-	- **Explain the use of Reference Data Set (RDS)**
-		- Helps filtering known information -> speeds up investigation time
-		- Identifies bad files
-
 #### Using Validation Protocols
 - **How to verify results from the investigation?**
 	- Verify the results by performing the same tasks with other forensics tools
@@ -740,12 +714,10 @@
 #### Boot Sequence
 - **CMOS**
 	> **CMOS** - Complementary Metal Oxide Semiconductor
-	
 	- Stores sys configuration, date and time information and BIOS information
 - **BIOS/EFI**
 	> **BIOS** - Basic Input Output System
 	> **EFI** - Extensible Firmware Interface
-	
 	- Contains programs that perform input/output at the hardware level
 - **Bootstrap Process**
 	- Contained in **ROM (Read-Only Memory)**
@@ -812,7 +784,7 @@
 
 #### Disk Partitions
 - **What is a partition?**
-	-  A logical drive
+	-  a logical drive
 - Windows OS have three primary partitions followed by an extended partition that can contain more more than one partition
 - **Partition Gap**
 	- Unused space between partitions 
