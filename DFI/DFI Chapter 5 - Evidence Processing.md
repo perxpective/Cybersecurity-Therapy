@@ -306,7 +306,7 @@
 ### NTFS Compressed Files
 - Provides compression similar to FAT
 - Under NTFS, files, folders or entire volumes can be compressed
-- Most computer forensics tools can unzip and analyze compressed Windows data
+- Most computer forensics tools can unzip and analyse compressed Windows data
 
 ### NTFS Encrypting File System (EFS)
 > **Encrypting File System (EFS)**

@@ -9,7 +9,7 @@
 ## Exam Format
 <u>Section A (20%)</u> - **10 questions**
 - Direct questions
-- Logical questions
+- Logical questions[[DFI Chapter 4 - Forensics Tools]]
 - General knowledge
 
 <u>Section B (80%)</u> - **4 questions**
@@ -907,8 +907,8 @@
 		- Offset `0x32` - `0x33` - update sequence array that stores last 2 bytes of first sector of MFT record
 			- Update sequence array used as checksum for record integrity validation
 	- **Standard Information Attribute**
-		- Date and time of creation
-		- Last modified date and time 
+		- Date and time of creation (Top-left)
+		- Last modified date and time ()
 		- Last access date and time
 		- Record update date and time
 
@@ -1004,7 +1004,7 @@
 	- Number of sectors required: $$SectorsRequired=\frac{FileSize}{SectorSize}$$
 	- Total sector size required: $$TotalSectorSize= SectorsRequired \times SectorSize$$
 	- RAM Slack: $$RAMSlack = TotalSectorSize-FileSize$$
-- **File Slack:** $$FileSlack = SizeOfClusterRequired-FileSize-RAMSlack$$
+- **File Slack:** $$FileSlack = ClusterSizeRequired-FileSize-RAMSlack$$
 
 ### Chapter 6 - Analysis and Validation
 - **Factors affecting examination and analysis of data:**
