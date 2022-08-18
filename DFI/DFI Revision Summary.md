@@ -2214,6 +2214,27 @@
 		- iOS kernel
 - **Recovery Mode**
 	- Device enters into recovery mode if normal boot process failed to load or verify
+- **Device Firmware Upgrade (DFU)**
+	- Used to perform iOS upgrading
+	- Low-level mode for diagnosis
+	- If Boot ROM is not loading or verified during boot up, iPhone presents a black screen
+
+#### Jailbreaking
+- **Implications of iOS jailbreaking:**
+	- Violation of terms of conditions of its use
+	- Advises customers that the practice exposes the phone to risks
+	- **Examples of risks:**
+		- Security vulnerabilities
+		- Stability issues
+		- Potential crashes and freezes
+		- Shortened battery life
+
+#### iOS Devices
+- iPhone
+- iPad
+- iPod
+	- **Features:**
+		- 
 
 	
 ---
