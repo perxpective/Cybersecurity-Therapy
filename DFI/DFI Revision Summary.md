@@ -2210,5 +2210,18 @@
 **Parts of a disk**
 ![](https://i.imgur.com/UmSCptT.png)
 
-****
+**Disk Partitions**
 <img title="" src="https://i.imgur.com/DJ3Jwuz.png" alt="" data-align="center" width="384">
+
+**Partition table in a hexadecimal editor**
+![](https://i.imgur.com/Nc6DTxr.png)
+
+**Parts of file slack space**
+![](https://i.imgur.com/ZkqQo6k.png)
+
+**Resident file in MFT record**
+![](https://i.imgur.com/6r0BW3w.png)
+
+**Non-resident file in MFT record**
+![](https://i.imgur.com/SPXTBn4.png)
+
