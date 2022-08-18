@@ -1879,9 +1879,9 @@
 		- Can be done due to multiple library modules
 			- provides interfaces for different types of hardware components
 			- **Examples:** Bluetooth, camera
-	- **Android Runtime**
-		- Instance that all applications run with together with their own processes
-		- Allows several virtual machines to run on low-memory devices by executing DEX (Dalvik Executable files)
+- **Android Runtime**
+	- Instance that all applications run with together with their own processes
+	- Allows several virtual machines to run on low-memory devices by executing DEX (Dalvik Executable files)
 - **Native C/C++ Libraries**
 	- **Contains:** 
 		- C and C++ native libraries
@@ -2173,13 +2173,20 @@
 ### Chapter 10
 **Android Architecture**
 
-| Components   | Explanation                                                    |
-| ------------ | -------------------------------------------------------------- |
-| Linux Kernel | Process management, memory management, security and networking |
-| Hardware Abstraction             |                                                                |
+| Components                       | Explanation                                                                                              |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Linux Kernel                     | Process management, memory management, security and networking                                           |
+| Hardware Abstraction Level (HAL) | Allows higher level Java framework to work with hardware of mobile device                                |
+| Native C/C++ Libraries           | SQLite, C, C++, 3D graphics                                                                              |
+| Java API Framework               | Allows developers to create applications using modular system components and services as building blocks |
+| Android Runtime                  | Instance that all applications run with together with their own processes                                |
+| System Apps                      | Apps preinstalled on phone and cannot be uninstalled or changed by user                                                                                                         |
 
----
-## Abbreviations
+### Chapter 11
+**iOS Architecture**
+
+| 
+
 
 ---
 ## Illustrations
