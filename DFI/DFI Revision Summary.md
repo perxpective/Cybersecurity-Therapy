@@ -832,13 +832,15 @@
 	- Reduces fragmentation as cluster size increased
 - **What if there is no more space for allocated cluster?**
 	- OS allocates another cluster for file creating more slack space on disk
-- As files grow and require more disk space, assigned clusters are chained together
-	- This chain can be broken or fragmented due to deleted files or expansion files
+
+> As files grow and require more disk space, assigned clusters are chained together
+> - This chain can be broken or fragmented due to deleted files or expansion files
+
 - **When OS stores data in FAT file system:**
 	- Assigned a starting cluster position to file
 	- Data for file written to the first sector of first assigned cluster
 	- When first assigned cluster filled and runs out of room, FAT assigns next available cluster to file
-- **Deleting FAT files**
+- **Deleting FAT files:**
 	- Directory entry marked as deleted file
 	- Hex **E5** character replacing first letter of filename
 	- FAT chain for that file set to 0
