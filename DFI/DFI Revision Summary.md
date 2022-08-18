@@ -2110,7 +2110,7 @@
 | Disk-to-disk               | Used when disk-to-image not possible<br> Tools can adjust disk's geometry like trackers and sectors<br> Tools that use disk-to-disk: Encase, SnapCopy and Safeback                                                              |
 | Logical/Sparse Acquisition | Used when time is limited<br> Logical acquisition captures only specific files of interest to case<br> Sparse acquisition captures deleted data<br> For large disks, PST or OST mail files and RAID servers                                                                                                                                                                                                                                |
 
-### Chapter 4 - Forensics Tools
+### Chapter 4
 **Types of Forensics Tools**
 
 | Type                     | Explanation                                                                               |
@@ -2133,8 +2133,9 @@
 | Software write-blockers | Runs in shell mode (Windows CLI) |
 | Hardware write-blockers | Ideal for GUI forensics tools<br> Prevents Windows or Linux from writing data to blocked drive <br> Bridge between suspect drive and forensics workstation<br> Can navigate to blocked drive with any application and discards written data                                 |
 
-**Subfunctions of Acquisition**
+**Subfunctions of Validation and Verification**
 | 
+
 
 ### Chapter 6
 **Steganography Techniques**
