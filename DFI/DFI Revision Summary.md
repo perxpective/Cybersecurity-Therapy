@@ -2140,7 +2140,18 @@
 | ---------------------- | ------------------------------------------------------------------------------ |
 | Data Hiding            | Changing or manipulating a file to conceal information                         |
 | Change File Extensions | Manipulating the file extension of the file to appear as a different file type |
-|                        |                                                                                |
+| Hiding Partitions      | Setting the attribute to hidden                                                |
+| Bit Shifting           | Done by changing the order of binary data using low-level encryption programs  |
+| Encryption             | Making the file unreadable                                                     |
+| Password-protecting    | Secure the file using a password                                                                               |
+
+**Password Attacks**
+
+| Attack             | Description                                                           |
+| ------------------ | --------------------------------------------------------------------- |
+| Brute-Force Attack | Using every possible character on the keyboard to guess a password    |
+| Dictionary Attack  | Use of common words found in the dictionary and try them as passwords |
+| Rainbow Attack     | File containing                                                                       |
 
 ---
 ## Abbreviations
