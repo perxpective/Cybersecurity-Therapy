@@ -2092,12 +2092,19 @@
 | Follows the legal process                                                           |                                                                                                     |
 
 **Case Law**
-|            | Explanation |
-| ---------- | ----------- |
-| Definition | Law established by the outcomes of former ca            |
+|                      | Explanation                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------- |
+| Definition           | Law established by the outcomes of former cases                                                       |
+| When is it used?     | Used by legal counsel to apply previous similar cases to current ones when there is ambiguity in laws |
+| What is it required? | Existing laws cannot keep up with the rate of technological advancement                                                                                                      |
 
+#### Chapter 3
+**Image Formats**
+| Format | Description |
+| ------ | ----------- |
+|        |             |
+| ------ |
 
-#### Chapter 2
 ****
 ## Abbreviations
 
