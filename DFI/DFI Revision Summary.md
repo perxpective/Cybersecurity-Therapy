@@ -207,7 +207,7 @@
 	- Attend training to stay current with latest technical changes
 
 #### Preparing for a Digital Forensics Investigation
-- **Objective**
+- **Objective of a digital forensics investigation:**
 	- Gather evidence to prove a suspect **committed a crime** or **violated company policy**
 - **How to conduct a digital forensics investigation?**
 	- Collect evidence that can be **offered in court** or at **corporate inquiry**
@@ -215,6 +215,7 @@
 	- Preserve evidence on different computer (forensics workstation)
 - **What is a Chain of Custody?**
 	- Document of the route that evidence takes from the time it is found until case is closed or goes to court
+	- To be filled up every time the evidence is passed to another person
 
 #### Computer Crime
 - **What can information in computers help law enforcement determine?**
