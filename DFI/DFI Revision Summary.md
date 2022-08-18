@@ -2094,7 +2094,7 @@
 | When is it used?     | Used by legal counsel to apply previous similar cases to current ones when there is ambiguity in laws |
 | What is it required? | Existing laws cannot keep up with the rate of technological advancement                                                                                                      |
 
-#### Chapter 3
+### Chapter 3
 **Image Formats**
 
 | Format             | Advantages                                                                                                                      | Disadvantages                              |
@@ -2110,7 +2110,7 @@
 | Disk-to-disk               | Used when disk-to-image not possible<br> Tools can adjust disk's geometry like trackers and sectors<br> Tools that use disk-to-disk: Encase, SnapCopy and Safeback                                                              |
 | Logical/Sparse Acquisition | Used when time is limited<br> Logical acquisition captures only specific files of interest to case<br> Sparse acquisition captures deleted data<br> For large disks, PST or OST mail files and RAID servers                                                                                                                                                                                                                                |
 
-#### Chapter 4 - Forensics Tools
+### Chapter 4 - Forensics Tools
 **Types of Forensics Tools**
 
 | Type                     | Explanation                                                                               |
@@ -2131,7 +2131,16 @@
 | Type                    | Explanation                      |
 | ----------------------- | -------------------------------- |
 | Software write-blockers | Runs in shell mode (Windows CLI) |
-| Hardware write-blockers | Ideal for GUI forensics tools<br> Prevents Windows or Linux from writing data to blocked                                 |
+| Hardware write-blockers | Ideal for GUI forensics tools<br> Prevents Windows or Linux from writing data to blocked drive <br> Bridge between suspect drive and forensics workstation<br> Can navigate to blocked drive with any application and discards written data                                 |
+
+### Chapter 6
+**Steganography Techniques**
+
+| Technique              | Description                                                                    |
+| ---------------------- | ------------------------------------------------------------------------------ |
+| Data Hiding            | Changing or manipulating a file to conceal information                         |
+| Change File Extensions | Manipulating the file extension of the file to appear as a different file type |
+|                        |                                                                                |
 
 ---
 ## Abbreviations
