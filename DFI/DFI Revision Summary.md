@@ -2093,7 +2093,10 @@
 
 #### Chapter 2
 **Private-Sector Investigation Cases**
-
+| Case                         | Description                                                                                                         |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Employee Termination Cases   | Involves an employee abusing corporate assets<br> Investigation of incidents that create a hostile work environment |
+| Internet Abuse Investigation |                                                                                                                     |
 ****
 
 ---
