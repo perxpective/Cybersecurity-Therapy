@@ -792,12 +792,12 @@
 - **Partition Table**
 	- Table maintained on disk by operating system describing partitions on the disk
 	- Located in the **Master Boot Record (MBR)**
+	- **What is the Master Boot Record?**
+		- Located in **Sector 0** of the disk drive
+		- Precedes the first partition
+		- Stores information about partitions in a disk and their locations, size and other important items
 - **How is the file system identified and maintained?**
 	- Key hexadecimal codes
-- **Master Boot Record (MBR)**
-	- Located in **Sector 0** of the disk drive
-	- Precedes the first partition
-	- Stores information about partitions in a disk and their locations, size and other important items
 - **Partition Table in Hexadecimal Editor**
 	- **File system hexadecimal code (first partition):**
 		- **3 bytes** from `0x1BE`
