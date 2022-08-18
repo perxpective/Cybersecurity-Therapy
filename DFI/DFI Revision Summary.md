@@ -1937,7 +1937,6 @@
 		- Layer which most applications interact with
 - **Partitions:**
 	- System partition
-	- Data partition
 
 #### Acquisition Procedures
 - **Advanced Logical**
