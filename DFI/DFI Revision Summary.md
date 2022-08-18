@@ -214,7 +214,7 @@
 	- Investigate suspect's computer
 	- Preserve evidence on different computer (forensics workstation)
 - **What is a Chain of Custody?**
-	- Route that evidence takes from the time it is found until case is closed or goes to court
+	- Document of the route that evidence takes from the time it is found until case is closed or goes to court
 
 #### Computer Crime
 - **What can information in computers help law enforcement determine?**
@@ -230,19 +230,6 @@
 	- Surfing the internet
 	- Sending personal emails
 	- Using company computers for personal uses
-
-#### System Approach to Digital Forensics Investigations
-- **Steps Taken (MDCDOITACC):**
-	- Make **initial assessment** about *type* of case being investigated
-	- Determine **preliminary design** or **approach case**
-	- Create **detailed checklist**
-	- Determine **resources** needed
-	- **Obtain** and **copy** evidence drive
-	- Identify **risks**
-	- **Test** the *design*
-	- **Analyse** and **recover** digital evidence
-	- **Complete** the case report
-	- **Critique** the case (self-evaluation for improvement)
 
 ### Chapter 2 - Understanding Investigation
 #### Case Assessment
