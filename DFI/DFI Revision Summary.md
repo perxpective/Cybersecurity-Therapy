@@ -2195,10 +2195,11 @@
 
 **iOS Files**
 
-| File  | Description                                     |
-| ----- | ----------------------------------------------- |
-| Plist | File that stores types of data on iOS and MacOS and us |
-| EXIF  | Format that contains data of image and sound files                                                |
+| File               | Description                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Plist              | File that stores types of data on iOS and MacOS and used in the management of configuration of iOS and its applications |
+| EXIF               | Format that contains data of image and sound files                                                                      |
+| SQLite Data Format | Format where user and native iOS applications data is stored in SQLite databases                                        |
 
 ---
 ## Illustrations

@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "42af4af20ead56be",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
