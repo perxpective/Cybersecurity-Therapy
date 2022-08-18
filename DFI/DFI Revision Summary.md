@@ -852,11 +852,12 @@
 - **What is NTFS?**
 	- Introduced with Windows NT
 	- Main file system for Windows 8 or later
-	- What are some improvements NTFS has over FAT?
+	- **What are some improvements NTFS has over FAT?**
 		- Provides more information about a file
 		- Gives more control over files and folders
-	- **What does it mean when NTFS is known as a journaling file system?**
-		- Records transaction before system deletes file
+	- Known as a journaling file system
+		- **What does it mean when NTFS is known as a journaling file system?**
+			- Records transaction before system deletes file
 - **What is inside a NTFS disk?**
 	- First data set - **Partition Boot Sector**
 	- **Master File Table (MFT)**
@@ -919,31 +920,6 @@
 	- Allows file to be associated with different applications
 - Can only tell whether file has data stream attached by examining that file's MFT entry
 
-#### NTFS Compressed Files
-- **Description:**
-	- Compression is similar to FAT
-	- Files, folders or entire volumes can be compressed
-	- Most computer forensics tools can unzip and analyse compressed Windows data
-
-#### NTFS Encrypting File Systems (EFS)
-- **Description:**
-	- Introduced with Windows 2000
-	- Implements public and private key method of encrypting files, folders and disk volumes
-- **When EFS is used in Windows 2000 or later:**
-	- Recovery certificate generated
-	- Sent to local Windows administrator account
-	- Recovery certificate required if there is a problem
-	- Users can apply EFS to files stored on local workstations or remote server
-- **EFS Recovery Key Agent**
-	- Implements recovery certificate in Windows administrator account
-	- **How to recover keys?**
-		- In two ways:
-			- via Windows
-			- MS-COS command prompt
-				- Cipher (NTFS only)
-				- Copy
-				- `efsrecvr` (decrypting EFS files only)
-
 #### Deleting NTFS Files
 - **What happens when file deleted in Windows NT or later?**
 	- OS renames it and moves it to Recycle Bin
@@ -963,8 +939,7 @@
 
 > - WDE tools encrypt each sector of drive separately
 > - WDE tools encrypt the drive's boot sector
-> 	- **Why?**
-> 		- Prevents efforts to bypass secured drive's partition
+> 	- Prevents efforts to bypass secured drive's partition
 
 - **How to examine an encrypted drive?**
 	- Run vendor-specific program to decrypt the drive
@@ -994,16 +969,6 @@
 		- Program for Windows 9x systems
 	- **Regeft32 for Windows 2000, XP, Vista**
 	- Both can be used for Windows 7 or later
-- **Registry Terminology:**
-	- Registry
-	- Registry Editor
-	- HKEY
-	- Key 
-	- Subkey
-	- Branch
-	- Value
-	- Default Value
-	- Hives
 - **List of HKEYs**
 	- `HKEY_CLASS_ROOT`
 		- Provides the following:
