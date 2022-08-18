@@ -6,12 +6,12 @@
       {
         "id": "912fbdabc64b593d",
         "type": "leaf",
-        "dimension": 66.40625,
+        "dimension": 48.84910485933504,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
-            "mode": "preview",
+            "file": "DFI/DFI Revision Summary.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,7 +19,7 @@
       {
         "id": "70d3c2fe33c9954f",
         "type": "leaf",
-        "dimension": 33.59375,
+        "dimension": 51.150895140664964,
         "state": {
           "type": "markdown",
           "state": {
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.0494804382324
+    "width": 125.04948043823242
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "912fbdabc64b593d",
   "lastOpenFiles": [
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "README.md.md",
@@ -138,7 +139,6 @@
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
-    "DFI/DFI Chapter 6 - Analysis and Validation.md",
-    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md"
+    "DFI/DFI Chapter 6 - Analysis and Validation.md"
   ]
 }

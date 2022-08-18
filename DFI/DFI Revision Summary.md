@@ -2205,8 +2205,17 @@
 	- Use of offensive techniques like password cracking and jailbreaking
 
 #### Operating Modes of iOS Devices
+- **Normal Mode**
+	- When iPhone switched on, boots in the OS
+	- In normal mode, user can perform all regular activities
+	- **3 steps in the boot process:**
+		- Low-level bootloader
+		- iBook
+		- iOS kernel
+- **Recovery Mode**
+	- Device enters into recovery mode if normal boot process failed to load or verify
 
-
+	
 ---
 ## Table Summaries
 
