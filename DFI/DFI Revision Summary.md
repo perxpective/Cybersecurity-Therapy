@@ -2091,15 +2091,15 @@
 | Involve government agencies responsible for criminal investigations and prosecution | Involve private companies and lawyers addressing company policy violations and litigation disputes. |
 | Follows the legal process                                                           |                                                                                                     |
 
-#### Chapter 2
-**Private-Sector Investigation Cases**
-| Case                         | Description                                                                                                         |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Employee Termination Cases   | Involves an employee abusing corporate assets<br> Investigation of incidents that create a hostile work environment |
-| Internet Abuse Investigation |                                                                                                                     |
-****
+**Case Law**
+|            | Explanation |
+| ---------- | ----------- |
+| Definition | Law established by the outcomes of former ca            |
 
----
+
+#### Chapter 2
+****
 ## Abbreviations
 
+---
 ## Illustrations
