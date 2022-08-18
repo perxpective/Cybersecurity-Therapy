@@ -24,7 +24,7 @@
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -131,8 +131,8 @@
   "active": "912fbdabc64b593d",
   "lastOpenFiles": [
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-    "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 11 - iOS Forensics.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "README.md.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",

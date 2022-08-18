@@ -2303,9 +2303,17 @@
 	- Increase available RAM or ROM
 	- Access restricted hardware resources
 		- To perform **system tweaking**
-- **Tools used in Jailbreaking**
+- **Impacts of Jailbreaking:**
+	- Voiding of warranty
+	- Error and performance issues
+		- Can cause phones to be unstable
+	- Violation of organization's security policies on permitted activities with corporate devices (Example: EULA)
+- **Tools used in Jailbreaking:**
 	- ADB (Outdated)
-	- 
+	- z4root
+	- SuperOneClick
+	- Motochopper
+	- Flashing memory and custom ROM
 
 ---
 ## Table Summaries
