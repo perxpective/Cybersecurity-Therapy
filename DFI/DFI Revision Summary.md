@@ -2279,6 +2279,21 @@
 - **Restrictions in mobile devices:**
 	- Limits application installation
 	- Limited access privileges to device
+	- **Code signing:**
+		- Security mechanism in iOS where all binaries and libraries must be signed up by trusted authority
+		- Assures users that it is from known source and app has not been modified since being last signed
+- **Rooting in Android**
+	- **Definition:**
+		- Android equivalent of jailbreaking
+	- **Explanation:**
+		- Means of unlocking operating system
+		- **To do the following:**
+			- Install unapproved apps
+			- Deleted unwanted bloatware
+			- Update OS
+			- Replace firmware and customization
+		- Allows users to gain "root" user prvileges
+
 
 ---
 ## Table Summaries
