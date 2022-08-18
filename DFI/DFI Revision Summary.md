@@ -49,7 +49,7 @@
 	- Extraction
 	- Reconstruction
 	- Reporting
-- Maintain software library in lab
+- Maintain **software library** in lab
 - Computer forensics tools types 
 	- Forensics software (command line, GUI)
 	- Forensics hardware (equipment, commercial options)
@@ -464,9 +464,9 @@
 - **How to do contingency planning for image acquisition?**
 	- Create duplicate copy of evidence image file in case of failure
 	- Make at least two images of digital evidence
-		- using different tools and techniques
+		- Using different tools and techniques
 	- Copy **Host Protected Area (HPA)**
-		- area not visible for OS on drive
+		- area not visible to an OS on drive
 - **What are some challenges in image acquisition?**
 	- Windows has whole disk encryption called BitLocker which makes static acquisition difficult
 	- Decryption keys provided by suspect is require to decrypt data
@@ -657,34 +657,6 @@
 		- Creates tool dependencies:
 			- Investigators might only want to use one tool
 			- Investigators need to be familiar with more than one tool
-
-#### Forensics Workstations
-- **Categories of forensics workstations:**
-	- **Stationary** workstations
-	- **Portable** workstations
-	- **Lightweight** workstations
-- **What are the advantages and disadvantages of building your own forensics workstation?**
-	- **Advantages:**
-		- Customized to your needs
-		- Saves money
-	- **Disadvantages:**
-		- Hard to find support for problems
-		- Can become expensive if not careful
-- **What are some recommendations for forensics workstations?**
-	- Have vendor support to save time and frustration when problems arise
-	- Mix and match components to get capabilities required of forensics workstation
-	- Determine where data acquisitions will take place
-- **What are some recommendations for stationary and lightweight workstations?**
-	- Full tower to allow for expansion devices
-	- Get as much memory and processor power as budget allows
-	- Different sizes of hard drives
-	- 400W or better power supply (+ battery backup)
-	- External FireWire and USB 2.0 ports
-	- Assortment of drive adapter bridges
-	- Ergonomic keyboard and mouse
-	- Good video card
-	- at least 17 inch monitor
-	- High-end video card and dual monitors
 
 #### Write-Blockers
 - **Purposes of Write-Blocker:**
