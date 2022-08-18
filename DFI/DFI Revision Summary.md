@@ -2080,12 +2080,14 @@
 ## Table Summaries
 ### Chapter 1
 **Public vs Private Sector Investigations**
+
 | Public-Sector Investigations                                                        | Private-Sector Investigations                                                                       |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Involve government agencies responsible for criminal investigations and prosecution | Involve private companies and lawyers addressing company policy violations and litigation disputes. |
 | Follows the legal process                                                           |                                                                                                     |
 
 **Case Law**
+
 |                      | Explanation                                                                                           |
 | -------------------- | ----------------------------------------------------------------------------------------------------- |
 | Definition           | Law established by the outcomes of former cases                                                       |
@@ -2094,12 +2096,14 @@
 
 #### Chapter 3
 **Image Formats**
+
 | Format             | Advantages                                                                                                                      | Disadvantages                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | Raw                | Fast data transfers, ignores minor data read errors on source drive and format is read by most forensics tools                  | Requires too much storage as original disk |
 | Proprietary Format | Option to compress image files to save space, can split image into smaller segmented files and can integrate metadata into file | Unable to share image between different tool or vendors, file size limitation for each segment                                           |
 
 **Acquisition Methods**
+
 | Collection Method          | Description                                                                                                                                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Disk-to-image              | Most common and flexible method<br> More than one copy can be made<br> Copies are for bit-for-bit replications of original drive<br> Tools that use disk-to-image: ProDiscover, Encase, FTK, SMART, Sleuth Kit, X-Ways, iLookIX |
@@ -2108,12 +2112,28 @@
 
 #### Chapter 4 - Forensics Tools
 **Types of Forensics Tools**
+
 | Type                     | Explanation                                                                               |
 | ------------------------ | ----------------------------------------------------------------------------------------- |
 | Hardware Forensics Tools | Can range from **single-purpose components** to **complete computer systems and servers** |
 | Software Forensics Tools | Ranges from $300 and above<br> Can be either command-line applications and GUI applications<br> Typically used to copy data from suspect disk drive to image file                                                                                          |
 
-****
+**Advantages and Disadvantages of GUI Forensics Tools**
+
+| Advantages                         | Disadvantages                                        |
+| ---------------------------------- | ---------------------------------------------------- |
+| Easy to use                        | Excessive resources required                         |
+| Allows multitasking                | Produces inconsistent results due to type of OS used |
+| There is no need to learn older OS | Creates tool dependencies                                                     |
+
+**Types of Write Blockers**
+
+| Type                    | Explanation                      |
+| ----------------------- | -------------------------------- |
+| Software write-blockers | Runs in shell mode (Windows CLI) |
+| Hardware write-blockers | Ideal for GUI forensics tools<br> Prevents Windows or Linux from writing data to blocked                                 |
+
+---
 ## Abbreviations
 
 ---
