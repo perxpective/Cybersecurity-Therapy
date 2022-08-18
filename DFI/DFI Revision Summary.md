@@ -1012,41 +1012,8 @@
 	- Increases time and resources needed to extract, analyse and present evidence
 	- Required to document additional time spent on recovering additional evidences
 	- **Why is scope creep getting more common?**
-		- Criminal investigations require more detail examination of evidence before trial]
+		- Criminal investigations require more detail examination of evidence before trial
 		- Scope creep can help prosecutors fend off attacks from defence attorneys
-
-#### Approaching Digital Forensics Cases
-- Create an investigation plan
-- **What should an investigation plan define?**
-	- Goal and scope of investigation
-	- Materials needed
-	- Tasks to perform
-- **Differences approaching different types of cases:**
-	- **Corporate cases** 
-		- tend to be easier due to easy access to evidence
-	- **Criminal cases**
-		- more difficult due to scope
-		- Internet Service Providers (ISP) need to be contacted to gather evidence
-- **What are the basic steps to take for digital forensics investigations?**
-	- Use recently wiped media that have been reformatted and inspected for viruses
-	- Inventory hardware on suspect computer 
-		- Note the condition of the seized computer
-	- **For static acquisitions:**
-		- remove original drive
-		- check data and time in system CMOS
-	- Record how data was acquired from suspect drive
-	- Process drive contents methodically and logically
-	- List files and folders on image and drive and note where it was found
-	- Examine contents of all data files in folders
-		- starting from root directory
-	- Recover file contents for all password-protected files
-		- by using password recovery tools
-	- Identify function of every executable file that does not match known hash values
-	- Maintain control of all evidence and findings
-- **Recommendations for Investigation Plan:**
-	- Even if initial plan is sound, might need to deviate from the plan to follow the evidence
-	- Knowing which types of files to look can maximise time
-	- Start with a plan but remain flexible in the face of new evidence
 
 #### OSForensics Data Analysis
 - **Supported File Systems:**
@@ -1058,7 +1025,7 @@
 	- Linux Ext2fs/Ext4fs
 
 #### Validating Forensic Data
-- **Why is it important?**
+- **Why validation it important?**
 	- To ensure integrity of data collected essential for presenting evidence in court
 - **Validating with hexadecimal editor**
 	- **Features offered that are not available in digital forensics tools:**
