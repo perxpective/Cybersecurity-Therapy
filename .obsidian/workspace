@@ -6,24 +6,10 @@
       {
         "id": "70f05ce2057f0b5a",
         "type": "leaf",
-        "dimension": 57.96766743648961,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3ea5f267fcc84f67",
-        "type": "leaf",
-        "dimension": 42.032332563510394,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 9 - Historical Cellular.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
