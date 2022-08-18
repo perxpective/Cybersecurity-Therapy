@@ -9,7 +9,7 @@
 ## Exam Format
 <u>Section A (20%)</u> - **10 questions**
 - Direct questions
-- Logical questions[[DFI Chapter 4 - Forensics Tools]]
+- Logical questions
 - General knowledge
 
 <u>Section B (80%)</u> - **4 questions**
