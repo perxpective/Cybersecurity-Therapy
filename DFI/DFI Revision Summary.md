@@ -1664,7 +1664,7 @@
 		- Utilizes spread-spectrum technology
 		- **What is spread-spectrum technology?**
 			- Channels are spread across entire frequency range (1850-1990 MHz) instead of dedicated to one
-		- Spreads information contained in particular signal of interest over much greater bandwidth than original signal
+			- Spreads information contained in particular signal of interest over much greater bandwidth than original signal
 		- Assigns code to each piece of data passed across spectrum
 		- Unable to carry voice and data simultaneously
 		- **Two channels:**
@@ -2160,7 +2160,14 @@
 | ------------------------------------------------------------------------------ | --------------------------------------------- |
 | Existing connection must be broken before new one is created (Break then make) | Connection is made before old one is released |
 | Not very complicated                                                           | More complex than hard handoff                |
-| Commu                                                                               |                                               |
+| Communicates with one base station at a time                                   | Communicates up to 3-4 base stations at the same time                                           |
+
+**Cellular Subsets**
+
+| Technology | Explanation                                           |
+| ---------- | ----------------------------------------------------- |
+| iDEN       | Supports SMS, voicemail, VPNs, Internet and Intranets |
+| CDMA       | Utilizes spread-spectrum technology<br> Unable to carry voice and data simultaneously<br> Assigns code to each piece of data passed across spec                                                      |
 
 ---
 ## Abbreviations
