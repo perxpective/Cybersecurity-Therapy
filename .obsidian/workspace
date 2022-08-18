@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -126,14 +126,14 @@
     "width": 186.67056274414062,
     "collapsed": true
   },
-  "active": "7cddaaa8c554ca5e",
+  "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
