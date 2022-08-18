@@ -2133,6 +2133,9 @@
 | Software write-blockers | Runs in shell mode (Windows CLI) |
 | Hardware write-blockers | Ideal for GUI forensics tools<br> Prevents Windows or Linux from writing data to blocked drive <br> Bridge between suspect drive and forensics workstation<br> Can navigate to blocked drive with any application and discards written data                                 |
 
+**Subfunctions of Acquisition**
+| 
+
 ### Chapter 6
 **Steganography Techniques**
 
