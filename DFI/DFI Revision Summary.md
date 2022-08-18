@@ -2292,8 +2292,20 @@
 			- Deleted unwanted bloatware
 			- Update OS
 			- Replace firmware and customization
-		- Allows users to gain "root" user prvileges
-
+		- Allows users to gain "root" user privileges
+		- Allows **sideloading** without rooting by default:
+			- Installing apps from non-Android stores (`.apk` files)
+- **Motivations for end users to root or jailbreak:**
+	- More application sources
+	- Access to unauthorized applications
+	- Remove bloatware (vendor-installed software)
+	- Improve performance
+	- Increase available RAM or ROM
+	- Access restricted hardware resources
+		- To perform **system tweaking**
+- **Tools used in Jailbreaking**
+	- ADB (Outdated)
+	- 
 
 ---
 ## Table Summaries
