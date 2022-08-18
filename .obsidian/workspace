@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "404b1299583c2c41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/DFI Chapter 5 - Evidence Processing.md"
               }
             }
           },
@@ -113,10 +125,10 @@
     "direction": "horizontal",
     "width": 147.2157745361328
   },
-  "active": "70f05ce2057f0b5a",
+  "active": "404b1299583c2c41",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
