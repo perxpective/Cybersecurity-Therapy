@@ -2164,10 +2164,19 @@
 
 **Cellular Subsets**
 
-| Technology | Explanation                                           |
-| ---------- | ----------------------------------------------------- |
-| iDEN       | Supports SMS, voicemail, VPNs, Internet and Intranets |
-| CDMA       | Utilizes spread-spectrum technology<br> Unable to carry voice and data simultaneously<br> Assigns code to each piece of data passed across spec                                                      |
+| Technology | Explanation                                                                                                                                         |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| iDEN       | Supports SMS, voicemail, VPNs, Internet and Intranets                                                                                               |
+| CDMA       | Utilizes spread-spectrum technology<br> Unable to carry voice and data simultaneously<br> Assigns code to each piece of data passed across spectrum |
+| GSM        | Based on TDMA, used for transmitting mobile voice and data services<br> Makes up of 70-80% of world's phones                                                                                                                                                    |
+
+### Chapter 10
+**Android Architecture**
+
+| Components   | Explanation                                                    |
+| ------------ | -------------------------------------------------------------- |
+| Linux Kernel | Process management, memory management, security and networking |
+| Hardware Abstraction             |                                                                |
 
 ---
 ## Abbreviations
