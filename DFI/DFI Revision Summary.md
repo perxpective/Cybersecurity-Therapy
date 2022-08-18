@@ -2234,7 +2234,26 @@
 - iPad
 - iPod
 	- **Features:**
-		- 
+		- Camera
+		- Wi-Fi
+		- Safari
+		- Storage
+		- Audio Playback
+		- Photo and Video
+		- YouTube
+		- App Store
+
+#### Property List (plist)
+- **Definition:**
+	- File used to store various types of data on iOS and MacOS
+	- Used in the management of configuration of iOS and its applications
+- **Contains the following useful artefacts:**
+	- Web cookies
+	- Email accounts
+	- GPS map routes
+	- Searches system configuration preferences
+	- Browsing history and bookmarks
+- File can be opened using simple text editor to view contents
 
 	
 ---
