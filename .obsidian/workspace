@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "588dbe9591091085",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 4 - Forensics Tools.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -123,10 +111,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 186.67056274414062,
-    "collapsed": true
+    "width": 102.21573638916016
   },
-  "active": "70f05ce2057f0b5a",
+  "active": "0364907611e68eb8",
   "lastOpenFiles": [
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/DFI Revision Summary.md",

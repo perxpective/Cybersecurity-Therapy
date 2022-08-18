@@ -2141,7 +2141,17 @@
 | Filtering              | Separate good files and files that need to be investigated | Based on has value sets               |
 | Analysing file headers | Check on the change of file type                           | Discriminate files based on file type |
 
-**Subfunctions**
+**Subfunctions of Extraction**
+
+| Subfunction       | Description                                               |
+| ----------------- | --------------------------------------------------------- |
+| Data Viewing      | Different tools provide different ways of viewing data    |
+| Keyword Searching | Good function but may produce noise if wrong keyword used |
+| Decompressing     | Also known as uncompressing                               |
+| Carving           | Reconstruct file fragments                                |
+| Decrypting        | Potential problem for the investigation                   |
+| Bookmarking       | Or tagging                                                |
+
 
 ### Chapter 6
 **Steganography Techniques**
