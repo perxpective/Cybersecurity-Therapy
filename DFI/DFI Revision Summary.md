@@ -2084,6 +2084,17 @@
 
 ---
 ## Table Summaries
+### Chapter 1
+**Public vs Private Sector Investigations**
+| Public-Sector Investigations                                                        | Private-Sector Investigations                                                                       |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Involve government agencies responsible for criminal investigations and prosecution | Involve private companies and lawyers addressing company policy violations and litigation disputes. |
+| Follows the legal process                                                           |                                                                                                     |
+
+#### Chapter 2
+**Private-Sector Investigation Cases**
+
+****
 
 ---
 ## Abbreviations
