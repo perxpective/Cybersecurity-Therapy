@@ -2219,9 +2219,15 @@
 **Parts of file slack space**
 ![](https://i.imgur.com/ZkqQo6k.png)
 
-**Resident file in MFT record**
+**Resident file in MFT record (hexadecimal editor)**
 ![](https://i.imgur.com/6r0BW3w.png)
 
-**Non-resident file in MFT record**
+**Non-resident file in MFT record (hexadecimal editor)**
 ![](https://i.imgur.com/SPXTBn4.png)
 
+### Chapter 7
+**Forensics lab layout**
+![500](https://i.imgur.com/9ALE5Kc.png)
+
+**Regional digital forensics lab**
+![500](https://i.imgur.com/9WhOX5G.png)

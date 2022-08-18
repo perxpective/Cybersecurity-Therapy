@@ -70,7 +70,6 @@
 - Offers features not available in digital forensics tools like:
 	- Hashing specific files or sectors
 	- Use forensics tool to search for suspicious file that might have its name changed to look like an innocuous file
-
 ![](https://i.imgur.com/VdrpxHK.png)
 
 #### Using hash values to discriminate data
