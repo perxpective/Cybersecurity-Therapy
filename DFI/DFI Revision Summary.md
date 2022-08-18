@@ -2147,11 +2147,20 @@
 
 **Password Attacks**
 
-| Attack             | Description                                                           |
-| ------------------ | --------------------------------------------------------------------- |
-| Brute-Force Attack | Using every possible character on the keyboard to guess a password    |
-| Dictionary Attack  | Use of common words found in the dictionary and try them as passwords |
-| Rainbow Attack     | File containing                                                                       |
+| Attack             | Description                                                                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Brute-Force Attack | Using every possible character on the keyboard to guess a password                                                                         |
+| Dictionary Attack  | Use of common words found in the dictionary and try them as passwords                                                                      |
+| Rainbow Attack     | File containing hash value of every possible password that can be generated from a keyboard (Faster than brute-force or dictionary attack) |
+
+### Chapter 9
+**Types of handoff**
+
+| Hard Handoff                                                                   | Soft Handoff                                  |
+| ------------------------------------------------------------------------------ | --------------------------------------------- |
+| Existing connection must be broken before new one is created (Break then make) | Connection is made before old one is released |
+| Not very complicated                                                           | More complex than hard handoff                |
+| Commu                                                                               |                                               |
 
 ---
 ## Abbreviations
