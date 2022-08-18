@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 11 - iOS Forensics.md",
+            "file": "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
             "mode": "preview",
             "source": false
           }
@@ -130,6 +130,7 @@
   },
   "active": "912fbdabc64b593d",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Revision Summary.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
@@ -138,7 +139,6 @@
     "DFI/DFI Chapter 9 - Historical Cellular.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
-    "DFI/DFI Chapter 7 - Investigator's Lab.md",
-    "DFI/DFI Chapter 6 - Analysis and Validation.md"
+    "DFI/DFI Chapter 7 - Investigator's Lab.md"
   ]
 }

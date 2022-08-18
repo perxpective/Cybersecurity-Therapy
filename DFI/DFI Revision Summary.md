@@ -2271,8 +2271,14 @@
 - **File Extension:** `.db`
 - **Description:**
 	- Popular format for mobile device and open source applications
-	- Logical extraction of iPhones can provide many SQLite database files
+	- Logical extraction of iPhones provides many SQLite database files
 	- Uses SQLite databases to store user data
+	- Native iOS applications uses this database to store and organize data
+
+### Chapter 12 - Rooting and Jailbreaking
+- **Restrictions in mobile devices:**
+	- Limits application installation
+	- Limited access privileges to device
 
 ---
 ## Table Summaries
