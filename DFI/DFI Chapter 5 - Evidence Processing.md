@@ -85,7 +85,7 @@
 - A partition is a logical drive
 - Windows OS can have three primary partitions followed by extended partition that can contain more than one logical drives
 
-	<img title="" src="https://i.imgur.com/DJ3Jwuz.png" alt="" data-align="center" width="384">
+<img title="" src="https://i.imgur.com/DJ3Jwuz.png" alt="" data-align="center" width="384">
 
 > **Partition Gap:** unused space between partitions and can be used to hide data
 
