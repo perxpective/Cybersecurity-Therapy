@@ -49,7 +49,7 @@
 	- Involves sorting and searching through investigation findings to separate good data and suspicious data
 - **Subfunctions of validation and verification**
 
-| Subfunction            | Description                                                | Explanation                           |
+| Subfunction            | Description                                                | Description #2                        |
 | ---------------------- | ---------------------------------------------------------- | ------------------------------------- |
 | Hashing                | Ensuring that data is not changed                          | CRC-32, SHA-1, MD5                    |
 | Filtering              | Separate good files and files that need to be investigated | Based on has value sets               |

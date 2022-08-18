@@ -2134,8 +2134,14 @@
 | Hardware write-blockers | Ideal for GUI forensics tools<br> Prevents Windows or Linux from writing data to blocked drive <br> Bridge between suspect drive and forensics workstation<br> Can navigate to blocked drive with any application and discards written data                                 |
 
 **Subfunctions of Validation and Verification**
-| 
 
+| Subfunction            | Description                                                | Description #2                        |
+| ---------------------- | ---------------------------------------------------------- | ------------------------------------- |
+| Hashing                | Ensuring that data is not changed                          | CRC-32, SHA-1, MD5                    |
+| Filtering              | Separate good files and files that need to be investigated | Based on has value sets               |
+| Analysing file headers | Check on the change of file type                           | Discriminate files based on file type |
+
+**Subfunctions**
 
 ### Chapter 6
 **Steganography Techniques**
