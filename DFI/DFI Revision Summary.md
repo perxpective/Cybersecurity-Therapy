@@ -2255,7 +2255,20 @@
 	- Browsing history and bookmarks
 - File can be opened using simple text editor to view contents
 
-	
+#### EXIF Files
+- **Description:**
+	- Stands for Exchangeable Image File 
+	- Standard that specifies formats for images and sounds used by digital cameras, scanners and other systems handling image and sound files
+- **Contains the following data:**
+	- Timestamps
+	- Longitude
+	- Latitude
+	- Location
+	- Device Information
+		- Depending on device used to capture image or sound
+
+#### SQLite Data Format
+- 
 ---
 ## Table Summaries
 
