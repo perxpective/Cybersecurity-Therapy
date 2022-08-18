@@ -16,16 +16,35 @@
         }
       },
       {
-        "id": "433c9e13f5966e21",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
+        "id": "dd07fbcbd42a2c6f",
+        "type": "split",
+        "children": [
+          {
+            "id": "433c9e13f5966e21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Revision Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddf0f485369c8942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Chapter 9 - Historical Cellular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -129,9 +147,9 @@
   },
   "active": "433c9e13f5966e21",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
+    "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 8 - Processing Crime and Incident Scenes.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Chapter 6 - Analysis and Validation.md",

@@ -150,7 +150,7 @@
 
 #### IMEI Checksum Verification
 - Validated in 3 steps:
-	1. Starting from right, double every other digit
+	1. Starting from right, double every two digits
 	2. Sum all digits together
 	3. Check if sum is divisible by 10
 

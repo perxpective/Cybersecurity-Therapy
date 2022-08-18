@@ -1732,7 +1732,7 @@
 	- Can be displayed by dialling `*#06#`
 	- **Checksum validation:**
 		- **Steps to validate:**
-			- Starting from right, double every two digits
+			- Double every two digits
 			- Sum all the digits together
 			- Check if sum is divisible by 10
 				- Checksum is the number that when added makes sum divisible by 10
