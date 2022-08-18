@@ -2231,3 +2231,9 @@
 
 **Regional digital forensics lab**
 ![500](https://i.imgur.com/9WhOX5G.png)
+
+### Chapter 9
+**Cellular Handoff**
+![400](https://i.imgur.com/CAc3jVL.png)
+**MEID Fields**
+![600](https://i.imgur.com/r39l7hY.png)
