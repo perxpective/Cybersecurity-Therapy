@@ -6,24 +6,11 @@
       {
         "id": "912fbdabc64b593d",
         "type": "leaf",
-        "dimension": 48.84910485933504,
+        "dimension": 99.99999999999999,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "70d3c2fe33c9954f",
-        "type": "leaf",
-        "dimension": 51.150895140664964,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
             "mode": "source",
             "source": false
           }

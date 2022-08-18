@@ -161,7 +161,8 @@
 #### Case Law
 - **Definition:**
 	- The law established by the **outcomes of former cases**
-	- Used by allowing **legal counsel** to apply previous similar cases to current one to **handle ambiguity in laws**
+- **When is it used?**
+	- Allows **legal counsel** to apply previous similar cases to current one when there is **ambiguity in laws**
 - **Why is it required?**
 	- Existing laws cannot keep up with the **rate of technological advancement**
 
@@ -179,23 +180,6 @@
 - **Private-Sector Investigations**
 	- **Parties Involved:** Private companies and lawyers
 	- Addresses company policy violations and litigation disputes
-
-#### Legal Process
-- **Steps:**
-	- Criminal investigation begins when someone **finds evidence** or **witness of crime**
-	- Police **interviews complainant** and **writes report about the crime**
-	- Report is processed and management decides to start investigation or log information in **police blotter**
-- **Parties Involved:**
-	- **Digital Evidence First Responder**
-		- **Description:**
-			- Arrives at incident scene and **assesses situation**
-			- Takes **precautions** to **acquire and preserve evidence**
-	- **Digital Evidence Specialist**
-		- **Description:**
-			- Has the skill to analyse data and determine when another analyst should be called for assistance
-- **What is Affidavit?**
-	- Sworn statement that supports facts or evidence about a crime
-	- Include exhibits that support the allegation
 
 #### Private-Sector Investigations
 - **Objectives:**
