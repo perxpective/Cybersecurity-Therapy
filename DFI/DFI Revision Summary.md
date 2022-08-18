@@ -433,8 +433,8 @@
 
 #### Acquisition Methods
 - **Types of data acquisition:**
-	- Static acquisition
-	- Live acquisition
+	- **Static** acquisition
+	- **Live** acquisition
 
 > - **Live Acquisition** is used when suspect computer cannot be shut down for static acquisition
 > - Not repeatable as data is continually being altered by suspect computer's OS
