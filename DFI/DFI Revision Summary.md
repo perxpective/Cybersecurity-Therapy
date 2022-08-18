@@ -2185,8 +2185,20 @@
 ### Chapter 11
 **iOS Architecture**
 
-| 
+| Components                | Explanation                                      |
+| ------------------------- | ------------------------------------------------ |
+| Cocoa Touch               | Layer at which most applications interacts with  |
+| Media                     | Where media services e.g. audio and video exists |
+| Core Services             | Used in upper layers                             |
+| Core OS                   | Where most Mac OS X components are               |
+| Kernel and Device Drivers | Layer where most applications interact with                                                 |
 
+**iOS Files**
+
+| File  | Description                                     |
+| ----- | ----------------------------------------------- |
+| Plist | File that stores types of data on iOS and MacOS and us |
+| EXIF  | Format that contains data of image and sound files                                                |
 
 ---
 ## Illustrations
