@@ -265,10 +265,10 @@
 
 #### Securing Evidence
 - **How to secure evidence?**
-	- Use evidence bag to secure and catalogue evidence
-	- Use computer safe products when collecting computer evidence (antistatic bags and pads)
-	- Use well-padded containers
-	- Use evidence tape to seal all openings
+	- Use **evidence bag** to **secure and catalogue evidence**
+	- Use **computer safe products** when collecting computer evidence (antistatic bags and pads)
+	- Use **well-padded containers**
+	- Use **evidence tape** to seal all openings
 		- CD drive bays and insertion slots for power supply cord
 		- USB cables
 	- Write initials on tape to prove evidence is not tampered with
@@ -354,7 +354,7 @@
 
 #### Understanding Data Recovery Workstations and Software
 - **What are the basic requirements for a digital forensics investigation?**
-	- Workstation running on Windows XP or later
+	- Workstation running on **Windows XP or later**
 	- Write-blockers
 	- Acquisition tool
 	- Analysis tool
@@ -599,7 +599,7 @@
 		- Potential problem for the investigation
 	- **Bookmarking (or tagging)**
 - **Password Recovery:**
-	- Use password recovery tools 
+	- Use *password recovery tools* 
 		- have feature to generate potential password lists for password dictionary attack
 	- If password dictionary attack fails, run brute-force attack
 
