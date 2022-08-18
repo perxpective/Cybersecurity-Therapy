@@ -908,9 +908,9 @@
 			- Update sequence array used as checksum for record integrity validation
 	- **Standard Information Attribute**
 		- Date and time of creation (Top-left)
-		- Last modified date and time ()
-		- Last access date and time
-		- Record update date and time
+		- Last modified date and time (Top-right)
+		- Last access date and time (Bottom-left)
+		- Record update date and time (Bottom-right)
 
 #### NTFS Alternate Data Streams
 - **Description:**
@@ -945,16 +945,6 @@
 	- Run vendor-specific program to decrypt the drive
 	- Many vendors use boot table CD or USB drive that prompts for OTP
 	- Without necessary credentials to unlock encrypted drives, not possible to view any logical information
-
-#### Microsoft Bitlocker
-- **What are the hardware and software requirements of Microsoft Bitlocker?**
-	- Computer capable of running Windows Vista or later
-	- **Trusted Platform Module microchip version 1.2 or later**
-		- **Function:**
-			- stores RSA encryption keys specific to host system for hardware authentication
-		- Computer BIOS compliant with **Trusted Computing Group (TCG)**
-		- 2 NTFS partitions
-		- BIOS configured so that hard drive boots first before checking other peripherals
 
 #### Microsoft Registry
 - **Functions:**
