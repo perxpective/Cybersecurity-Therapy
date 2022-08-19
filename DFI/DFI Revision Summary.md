@@ -441,7 +441,12 @@
 
 - **Types of data collection methods:**
 	- Creating disk-to-image file
+		- Most common and flexible method
+		- Able to make multiple copies
+		- Bit-stream replication of the original disk drive
 	- Creating disk-to-disk
+		- Alternative method if disk-to-image is not possible
+		- Tools 
 	- Creating logical disk-to-disk
 	- Creating a sparse copy of the file or folder
 
