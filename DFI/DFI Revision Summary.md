@@ -1470,10 +1470,10 @@
 	- **Allows duplicates (copy)** instead of the original if produced by the **same impression as the original** if the original cannot be obtained
 		- Although not always possible to produce the original
 - **Notes:**
-	- As long as bit-stream copies of data are created and maintained properly
+	- As long as **bit-stream copies of data** are **created** and **maintained** properly
 		- can be admitted in court though not considered best evidence
 	- **Examples of not being able to use original evidence:**
-		- Investigations involving network servers:
+		- **Investigations involving network servers:**
 			- Removing server from network to acquire data can cause harm to business or its owner
 			- Might be an innocent bystander to crime or civil wrong
 
@@ -1487,12 +1487,12 @@
 
 #### Collecting Evidence in Private-Sector Incident Scenes
 - **How to analyse a policy violation?**
-	- Businesses have inventory databases of computer hardware and software
+	- Businesses have **inventory databases** of computer **hardware** and **software**
 	- Understand what hardware and software help with computer forensics tools needed to analyse policy violation
 - **Corporate policy statement about misuse of digital assets:**
 	- Allows corporate investigators to conduct covert surveillance with little or no cause
-	- Access company systems without warrant
-	- Companies display warning banner and publish policies
+	- **Access company systems** without **warrant**
+	- Companies display **warning banner** and **publish policies**
 		- Stating that they reserve the right to inspect computing assets at will
 
 > Corporate investigators must know under what circumstances they can examine employee's computer
