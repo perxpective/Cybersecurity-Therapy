@@ -418,7 +418,7 @@
 		- Able to **integrate metadata** into file
 	- **Disadvantages:**
 		- Unable to share image between **different tool or vendors**
-		- File size limitation for each segmented volume
+		- **File size limitation** for **each segmented volume**
 - **What are the design goals of AFF?**
 	- Provide compress or uncompressed image files
 	- No size reduction for disk-to-image files
@@ -428,8 +428,8 @@
 	- OSS vendor have no implementation restrictions on this format
 	- Internal consistency checks for self-authentication
 	- **File formats for AFF**
-		- `.afd` (segmented image files)
-		- `.afm` (AFF metadata)
+		- `.afd` (**segmented** image files)
+		- `.afm` (AFF **metadata**)
 
 #### Acquisition Methods
 - **Types of data acquisition:**
@@ -467,8 +467,8 @@
 
 #### Contingency Planning for Image Acquisition
 - **How to do contingency planning for image acquisition?**
-	- Create duplicate copy of evidence image file in case of failure
-	- Make at least two images of digital evidence
+	- Create **duplicate copy** of evidence image file in case of **failure**
+	- Make **at least two images** of digital evidence
 		- Using different tools and techniques
 	- Copy **Host Protected Area (HPA)** - the area not visible to an OS on drive
 - **What are some challenges in image acquisition?**
@@ -479,11 +479,11 @@
 #### Acquisition Tools
 - **What are the advantages and disadvantages of acquisition tools for Windows?**
 	- **Advantages:**
-		- Makes acquiring evidence from evidence drive more convenient
+		- Makes acquiring evidence from evidence drive more **convenient**
 	- **Disadvantages:**
-		- Acquired data must be protected by well-tested write-blocker hardware device
+		- Acquired data must be **protected by well-tested write-blocker hardware device**
 		- Tools cannot acquire data from disk's **host protected area (HPA)**
-		- Several countries have not accepted use of write-blocking devices for data acquisitions
+		- Several countries have **not accepted use of write-blocking devices** for data acquisitions
 
 #### Validation of Data Acquisitions
 > Validation requires a **hashing algorithm utility**
@@ -496,8 +496,8 @@
 	- SHA-1
 	- SHA-512
 - **Windows Validation Methods:**
-	- Use third-party utilities such as WinHex (hexadecimal editor)
-	- Commercial computer forensics programs have built-in validation features
+	- Use **third-party utilities** such as WinHex (hexadecimal editor)
+	- Commercial computer forensics programs have **built-in validation features**
 		- Each program having their own validation techniques
 		- **Examples:**
 			- ProDiscover `.eve` files contain metadata in acquisition file or segmented files
