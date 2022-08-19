@@ -566,7 +566,7 @@
 
 ##### Validation and Verification
 - **Validation**
-	- **Explanation:**
+	- **Why is validation of tools necessary?**
 		- A way to **confirm** a tool is functioning as **intended**
 		- Ensuring that **integrity** of data is being copied
 - **Verification**
