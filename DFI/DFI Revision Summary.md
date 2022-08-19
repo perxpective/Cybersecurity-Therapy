@@ -1214,24 +1214,24 @@
 	- facility space
 	- training personnel
 - **Important notes for lab budget planning:**
-	- Use past investigation expenses to extract expected future costs
-	- Estimate number of computer cases the lab expects to examine
-	- Use statistics to determine type of computer crimes more likely to occur
+	- Use **past investigation expenses** to **predict future costs**
+	- **Estimate number of computer cases** the lab **expects to examine**
+	- **Use statistics** to determine type of computer crimes **more likely to occur**
 		- **Why?**
 			- Better estimate the resources required
 - **What to check when setting up investigative lab for a private company?*
-	- Hardware and software inventory
-	- Reported problems from last year
-	- Future development in computing technology
-	- Time management
+	- **Hardware** and **software** inventory
+	- **Reported problems** from previous year
+	- **Future development** in computing technology
+	- **Time management**
 		- major issue when deciding which software and hardware to choose
 
 #### Acquiring Certification and Training
 - **Reasons:**
 	- It is important to stay relevant and update skills through relevant training
 	- **How?**
-		- Thoroughly research requirements, cost and acceptability in area of employment
-		- Address minimum skills for conducting investigations at various levels
+		- Thoroughly **research requirements, cost and acceptability** in **area of employment**
+		- **Address minimum skills** for conducting investigations at *various levels*
 	- **Examples:**
 		- **IACIS**
 			- Stands for **International Association of Computer Investigative Specialists**
