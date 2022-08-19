@@ -912,22 +912,22 @@
 		- Offset `0x32` - `0x33` - update sequence array that stores last 2 bytes of first sector of MFT record
 			- Update sequence array used as checksum for record integrity validation
 	- **Standard Information Attribute**
-		- Date and time of creation (Top-left)
-		- Last modified date and time (Top-right)
-		- Last access date and time (Bottom-left)
-		- Record update date and time (Bottom-right)
+		- Date and time of **creation** (Top-left)
+		- **Last modified date** and time (Top-right)
+		- **Last access** date and time (Bottom-left)
+		- **Record** update date and time (Bottom-right)
 
 #### NTFS Alternate Data Streams
 - **Description:**
-	- Ways data can be appended to existing files
-	- Can obscure valuable evidentiary data intentionally or by coincidence
+	- Ways data can be **appended** to *existing files*
+	- Can **obscure** *valuable evidentiary data* intentionally or by coincidence
 - **Alternate data stream** becomes **additional file attribute**
 	- Allows file to be associated with different applications
 - Can only tell whether file has data stream attached by examining that file's MFT entry
 
 #### Deleting NTFS Files
 - **What happens when file deleted in Windows NT or later?**
-	- OS renames it and moves it to Recycle Bin
+	- OS **renames** it and **moves it to Recycle Bin**
 - **What happens when Del (delete) MS-DOS command is used to delete file?**
 	- Eliminates file from MFT listing in the same way FAT does
 
@@ -938,7 +938,8 @@
 	- **Full or partial disk encryption with secure hibernation**
 		- Password protected screen saver
 	- **Advanced encryption algorithms**
-		- AES or IDEA
+		- AES
+		- IDEA
 	- **Key management function**
 		- Passphrase to reset password
 
