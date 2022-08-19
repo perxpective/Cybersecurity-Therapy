@@ -440,17 +440,21 @@
 > - Not repeatable as data is continually being altered by suspect computer's OS
 
 - **Types of data collection methods:**
-	- Creating disk-to-image file
+	- **Creating disk-to-image file**
 		- Most common and flexible method
 		- Able to make multiple copies
 		- Bit-stream replication of the original disk drive
-	- Creating disk-to-disk
+	- **Creating disk-to-disk**
 		- Alternative method if disk-to-image is not possible
 		- Tools can adjust disk's geometry
-	- Creating logical disk-to-disk
+	- **Creating logical disk-to-disk**
 		- Captures only specific files of interest to the case excluding unallocated space
-	- Creating a sparse copy of the file or folder
+	- **Creating a sparse copy of the file or folder**
 		- Similar to logical acquisition, but collects fragments of unallocated files only
+
+> Use **logical or sparse acquisitions for the following**:
+> - Large disks
+> - Examples: PST/OST mail files, RAID servers (up to several terabytes)
 
 - **What are some considerations when making a copy?**
 	- **Size of source disk**
