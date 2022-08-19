@@ -1138,9 +1138,9 @@
 - **How to decode an encrypted file?**
 	- Provide password or passphrase
 - **What is key escrow?**
-	- Designed to recover encrypted data if users forget passphrases
-	- Or if user key corrupted after system failure
-	- Key sizes of 2048 or 4096 bits make breaking them almost impossible with current technology
+	- Designed to **recover encrypted data** if users **forget passphrases**
+		- or if user key **corrupted** after **system failure**
+	- Key sizes of <u>2048</u> or <u>4096</u> bits make breaking them almost impossible with current technology
 
 ##### Recovering Passwords
 - Password cracking tools available for handling password-protected data or systems
