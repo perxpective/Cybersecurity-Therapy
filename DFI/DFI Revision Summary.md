@@ -1493,32 +1493,32 @@
 	- Allows corporate investigators to conduct covert surveillance with little or no cause
 	- **Access company systems** without **warrant**
 	- Companies display **warning banner** and **publish policies**
-		- Stating that they reserve the right to inspect computing assets at will
+		- Stating that they **reserve the right** to inspect computing assets at will
 
 > Corporate investigators must know under what circumstances they can examine employee's computer
 > - Every organization must have well-defined process describing when investigation can be initiated
 
 - **What happens if corporate investigator finds out employee is committing a crime or has committed a crime?**
-	- Employer can file criminal complaint to police
-	- Investigator should report to corporate management immediately
+	- Employer can file **criminal complaint** to *police*
+	- Investigator should report to **corporate management immediately**
 
-> - Employers are more interested in enforcing company policy rather than seeking out and prosecuting employees
+> - Employers are more interested in **enforcing company policy** rather than **seeking out and prosecuting employees**
 > - Corporate investigators are mainly concerned with protecting company assets
 
 - **What to do if you discover evidence of crime during company policy investigation?**
-	- Determine whether incident meets aspects of criminal law
-	- Inform management of incident
-	- Stop investigation to ensure 4th Amendment restrictions on obtaining evidence is not violated
-	- Work with corporate attorney on how to respond to police request for more information
+	- Determine whether incident **meets aspects of criminal law**
+	- **Inform management** of incident
+	- **Stop investigation** to ensure Fourth Amendment restrictions on obtaining evidence is not violated
+	- **Work** with **corporate attorney** on how to **respond to police request** for more information
 
 #### Processing Law Enforcement Crime Scenes
 - Law enforcement officers may only search and seize criminal evidence with probable cause
 	- **What is probable cause?**
-		- Reasonable grounds to believe that particular person has committed a crime
-			- especially to justify search preferring charge
-		- Refers to standard specifying whether police officer has the right to make an arrest, conduct personal or property search or obtain warrant for arrest
-		- With probable cause, police officer can get a warrant from the judge
-			- Authorizes a search and seizure of specific evidence related to criminal complaint
+		- **Reasonable grounds** to believe that particular person has committed a crime
+			- especially to **justify search preferring charge**
+		- Refers to standard specifying whether police officer has the **right to make an arrest**, **conduct personal or property search** or **obtain warrant for arrest**
+		- With probable cause, police officer can get a **warrant from the judge**
+			- Authorizes a **search and seizure** of **specific evidence** related to **criminal complaint**
 			- **Fourth Amendment:** 
 				- Warrants can be issued if it describes the place to be searched and persons or things to be seized
 
