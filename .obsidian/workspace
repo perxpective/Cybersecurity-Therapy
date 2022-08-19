@@ -9,8 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
-            "mode": "preview",
+            "file": "DFI/DFI Revision Summary.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "156e55224a6559e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Chapter 9 - Historical Cellular.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "file": "DFI/DFI Chapter 9 - Historical Cellular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Chapter 5 - Evidence Processing.md"
+                "file": "DFI/DFI Chapter 9 - Historical Cellular.md"
               }
             }
           },
@@ -113,11 +125,11 @@
     "direction": "horizontal",
     "width": 303.5
   },
-  "active": "70f05ce2057f0b5a",
+  "active": "156e55224a6559e3",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
+    "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",

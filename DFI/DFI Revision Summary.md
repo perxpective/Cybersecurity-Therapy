@@ -1646,6 +1646,8 @@
 	- measured in Hertz (Hz)
 
 #### Cellular Hand Off
+- **What is cellular handoff?**
+	- 
 - **When is handoff needed?**
 	- When signal on channel from tower servicing the call becomes weaker during the call
 	- If there is no tower with a stronger signal, the call is dropped
