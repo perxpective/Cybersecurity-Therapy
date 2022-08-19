@@ -470,10 +470,9 @@
 	- Create duplicate copy of evidence image file in case of failure
 	- Make at least two images of digital evidence
 		- Using different tools and techniques
-	- Copy **Host Protected Area (HPA)**
-		- area not visible to an OS on drive
+	- Copy **Host Protected Area (HPA)** - the area not visible to an OS on drive
 - **What are some challenges in image acquisition?**
-	- Windows has whole disk encryption called BitLocker which makes static acquisition difficult
+	- Windows has whole disk encryption called **BitLocker** which makes static acquisition difficult
 	- Decryption keys provided by suspect is require to decrypt data
 		- suspect may not want to cooperate
 
