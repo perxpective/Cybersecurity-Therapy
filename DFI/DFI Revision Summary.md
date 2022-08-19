@@ -1246,20 +1246,20 @@
 			- Defence Cyber Investigations Training Academy
 
 #### Physical Requirements for a Computer Forensics Lab
-- Physical lab must be secured
+- Physical lab must be **secured**
 	- **Reasons:**
-		- So that evidence is not lost, corrupted or destroyed
-		- Provide safe and secure physical environment
-		- Keep inventory control of assets
+		- So that evidence is not **lost, corrupted or destroyed**
+		- Provide **safe and secure** physical environment
+		- Keep **inventory control of assets**
 - **Lab security needs:**
 	- **Secure facility**
-		- It should preserve the integrity of data
+		- It should **preserve** the **integrity of data**
 	- **Minimum requirements:**
-		- Small room with true floor-to-ceiling walls
-		- Door access with locking mechanism
-		- Secure container
+		- **Small room** with true **floor-to-ceiling walls**
+		- Door access with **locking mechanism**
+		- **Secure** container
 		- Visitor's log
-		- Brief staff about security policy
+		- **Brief staff** about *security policy*
 
 #### Conducting High-Risk Investigations
 > High-risk investigations demand more security minimum lab requirements
@@ -1269,11 +1269,11 @@
 		- Electromagnetic Radiation Proofed
 			- **Reasons for proofing EMR:**
 				- Leaking signals can be used to reconstruct information
-			- Stops information systems from leaking through emanations 
-				- including unintentional radio/electrical signals, sounds and vibrations
+				- Stops information systems from leaking through emanations 
+				- Includes unintentional radio/electrical signals, sounds and vibrations
 	- **Limitations:**
 		- Expensive
-		- Low-emanation workstations can be used instead
+		- Low-emanating workstations can be used instead
 
 #### Evidence Containers
 > Also known as **evidence lockers**
