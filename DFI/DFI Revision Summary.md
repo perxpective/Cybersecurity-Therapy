@@ -277,7 +277,7 @@
 #### Private-Sector Investigations
 - **Employee Termination Cases**
 	- Involves employee **abuse of corporate assets**
-	- **What the cases investigated?**
+	- **What are the cases investigated?**
 		- Incidents that create a **hostile work environment**
 		- **Examples:**
 			- Viewing pornography in the workplace
