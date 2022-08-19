@@ -1353,8 +1353,8 @@
 #### Selecting Basic Forensics Workstation
 - **How to select a basic forensics workstation?**
 	- Depends on budget and needs
-	- Use less powerful workstations for mundane tasks
-	- Use multipurpose workstations for resource-heavy analysis tasks
+	- Use **less powerful** workstations for **mundane tasks**
+	- Use **multipurpose** workstations for **resource-heavy analysis tasks**
 
 #### Selecting Workstations for a Lab
 - **How to select a workstation for a lab?**
@@ -1403,7 +1403,7 @@
 ### Chapter 8 - Processing Crime and Incident Scenes
 #### Digital Evidence
 - **What is digital evidence?**
-	- Any information stored or transmitted in digital form
+	- Any information **stored** or **transmitted** in *digital form*
 	- Different from document evidence
 	- **Example:**
 		- SWGDE (Scientific Working Group on Digital Evidence)
@@ -1411,15 +1411,15 @@
 
 #### General Tasks Performed by Investigators
 - **Tasks:**
-	- Identify digital information or artefacts that can be used as digital evidence (Seizure)
-	- Collect, preserve and document evidence (Acquisition)
-	- Analyse, identify and organize evidence (Examination)
-	- Rebuild evidence or repeat situation to verify that results can be reproduced reliably (Admission)
+	- **Identify** digital information or artefacts that can be used as digital evidence (Seizure)
+	- **Collect, preserve and document** evidence (Acquisition)
+	- **Analyse, identify and organize** evidence (Examination)
+	- **Rebuild** evidence or **repeat situation** to verify that results can be reproduced reliably (Admission)
 
 #### Rules of Evidence
 - **Why must evidence by handled consistently?**
-	- Verify work
-	- Enhance credibility
+	- **Verify** work
+	- Enhance **credibility**
 - **Notes:**
 	- Comply with state rules of evidence
 		- for security and accountability control of evidence
