@@ -899,7 +899,8 @@
 		- Length of header indicates where next attributes starts
 	- **Non-resident file attributes**
 		- OS assigns logical clusters to entire disk partition - **logical cluster numbers (LCN)**
-			- Addresses that allows MFT to link non-resident files on disk partition
+		- **What are logical cluster numbers (LCN)?**
+			- Addresses that allows MFT to **link non-resident files** on disk partition
 		- When data is first written to non-resident files, LCN address assigned to file
 			- LCNs become the file's **virtual cluster number (VCN)**
 - **MFT Structures for File Data**
@@ -2283,6 +2284,7 @@
 
 **Virtual cluster numbers (VCN)**
 ![](https://i.imgur.com/MJEdC6h.png)
+
 ### Chapter 7
 **Forensics lab layout**
 ![500](https://i.imgur.com/9ALE5Kc.png)
