@@ -1004,22 +1004,22 @@
 
 ### Chapter 6 - Analysis and Validation
 - **Factors affecting examination and analysis of data:**
-	- Nature of the investigation
-	- Amount of data to process
+	- **Nature** of the investigation
+	- **Amount of data** to process
 	- Corporate investigations locating and recovering specific items like emails
 		- simplifies and speeds up processing
 
 #### Scope Creep
 - **Explanation:**
-	- Occurs when the investigation expands beyond the original description 
+	- Occurs when the investigation **expands beyond the original description** 
 	- **Reason:**
-		- Due to unexpected evidence found
-	- Attorneys might ask investigators to examine other areas to obtain more evidence
-	- Increases time and resources needed to extract, analyse and present evidence
-	- Required to document additional time spent on recovering additional evidences
+		- Due to **unexpected evidence** found
+	- Attorneys might ask investigators to **examine other areas** to **obtain more evidence**
+	- **Increases time and resources** needed to extract, analyse and present evidence
+	- Required to document **additional time spent** on recovering additional evidences
 	- **Why is scope creep getting more common?**
-		- Criminal investigations require more detailed examinations of evidence before trial
-		- Scope creep can help prosecutors fend off attacks from defence attorneys
+		- Criminal investigations require more **detailed examinations of evidence** before trial
+		- Scope creep can help prosecutors **fend off attacks from defence attorneys**
 
 #### OSForensics Data Analysis
 - **Supported File Systems:**
@@ -1032,7 +1032,7 @@
 
 #### Validating Forensic Data
 - **Why is validation important?**
-	- To ensure integrity of data collected essential for presenting evidence in court
+	- To **ensure integrity of data** collected essential for presenting evidence in court
 - **Validating with hexadecimal editor**
 	- **Features offered that are not available in digital forensics tools:**
 		- Hashing specific files or sectors
@@ -1042,31 +1042,31 @@
 			- **Example:**
 				- **AccessData**
 					- AccessData has hashing database called **Known File Filter (KFF)**
-					- Filters known program files from view and contains hash values of known illegal files
-					- Compares known file hash values with files on evidence drive to see if they contain suspicious data
+					- Filters known program files from view and contains **hash values** of **known illegal files**
+					- **Compares** known file hash values with files on evidence drive to see if they contain suspicious data
 				- **ProDiscover**
 					- `.eve` files contain metadata and hash values
 					- Includes preference that can be enabled using **Auto Verify Image Checksum** when image files loaded
 					- **When Auto Verify Image Checksum and `.eve` file hash do not match:**
-						- ProDiscover notifies that acquisition is corrupt and cannot be considered reliable evidence
+						- ProDiscover notifies that acquisition is **corrupt** and cannot be considered **reliable evidence**
 - **Why must raw image files be validated manually?**
-	- Raw image files do not contain metadata and cannot be used by other forensics tools that only support files that contain metadata
+	- Raw image files do not **contain metadata** and cannot be used by other forensics tools that only support files that contain metadata
 	- Ensure integrity
 
 #### Data Hiding
 - **Definition:**
-	- Changing or manipulating a file to conceal information
+	- **Changing** or **manipulating** a file to **conceal** information
 -  **Techniques:**
-	- Hiding entire partitions
+	- **Hiding entire partitions**
 		- using disk management tools
-	- Changing file extensions
-	- Setting file attributes to hidden
+	- **Changing file extensions**
+	- **Setting file attributes to hidden**
 		- by changing file signatures
-	- Marking bad 
-	- Bit-shifting
+	- **Marking bad clusters**
+	- **Bit-shifting**
 		- Shift 1 bit to the left
-	- Encryption
-	- Password protection
+	- **Encryption**
+	- **Password protection**
 
 ##### Hiding partitions
 - By using the following command: `diskpart remove letter`
@@ -1077,9 +1077,9 @@
 	- Partition Master
 	- Grand Unified Bootloader (GRUB)
 - **How to detect if partition is hidden?**
-	- Account for all disk space when examining an evidence drive
-	- Analyse any disk areas containing more space that cannot be accounted for
-	- Hidden partition appears as highest available drive letter set in BIOS
+	- **Account** for all disk space when examining an evidence drive
+	- **Analyse** any disk areas containing **more space that cannot be accounted for**
+	- **Hidden partition** appears as **highest available drive** letter set in BIOS
 
 ##### Changing file extensions
 - Advanced digital forensics tools check file headers
