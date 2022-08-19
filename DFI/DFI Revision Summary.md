@@ -473,7 +473,7 @@
 	- Copy **Host Protected Area (HPA)** - the area not visible to an OS on drive
 - **What are some challenges in image acquisition?**
 	- Windows has whole disk encryption called **BitLocker** which makes static acquisition difficult
-	- Decryption keys provided by suspect is require to decrypt data
+	- Decryption keys provided by suspect is required to decrypt data
 		- suspect may not want to cooperate
 
 #### Acquisition Tools
