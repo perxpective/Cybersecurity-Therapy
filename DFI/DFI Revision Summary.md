@@ -1302,7 +1302,7 @@
 - **Requirements of evidence containers:**
 	- Made of **steel** with **internal cabinet** or **external padlock**
 	- Acquire media safe if possible
-		- Designed to protect electronic media
+		- Designed to **protect electronic media**
 	- Strong evidence storage room in lab
 	- Keep evidence log
 		- Update it every time evidence container is opened or closed
