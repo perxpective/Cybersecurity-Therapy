@@ -2039,26 +2039,30 @@
 	- Native iOS applications uses this database to store and organize data
 
 ### Chapter 12 - Rooting and Jailbreaking
+#### Overview
 - **Restrictions in mobile devices:**
 	- Limits application installation
 	- Limited access privileges to device
 	- **Code signing:**
 		- Security mechanism in iOS where all binaries and libraries must be signed up by trusted authority
 		- Assures users that it is from known source and app has not been modified since being last signed
-- **Rooting in Android**
-	- **Definition:**
-		- Android equivalent of jailbreaking
-	- **Explanation:**
-		- Means of unlocking operating system
-		- **To do the following:**
-			- Install unapproved apps
-			- Deleted unwanted bloatware
-			- Update OS
-			- Replace firmware and customization
-		- Allows users to gain "root" user privileges
-		- Allows **sideloading** without rooting by default:
-			- Installing apps from non-Android stores (`.apk` files)
-- **Motivations for end users to root or jailbreak:**
+
+#### Rooting in Android
+- **Definition:**
+	- Android equivalent of jailbreaking
+- **Explanation:**
+	- Means of unlocking operating system
+	- **To do the following:**
+		- Install unapproved apps
+		- Deleted unwanted bloatware
+		- Update OS
+		- Replace firmware and customization
+	- Allows users to gain "root" user privileges
+	- Allows **sideloading** without rooting by default:
+		- Installing apps from non-Android stores (`.apk` files)
+
+#### Motivations for End Users
+- **Motivations:**
 	- More application sources
 	- Access to unauthorized applications
 	- Remove bloatware (vendor-installed software)
@@ -2066,12 +2070,16 @@
 	- Increase available RAM or ROM
 	- Access restricted hardware resources
 		- To perform **system tweaking**
-- **Impacts of Jailbreaking:**
+
+#### Impacts of Jailbreaking
+- **Impacts:**
 	- Voiding of warranty
 	- Error and performance issues
 		- Can cause phones to be unstable
 	- Violation of organization's security policies on permitted activities with corporate devices (Example: EULA)
-- **Tools used in Jailbreaking:**
+
+#### Tools Used in Jailbreaking
+- **Tools:**
 	- ADB (Outdated)
 	- z4root
 	- SuperOneClick
