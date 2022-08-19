@@ -834,7 +834,8 @@
 - **What is an unintentional side effect of FAT16 having large clusters?**
 	- Reduces fragmentation as cluster size increased
 - **What if there is no more space for allocated cluster?**
-	- OS allocates another cluster for file creating more slack space on disk
+	- OS allocates another cluster for file 
+	- **Side effect:** Creates more slack space on disk
 
 > As files grow and require more disk space, assigned clusters are chained together
 > - This chain can be broken or fragmented due to deleted files or expansion files
