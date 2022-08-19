@@ -482,7 +482,7 @@
 		- Makes acquiring evidence from evidence drive more convenient
 	- **Disadvantages:**
 		- Acquired data must be protected by well-tested write-blocker hardware device
-		- Tools cannot acquire data from disk's host protected data
+		- Tools cannot acquire data from disk's **host protected area (HPA)**
 		- Several countries have not accepted use of write-blocking devices for data acquisitions
 
 #### Validation of Data Acquisitions
