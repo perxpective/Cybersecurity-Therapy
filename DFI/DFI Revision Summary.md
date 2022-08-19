@@ -1743,6 +1743,16 @@
 		- Unique 15-digit code 
 			- Used to identify individual GSM mobile telephone to mobile network
 	- Can be displayed by dialling `*#06#`
+	- **Fields:**
+		- **TAC**
+			- stands for **Type Approval Code**
+			- Identifies country in which type approval was sought for the phone and approval number
+		- **FAC**
+			- stands for **Final Assembly Code**
+			- Identifies company that produced the mobile phone
+		- **SNR**
+			- **Serial Number**
+			- 
 	- **Checksum validation:**
 		- **Steps to validate:**
 			- Double every two digits
