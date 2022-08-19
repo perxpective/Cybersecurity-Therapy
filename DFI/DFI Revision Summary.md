@@ -619,7 +619,7 @@
 	- Disk-to-disk
 	- Partition-to-partition
 	- Image-to-disk
-	- Rebuilding files from data runs and carving
+	- Rebuilding files from data runs and **carving**
 - **How to recreate image of suspect drive?**
 	- Copy the image to another location
 		- **Sources:**
@@ -1432,7 +1432,7 @@
 - **Difference between digital evidence and physical evidence:**
 	- Digital evidence can be changed easily
 	- **How to detect changes in digital evidence?**
-		- Compare hash values of original data and duplicate
+		- Compare hash values of **original data** and **duplicate copy**
 - **Hearsay**
 	- Most courts interprets computer records as hearsay evidence
 	- **Definition:**
@@ -1466,8 +1466,8 @@
 
 #### Best Evidence Rule
 - **Definition:**
-	- To prove the content of the written document, recording or photograph, the original copy is required
-	- Allows duplicates (copy) instead of the original if produced by the same impression as the original if the original cannot be obtained
+	- To **prove** the **content** of the written document, recording or photograph, the **original copy is required**
+	- **Allows duplicates (copy)** instead of the original if produced by the **same impression as the original** if the original cannot be obtained
 		- Although not always possible to produce the original
 - **Notes:**
 	- As long as bit-stream copies of data are created and maintained properly
