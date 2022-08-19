@@ -1268,8 +1268,8 @@
 	- **Requirements:**
 		- Electromagnetic Radiation Proofed
 			- **Reasons for proofing EMR:**
-				- Leaking signals can be used to reconstruct information
-				- Stops information systems from leaking through emanations 
+				- **Leaking signals** can be used to **reconstruct information**
+				- Stops information systems from **leaking** through emanations 
 				- Includes unintentional radio/electrical signals, sounds and vibrations
 	- **Limitations:**
 		- Expensive
@@ -1280,24 +1280,24 @@
 - **Why must evidence lockers be secured?**
 	- No unauthorized person have easy access to evidence
 - **Recommendations for evidence containers:**
-	- Locate them in a restricted area
-	- Limit number of authorized persons accessing the containers
-	- Maintain records on who authorized to access container
-	- Containers should remain locked when not in use
+	- **Locate** them in a **restricted area**
+	- **Limit** number of authorized persons accessing the containers
+	- **Maintain records** on who is authorized to access container
+	- Containers should **remain locked** when not in use
 - **If combination locking system is used:**
-	- Provide same level of security for combination as for container's contents
-	- Destroy any previous combinations after setting up new ones
-	- Allow only authorised personnel to change lock combination
-	- Change combination every six months when required
+	- Provide **same level of security** for combination as for container's contents
+	- **Destroy** any **previous combinations** after setting up **new ones**
+	- Allow only *authorised personnel* to **change lock combination**
+	- Change combination **every six months** when required
 - **If keyed padlock is used:**
-	- Appoint key custodian
-		- Responsible for distributing keys
-	- Stamp sequential numbers for each duplicate key
-	- Maintain registry listing of which key is assigned to which authorized person
-	- Conduct monthly audit
-	- Take inventory of all keys
-	- Place keys in lockable container
-	- Maintain same level of security for key as evidence containers
+	- **Appoint key custodian**
+		- Responsible for **distributing keys**
+	- Stamp **sequential numbers** for each **duplicate key**
+	- **Maintain registry listing** of which key is assigned to which authorized person
+	- Conduct **monthly audit**
+	- Take **inventory** of all keys
+	- Place keys in **lockable container**
+	- Maintain same level of security for keys as evidence containers
 	- Change locks and keys annually
 - **Requirements of evidence containers:**
 	- Made of steel with internal cabinet or external padlock
