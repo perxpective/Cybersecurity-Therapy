@@ -1058,21 +1058,15 @@
 	- Changing or manipulating a file to conceal information
 -  **Techniques:**
 	- Hiding entire partitions
-		- using disk management
+		- using disk management tools
 	- Changing file extensions
 	- Setting file attributes to hidden
 		- by changing file signatures
+	- Marking bad 
 	- Bit-shifting
 		- Shift 1 bit to the left
 	- Encryption
 	- Password protection
-
-##### Changing file extensions
-- Advanced digital forensics tools check file headers
-- Compares file extension and verifies if it is correct
-- If there are discrepancies, tool flags file as possible altered file
-- **Another hiding technique:**
-	- Selecting hidden attribute in file's properties dialog box
 
 ##### Hiding partitions
 - By using the following command: `diskpart remove letter`
@@ -1086,6 +1080,13 @@
 	- Account for all disk space when examining an evidence drive
 	- Analyse any disk areas containing more space that cannot be accounted for
 	- Hidden partition appears as highest available drive letter set in BIOS
+
+##### Changing file extensions
+- Advanced digital forensics tools check file headers
+- Compares file extension and verifies if it is correct
+- If there are discrepancies, tool flags file as possible altered file
+- **Another hiding technique:**
+	- Selecting hidden attribute in file's properties dialog box
 
 ##### Marking Bad Clusters
 - **Description:**
@@ -1103,7 +1104,6 @@
 	- Run another program to restore scrambled bits to original order
 
 > **Bit-Shifting** changes data from readable code to data that looks like binary executable code
-
 
 ##### Steganalysis
 - **Steganography**
