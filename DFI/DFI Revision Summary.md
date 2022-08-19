@@ -2103,6 +2103,7 @@
 	- Error and performance issues
 		- Can cause phones to be unstable
 	- Violation of organization's security policies on permitted activities with corporate devices (Example: EULA)
+	- Installing third-party tools that may be unsecure and untrusted
 
 #### Tools Used in Jailbreaking
 - **Tools:**
