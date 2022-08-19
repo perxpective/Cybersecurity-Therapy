@@ -577,11 +577,10 @@
 		- Ensuring that data is not changed
 		- Use hashing algorithms e.g. CRC-32, SHA-1, MD5
 	- **Filtering:**
-		- Separate good files and files that need to be investigated
-			- based on hash value sets
+		- Separate good files and files that need to be investigated based on hash value sets
 	- **Analysing file headers**
-		- Check on change of file type
-			- discriminate files based on file type
+		- Check on **change of file type**
+			- **discriminate** files based on file type
 		- **Where can the compiled list of known file hashes be found?**
 			- National Software Reference Library (NSRL)
 			- Includes:
@@ -589,7 +588,7 @@
 				- Applications
 				- Images
 		- Most computer forensics programs have list of common header values 
-			- check if file extension is incorrect for the file type
+			- Check if file extension is incorrect for the file type
 
 ##### Extraction
 - **Explanation:**
@@ -600,15 +599,15 @@
 	- **Data viewing:**
 		- Different tools can provide different ways of viewing data
 	- **Keyword Searching:**
-	- Speeds up analysis for investigators
-		- Drawback: Produces noise if wrong keyword is used
+		- **Speeds up analysis** for investigators
+		- **Drawback:** Produces **noise** if wrong keyword is used
 	- **Carving:**
-		- Reconstruct file fragments
+		- **Reconstruct** file fragments
 	- **Decrypting:**
 		- Potential problem for the investigation
 	- **Bookmarking (or tagging)**
 - **Password Recovery:**
-	- Use *password recovery tools* 
+	- Use **password recovery tools** 
 		- have feature to generate potential password lists for password dictionary attack
 	- If password dictionary attack fails, run brute-force attack
 
