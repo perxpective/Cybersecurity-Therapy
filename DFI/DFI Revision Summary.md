@@ -1082,25 +1082,25 @@
 	- **Hidden partition** appears as **highest available drive** letter set in BIOS
 
 ##### Changing file extensions
-- Advanced digital forensics tools check file headers
-- Compares file extension and verifies if it is correct
-- If there are discrepancies, tool flags file as possible altered file
+- Advanced digital forensics tools **check file headers**
+- **Compares file extension to its file signature** and **verifies** if it is correct
+- If there are discrepancies, tool **flags** file as **possible altered file**
 - **Another hiding technique:**
 	- Selecting hidden attribute in file's properties dialog box
 
-##### Marking Bad Clusters
+##### Marking Bad Clusters (Only for FAT)
 - **Description:**
-	- Data hiding technique used in FAT file systems
-	- Places sensitive or incriminating data in free or slack space on disk partition clusters
-	- Involves using old utilities such as Norton or DiskEdit
+	- Data hiding technique used in **FAT file systems**
+	- Places **sensitive** or **incriminating** data in **free or slack space** on disk partition clusters
+	- Involves using old utilities such as **Norton** or **DiskEdit**
 		- DiskEdit only runs on MS-DOS and can access only FAT-formatted disk media
 
 ##### Bit Shifting
 - **Description:**
-	- Done by changing the order of binary data
-		- by using low-level encryption programs
-	- Makes altered data unreadable 
-	- To secure a file, users run assembler program to scramble bits
+	- Done by **changing the order** of **binary data**
+		- by using **low-level encryption programs**
+	- Makes *altered data* **unreadable** 
+	- To secure a file, users run **assembler program** to scramble bits
 	- Run another program to restore scrambled bits to original order
 
 > **Bit-Shifting** changes data from readable code to data that looks like binary executable code
