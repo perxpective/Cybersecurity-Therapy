@@ -214,7 +214,7 @@
 	- Investigate suspect's computer
 	- Preserve evidence on different computer (forensics workstation)
 - **What is a Chain of Custody?**
-	- Document of the route that evidence takes from the time it is found until case is closed or goes to court
+	- The route that evidence takes from the time it is found until case is closed or goes to court
 	- To be filled up every time the evidence is passed to another person
 
 #### Computer Crime
