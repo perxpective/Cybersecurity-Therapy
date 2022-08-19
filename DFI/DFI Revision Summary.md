@@ -315,7 +315,7 @@
 		- **Technology Specialist** -> Knowledgeable about suspected compromised data
 		- **Network Specialist** -> Perform log analysis and set up network sniffers
 		- **Threat Assessment Specialist** -> Typically an attorney
-	- **What are some guidelines to follow when initiating an investigation? (DCDG)** 
+	- **What are some guidelines to follow when initiating an investigation?** 
 		- **Determine** if investigation involves **possible espionage incident**
 		- **Consult** with **corporate attorneys** and **upper management**
 		- **Determine** what information needed to **substantiate allegation**
