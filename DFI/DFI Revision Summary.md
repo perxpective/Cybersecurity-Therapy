@@ -403,21 +403,21 @@
 	- Advanced Forensics Format (AFF)
 - **What are the advantages and disadvantages of Raw Format?**
 	- **Advantages:**
-		- Fast data transfers
-		- Ignore minor data read errors on source drive
+		- **Fast** data transfers
+		- **Ignore minor data read errors** on source drive
 		- Most computer forensics tools can read raw format
 	- **Disadvantages:**
-		- Requires too much storage as original disk or data
-		- Tools might not collect marginal sectors 
+		- Requires **too much storage** as original disk or data
+		- Tools might not **collect marginal sectors** 
 			- due to low threshold of retry reads on weak media spots on drive
 - **What are the advantages and disadvantages of Proprietary Format?**
 	- **Advantages:**
-		- Option to compress or not compress image files to save space
-		- Can split image into smaller segmented files 
+		- Option to **compress** or **not compress image files** to save space
+		- Can **split image** into **smaller segmented files** 
 			- provide integrity check for split data
-		- Able to integrate metadata into file
+		- Able to **integrate metadata** into file
 	- **Disadvantages:**
-		- Unable to share image between different tool or vendors
+		- Unable to share image between **different tool or vendors**
 		- File size limitation for each segmented volume
 - **What are the design goals of AFF?**
 	- Provide compress or uncompressed image files
@@ -509,14 +509,14 @@
 		- Encase
 		- ProDiscover
 	- **What are some issues with remote acquisition?**
-		- Antiviruses, antispyware and firewalls tools can be configured to ignore remote access programs and access can be blocked
+		- Antiviruses, antispyware and firewall tools can be configured to ignore remote access programs and access can be blocked
 		- Suspects can easily install their own security tools that trigger alarms to inform them of remote access intrusions
 	- **Capabilities of Remote Acquisition Tools:**
-		- Preview suspect drive remotely while in use or powered on
-		- Perform live acquisition (aka smear) as disk data is altered while suspect computer is turned on
-		- Encrypts connection between suspect and examiner computer
-		- Copy suspect computer's RAM while computer is on
-		- Use optional stealth mode to hide remote connection from suspect while data is being acquired or previewed
+		- **Preview** suspect drive remotely while in use or powered on
+		- Perform **live acquisition** (aka smear) as disk data is altered while suspect computer is turned on
+		- **Encrypts connection** between suspect and examiner computer
+		- **Copy suspect computer's RAM** while computer is on
+		- **Use optional stealth mode** to **hide remote connection** from suspect while data is being acquired or previewed
 		- **Additional Functions:**
 			- Create volatile system state information
 			- Analyse current running processes on remote system
