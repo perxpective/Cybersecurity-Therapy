@@ -1421,8 +1421,8 @@
 	- **Verify** work
 	- Enhance **credibility**
 - **Notes:**
-	- Comply with state rules of evidence
-		- for security and accountability control of evidence
+	- **Comply** with **state rules of evidence**
+		- for **security** and **accountability** control of evidence
 	- Evidence admitted in criminal case can be used in civil suit and vice versa
 	- **Be updated on latest rulings and directives on the following:**
 		- collecting
@@ -1432,7 +1432,7 @@
 - **Difference between digital evidence and physical evidence:**
 	- Digital evidence can be changed easily
 	- **How to detect changes in digital evidence?**
-		- Compare original data with duplicate hash values
+		- Compare hash values of original data and duplicate
 - **Hearsay**
 	- Most courts interprets computer records as hearsay evidence
 	- **Definition:**
@@ -1444,9 +1444,9 @@
 - **Computer records:**
 	- **Types:**
 		- **Computer-generated records**
-			- Data maintained by system and not usually data created by humans
+			- Data maintained by system and not usually data **created by humans**
 		- **Computer-stored records**
-			- Electronic data person created and saved on a computer such as a spreadsheet or word processing document
+			- Electronic data **person created** and **saved on a computer** such as a spreadsheet or word processing document
 	- **Conditions for evidence to be admitted into court**
 		- Authentic
 		- Trustworthy
