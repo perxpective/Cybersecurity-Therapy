@@ -608,13 +608,13 @@
 	- **Bookmarking (or tagging)**
 - **Password Recovery:**
 	- Use **password recovery tools** 
-		- have feature to generate potential password lists for password dictionary attack
-	- If password dictionary attack fails, run brute-force attack
+		- have feature to generate potential password lists for **password dictionary attack**
+	- If password dictionary attack fails, run **brute-force attack**
 
 ##### Reconstruction
 - **Objective:**
-	- To recreate the suspect drive to show what happened during the crime or incident
-	- Create copy of suspect drive for other investigators
+	- To **recreate the suspect drive** to show *what happened during the crime or incident*
+	- **Create copy of suspect drive** for other investigators
 - **Methods:**
 	- Disk-to-disk
 	- Partition-to-partition
@@ -622,11 +622,11 @@
 	- Rebuilding files from data runs and carving
 - **How to recreate image of suspect drive?**
 	- Copy the image to another location
-		- Sources:
+		- **Sources:**
 			- partition
 			- physical disk
 			- virtual machine
-		- Use a tool that makes direct disk-to-image copy
+		- Use a tool that makes **direct disk-to-image copy**
 			- **Examples:**
 				- Linux `dd` command
 				- ProDiscover
