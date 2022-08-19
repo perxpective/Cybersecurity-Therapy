@@ -763,11 +763,11 @@
 	> Generally, memory cells can perform 10k-100k reads and writes
 
 - **Why must a full forensic copy be made when dealing with solid-state drives?**
-	- In case there is a need to recover data from unallocated space, wear-levelling feature automatically overwrites unallocated space
+	- In case there is a need to recover data from unallocated space, wear-levelling feature **automatically overwrites unallocated space**
 
 #### Microsoft File Structures (MFS)
 - **Clusters**
-	- Storage allocation of one or more sectors
+	- Storage allocation of **one or more sectors**
 	- **Combining Sectors**
 		- Reduces overhead of writing and reading files to disk
 	- **Numbering in NTFS and FAT**
@@ -778,10 +778,10 @@
 		- boot record
 		- file structure database
 	- **What are logical addresses?**
-		- Cluster number assigned by the OS
+		- **Cluster number** assigned by the OS
 		- Address point to relative position
 	- **What are physical addresses?**
-		- Sector numbers
+		- **Sector numbers**
 		- From address 0 to last sector of disk
 
 #### Disk Partitions
@@ -789,15 +789,16 @@
 	-  a logical drive
 - Windows OS have three primary partitions followed by an extended partition that can contain more more than one partition
 - **Partition Gap**
-	- Unused space between partitions 
-	- Can be used to hide data
+	- **Unused space** between partitions 
+	- Can be used to **hide data**
 - **Partition Table**
-	- Table maintained on disk by operating system describing partitions on the disk
+	- Table maintained on disk by operating system **describing partitions on the disk**
 	- Located in the **Master Boot Record (MBR)**
 	- **What is the Master Boot Record?**
 		- Located in **Sector 0** of the disk drive
-		- Precedes the first partition
-		- Stores information about partitions in a disk and their locations, size and other important items
+		- Contains the **partition table**
+		- Precedes the **first partition**
+		- Stores information about **partitions in a disk** and their **locations**, **size** and other important items
 - **How is the file system identified and maintained?**
 	- Key hexadecimal codes
 - **Partition Table in Hexadecimal Editor**
