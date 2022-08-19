@@ -446,9 +446,11 @@
 		- Bit-stream replication of the original disk drive
 	- Creating disk-to-disk
 		- Alternative method if disk-to-image is not possible
-		- Tools 
+		- Tools can adjust disk's geometry
 	- Creating logical disk-to-disk
+		- Captures only specific files of interest to the case excluding unallocated space
 	- Creating a sparse copy of the file or folder
+		- Similar to logical acquisition, but collects fragments of unallocated files only
 
 - **What are some considerations when making a copy?**
 	- **Size of source disk**
