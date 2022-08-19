@@ -6,11 +6,25 @@
       {
         "id": "70f05ce2057f0b5a",
         "type": "leaf",
+        "dimension": 60.48593350383632,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
             "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "058a444c2c1dd001",
+        "type": "leaf",
+        "dimension": 39.514066496163686,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DFI/DFI Revision Summary.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
