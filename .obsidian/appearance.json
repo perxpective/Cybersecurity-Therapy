@@ -3,7 +3,7 @@
   "textFontFamily": "Inter,SF Pro Display,Segoe UI",
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "California Coast",
-  "baseFontSize": 16,
+  "baseFontSize": 19,
   "theme": "moonstone",
   "translucency": false
 }
