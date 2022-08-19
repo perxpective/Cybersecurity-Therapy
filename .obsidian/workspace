@@ -6,7 +6,7 @@
       {
         "id": "70f05ce2057f0b5a",
         "type": "leaf",
-        "dimension": 60.48593350383632,
+        "dimension": 43.35472043996333,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,17 +17,36 @@
         }
       },
       {
-        "id": "058a444c2c1dd001",
-        "type": "leaf",
-        "dimension": 39.514066496163686,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
+        "id": "ddcd2734c722ccec",
+        "type": "split",
+        "dimension": 56.64527956003666,
+        "children": [
+          {
+            "id": "058a444c2c1dd001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Revision Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3fbf3ea379a8693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Chapter 5 - Evidence Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -67,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -129,11 +147,11 @@
     "width": 303.5,
     "collapsed": true
   },
-  "active": "70f05ce2057f0b5a",
+  "active": "058a444c2c1dd001",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 9 - Historical Cellular.md",
-    "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
+    "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 9 - Historical Cellular.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
