@@ -1011,14 +1011,14 @@
 
 #### Scope Creep
 - **Explanation:**
-	- Occurs when expands beyond the original description 
+	- Occurs when the investigation expands beyond the original description 
 	- **Reason:**
 		- Due to unexpected evidence found
 	- Attorneys might ask investigators to examine other areas to obtain more evidence
 	- Increases time and resources needed to extract, analyse and present evidence
 	- Required to document additional time spent on recovering additional evidences
 	- **Why is scope creep getting more common?**
-		- Criminal investigations require more detail examination of evidence before trial
+		- Criminal investigations require more detailed examinations of evidence before trial
 		- Scope creep can help prosecutors fend off attacks from defence attorneys
 
 #### OSForensics Data Analysis
@@ -1031,7 +1031,7 @@
 	- Linux Ext2fs/Ext4fs
 
 #### Validating Forensic Data
-- **Why validation it important?**
+- **Why is validation important?**
 	- To ensure integrity of data collected essential for presenting evidence in court
 - **Validating with hexadecimal editor**
 	- **Features offered that are not available in digital forensics tools:**
