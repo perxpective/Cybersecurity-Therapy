@@ -508,8 +508,8 @@
 		- Encase
 		- ProDiscover
 	- **What are some issues with remote acquisition?**
-		- Antiviruses, antispyware and firewall tools can be configured to ignore remote access programs and access can be blocked
-		- Suspects can easily install their own security tools that trigger alarms to inform them of remote access intrusions
+		- **Antiviruses, antispyware and firewall tools** can be configured to **ignore** remote access programs and **access can be blocked**
+		- Suspects can easily **install their own security tools** that **trigger alarms** to inform them of **remote access intrusions**
 	- **Capabilities of Remote Acquisition Tools:**
 		- **Preview** suspect drive remotely while in use or powered on
 		- Perform **live acquisition** (aka smear) as disk data is altered while suspect computer is turned on
@@ -517,25 +517,25 @@
 		- **Copy suspect computer's RAM** while computer is on
 		- **Use optional stealth mode** to **hide remote connection** from suspect while data is being acquired or previewed
 		- **Additional Functions:**
-			- Create volatile system state information
-			- Analyse current running processes on remote system
-			- Locate unseen files and processes on remote system that might be running malware or spyware
-			- Remotely view and listen to IP ports on compromised system
+			- Create **volatile system state information**
+			- Analyse **current running processes** on remote system
+			- **Locate unseen files and processes** on remote system that might be running **malware or spyware**
+			- **Remotely view and listen** to IP ports on *compromised system*
 			- Run hash comparisons on remote systems to search for Trojans and rootkits
-			- Create has inventory of all files on system remotely to establish baseline if attacked
+			- **Create inventory** of all files on system remotely to **establish baseline if attacked**
 
 ### Chapter 4 - Forensics Tools
 #### Overview of Forensics Tools
 - **Types of Forensics Tools:**
 	- **Hardware forensics tools**
 		- Ranges from:
-			- single-purpose components to;
-			- complete computer systems and servers
+			- **single-purpose** components to;
+			- **complete** computer systems and servers
 	- **Software forensics tools**
 		- Ranges from $300 and above
 		- Can be either of the following:
-			- command-line applications
-			- GUI applications
+			- **command-line** applications
+			- **GUI** applications
 		- Commonly used to copy data from suspect disk drive to image file
 
 #### Tasks Performed by Digital Forensics Tools
@@ -559,16 +559,16 @@
 > Remote acquisition is common in larger organizations
 
 - **What are the types of data-copying methods used in acquisitions?**
-	- Physical copying of the entire drive
-	- Logical copying of disk partition
+	- **Physical copying** of the entire drive
+	- **Logical copying** of disk partition
 
 > Formats for disk acquisitions vary from raw data to vendor-specific proprietary
 
 ##### Validation and Verification
 - **Validation**
 	- **Explanation:**
-		- A way to confirm a tool is function as intended
-		- Ensuring that integrity of data is being copied
+		- A way to **confirm** a tool is functioning as **intended**
+		- Ensuring that **integrity** of data is being copied
 - **Verification**
 	- **Explanation:**
 		- Proving that the two sets of data are identical by calculating hash values or using similar methods
