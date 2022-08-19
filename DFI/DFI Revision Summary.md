@@ -1100,8 +1100,8 @@
 	- Done by **changing the order** of **binary data**
 		- by using **low-level encryption programs**
 	- Makes *altered data* **unreadable** 
-	- To secure a file, users run **assembler program** to scramble bits
-	- Run another program to restore scrambled bits to original order
+	- To secure a file, users run **assembler program** to **scramble bits**
+	- Run another program to **restore scrambled bits** to **original order**
 
 > **Bit-Shifting** changes data from readable code to data that looks like binary executable code
 
@@ -1115,15 +1115,14 @@
 	- **Definition:**
 		- Term for detecting and analysing steganography files
 - **Digital Watermarking**
-	- **Explanation:**
-		- **Purpose:**
-			- Developed to protect file ownership
-		- Not visible when used for steganography
+	- **Purpose:**
+		- Developed to protect file ownership
+	- Not visible when used for steganography
 - **Steganography tools**
 	- Freeware or shareware
 	- Inserts information into variety of files
 - If plaintext file encrypted with PGP and encrypted text is inserted into steganography file -> cracking encrypted message is difficult
-- **Steganalysis methods:**
+- **Steganalysis methods: (S KC KM CS CM)**
 	- **Steg-only attack:**
 		- only have covered file to analyse
 	- **Known cover attack:**
