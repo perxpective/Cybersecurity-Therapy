@@ -498,12 +498,11 @@
 - **Windows Validation Methods:**
 	- Use **third-party utilities** such as WinHex (hexadecimal editor)
 	- Commercial computer forensics programs have **built-in validation features**
-		- Each program having their own validation techniques
 		- **Examples:**
-			- ProDiscover `.eve` files contain metadata in acquisition file or segmented files
+			- ProDiscover `.eve` files **contain metadata** in acquisition file or segmented files
 				- including hash value of suspect drive or partition
-			- Raw image formats do not contain metadata
-				- separate manual validation is recommended for all raw acquisitions
+			- Raw image formats **do not contain metadata**
+				- separate **manual validation** is recommended for all raw acquisitions
 - **Remote Network Acquisition Tools**
 	- **Tools that support remote acquisition:**
 		- Encase
