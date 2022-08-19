@@ -720,7 +720,7 @@
 - **BIOS/EFI**
 	> **BIOS** - Basic Input Output System
 	> **EFI** - Extensible Firmware Interface
-	- Contains programs that perform input/output at the hardware level
+	- Contains programs that **perform input/output at the hardware level**
 - **Bootstrap Process**
 	- Contained in **ROM (Read-Only Memory)**
 	- Tells computer how to proceed
@@ -738,7 +738,7 @@
 
 #### Disk Drives
 - **Description:**
-	- Disk drives made up of one or more platters coaters with magnetic material
+	- Disk drives made up of **one or more platters coaters** with **magnetic material**
 - **Disk Drive Components:**
 	- Geometry (Structure of data)
 	- Head
