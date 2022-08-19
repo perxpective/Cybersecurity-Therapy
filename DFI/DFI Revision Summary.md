@@ -1726,7 +1726,7 @@
 	- **Format:**
 		- `RR`: Regional code (globally administered)
 		- `XXXXXX`:
-			- 000000
+			- `000000`
 				- For small quantities of prototype mobiles
 			- `000001` to `FFFFFE`
 				- **Allocated to:**
