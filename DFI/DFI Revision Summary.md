@@ -1647,19 +1647,19 @@
 
 #### Cellular Hand Off
 - **What is cellular handoff?**
-	- 
+	- The process of transferring an ongoing call from one cell to another cell
 - **When is handoff needed?**
 	- When signal on channel from tower servicing the call becomes weaker during the call
 	- If there is no tower with a stronger signal, the call is dropped
 - **Types of handoff:**
 	- **Hard Handoff**
-		- Existing connection must be broken when new one created (Break then make)
+		- Existing connection must be broken when new one created **(Break then make)**
 		- Allocates different frequency
 		- Usually not very complicated
 		- Handset is always communicated with one base station at a time
 	- **Soft Handoff**
-		- Connection is made before old one is released (Make before break)
-		- More complex than hard handoff
+		- Connection is made before old one is released **(Make before break)**
+		- **More complex** than hard handoff
 		- Communicate up to 3-4 base stations simultaneously
 
 #### Cellular Subsets
