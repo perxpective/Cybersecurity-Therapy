@@ -832,7 +832,7 @@
 		- **File slack**
 			- Unused space allocated for a file
 - **What is an unintentional side effect of FAT16 having large clusters?**
-	- Reduces fragmentation as cluster size increased
+	- Reduces fragmentation as cluster size increases
 - **What if there is no more space for allocated cluster?**
 	- OS allocates another cluster for file 
 	- **Side effect:** Creates more slack space on disk
@@ -857,8 +857,8 @@
 	- Introduced with Windows NT
 	- Main file system for Windows 8 or later
 	- **What are some improvements NTFS has over FAT?**
-		- Provides more information about a file
-		- Gives more control over files and folders
+		- Provides **more information** about a file
+		- Gives **more control** over files and folders
 	- Known as a journaling file system
 		- **What does it mean when NTFS is known as a journaling file system?**
 			- Records transaction before system deletes file
