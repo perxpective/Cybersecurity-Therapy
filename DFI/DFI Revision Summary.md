@@ -1752,7 +1752,10 @@
 			- Identifies company that produced the mobile phone
 		- **SNR**
 			- **Serial Number**
-			- 
+			- Uniquely assigned to specific type of handset
+		- **CD**
+			- stands for **check digit**
+			- Used to check IMEI for validity
 	- **Checksum validation:**
 		- **Steps to validate:**
 			- Double every two digits
@@ -2094,8 +2097,8 @@
 	- Access restricted hardware resources
 		- To perform **system tweaking**
 
-#### Impacts of Jailbreaking
-- **Impacts:**
+#### Considerations of Jailbreaking
+- **Considerations:**
 	- Voiding of warranty
 	- Error and performance issues
 		- Can cause phones to be unstable
