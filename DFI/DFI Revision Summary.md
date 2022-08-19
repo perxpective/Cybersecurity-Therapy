@@ -1315,9 +1315,9 @@
 		- Antistatic pads
 		- Clean **floor** and **carpets** to **minimize dust**
 	- Maintain **two separate trash containers**:
-		- 1 for materials unrelated to investigation
-		- 1 for sensitive materials
-	- If possible, hire specialized companies for disposing sensitive materials
+		- 1 for **materials unrelated to investigation**
+		- 1 for **sensitive materials**
+	- If possible, **hire specialized companies** for disposing sensitive materials
 
 #### Physical Security Needs
 - Enhance security by setting security policies
@@ -1326,14 +1326,14 @@
 		- **Who is a visitor?**
 			- Anyone not assigned to the lab
 	- **Escort** visitors in the lab **at all times**
-	- Use **visible** or audible indicators that visitor is inside in the premises
+	- Use **visible or audible indicators** that visitor is **inside in the premises**
 		- **Example:** visitor badge
 	- Install **intrusion alarm system**
-	- Hire guard force for lab
+	- **Hire guard force** for lab
 
 #### Auditing Digital Forensics Lab
 - **Include the following in an audit:**
-	- Inspection of the following facility components and practices:
+	- **Inspection** of the following facility components and practices:
 		- Ceiling, floor, roof, exterior walls of lab
 		- Door and door locks
 		- Visitor logs
@@ -1342,13 +1342,13 @@
 
 #### Determining Floor Plans for Digital Forensics Lab
 - **Factors affecting configuration of work area:**
-	- Budget
-	- Amount of floor space available
-	- Number of computers assigned to each computing investigator
+	- **Budget**
+	- Amount of **floor space** available
+	- **Number of computers** assigned to each computing investigator
 - **Ideal configuration for digital forensics lab:**
 	- 2 forensics workstations
-		- 1 workstation for 2-3 cases a month
-	- 1 non-forensic workstation with Internet access
+		- 1 workstation for **2-3 cases a month**
+	- 1 non-forensic workstation with **Internet access**
 
 #### Selecting Basic Forensics Workstation
 - **How to select a basic forensics workstation?**
