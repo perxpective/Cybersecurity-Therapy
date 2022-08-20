@@ -1770,8 +1770,8 @@
 				- Checksum is the number that when added makes sum divisible by 10
 - **IMSI**
 	- **Description:**
-		- Global unique identifier
-			- Always 56-bit and unique in every network
+		- **Global unique identifier**
+			- Always **56-bit** and unique in every network
 		- Allowed for authentication of a device to a network
 	- **Format:**
 		- **Consists of 3 parts:**
@@ -1801,9 +1801,9 @@
 			- OS version of device
 	- **Take picture of the phone** before starting any progress
 	- **Request** for PIN, pattern, password SIM pin
-	- Check for **Unified Endpoint Management Solutions**:
+	- Check for **Unified Endpoint Management Solutions (UEMS)**:
 	- Account for **status of the device**:
-		- Check if it is powered on or off
+		- Check if it is **powered on or off**
 			- **If powered on:**
 				- Check **battery** and **network status**
 			- Check where screen is locked
