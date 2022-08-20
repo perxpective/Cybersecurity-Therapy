@@ -1218,7 +1218,7 @@
 	- **Use statistics** to determine type of computer crimes **more likely to occur**
 		- **Why?**
 			- Better estimate the resources required
-- **What to check when setting up investigative lab for a private company?*
+- **What to check when setting up investigative lab for a private company?**
 	- **Hardware** and **software** inventory
 	- **Reported problems** from previous year
 	- **Future development** in computing technology
@@ -1264,7 +1264,7 @@
 > High-risk investigations demand more security minimum lab requirements
 - Requires **TEMPEST facilities**
 	- **Requirements:**
-		- Electromagnetic Radiation Proofed
+		- **Electromagnetic Radiation Proofed**
 			- **Reasons for proofing EMR:**
 				- **Leaking signals** can be used to **reconstruct information**
 				- Stops information systems from **leaking** through emanations 
