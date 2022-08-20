@@ -1828,11 +1828,11 @@
 
 #### Hashing
 - **Purpose:**
-	- Prove integrity of evidence
+	- Prove **integrity** of evidence
 - **Description:**
 	- Done after acquisition of device
-	- Perform MD5 or SHA to calculate has values
-	- Document hash values to maintain record of digital evidence
+	- Perform MD5 or SHA to **calculate hash values**
+	- **Document hash values** to **maintain record** of *digital evidence*
 
 #### Device Accessibility
 - **Factors affecting mobile acquisition of device:**
@@ -1852,7 +1852,7 @@
 		- Mobile acquisition can be done using the Android Debugging Bridge (ADB) via **Bluetooth connection**.
 	- **Wireless**
 		- Acquisition can be done using ADB via **Wi-Fi**
-		- Mobile device and acquisition machine must be connected to the same Wi-Fi network
+		- Mobile device and acquisition machine must be connected to the **same Wi-Fi network**
 - **Pre-requisites**
 	- **Media Transfer Protocol**
 		- Allow media files to be transferred automatically between portable device
