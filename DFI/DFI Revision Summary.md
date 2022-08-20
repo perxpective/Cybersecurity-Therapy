@@ -1893,10 +1893,10 @@
 		- Custom
 - **Fastboot Mode**
 	- **Description:**
-		- Tool that comes with SDK package
-		- Can be used to reflash partitions on Android device
-		- Alternative to recovery mode for doing installation and updates
-		- Used for unlocking bootloader for some Android device models
+		- Tool that comes with **SDK package**
+		- Can be used to **reflash partitions** on Android device
+		- **Alternative to recovery mode** for doing **installation and updates**
+		- Used for **unlocking bootloader** for some Android device models
 
 #### Android Operating System
 - **Description:**
@@ -1905,6 +1905,14 @@
 	- Created by Google
 
 #### Android Architecture
+- **Overview:**
+	- Linux Kernel
+	- Hardware Abstraction Level
+	- Java API Framework
+	- Android Runtime
+	- Native C/C++ Libraries
+	- System Apps
+	- User Installed Apps
 - **Linux Kernel**
 	- **Functions:**
 		- Process management
@@ -2309,3 +2317,5 @@
 ![400](https://i.imgur.com/CAc3jVL.png)
 **MEID Fields**
 ![600](https://i.imgur.com/r39l7hY.png)
+
+### Chapter 10
