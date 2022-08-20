@@ -1813,15 +1813,15 @@
 		- Enable **airplane mode**
 		- Check and **manually disable** hotspots or GPS locations, Wi-Fi and Bluetooth
 		- **Do not remove** SIM or SD cards
-		- Connect phone to power bank
-		- Put phone, adapters and chargers in a Faraday bag
+		- Connect phone to **power bank**
+		- Put phone, adapters and chargers in a **Faraday bag**
 	- **If device is off:**
-		- Do not turn it on
-		- Place in evidence bag or box
-		- If Faraday bag is available, place phone, adapter and chargers into the bag
-		- Bring back to forensics lab
-		- Write-protect SD card and remove SIM card
-		- Perform acquisition of SIM and SD card
+		- **Do not** turn it on
+		- Place in **evidence bag or box**
+		- If Faraday bag is available, place phone, adapter and chargers into the **Faraday bag**
+		- Bring back to **forensics lab**
+		- **Write-protect** SD card and **remove SIM card**
+		- **Perform acquisition** of **SIM** and **SD** card
 		- Phone cannot be left powered during acquisition process
 		- Turn on phone if necessary and treat it as if it was on
 		- Apply isolation techniques mentioned earlier
