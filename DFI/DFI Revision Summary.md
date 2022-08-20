@@ -1615,8 +1615,8 @@
 
 #### Mobile Telephone Switching Office
 - **Explanation:**
-	- Contains switching equipment for routing mobile phone calls
-	- Handles the entire cell network
+	- Contains **switching equipment** for **routing mobile phone calls**
+	- Handles the **entire cell network**
 	- Controls **hand-off**
 		- **What is hand-off?**
 			- Process of transferring ongoing call or data session from one cell to another cell
@@ -1630,7 +1630,7 @@
 	- Phone makes an outbound call
 	- Sends radio signal to the MTSO
 	- MTSO sends the signal to the PTSN
-- **When phone is turned on:**
+- **What happens when phone is turned on?**
 	- Phone listens for carrier and looks for a match
 	- Phone must match service or phone goes into roam or no service
 - **What happens when phone makes a call?**
