@@ -1295,7 +1295,7 @@
 	- Conduct **monthly audit**
 	- Take **inventory** of all keys
 	- Place keys in **lockable container**
-	- Maintain **same level of security** for keys as evidence containers
+		- Maintain **same level of security** for keys as evidence containers
 	- Change locks and keys **annually**
 - **Requirements of evidence containers:**
 	- Made of **steel** with **internal cabinet** or **external padlock**
