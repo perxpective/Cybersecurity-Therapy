@@ -1680,7 +1680,7 @@
 			- **Spreads** information contained in particular signal of interest over much **greater bandwidth than original signal**
 		- Assigns code to **each piece of data** passed across spectrum
 		- Unable to carry voice and data simultaneously
-		- **Two channels:**
+		- **Consists of two channels:**
 			- Encode
 			- Decode
 	- **BitPIM Software for CDMA**
