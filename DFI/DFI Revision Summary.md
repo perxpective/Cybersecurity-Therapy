@@ -1324,7 +1324,7 @@
 		- **Who is a visitor?**
 			- Anyone not assigned to the lab
 	- **Escort** visitors in the lab **at all times**
-	- Use **visible or audible indicators** that visitor is **inside in the premises**
+	- Use **visible or audible indicators** to indicate that visitor is **inside in the premises**
 		- **Example:** visitor badge
 	- Install **intrusion alarm system**
 	- **Hire guard force** for lab
