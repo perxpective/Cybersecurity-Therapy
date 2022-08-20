@@ -1782,15 +1782,15 @@
 - **What is Android Forensics?**
 	- Handling of **recovering** and **analysis** of data in an **Android device** via techniques under **forensically sound conditions**
 - **What are some challenges in mobile forensics?**
-	- Wide range of operating systems and device models
-	- Preventing data alterations on mobile devices
-	- Inherent security features
+	- **Wide range** of operating systems and device models
+	- **Preventing data alterations** on mobile devices
+	- **Inherent** security features
 	- Legal issues
 
 #### Seizure and Isolation
 - **What to do when seizing an Android phone?**
-	- Note location where mobile phone was found
-	- Take picture of location with camera
+	- **Note** location where mobile phone was found
+	- **Take picture** of location with camera
 	- **Establish chain of custody**
 		- Take pictures of crime scene
 		- **Acquire the following:**
