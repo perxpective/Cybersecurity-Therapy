@@ -2306,6 +2306,10 @@
 **Non-resident file in MFT record (hexadecimal editor)**
 ![](https://i.imgur.com/SPXTBn4.png)
 
+**Alternate data stream in NTFS**
+![500](https://i.imgur.com/cDzI0Eq.png)
+
+
 **Virtual cluster numbers (VCN)**
 ![](https://i.imgur.com/MJEdC6h.png)
 
