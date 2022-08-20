@@ -1921,13 +1921,13 @@
 		- Networking
 - **Hardware Abstraction Level (HAL)**
 	- **Functions:**
-		- Allows higher level Java framework to work with hardware of mobile device
-		- Can be done due to multiple library modules
-			- provides interfaces for different types of hardware components
+		- Allows **higher level Java framework** to work with **hardware of mobile device**
+		- Can be done due to **multiple library modules**
+			- provides interfaces for **different types of hardware components**
 			- **Examples:** Bluetooth, camera
 - **Android Runtime**
-	- Instance that all applications run with together with their own processes
-	- Allows several virtual machines to run on low-memory devices by executing DEX (Dalvik Executable files)
+	- Instance that all applications run with together with their **own processes**
+	- Allows several virtual machines to **run on low-memory devices** by executing **DEX** (Dalvik Executable files)
 - **Native C/C++ Libraries**
 	- **Contains:** 
 		- C and C++ native libraries
