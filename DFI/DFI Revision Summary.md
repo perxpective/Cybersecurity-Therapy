@@ -1603,7 +1603,7 @@
 			- Converts electrical signal and transmits it via radio waves to nearest cell tower
 	- **Half-Duplex**
 		- Citizen-Band (CB) radios
-		- Only one part can speak at a time
+		- Only one party can speak at a time
 		- **How do CB radios communicate?**
 			- Uses radio waves to talk to cell tower that connects it to the rest of the phone network
 
