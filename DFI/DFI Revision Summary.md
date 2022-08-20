@@ -1745,9 +1745,9 @@
 - **IMEI**
 	- **Description:**
 		- Stands for **International Mobile Equipment Identity**
+		- Used to identify **individual GSM mobile telephone** to **mobile network**
 	- **Format:**
 		- Unique **15-digit** code 
-			- Used to identify individual GSM mobile telephone to mobile network
 	- Can be displayed by dialling `*#06#`
 	- **Fields:**
 		- **TAC**
