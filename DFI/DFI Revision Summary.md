@@ -1755,10 +1755,10 @@
 			- Identifies country in which type approval was sought for the phone and approval number
 		- **FAC**
 			- stands for **Final Assembly Code**
-			- Identifies company that produced the mobile phone
+			- Identifies **company** that produced the mobile phone
 		- **SNR**
 			- **Serial Number**
-			- Uniquely assigned to specific type of handset
+			- **Uniquely assigned** to specific type of handset
 		- **CD**
 			- stands for **check digit**
 			- Used to check IMEI for validity
