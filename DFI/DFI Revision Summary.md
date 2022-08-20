@@ -1618,9 +1618,7 @@
 	- Contains **switching equipment** for **routing mobile phone calls**
 	- Handles the **entire cell network**
 	- Controls **hand-off**
-		- **What is hand-off?**
-			- Process of transferring ongoing call or data session from one cell to another cell
-	- Communicates with the **PTSN** 
+	- Communicates with the **PSTN** 
 		- Stands for the Public Switch Telephone Network
 		- Brain of the cell phone network
 	- Evaluates the signal strength between devices and network
@@ -1629,7 +1627,7 @@
 - **How is data transmitted?**
 	- Phone makes an outbound call
 	- Sends radio signal to the MTSO
-	- MTSO sends the signal to the PTSN
+	- MTSO sends the signal to the PSTN
 - **What happens when phone is turned on?**
 	- Phone listens for carrier and looks for a match
 	- Phone must match service or phone goes into roam or no service
