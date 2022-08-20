@@ -1713,19 +1713,20 @@
 	- **Description:**
 		- Stands for **Mobile Identity Number**
 		- Assigned by carrier
+		- Can be ported
 	- **Format:**
 		- 10-digit number
 		- Length varies based on country code
 		- **Two different parts:**
 			- MIN1
-				- 24-bit number after area code
+				- **24-bit** number after area code
 			- MIN2
-				- area and mobile subscriber mode
+				- **area** and **mobile subscriber** code
 - **MEID**
 	- **Description:**
 		- **Replacement** for **ESN** for **CDMA devices**
 		- Stands for **Mobile Equipment ID**
-	- Fields are in hexadecimal values
+		- Fields are in hexadecimal values
 	- **Format:**
 		- `RR`: Regional code (globally administered)
 		- `XXXXXX`:
@@ -1742,8 +1743,10 @@
 		- `C`:
 			- Check digit
 - **IMEI**
+	- **Description:**
+		- Stands for **International Mobile Equipment Identity**
 	- **Format:**
-		- Unique 15-digit code 
+		- Unique **15-digit** code 
 			- Used to identify individual GSM mobile telephone to mobile network
 	- Can be displayed by dialling `*#06#`
 	- **Fields:**
