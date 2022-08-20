@@ -1524,8 +1524,8 @@
 
 #### Identifying Type of OS or Digital Devices
 - **Why is it difficult for law enforcement?**
-	- Crime scene is not controlled
-	- They might not know the type of computer used to commit a crime or how they are used
+	- Crime scene is **not controlled**
+	- They might not know the **type of computer used** to commit a crime or **how they are used**
 - **What to identify OS or device by?**
 	- Approximate size of drive on suspect computer
 	- Number of devices to process at the scene
@@ -1535,7 +1535,7 @@
 	- UNIX
 	- Macintosh
 	- Mainframe computer
-- **Determining whether computers and digital devices can be seized**
+- **Determining whether computers and digital devices can be seized:**
 	- Determine whether digital evidence can be removed
 	- **Ideal situation:**
 		- Seize computer and bring them to a lab for processing
@@ -1544,11 +1544,11 @@
 	- If removing the computer harms the business
 - **Additional complications:**
 	- Files stored offsite that are accessed easily
-	- Availability of cloud storage that cannot be stored physically
+	- **Availability of cloud storage** that cannot be **stored physically**
 		- Stored on drives where data from many subscribers might be stored
 - **What if computers are not allowed to be taken to a lab?**
 	- Determine resources needed to acquire digital evidence
-	- What tools can speed up data acquisition
+	- What tools can speed up data acquisition?
 
 #### Tools Needed for Incident/Crime Scene
 - **Two types of field kits:**
