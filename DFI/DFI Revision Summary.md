@@ -186,14 +186,13 @@
 	- **Minimize** or **eliminate** litigation
 	- **How to reduce risk of litigation?**
 		- **Publishing** and maintaining **policies** that are easy for employees to **read** and **follow**
+		- Display **warning banner** on **computer screens**
+		- Inform user that organization reserves the **right to inspect computer systems** and **network traffic** at will
 - **What is Acceptance Use Policy?**
 	- Defines rules for using company computers and networks
 - **What is Line of Authority?**
 	- States who have the **legal right** to **initiate** an investigation
 	- Who can **take possession** of evidence and **have access** to evidence
-- **How can businesses avoid litigation?**
-	- Display **warning banner** on **computer screens**
-	- Inform user that organization reserves the **right to inspect computer systems** and **network traffic** at will
 - **What are the most common types of situations?**
 	- Abuse or misuse of computer assets
 	- Email abuse
@@ -1311,7 +1310,7 @@
 	- **Immediately repair** physical damage
 	- **Escort** *cleaning crew* as they work
 	- **Minimize** the risk of **static electricity**
-		- Antistatic pads
+		- **Antistatic pads**
 		- Clean **floor** and **carpets** to **minimize dust**
 	- Maintain **two separate trash containers**:
 		- 1 for **materials unrelated to investigation**
