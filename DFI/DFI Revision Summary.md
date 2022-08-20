@@ -1938,11 +1938,11 @@
 		- **View system:**
 			- Allows building of UI of application
 		- **Resource manager:**
-			- Provides access to non-code components of application like localized strings, graphics and layout files
+			- Provides access to **non-code components** of application like **localized strings, graphics and layout files**
 		- **Notification manager:**
-			- Allows applications to display custom alerts
+			- Allows applications to display **custom alerts**
 		- **Activity manager:**
-			- Manages life cycle as application and back stacks order in each activity is opened
+			- Manages **life cycle** as application and back stacks order in each activity is opened
 		- **Content Providers:**
 			- Allows applications to access other application data and share their own
 - **System Apps**
@@ -1975,13 +1975,14 @@
 	- **Media**
 		- Media layer with media services e.g. audio and video
 	- **Core Services**
-		- Used in upper layers
+		- Used in **upper layers**
 	- **Core OS**
 		- Where most Mac OS X components are in
 		- Low level and works closely with computational instructions
 	- **Kernel and Device Drivers**
 		- Layer which most applications interact with
 - **Partitions:**
+	- Data partition
 	- System partition
 
 #### Acquisition Procedures
