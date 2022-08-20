@@ -1645,26 +1645,28 @@
 
 #### Cellular Hand Off
 - **What is cellular handoff?**
-	- The process of transferring an ongoing call from one cell to another cell
+	- The process of **transferring an ongoing call** from one cell to another cell
 - **When is handoff needed?**
-	- When signal on channel from tower servicing the call becomes weaker during the call
-	- If there is no tower with a stronger signal, the call is dropped
+	- When signal on the channel from tower servicing the call becomes weaker during the call
+	- If there is no tower with a stronger signal, the call is **dropped**
 - **Types of handoff:**
 	- **Hard Handoff**
 		- Existing connection must be broken when new one created **(Break then make)**
-		- Allocates different frequency
+		- Allocates **different frequency**
 		- Usually not very complicated
-		- Handset is always communicated with one base station at a time
+		- Handset is always communicated with **one base station at a time**
 	- **Soft Handoff**
-		- Connection is made before old one is released **(Make before break)**
+		- Connection is made before old one is released **(Make then break)**
 		- **More complex** than hard handoff
-		- Communicate up to 3-4 base stations simultaneously
+		- Communicate up to **3-4 base stations simultaneously**
 
 #### Cellular Subsets
 - **iDEN**
 	- **Description:**
 		- Stands for the **Integrated Digital Enhanced Network**
 		- iDEN phones support SMS, voicemail, data networking like VPN, Internet and Intranets
+		- Half-duplex
+		- Allows users to take advantages of **Push-To-Talk (PTT)**
 		- Used by the following ISPs:
 			- Sprint
 			- AT&T
@@ -1672,7 +1674,7 @@
 - **CDMA**
 	- **Description:**
 		- Stands for the **Code Division Multiple Access**
-		- Utilizes spread-spectrum technology
+		- Utilizes **spread-spectrum technology**
 		- **What is spread-spectrum technology?**
 			- Channels are spread across entire frequency range (1850-1990 MHz) instead of dedicated to one
 			- Spreads information contained in particular signal of interest over much greater bandwidth than original signal
