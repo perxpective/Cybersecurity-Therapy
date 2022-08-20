@@ -1676,9 +1676,9 @@
 		- Stands for the **Code Division Multiple Access**
 		- Utilizes **spread-spectrum technology**
 		- **What is spread-spectrum technology?**
-			- Channels are spread across entire frequency range (1850-1990 MHz) instead of dedicated to one
-			- Spreads information contained in particular signal of interest over much greater bandwidth than original signal
-		- Assigns code to each piece of data passed across spectrum
+			- Channels are **spread across entire frequency range** (1850-1990 MHz) instead of *being dedicated to one*
+			- **Spreads** information contained in particular signal of interest over much **greater bandwidth than original signal**
+		- Assigns code to **each piece of data** passed across spectrum
 		- Unable to carry voice and data simultaneously
 		- **Two channels:**
 			- Encode
@@ -1688,7 +1688,7 @@
 			- Personal Information Management
 		- **Description:**
 			- Open source, cross-platform program
-			- Allows the manipulation of data on many CDMA phones
+			- Allows the **manipulation of data** on many CDMA phones
 				- Includes the following:
 					- PhoneBook
 					- Calendar
@@ -1698,10 +1698,10 @@
 			- Analyses most Qualcomm CDMA chipset based phones
 - **GSM**
 	- **Description:**
-		- Standards for the Global System for Mobile Communications
-		- Based on TDMA
+		- Standards for the **Global System for Mobile Communications**
+		- Based on **TDMA**
 		- 70-80% of world's phones
-		- Digital cellular technology used for transmitting mobile voice and data services
+		- Digital cellular technology used for **transmitting mobile voice** and **data services**
 		- Established in 1987 as a standard
 		- Available in 212 countries and territories
 		- **Frequency range:**
