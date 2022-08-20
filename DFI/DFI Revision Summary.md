@@ -2006,15 +2006,16 @@
 	- Device that typically connects to for update or syncing music, movies and apps
 	- iTunes performs automated backup during sync process when upgrade to iOS performed
 - **Manual Acquisition**
-	- Examiner uses UI of phone to browse and investigate
+	- Examiner uses UI of phone to **browse** and **investigate**
 	- No special tools or techniques required
 	- **Limitations:**
-		- Only files and data visible through normal UI examined
+		- Only files and data visible through **normal UI examined**
 	- Data on device can be easily modified
 - **Brute Force Acquisition**
 	- Use of offensive techniques like password cracking and jailbreaking
 
 #### Operating Modes of iOS Devices
+- List 
 - **Normal Mode**
 	- When iPhone switched on, boots in the OS
 	- In normal mode, user can perform all regular activities
