@@ -1772,6 +1772,7 @@
 	- **Description:**
 		- Global unique identifier
 			- Always 56-bit and unique in every network
+		- Allowed for authentication of a device to a network
 	- **Format:**
 		- **Consists of 3 parts:**
 			- MCC (Mobile Country Code) - 3 digits
