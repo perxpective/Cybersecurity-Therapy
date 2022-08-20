@@ -2100,9 +2100,8 @@
 
 #### Rooting in Android
 - **Definition:**
-	- Android equivalent of jailbreaking
-- **Explanation:**
-	- Means of unlocking operating system
+	- Android equivalent of **jailbreaking**
+	- Means of **unlocking operating system**
 	- **To do the following:**
 		- Install unapproved apps
 		- Deleted unwanted bloatware
