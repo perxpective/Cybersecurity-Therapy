@@ -1706,10 +1706,13 @@
 		- Available in 212 countries and territories
 		- **Frequency range:**
 			- 850-1900 MHz
-		- Utilizes SIM technology
+		- Utilizes **SIM technology**
 
 #### Cell Phone Identification Numbers
 - **MIN**
+	- **Description:**
+		- Stands for **Mobile Identity Number**
+		- Assigned by carrier
 	- **Format:**
 		- 10-digit number
 		- Length varies based on country code
@@ -1718,10 +1721,10 @@
 				- 24-bit number after area code
 			- MIN2
 				- area and mobile subscriber mode
-	- **Description:**
-		- Stands for **Mobile Identity Number**
-		- Assigned by carrier
 - **MEID**
+	- **Description:**
+		- **Replacement** for **ESN** for **CDMA devices**
+		- Stands for **Mobile Equipment ID**
 	- Fields are in hexadecimal values
 	- **Format:**
 		- `RR`: Regional code (globally administered)
