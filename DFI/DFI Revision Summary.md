@@ -2015,20 +2015,23 @@
 	- Use of offensive techniques like password cracking and jailbreaking
 
 #### Operating Modes of iOS Devices
-- List 
+- **List:**
+	- Normal Mode
+	- Recovery Mode
+	- Device Firmware Upgrade (DFU)
 - **Normal Mode**
 	- When iPhone switched on, boots in the OS
-	- In normal mode, user can perform all regular activities
+	- In **normal mode**, user can perform **all regular activities**
 	- **3 steps in the boot process:**
 		- Low-level bootloader
 		- iBook
 		- iOS kernel
 - **Recovery Mode**
-	- Device enters into recovery mode if normal boot process failed to load or verify
+	- Device enters into **recovery mode** if **normal boot process failed to load or verify**
 - **Device Firmware Upgrade (DFU)**
-	- Used to perform iOS upgrading
-	- Low-level mode for diagnosis
-	- If Boot ROM is not loading or verified during boot up, iPhone presents a black screen
+	- Used to perform **iOS upgrading**
+	- Low-level mode for **diagnosis**
+	- If Boot ROM is **not loading or verified** during boot up, iPhone presents a **black screen**
 
 #### Jailbreaking
 - **Implications of iOS jailbreaking:**
@@ -2057,18 +2060,18 @@
 #### Property List (plist)
 - **Definition:**
 	- File used to store various types of data on iOS and MacOS
-	- Used in the management of configuration of iOS and its applications
-- **Contains the following useful artefacts:**
+	- Used in the **management of configuration** of iOS and its applications
+- **Contains the following useful artefacts: (WEGSB)**
 	- Web cookies
 	- Email accounts
 	- GPS map routes
-	- Searches system configuration preferences
+	- System configuration preferences
 	- Browsing history and bookmarks
 - File can be opened using simple text editor to view contents
 
 #### EXIF Files
 - **Description:**
-	- Stands for Exchangeable Image File 
+	- Stands for **Exchangeable Image File** 
 	- Standard that specifies formats for images and sounds used by digital cameras, scanners and other systems handling image and sound files
 - **Contains the following data:**
 	- Timestamps
@@ -2081,9 +2084,9 @@
 #### SQLite Data Format
 - **File Extension:** `.db`
 - **Description:**
-	- Popular format for mobile device and open source applications
+	- Popular format for **mobile device** and **open source applications**
 	- Logical extraction of iPhones provides many SQLite database files
-	- Uses SQLite databases to store user data
+	- Uses **SQLite databases** to store user data
 	- Native iOS applications uses this database to store and organize data
 
 ### Chapter 12 - Rooting and Jailbreaking
