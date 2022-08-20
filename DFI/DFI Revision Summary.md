@@ -1727,7 +1727,7 @@
 		- **Replacement** for **ESN** for **CDMA devices**
 		- Stands for **Mobile Equipment ID**
 		- Fields are in hexadecimal values
-	- **Format:**
+	- **Format (RR-XXXXXX-ZZZZZZ-C):**
 		- `RR`: Regional code (globally administered)
 		- `XXXXXX`:
 			- `000000`
