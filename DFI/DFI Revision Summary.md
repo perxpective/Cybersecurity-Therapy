@@ -1871,18 +1871,23 @@
 - **Manual Acquisition:**
 	- Examiner uses **UI of phone** to browse and **investigate**
 	- **No special tools or techniques required**
-	- Manual extraction of chat messages
-		- In the form of screenshots, export to external media
+	- **Manual extraction** of chat messages
+		- In the form of **screenshots**, export to external media
 	- **What are some limitations of manual acquisition?**
-		- Only files and data visible through normal UI
-		- Data on the device can be modified easily (tamper and damages evidence)
+		- Only files and data **visible through normal UI**
+		- Data on the device can be **modified easily** (tamper and damages evidence)
 - **Brute-Force Acquisition**
-	- Use of offensive techniques like password cracking, patterns, pins and rooting the device to gain access to the phone
+	- Use of **offensive techniques** like password cracking, patterns, pins and rooting the device to gain access to the phone
 
 #### Operating Modes of Android
+- **Safe Mode**
+	- **Description:**
+		- Mode that builds a **clean and secure environment**
+		- *Third-party applications* are **disabled and greyed out**
+		- **Troubleshoot** smartphone's problem like restarting itself and determine if caused by **third-party applications or not**
 - **Recovery Mode**
 	- **Description:**
-		- Android-based lightweight runtime environment separate from and parallel to main Android OS
+		- Android-based **lightweight runtime environment** separate from and **parallel** to main Android OS
 	- **Types of recovery:**
 		- Stock
 		- Custom
