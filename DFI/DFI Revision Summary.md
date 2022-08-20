@@ -1665,7 +1665,7 @@
 	- **Description:**
 		- Stands for the **Integrated Digital Enhanced Network**
 		- iDEN phones support SMS, voicemail, data networking like VPN, Internet and Intranets
-		- Half-duplex
+		- **Half-duplex**
 		- Allows users to take advantages of **Push-To-Talk (PTT)**
 		- Used by the following ISPs:
 			- Sprint
