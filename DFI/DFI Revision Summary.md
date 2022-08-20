@@ -2113,12 +2113,12 @@
 
 #### Motivations for End Users
 - **Motivations:**
-	- More application sources
-	- Access to unauthorized applications
-	- Remove bloatware (vendor-installed software)
-	- Improve performance
-	- Increase available RAM or ROM
-	- Access restricted hardware resources
+	- More **application sources**
+	- Access to **unauthorized applications**
+	- Remove **bloatware** (vendor-installed software)
+	- Improve **performance**
+	- Increase **available RAM or ROM**
+	- Access **restricted hardware resources**
 		- To perform **system tweaking**
 
 #### Considerations of Jailbreaking

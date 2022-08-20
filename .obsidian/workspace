@@ -6,24 +6,10 @@
       {
         "id": "70f05ce2057f0b5a",
         "type": "leaf",
-        "dimension": 71.21332275971452,
         "state": {
           "type": "markdown",
           "state": {
             "file": "DFI/DFI Revision Summary.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6c70011ffc6fe14b",
-        "type": "leaf",
-        "dimension": 28.786677240285485,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DFI/DFI Chapter 11 - iOS Forensics.md",
             "mode": "source",
             "source": false
           }
@@ -126,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
