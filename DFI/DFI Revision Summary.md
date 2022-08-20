@@ -1715,7 +1715,7 @@
 		- Assigned by carrier
 		- Can be ported
 	- **Format:**
-		- 10-digit number
+		- **10-digit** number
 		- Length varies based on country code
 		- **Two different parts:**
 			- MIN1
@@ -1731,7 +1731,7 @@
 		- `RR`: Regional code (globally administered)
 		- `XXXXXX`:
 			- `000000`
-				- For small quantities of prototype mobiles
+				- For test or prototype mobiles
 			- `000001` to `FFFFFE`
 				- **Allocated to:**
 					- regional administration bodies
