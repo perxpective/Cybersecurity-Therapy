@@ -1718,9 +1718,9 @@
 		- **10-digit** number
 		- Length varies based on country code
 		- **Two different parts:**
-			- MIN1
+			- **MIN1**
 				- **24-bit** number after area code
-			- MIN2
+			- **MIN2**
 				- **area** and **mobile subscriber** code
 - **MEID**
 	- **Description:**
