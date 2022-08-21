@@ -167,10 +167,10 @@
 	- Existing laws cannot keep up with the **rate of technological advancement**
 
 #### Digital Forensics Resources
-- **How to develop resources?**
+- **How to develop digital forensics resources?**
 	- **Supplement knowledge** by <u>developing</u> and <u>maintaining</u> contact with **computing, network and investigative professionals**
-	- Join computer groups in both public and private sectors
-		- **Example:** Computer Technology and Investigators Network (CITN)
+	- Join **computer groups** in both **public** and **private** sectors
+		- **Example:** Computer Technology and Investigators Network (CTIN)
 	- Consult **outside experts**
 
 #### Public and Private Investigations
@@ -189,7 +189,7 @@
 		- Display **warning banner** on **computer screens**
 		- Inform user that organization reserves the **right to inspect computer systems** and **network traffic** at will
 - **What is Acceptance Use Policy?**
-	- Defines rules for using company computers and networks
+	- Defines rules for using **company computers and networks**
 - **What is Line of Authority?**
 	- States who have the **legal right** to **initiate** an investigation
 	- Who can **take possession** of evidence and **have access** to evidence
