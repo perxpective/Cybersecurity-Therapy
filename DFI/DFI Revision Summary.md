@@ -2285,6 +2285,7 @@
 ### Chapter 5
 **Components of a disk drive**
 
+
 ![335](https://i.imgur.com/wkHaFVz.png)
 
 **Parts of a disk**
