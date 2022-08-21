@@ -203,7 +203,7 @@
 	- **Maintain the following:**
 		- objectivity
 		- credibility by *maintaining confidentiality*
-	- Attend training to stay current with latest technical changes
+	- Attend **training** to stay current with **latest technical changes**
 
 #### Preparing for a Digital Forensics Investigation
 - **Objective of a digital forensics investigation:**
