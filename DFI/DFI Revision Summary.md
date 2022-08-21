@@ -2284,42 +2284,54 @@
 ## Illustrations
 ### Chapter 5
 **Components of a disk drive**
+
 ![335](https://i.imgur.com/wkHaFVz.png)
 
 **Parts of a disk**
+
 ![](https://i.imgur.com/UmSCptT.png)
 
 **Disk Partitions**
+
 <img title="" src="https://i.imgur.com/DJ3Jwuz.png" alt="" data-align="center" width="384">
 
 **Partition table in a hexadecimal editor**
+
 ![](https://i.imgur.com/Nc6DTxr.png)
 
 **Parts of file slack space**
+
 ![](https://i.imgur.com/ZkqQo6k.png)
 
 **Resident file in MFT record (hexadecimal editor)**
+
 ![](https://i.imgur.com/6r0BW3w.png)
 
 **Non-resident file in MFT record (hexadecimal editor)**
+
 ![](https://i.imgur.com/SPXTBn4.png)
 
 **Alternate data stream in NTFS**
+
 ![500](https://i.imgur.com/cDzI0Eq.png)
 
 
 **Virtual cluster numbers (VCN)**
+
 ![](https://i.imgur.com/MJEdC6h.png)
 
 ### Chapter 7
 **Forensics lab layout**
+
 ![500](https://i.imgur.com/9ALE5Kc.png)
 
 **Regional digital forensics lab**
+
 ![500](https://i.imgur.com/9WhOX5G.png)
 
 ### Chapter 9
 **Cellular Handoff**
+
 ![400](https://i.imgur.com/CAc3jVL.png)
 **MEID Fields**
 ![600](https://i.imgur.com/r39l7hY.png)
