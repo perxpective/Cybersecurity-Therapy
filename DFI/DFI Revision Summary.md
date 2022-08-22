@@ -563,7 +563,7 @@
 
 > Formats for disk acquisitions vary from raw data to vendor-specific proprietary
 
-##### Validation and Verification
+#### Validation and Verification
 - **Validation**
 	- **Why is validation of tools necessary?**
 		- A way to **confirm** a tool is functioning as **intended**
@@ -589,7 +589,7 @@
 		- Most computer forensics programs have list of common header values 
 			- Check if file extension is incorrect for the file type
 
-##### Extraction
+#### Extraction
 - **Explanation:**
 	- Recovery task in digital investigation
 	- Most challenging task to master
@@ -610,7 +610,7 @@
 		- have feature to generate potential password lists for **password dictionary attack**
 	- If password dictionary attack fails, run **brute-force attack**
 
-##### Reconstruction
+#### Reconstruction
 - **Objective:**
 	- To **recreate the suspect drive** to show *what happened during the crime or incident*
 	- **Create copy of suspect drive** for other investigators
@@ -631,7 +631,7 @@
 				- ProDiscover
 				- Voom Technologies Shadow Drive
 
-##### Reporting
+#### Reporting
 - **Subfunctions of reporting:**
 	- Bookmarking and tagging
 	- Log reports (documentation of investigative steps)
