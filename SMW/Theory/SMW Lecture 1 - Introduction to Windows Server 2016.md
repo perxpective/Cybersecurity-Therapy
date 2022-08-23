@@ -33,4 +33,19 @@
 	- Write secure operating systems and applications
 	- Train users to always keep security in mind
 
-## Microsoft's Committment
+## Microsoft's Commitment to Security
+> **Areas of security that Microsoft decided to make significant investment in:**
+> - Isolation and Resiliency
+> - Updating
+> - Quality
+> - Access Control and Authentication
+
+### Isolation and Resiliency
+- **Features included in Microsoft's isolation and resiliency area:**
+	- Split a computer system into smaller pieces and ensure that each piece is separated from the other ones
+		- This is so that if it gets compromised or malfunctions, it cannot affect other entities in the system
+	- **Implementations:**
+		- Firewalls
+		- Object Level Access Control
+		- etc.
+	- Automatically blocks unsolicited downloads and unwanted
