@@ -36,7 +36,7 @@
 ## Microsoft's Commitment to Security
 > **Areas of security that Microsoft decided to make significant investment in:**
 > - Isolation and Resiliency
-> - Updating
+> - Software Updates
 > - Quality
 > - Access Control and Authentication
 
@@ -63,6 +63,19 @@
 		- check for downloaded files, blocking blacklisted URLs
 - **Client inspection technologies**
 	- **MBSA** - for older versions of Windows
-	- Microsoft Application Inspector
+	- **Microsoft Application Inspector**
 		- source code inspection on C, C++, C#, Java, JavaScript, HTML, Python etc.
-		- Windows Update Agent
+	- **Windows Update Agent**
+
+### Software Updates
+> **Software updates** are a primary way of protecting against security vulnerabilities
+- Microsoft releases software updates monthly
+
+#### Products
+- System Center Configuration Manager (SCCM)
+- Windows Update Troubleshooter
+- Windows Software Update Services (WSUS)
+
+### Quality
+- Use of quality standards and processes
+- Use of best practices in a
