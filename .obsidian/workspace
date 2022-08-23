@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/DFI Revision Summary.md",
+            "file": "DFI/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "DFI/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/DFI Revision Summary.md"
+                "file": "DFI/Untitled.md"
               }
             }
           },
@@ -114,10 +113,10 @@
     "direction": "horizontal",
     "width": 303.5
   },
-  "active": "0364907611e68eb8",
+  "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
-    "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Revision Summary.md",
+    "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",
     "DFI/DFI Chapter 5 - Evidence Processing.md",
     "DFI/DFI Chapter 9 - Historical Cellular.md",
