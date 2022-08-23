@@ -12,4 +12,18 @@
 	- Worms
 	- Programs that steal confidential information
 	- Hacking via system vulnerabilities
-- **Source**
+- **Laws that uphold management possible for data breaches:**
+	- California SB-1386
+	- Health Insurance Portability and Accountability Act (HIPAA)
+		- protection for <u>personal health information</u>
+	- Gramm-Leach-Bliley Act (GLB) [Financial Services Modernization Act 1999]
+- **Source of computer security problems:**
+	- Bad software design
+	- Bad implementation
+- **Requirements of safer computing:**
+	- Change in the behaviour of management programmers and users
+	- Prioritize secure computing
+	- Write secure operating systems and applications
+	- Train users to always keep security in mind
+
+###
