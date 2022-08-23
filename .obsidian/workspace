@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
               }
             }
           },
@@ -114,17 +114,17 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "93e015461cbc414f",
+  "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
+    "README.md",
+    "BED/BED Chapter 5 - Databases.md",
+    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "Personal Notes/Assembly Code.md",
-    "README.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",
-    "DFI/DFI Chapter 5 - Evidence Processing.md",
-    "DFI/DFI Chapter 9 - Historical Cellular.md",
-    "DFI/DFI Chapter 7 - Investigator's Lab.md"
+    "DFI/DFI Chapter 5 - Evidence Processing.md"
   ]
 }

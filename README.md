@@ -14,7 +14,11 @@ This module covers the concepts and fundamentals of secure coding principles, an
 ### ST251Z Ethical Hacking and Defences (EHD)
 Provides students with a foundation on network protocols, network security, secure coding and penetration testing to protect computer resources. Students are taught offensive and defensive skills for the organisation’s wired and wireless networks in order to protect important assets against hackers.
 
-### ST2610
+### ST2610 Security Policy and Incident Management (SPIM)
+This module equips students with the fundamental concepts and techniques of security policy and incident management. Students will learn the essentials of security policy development, risk assessments and security models. Students will also learn to monitor security events, perform network forensics analysis and proactive detection of attacks, and be introduced to security incident response.
+
+### ST2612 Securing Microsoft Windows (SMW)
+Aims at equipping the students with hands-on knowledge in securing and hardening a Windows operating system. The course will cover the security mechanism used in the operating system, configuring different levels of security measures, best practices and security related tools and utilities.
 
 ## Q: Where TF are your Year 1 Notes?
 Sorry, I cannot include them in this repository as I wrote them on paper when I myself was Year 1 and I did not know that Markdown exists until Year 2 (bruh moment)
