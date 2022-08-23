@@ -78,4 +78,6 @@
 
 ### Quality
 - Use of quality standards and processes
-- Use of best practices in a
+- Use of best practices in all phases of software developments
+- Development of new internal tools that automatically checks code for common errors
+- Thorough testing of software before release
