@@ -41,11 +41,19 @@
 > - Access Control and Authentication
 
 ### Isolation and Resiliency
-- **Features included in Microsoft's isolation and resiliency area:**
-	- Split a computer system into smaller pieces and ensure that each piece is separated from the other ones
-		- This is so that if it gets compromised or malfunctions, it cannot affect other entities in the system
-	- **Implementations:**
-		- Firewalls
-		- Object Level Access Control
-		- etc.
-	- Automatically blocks unsolicited downloads and unwanted
+#### Features
+- Split a computer system into smaller pieces and ensure that each piece is separated from the other ones
+	- This is so that if it gets compromised or malfunctions, it cannot affect other entities in the system
+- **Implementations:**
+	- Firewalls
+	- Object Level Access Control
+	- etc.
+- Automatically blocks unsolicited downloads and unwanted pop-ups from websites by Internet Explorer
+- Inclusion of better file attachment handling in Outlook Express and Windows Messenger
+- Compilation of core Windows components with the most recent version of compiler technology
+- <u>Introduction of Exchange Edge Services:</u>
+	- **Designed for:**
+		- Email protection
+		- Enhanced security
+		- Management of junk emails for Exchange customers
+- Integrated set of protection technologies  **(Microsoft Defender Antivirus**
