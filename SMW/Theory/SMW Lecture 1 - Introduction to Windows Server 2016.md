@@ -51,9 +51,18 @@
 - Automatically blocks unsolicited downloads and unwanted pop-ups from websites by Internet Explorer
 - Inclusion of better file attachment handling in Outlook Express and Windows Messenger
 - Compilation of core Windows components with the most recent version of compiler technology
-- <u>Introduction of Exchange Edge Services:</u>
-	- **Designed for:**
+- **Introduction of Exchange Edge Services:**
+	- <u>Designed for:</u>
 		- Email protection
 		- Enhanced security
 		- Management of junk emails for Exchange customers
-- Integrated set of protection technologies  **(Microsoft Defender Antivirus**
+- Integrated set of protection technologies  **(Microsoft Defender Antivirus)**
+- **Smart screening technologies**
+	- Intelligent spam-filtering solution
+	- Microsoft Defender SmartScreen
+		- check for downloaded files, blocking blacklisted URLs
+- **Client inspection technologies**
+	- **MBSA** - for older versions of Windows
+	- Microsoft Application Inspector
+		- source code inspection on C, C++, C#, Java, JavaScript, HTML, Python etc.
+		- Windows Update Agent
