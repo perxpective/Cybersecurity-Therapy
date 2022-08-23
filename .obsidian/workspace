@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DFI/Untitled.md",
+            "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Untitled.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Untitled.md"
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
               }
             }
           },
@@ -115,6 +115,8 @@
   },
   "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "DFI/DFI Revision Summary.md",
     "DFI/DFI Chapter 11 - iOS Forensics.md",
     "DFI/DFI Chapter 10 - Android Forensics.md",
@@ -122,8 +124,6 @@
     "DFI/DFI Chapter 9 - Historical Cellular.md",
     "DFI/DFI Chapter 7 - Investigator's Lab.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
-    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-    "DFI/DFI Chapter 4 - Forensics Tools.md",
-    "DFI/DFI Chapter 6 - Analysis and Validation.md"
+    "Extra/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
   ]
 }
