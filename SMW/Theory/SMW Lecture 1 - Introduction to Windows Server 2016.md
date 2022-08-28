@@ -190,3 +190,21 @@
 **Clustering**
 - Ability to increase access to server resources and provide fail-safe services
 - Done by linking two or more computer systems so they appear to function as one
+
+![400](https://i.imgur.com/3O5ABfP.png)
+
+### Windows Server 2016 Datacenter Edition
+- Designed for the following environments with:
+	- Mission-critical applications
+	- Very large databases
+	- Very large virtualization requirements
+	- Cloud computing needs
+	- Information access requiring high availability
+- Offers support for clustering up to 64 computers
+
+**Areas of differences between Standard Edition and Datacenter Edition**
+	- Virtualization
+	- Cloud computing
+	- Database handling
+
+Data
