@@ -221,14 +221,20 @@
 > **Note:** Windows 10 is the most compatible in terms of **client management**
 
 #### Terminology
-| Term                          | Definition                                                                                         |
-| ----------------------------- | -------------------------------------------------------------------------------------------------- |
-| Client                        | A computer that accesses resources on another computer via a network                               |
-| Workstation                   | A computer that has its own CPU and can be used as a standalone or network computer                |
-| Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs |
-| Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access                                                                                                   |
+| Term                          | Definition                                                                                                                                                                                                 |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Client                        | A computer that accesses resources on another computer via a network                                                                                                                                       |
+| Workstation                   | A computer that has its own CPU and can be used as a standalone or network computer                                                                                                                        |
+| Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs                                                                                                         |
+| Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
+| Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resouces                                                                                                                                                                                                           |
 
 #### Advantages of Using Windows Server 2016 and Windows Versions 7-10 Together
 1. Enhanced capabilities to recover from many types of network communication problems
 2. Computer code for more efficient network communications
-3. 
+3. More network diagnostic capabilities
+4. Computer code for better use of the network communications protocols
+5. Continuing upgrades for Windows PowerShell commands and scripts in both Windows Server 2016 and Windows 7-10
+
+#### Linux Integration Services
+> Enables Linux clients to access a Linux VM 
