@@ -176,3 +176,17 @@
 - Migration of individual VMs
 - VM information stored in new file format protecting VM information from being directly edited
 
+**New option to use containers**
+> **Containers** enable applications on one computer to run in an isolated fashion with the ability to execute multiple applications
+
+- Two types of containers:
+	- Windows Server containers
+	- Hyper-V containers
+
+> All editions of the Windows Server 2016 compatible with the common language runtime used in the following:
+> - Microsoft .NET framework
+> - Microsoft Visual Studio .NET
+
+**Clustering**
+- Ability to increase access to server resources and provide fail-safe services
+- Done by linking two or more computer systems so they appear to function as one
