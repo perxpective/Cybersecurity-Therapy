@@ -226,4 +226,9 @@
 | Client                        | A computer that accesses resources on another computer via a network                               |
 | Workstation                   | A computer that has its own CPU and can be used as a standalone or network computer                |
 | Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs |
-| Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed                                                                                                   |
+| Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access                                                                                                   |
+
+#### Advantages of Using Windows Server 2016 and Windows Versions 7-10 Together
+1. Enhanced capabilities to recover from many types of network communication problems
+2. Computer code for more efficient network communications
+3. 
