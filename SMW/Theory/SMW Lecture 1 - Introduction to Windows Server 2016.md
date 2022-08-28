@@ -1,4 +1,4 @@
-	# SMW Lecture 1 - Introduction to Windows Server 2016
+# SMW Lecture 1 - Introduction to Windows Server 2016
 
 ###### tags: #SMW
 
@@ -159,4 +159,8 @@
 - Centralized management of applications and network resources
 
 **New features:**
-- Start button and Start menu are back on the desktop
+- **Start button and menu** are back on the desktop
+- **Active directory** is easier to set up and improved <u>file security</u>
+- **Domain controller** can be cloned to quickly create additional domain controllers
+- **Generic Routing Encapsulation (GRE)** tunnelling to enable virtual private networks to go over external networks
+- Desired State Configuration used to monitor specific server states and roles so that desired states do not change as other elements are changed on or
