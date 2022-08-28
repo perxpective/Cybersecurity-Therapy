@@ -99,4 +99,8 @@
 	- Computers need to be reliable
 	- Software that operates these machines must be equally reliable
 	- Service components need to be dependable
-- **Dimensions of which Mi**
+- **Dimensions of which Microsoft's objective of trustworthy computing relies on:**
+	- Security (by design, default and deployment)
+	- Privacy ()
+	- Business Integrity
+
