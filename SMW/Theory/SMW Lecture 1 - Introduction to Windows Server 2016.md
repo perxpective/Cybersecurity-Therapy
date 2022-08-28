@@ -106,6 +106,18 @@
 		- Availability, manageability and accuracy
 		- Usability, responsiveness and transparency
 
-### Trusted Client
+### Trusted Cloud
+- Long-term initiative
+- **Based on the 3 fundamental principles:**
+	- Security
+	- Privacy
+	- Compliance
 
-
+### Secure Code
+- Various steps taken by Microsoft to implement and maintain security:
+	- **Training Windows engineers on the following:**
+		- Writing secure code
+		- Specialised testing techniques
+		- Threat modelling
+	- Write documentation with security in mind
+- 
