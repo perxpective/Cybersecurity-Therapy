@@ -114,10 +114,26 @@
 	- Compliance
 
 ### Secure Code
-- Various steps taken by Microsoft to implement and maintain security:
+- <u>Various steps taken by Microsoft to implement and maintain security:</u>
 	- **Training Windows engineers on the following:**
 		- Writing secure code
 		- Specialised testing techniques
 		- Threat modelling
 	- Write documentation with security in mind
-- 
+
+### Common Runtime Language
+> Runtime environment for the .NET framework
+- Manages the running of .NET programs regardless of programming language they are written in
+
+## Windows Server 2016 Edition
+### Windows Server 2016 Platforms
+- Windows Server 2016 Essentials Edition
+- Windows Server 2016 Standard Edition
+- Windows Server 2016 Datacenter Edition
+
+### Windows Server 2016 Additional Platforms
+- Windows Server 2016 Multipoint Premium Server
+- Windows Storage Server 2016
+- Windows Hyper-V Server 2016
+
+
