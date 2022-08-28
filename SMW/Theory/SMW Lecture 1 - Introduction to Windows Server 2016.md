@@ -207,4 +207,18 @@
 	- Cloud computing
 	- Database handling
 
-Data
+> Datacenter Edition does not come with **database software**
+> - Designed to provide OS resources to accommodate large database applications
+
+## Using Windows Server 2016 with Client Systems
+**Client workstation Operating Systems most compatible with Windows Server 2016:**
+- Windows Versions:
+	- 7
+	- 8
+	- 8.1
+	- 10
+
+> **Note:** Windows 10 is the most compatible in terms of **client management**
+
+> Define **client**: A computer that accesses resources on another computer via a network
+
