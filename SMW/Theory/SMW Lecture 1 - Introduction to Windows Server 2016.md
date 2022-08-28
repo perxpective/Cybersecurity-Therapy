@@ -126,14 +126,24 @@
 - Manages the running of .NET programs regardless of programming language they are written in
 
 ## Windows Server 2016 Edition
-### Windows Server 2016 Platforms
+**Windows Server 2016 Platforms**
 - Windows Server 2016 Essentials Edition
 - Windows Server 2016 Standard Edition
 - Windows Server 2016 Datacenter Edition
 
-### Windows Server 2016 Additional Platforms
+**Windows Server 2016 Additional Platforms**
 - Windows Server 2016 Multipoint Premium Server
 - Windows Storage Server 2016
 - Windows Hyper-V Server 2016
 
+### Windows Server 2016 Essentials Edition
+| Specifications                                                           | Value        |
+| ------------------------------------------------------------------------ | ------------ |
+| Number of users                                                          | 25           |
+| Connections for file sharing through Server Message Block (SMB) services | 16.8 million |
+| Number of central processor sockets                                      | 2            |
+| Number of Remote Desktop Connections                                     | 50           |
+| Number of Routing and Remote Access Connections                          | 50             |
 
+**Additional details:**
+- 
