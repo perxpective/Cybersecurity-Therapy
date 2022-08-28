@@ -41,8 +41,8 @@ Be consistent! Set aside some time every week to make notes for a chapter becaus
 ### Memorising
 Humanities people are too good at memorising, so those who are good at humanities would have a good time remembering all the cancerous definitions and terms.
 
-Of course DISM students being DISM students, most aren't good to memorise but suck it up you are gonna have to anyways (anything for a 
-decent GPA right). 
+Of course DISM students being DISM students, most aren't good at memorising but suck it up you are gonna have to anyways (anything for a 
+decent GPA right???). 
 
 My style of memorising:
 1. Make important terms eye-catching or stand out (bolding, underlining, highlighting, whatever catches your attention)
