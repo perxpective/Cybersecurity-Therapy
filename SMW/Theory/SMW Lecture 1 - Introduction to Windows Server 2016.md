@@ -163,4 +163,16 @@
 - **Active directory** is easier to set up and improved <u>file security</u>
 - **Domain controller** can be cloned to quickly create additional domain controllers
 - **Generic Routing Encapsulation (GRE)** tunnelling to enable virtual private networks to go over external networks
-- Desired State Configuration used to monitor specific server states and roles so that desired states do not change as other elements are changed on or
+- Desired State Configuration used to monitor specific server states and roles so that desired states do not change as other elements are changed on one or many servers
+- Windows Defender automatically included as antivirus and antimalware program
+- Storage tiering allows selected blocks of data to be moved to different storage locations
+- Storage pinning works with storage tiering to enable moving of specific files to desired type of storage
+- Parallel rebuild that enables failed disk in RAID to be rebuilt significantly faster
+- Virtual desktops allow running of different desktops side-by-side
+- Includes Hyper-V which enables servers to offer virtualization environment
+
+**Hyper-V Improvements**
+- Faster cloning
+- Migration of individual VMs
+- VM information stored in new file format protecting VM information from being directly edited
+
