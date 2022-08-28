@@ -262,4 +262,18 @@
 ### Server Manager
 - Enables server administrators to manage critical configuration features from inside one tool
 - **Used to:**
-	- 
+	- Configure a server from the beginning
+	- View computer configuration information
+	- Change server roles and system properties
+	- Configure networking
+	- Configure remote desktop
+	- Configure security including the firewall
+	- Add and remove features
+	- Run diagnostics
+	- Manage storage and backups
+	- Manage multiple servers from one place
+
+- **Advantages of the new features of the Server Manager**
+	- Local server option makes all of the local server properties available to manage
+	- Multiple servers are easier to manage from one place
+	- Servers can be grouped so that all servers in specific group received one or more commands simultaneously
