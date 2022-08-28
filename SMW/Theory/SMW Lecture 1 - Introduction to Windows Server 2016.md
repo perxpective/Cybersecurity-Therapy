@@ -220,5 +220,10 @@
 
 > **Note:** Windows 10 is the most compatible in terms of **client management**
 
-> Define **client**: A computer that accesses resources on another computer via a network
-
+#### Terminology
+| Term                          | Definition                                                                                         |
+| ----------------------------- | -------------------------------------------------------------------------------------------------- |
+| Client                        | A computer that accesses resources on another computer via a network                               |
+| Workstation                   | A computer that has its own CPU and can be used as a standalone or network computer                |
+| Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs |
+| Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed                                                                                                   |
