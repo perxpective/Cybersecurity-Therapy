@@ -81,3 +81,14 @@
 - Use of best practices in all phases of software developments
 - Development of new internal tools that automatically checks code for common errors
 - Thorough testing of software before release
+
+### Access Control and Authentication
+- Areas Microsoft made changes to improve access control and authentication:
+	- Passwords
+	- Smart cards
+	- Public Key Infrastructure (PKI)
+	- Internet Protocol Security (IPSec)
+	- Active Directory Rights Management Services (ADRMS)
+
+## Trustworthy Computing
+
