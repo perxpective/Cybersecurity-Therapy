@@ -91,4 +91,10 @@
 	- Active Directory Rights Management Services (ADRMS)
 
 ## Trustworthy Computing
-
+- **Microsoft Trustworthy Computing Memo**
+	- Development emphasis: **Security** over **Features**
+	- Strategy to compete against other companies
+- Way to ensure safe and reliable computing
+- **Requirements of Trustworthy Computing**
+	- Computers need to be reliable
+	- Software that operates these machines must be equally reliable
