@@ -146,4 +146,17 @@
 | Number of Routing and Remote Access Connections                          | 50             |
 
 **Additional details:**
-- 
+- This edition cannot join a domain, other than to migrate files and data from one server to another
+- Provides most but not all server roles
+- Does not provide role for hosting virtual machines
+- Cannot provide cloud services
+
+### Windows Server 2016 Standard Edition
+**Provides the following:**
+- File and print services
+- Secure internet connectivity
+- Centralized management of users
+- Centralized management of applications and network resources
+
+**New features:**
+- Start button and Start menu are back on the desktop
