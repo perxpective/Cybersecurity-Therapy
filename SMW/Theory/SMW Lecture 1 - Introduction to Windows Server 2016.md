@@ -98,3 +98,5 @@
 - **Requirements of Trustworthy Computing**
 	- Computers need to be reliable
 	- Software that operates these machines must be equally reliable
+	- Service components need to be dependable
+- **Dimensions of which Mi**
