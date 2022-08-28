@@ -101,6 +101,11 @@
 	- Service components need to be dependable
 - **Dimensions of which Microsoft's objective of trustworthy computing relies on:**
 	- Security (by design, default and deployment)
-	- Privacy ()
+	- Privacy (fair information principles)
 	- Business Integrity
+		- Availability, manageability and accuracy
+		- Usability, responsiveness and transparency
+
+### Trusted Client
+
 
