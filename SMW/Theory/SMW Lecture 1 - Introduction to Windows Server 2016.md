@@ -220,7 +220,7 @@
 
 > **Note:** Windows 10 is the most compatible in terms of **client management**
 
-#### Terminology
+### Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Client                        | A computer that accesses resources on another computer via a network                                                                                                                                       |
@@ -229,12 +229,37 @@
 | Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
 | Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resouces                                                                                                                                                                                                           |
 
-#### Advantages of Using Windows Server 2016 and Windows Versions 7-10 Together
+### Advantages of Using Windows Server 2016 and Windows Versions 7-10 Together
 1. Enhanced capabilities to recover from many types of network communication problems
 2. Computer code for more efficient network communications
 3. More network diagnostic capabilities
 4. Computer code for better use of the network communications protocols
 5. Continuing upgrades for Windows PowerShell commands and scripts in both Windows Server 2016 and Windows 7-10
 
-#### Linux Integration Services
-> Enables Linux clients to access a Linux VM 
+### Linux Integration Services
+> Enables Linux clients to access a Linux VM in Hyper-V
+
+**New capabilities in LIS:**
+- New software for enhanced desktop graphics performance on Linux clients
+- Improved backup support functions
+- Creation of kernel dumps for Linux VMs
+- Better control of available RAM in Linux VMs
+
+## Windows Server 2016 Features
+**List of features:**
+- Server Manager
+- Security
+- Clustering
+- Enhanced Web Services
+- Windows Server Core and Nano Server
+- Windows PowerShell
+- Virtualization
+- Reliability
+- Multitasking and Multithreading
+- Physical and Logical Processors
+- Containers
+
+### Server Manager
+- Enables server administrators to manage critical configuration features from inside one tool
+- **Used to:**
+	- 
