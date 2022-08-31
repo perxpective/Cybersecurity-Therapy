@@ -300,4 +300,22 @@
 	- Include over 40 modules
 		- Enable IIS to have a lower attack surface
 	- Provide easier applications of IIS patches
-	- 
+	- Makes it easier for network programmers to <u>write network applications</u> and <u>configure applications for the web</u>
+
+#### Windows Server Core and Nano Server
+##### Windows Server Core
+- Minimum server configuration
+- Designed to function in a fashion similar to a traditional UNIX and Linux servers
+- **Does not provide the following:**
+	- GUI - just a command line
+	- Graphical tools to configure server
+	- Extra services that is not needed
+	- Mouse pointer on the screen
+	- Windows Mail, Microsoft Word, search windows and other software
+
+##### Windows Nano Server
+- New installation option in Windows Server 2016
+- Smaller footprint than Server Core
+- Provides basic foundation for server computing
+- Intended to be faster and need less maintenance
+
