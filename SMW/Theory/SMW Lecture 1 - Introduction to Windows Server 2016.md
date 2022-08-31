@@ -361,4 +361,17 @@
 - Contains computers joined by communications cabling or sometimes by wireless devices
 
 **Definition of a Workstation/Client Network Operating System**
-- Enables individual computers to access a network and in some cases, 
+- Enables individual computers to access a network and in some cases, share resources
+
+**Peer-to-Peer Networking**
+- Focuses on spreading network resource administration among server and non-server members of a network
+
+**Server-Based Networking**
+- Centralizes the network administration on one or more servers
+
+| Peer-To-Peer                         | Server-Based with ADDS                              |
+| ------------------------------------ | ------------------------------------ |
+| ![](https://i.imgur.com/Vm6pgAo.png) | ![](https://i.imgur.com/9pRGxIY.png) |
+
+> 💡**Pointers:**
+>
