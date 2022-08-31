@@ -373,8 +373,13 @@
 | ------------------------------------ | ------------------------------------ |
 | ![](https://i.imgur.com/Vm6pgAo.png) | ![](https://i.imgur.com/9pRGxIY.png) |
 
-> 💡**Pointers:**
+> **Pointers 💡**
 > - Windows Network Model/Infrastructure is designed to be scalable
 > - Small office or organisations may use the P2P model to provide LAN based connectivity for simple file and print services.
 > 	- Effective with lower costs for less than 20 workstations
 > - Larger organisations or enterprises may set up multiple sites in other multiple countries to support operations with Network-Based model relying on Active Directory
+
+### Peer-to-Peer Networking
+- User
+
+### Server-Based Networking
