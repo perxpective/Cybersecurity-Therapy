@@ -380,6 +380,8 @@
 > - Larger organisations or enterprises may set up multiple sites in other multiple countries to support operations with Network-Based model relying on Active Directory
 
 ### Peer-to-Peer Networking
-- User
+- Uses workstations to share resources e.g. files and printers and connect to resources on other computers
+	- No special computer needed to enable workstations to communicate and share resources
+- Effective for **very small networks**
 
 ### Server-Based Networking
