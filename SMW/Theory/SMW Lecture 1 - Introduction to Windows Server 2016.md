@@ -343,6 +343,10 @@
 	- Manage IIS web services
 - PowerShell offers over 130 command-line tools called `cmdlets`
 
-![](https://i.imgur.com/jkH8rYD.png)
+![500](https://i.imgur.com/jkH8rYD.png)
 
-## Reliability
+### Reliability
+- Operating system kernel runs in privileged mode
+	- Protects it from problems created by malfunctioning program or process
+- Kernel consists of core programs and computer code of operating system
+- Privileged mode gives operating system kernel extra level of security from intruders
