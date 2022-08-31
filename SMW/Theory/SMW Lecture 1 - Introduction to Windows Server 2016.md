@@ -277,3 +277,10 @@
 	- Local server option makes all of the local server properties available to manage
 	- Multiple servers are easier to manage from one place
 	- Servers can be grouped so that all servers in specific group received one or more commands simultaneously
+	- Dashboard offers more quick-start guidance for setting up one or more servers and establishing groupings used to manage specific kinds of servers
+	- Server Manager GUI has a new look  
+	- Has new features such as:
+		- Greater ability to add and manage remotes servers
+
+### Security
+- When installing Windows Server 2016, 
