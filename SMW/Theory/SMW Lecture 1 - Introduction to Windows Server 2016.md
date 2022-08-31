@@ -319,3 +319,14 @@
 - Provides basic foundation for server computing
 - Intended to be faster and need less maintenance
 
+> Microsoft views Nano Server as a platform on which to run the following:
+> - DNS or DHCP
+> - Applications servers e.g. from the cloud
+> - Web server
+> - Database or file server
+
+#### Windows PowerShell
+> Command-line interface that offers a shell
+> - A fully customized environment for executing commands and scripts
+
+- Scripts are files that contain commands to be run by computer OS
