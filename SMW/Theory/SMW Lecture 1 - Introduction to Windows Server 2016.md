@@ -329,4 +329,20 @@
 > Command-line interface that offers a shell
 > - A fully customized environment for executing commands and scripts
 
-- Scripts are files that contain commands to be run by computer OS
+> **Scripts** are files that contain commands to be run by computer OS
+
+- **PowerShell can be used to perform the following tasks:**
+	- Work with files and folders
+	- Manage disk storage
+	- Manage network tasks
+	- Set up local and networking printing options
+	- Install, list and remove software applications
+	- View information about local computer including user accounts
+	- Manage services and progresses
+	- Lock a computer or log off
+	- Manage IIS web services
+- PowerShell offers over 130 command-line tools called `cmdlets`
+
+![](https://i.imgur.com/jkH8rYD.png)
+
+## Reliability
