@@ -383,5 +383,9 @@
 - Uses workstations to share resources e.g. files and printers and connect to resources on other computers
 	- No special computer needed to enable workstations to communicate and share resources
 - Effective for **very small networks**
+- **Disadvantages:**
+	- Management of network resources are **decentralized**
+	- Administration becomes more difficult as network grows larger in size
+	- Lack of security o
 
 ### Server-Based Networking
