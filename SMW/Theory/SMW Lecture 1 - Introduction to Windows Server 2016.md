@@ -355,4 +355,10 @@
 
 > A **protected process** is one for which outside influences are restricted
 
-## Planning 
+## Planning a Windows Server 2016 Networking Model
+**Definition of a Network:**
+- Communications system that enables compute users to share computer equipment, application software, and data voice and video transmissions
+- Contains computers joined by communications cabling or sometimes by wireless devices
+
+**Definition of a Workstation/Client Network Operating System**
+- Enables individual computers to access a network and in some cases, 
