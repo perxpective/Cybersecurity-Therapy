@@ -350,3 +350,9 @@
 	- Protects it from problems created by malfunctioning program or process
 - Kernel consists of core programs and computer code of operating system
 - Privileged mode gives operating system kernel extra level of security from intruders
+
+> A **process** is a computer program or portion of a program that is currently running
+
+> A **protected process** is one for which outside influences are restricted
+
+## Planning 
