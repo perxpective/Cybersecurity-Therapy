@@ -283,4 +283,21 @@
 		- Greater ability to add and manage remotes servers
 
 ### Security
-- When installing Windows Server 2016, 
+- When installing Windows Server 2016, essential level of security automatically implemented by default when <u>adding a feature</u> or <u>installing a Windows component</u>
+- **Other security features:**
+	- File and folder permissions
+	- Security policies
+	- Encryption of data
+	- Event auditing
+	- Various authentication methods
+	- Server management and monitoring tools
+
+### Enhanced Web Services
+#### Microsoft Internet Information Services (IIS)
+> Transforms Windows Server 2016 into a versatile web server
+
+- **Designed to:**
+	- Include over 40 modules
+		- Enable IIS to have a lower attack surface
+	- Provide easier applications of IIS patches
+	- 
