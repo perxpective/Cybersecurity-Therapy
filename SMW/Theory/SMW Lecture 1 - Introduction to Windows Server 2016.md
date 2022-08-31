@@ -386,6 +386,18 @@
 - **Disadvantages:**
 	- Management of network resources are **decentralized**
 	- Administration becomes more difficult as network grows larger in size
-	- Lack of security o
+	- Lack of security of resources
 
 ### Server-Based Networking
+> A **server** is a single computer that provides extensive multiuser access to network resources
+
+- Can handle hundreds of users at once
+	- Fast response when delivering the shared resource
+	- Less network congestion when multiple workstations access that resource
+- **Advantages:**
+	- Users only need to log on once to gain access to network resources
+	- Stronger security
+	- All members can share computer files
+	- Printers and other resources can be shared
+	- All members can have email and send messages to office members through an email server
+	-
