@@ -407,4 +407,12 @@
 	- Server administrator can save time when installing software upgrades
 
 ## Protocols for the Windows Server 2016 Networking Model
-- **Consists of guidelines of t**
+- **Consists of guidelines of the following:**
+	- How data is formatted into discrete units called packets and frames
+	- How packets and frames are transmitted across one or more networks
+	- How packets and frames are interpreted at the receiving end
+
+> **Packets and frames** are units of data transmitted from a sending computer to a receiving computer
+
+- Windows Server 2016 and its clients primarily use the **Transmission Control Protocol/Internet Protocol** (TCP/IP)
+- 
