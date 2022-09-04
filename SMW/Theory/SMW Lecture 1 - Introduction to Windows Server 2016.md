@@ -400,4 +400,7 @@
 	- All members can share computer files
 	- Printers and other resources can be shared
 	- All members can have email and send messages to office members through an email server
-	-
+	- Software applications can be stored and shared in a central location
+	- Important databases can be managed and secured from one computer
+	- All computer can be backed up more easily
+	- Computer resource sharing can be arranged to reflect work patterns of groups within an organisation
