@@ -426,3 +426,13 @@
 - Window is constantly adjusted to account for existing network traffic
 - TCP is a **connection-oriented communication**
 	- It ensures that packets are delivered in the right sequence and that their contents are accurate 
+
+### Physical Addresses and Address Resolution Protocol
+> An **Address Resolution Protocol (ARP)** is used to acquire the physical addresses associated with a computer's network interface card (NIC)
+
+- Every NIC has a **physical address** or **media access control address (MAC)**
+- For computers to communicate with each other:
+	- They must know the MAC addresses of each other's NICs
+- Proper communication with TCP/IP relies both on IP and ARP cache
+	- Contains recently resolved MAC addresses as well as statically assigned values in ARP cache
+	- `arp -a` command shows contents of ARP cache
