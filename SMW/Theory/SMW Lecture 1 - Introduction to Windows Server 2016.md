@@ -420,3 +420,9 @@
 
 > A **Local Area Network (LAN)** is a network of computers in relatively close proximity
 
+### Transmission Control Protocol
+- Provides reliable end-to-end delivery of data by controlling data flow
+- Computers agree on a "window" for data transmission that includes the number of bytes to be sent
+- Window is constantly adjusted to account for existing network traffic
+- TCP is a **connection-oriented communication**
+	- It ensures that packets are delivered in the right sequence and that their contents are accurate 
