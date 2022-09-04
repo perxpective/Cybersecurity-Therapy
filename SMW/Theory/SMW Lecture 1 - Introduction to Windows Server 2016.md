@@ -404,3 +404,7 @@
 	- Important databases can be managed and secured from one computer
 	- All computer can be backed up more easily
 	- Computer resource sharing can be arranged to reflect work patterns of groups within an organisation
+	- Server administrator can save time when installing software upgrades
+
+## Protocols for the Windows Server 2016 Networking Model
+- **Consists of guidelines of t**
