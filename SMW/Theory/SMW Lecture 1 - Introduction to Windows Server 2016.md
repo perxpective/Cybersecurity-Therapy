@@ -415,4 +415,8 @@
 > **Packets and frames** are units of data transmitted from a sending computer to a receiving computer
 
 - Windows Server 2016 and its clients primarily use the **Transmission Control Protocol/Internet Protocol** (TCP/IP)
-- 
+
+> **TCP/IP** are a suite of protocols and utilities that support communication across LANs and the internet
+
+> A **Local Area Network (LAN)** is a network of computers in relatively close proximity
+
