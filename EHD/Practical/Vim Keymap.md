@@ -38,5 +38,19 @@ This document is a reference of all the editor options for the Vim command line 
 - `n` - Repeats last `/` or `?` pattern search
 
 ### Text Insertion Commands
-- `a` - append text after cursor (`ESC` to terminate)
-- `A` - append text at the end of the line (`ESC` t)
+- `a` - Append text after cursor (`ESC` to terminate)
+- `A` - Append text at the end of the line (`ESC` to terminate)
+- `i` - Insert text before cursor (`ESC` to terminate)
+- `I` - Insert text at the beginning of the line
+- `o` - Open new line below current line for text insertion
+- `O` - Open new line above current line for text insertion
+- `DELETE` - Overwrite last character during text insertion
+- `ESC` - Exit Insert Mode
+
+### Text Insertion Commands
+- `x` - Delete current character
+- `dd` - Deletes current line
+- `dw` - Deletes current word
+- `d)` - Deletes the rest of the current sentence
+- `D` or `d$` - Deletes from cursor location to end of the line
+- `P` - 
