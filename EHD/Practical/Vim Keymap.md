@@ -49,8 +49,19 @@ This document is a reference of all the editor options for the Vim command line 
 
 ### Text Insertion Commands
 - `x` - Delete current character
-- `dd` - Deletes current line
-- `dw` - Deletes current word
-- `d)` - Deletes the rest of the current sentence
-- `D` or `d$` - Deletes from cursor location to end of the line
-- `P` - 
+- `dd` - Delete current line
+- `dw` - Delete current word
+- `d)` - Delete the rest of the current sentence
+- `D` or `d$` - Delete from cursor location to end of the line
+- `P` - Put back text from the previous delete
+
+### Changing Commands
+- `cw` - Change characters of current word until stopped with `ESC` key
+- `c$` - Change text up to the end of the line
+- `C, cc` - Change remaining text on current line until stopped by pressing `ESC` key
+- `~` - Change case of current character
+- `xp` - Transpose current and following characters
+- `J` - Join current line with next line
+- `s` - Delete current character and goes into Insert Mode
+- `rx` - Replace current character with *x*
+- `R` - Replaces following characters until 
