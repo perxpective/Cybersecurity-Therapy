@@ -23,4 +23,10 @@ This document is a reference of all the editor options for the Vim command line 
 - `j` - Moves cursor down one line in the same column
 - `k` - Moves cursor up one line in the same column
 - `h` - Move cursor back one character
-- `l`
+- `l` - Move cursor forward one character
+- `RETRUN` - Move cursor to the beginning of next line
+- `0` - Move cursor to the beginning of the current line
+- `$` - Move cursor to the end of the current line
+- `SPACE` - Move cursor forward one character
+- `nG` - Moves cursor to the first character of the line number *n* (default is last line of file)
+- `:n` - Move cursor to the beginning og
