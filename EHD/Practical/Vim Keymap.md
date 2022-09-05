@@ -1,4 +1,4 @@
-# Vim Keymap
+# Vim Shortcuts
 
 ## Table of Contents
 ```toc
@@ -64,4 +64,13 @@ This document is a reference of all the editor options for the Vim command line 
 - `J` - Join current line with next line
 - `s` - Delete current character and goes into Insert Mode
 - `rx` - Replace current character with *x*
-- `R` - Replaces following characters until 
+- `R` - Replaces following characters until terminated with the `ESC` key
+
+### Cut and Paste Commands
+- `yy` - Puts current line in a buffer (does not delete the line from its current position)
+- `p` - Places line in the buffer after current position of the cursor
+
+### Exiting Vim
+- `ZZ` - Exit and save changes
+- `:wq` -Write changes to current file and quit edit session
+- `:q!` - Quit edit session without saving changes
