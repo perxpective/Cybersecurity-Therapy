@@ -436,3 +436,9 @@
 - Proper communication with TCP/IP relies both on IP and ARP cache
 	- Contains recently resolved MAC addresses as well as statically assigned values in ARP cache
 	- `arp -a` command shows contents of ARP cache
+
+![400](https://i.imgur.com/dQDzwwB.png)
+
+> **Image Description:**
+> - Each network node has its own unique MAC address and IP address
+> - 

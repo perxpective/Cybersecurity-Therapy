@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/Vim Keymap.md",
+            "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/Vim Keymap.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/Vim Keymap.md"
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
               }
             }
           },
@@ -116,6 +117,7 @@
   },
   "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
+    "EHD/Practical/Vim Keymap.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "Others/QISP/QISP Notes.md",
@@ -124,7 +126,6 @@
     "SMW/Theory/Untitled.md",
     "README.md",
     "BED/BED Chapter 5 - Databases.md",
-    "Personal Notes/Assembly Code.md",
-    "DFI/DFI Chapter 1 - Introduction to Forensics.md"
+    "Personal Notes/Assembly Code.md"
   ]
 }
