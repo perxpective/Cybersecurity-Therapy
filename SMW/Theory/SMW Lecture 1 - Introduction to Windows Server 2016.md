@@ -441,4 +441,10 @@
 
 > **Image Description:**
 > - Each network node has its own unique MAC address and IP address
-> - 
+> - MAC addresses responsible to exchange data frames between two communication parties
+> - IP addresses responsible to exchange data packets between two communication parties
+> - If A wants to send a data packet to B, A must know its own IP address and B's IP address
+> - Outgoing packet from A is first broken down into data frames and each of the frames will be sent out to B based on A and B's MAC addresses
+> - ARP protocol helps all involved parties determine each others MAC addresses
+> - MAC addresses only work within a LAN
+> - If B not within the LAN, A sends the packet to B by sending frame destination to the **LAN Gateway MAC Address**
