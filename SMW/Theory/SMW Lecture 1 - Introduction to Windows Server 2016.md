@@ -459,3 +459,11 @@
 - Configuring TCP/IP
 
 ### Automated Address Configuration
+#### Automatic Private IP Addressing (APIPA)
+- Used to automatically configure TCP/IP settings for a computer without using a DHCP server
+- Computer automatically assigns itself an IP address from reserved range of 169.254.0.1 to 169.254.255.254 with a subnet mask of 255.255.0.0
+- Suitable for small organisation with only one network segment and do not need access to another network or Internet
+
+> **Automatic configuration** can be disabled via the Windows Server 2016 Registry
+
+> A **regist**
