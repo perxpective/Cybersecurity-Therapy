@@ -448,3 +448,14 @@
 > - ARP protocol helps all involved parties determine each others MAC addresses
 > - MAC addresses only work within a LAN
 > - If B not within the LAN, A sends the packet to B by sending frame destination to the **LAN Gateway MAC Address**
+> - Gateway responsible for routing packet to the most promising external router based on target IP address
+> - Packet may go through routers and hops to get to the LAN B is connected to
+
+### Implementing TCP/IP In Windows Server 2016
+- Implementation involves two tasks:
+	- Verifying that it is enabled
+	- Configuring it
+- Enabling TCP/IP
+- Configuring TCP/IP
+
+### Automated Address Configuration
