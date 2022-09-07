@@ -38,4 +38,30 @@
 ## Using the Best Practices Analyzer (BPA) for the Server Roles
 - It is important to determine that the best practices for the establishment of the role are followed
 - BPA can be used to determine if one or more roles are installed and configured to follow guidelines recommended by Microsoft
-- When problems are found, analysis of each role 
+- When problems are found, analysis of each role yields report with **three levels of severity:**
+	- Information
+	- Warning
+	- Error
+
+### Guidelines for BPA
+- Configuration
+- Security
+- Pre-deployment
+- Post-deployment
+- Performance
+- BPA Pre-requisites
+
+### General Steps for BPA
+1. Open Server Manager
+2. Click Local Server in the left pane
+3. On the right pane, scroll to the Best Practices Analyser
+4. Click the down arrow for **Tasks**
+5. Click Start BPA Scan and wait for the scan to complete
+6. Read the results for the scan
+
+## Using the System File Checker
+- To scan system files for integrity
+- Scan all system files to verify integrity
+- Scan and replace files as needed
+- Scan only certain files
+- System File Check can be man
