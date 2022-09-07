@@ -74,4 +74,15 @@ gpg --sign-key <keyid>
 gpg --verify <public_signature> <filename_to_check> 
 ```
 
-- 
+
+### DNS Reconnaissance
+- Find IP address of server:
+```
+dig securitystartshere.org
+```
+
+**dig options:**
+- `mx` - find **mail exchanger** records
+- `ns` - find **name server** records 
+- `soa` - find **SOA (Start of Authority)** 
+	- stores 
