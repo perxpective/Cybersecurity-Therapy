@@ -30,4 +30,12 @@
 **Two common roles for a Windows Server 2016**
 - **File and Storage Services Role**
 	- Focuses on sharing files from server
-	- Use the server to coordinate and simplify file sharing through **Distrubuted File System (DF**
+	- Use the server to coordinate and simplify file sharing through **Distributed File System (DFS)**
+- **Print Document Services Role**
+	- Used to manage network printing services
+	- Can offer one or more network printers connected to the network through the server itself
+
+## Using the Best Practices Analyzer (BPA) for the Server Roles
+- It is important to determine that the best practices for the establishment of the role are followed
+- BPA can be used to determine if one or more roles are installed and configured to follow guidelines recommended by Microsoft
+- When problems are found, analysis of each role 
