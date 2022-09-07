@@ -130,5 +130,26 @@ ipconfig (Windows)
 arp -a
 ```
 
-### Exploitation
+### Exploitation (Metasploit)
+- View list of exploit codes:
+```
+show exploits
+```
+
+- Show options supported for an exploit:
+```
+show options
+```
+
+- Set `RHOST`
+```
+set RHOST <ip address>
+```
+
+- Show all targets support for the exploit
+```
+show targets
+```
+
+
 
