@@ -118,4 +118,17 @@ nmap -sA <ip adress>
 nmap -sV -Pn -n -p80,135-139,445 -vv 10.50.6.3
 ```
 
-### ARP Spoo
+### ARP Spoofing
+- Find the internet gateway IP address:
+```
+route -n
+ipconfig (Windows)
+```
+
+- View ARP cache:
+```
+arp -a
+```
+
+### Exploitation
+
