@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+            "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
+                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md"
               }
             }
           },
@@ -117,11 +116,11 @@
   },
   "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "EHD/Practical/Vim Keymap.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "Others/QISP/QISP Notes.md",
-    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "SMW/Theory/Untitled.md",
     "README.md",
