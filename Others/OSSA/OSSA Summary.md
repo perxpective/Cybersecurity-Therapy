@@ -93,4 +93,17 @@ dig @10.50.6.1 pod6.com axfr
 ```
 
 ### Port Scanning (Nmap)
-- Recon student pod server 
+- **Ping Sweep:**
+```
+nmap -sP -n 10.50.6.0/24
+```
+
+- **SYN Stealth Scan:**
+```
+nmap -sS <ip address> 
+```
+
+- **Suggested SYN Scan:**
+```
+nmap -sS -n -Pn -vv -p<target port range> -g<source port range> <target IP address> --max-retries=<value> --min-parallelism<value> --max-
+```
