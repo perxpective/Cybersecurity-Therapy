@@ -105,5 +105,17 @@ nmap -sS <ip address>
 
 - **Suggested SYN Scan:**
 ```
-nmap -sS -n -Pn -vv -p<target port range> -g<source port range> <target IP address> --max-retries=<value> --min-parallelism<value> --max-
+nmap -sS -n -Pn -vv -p<target port range> -g<source port range> <target IP address> --max-retries=<value> --min-parallelism<value> --max-rtt-timeout=<value>ms
 ```
+
+- **ACK Scan:**
+```
+nmap -sA <ip adress>
+```
+
+- **OS Version Detection:**
+```
+nmap -sV -Pn -n -p80,135-139,445 -vv 10.50.6.3
+```
+
+### ARP Spoo
