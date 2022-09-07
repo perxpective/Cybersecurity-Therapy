@@ -54,4 +54,24 @@ tripwire --update --twrfile /var/lib/tripwire/report/<filename>
 gpg --gen-key
 ```
 
+- Import third-party public keys:
+```
+gpg --import <filename>
+```
+
+- View the imported keys:
+```
+gpg --fingerprint
+```
+
+- Sign the imported key to show that verification of the public keys was done:
+```
+gpg --sign-key <keyid>
+```
+
+- Verify the signature of the file:
+```
+gpg --verify <public_signature> <filename_to_check> 
+```
+
 - 
