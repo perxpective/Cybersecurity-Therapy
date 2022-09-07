@@ -85,4 +85,12 @@ dig securitystartshere.org
 - `mx` - find **mail exchanger** records
 - `ns` - find **name server** records 
 - `soa` - find **SOA (Start of Authority)** 
-	- stores 
+	- stores information about the name of the server, zone administrator, current version of zone data file etc.
+
+**Perform a zone transfer of the pod's DNS internal server**
+```
+dig @10.50.6.1 pod6.com axfr
+```
+
+### Port Scanning (Nmap)
+- Recon student pod server 
