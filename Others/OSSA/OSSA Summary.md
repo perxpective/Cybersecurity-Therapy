@@ -185,6 +185,17 @@ nc <ip address> 48800
 ### File Hiding with Alternate Data Streams
 - Using the `type` command to stream (hide) a file:
 ```
-
+type c:\6\nc.exe . c:\hobbit.txt:hidenc.exe
 ```
 
+- To run the streamed (hidden) executable:
+```
+wmic process call create c:\<full file path>:hidenc.exe
+```
+
+- Streaming (hiding) a text file:
+```
+notepad c:\<full file path>:hidden.txt
+```
+
+### File Hiding with Steganography
