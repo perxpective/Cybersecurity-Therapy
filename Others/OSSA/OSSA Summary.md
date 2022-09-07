@@ -8,7 +8,7 @@ Useful notes and summaries for the Organisational System Security Analyst (OSSA)
 ```
 
 ## Commands
-### Snort
+### Network-Based IDS Configuration (Snort)
 - Starting snort:
 ```
 snort -c /etc/snort/snort.conf
@@ -25,4 +25,18 @@ tail -f /var/log/snort/alert
 more /var/log/snort/<filename>
 ```
 
-###
+### File Integrity Checker and Host-Based IDS (Tripwire)
+- Take a snapshot of the system:
+```
+tripwire --init
+```
+
+- Check for any changes in the file system:
+```
+tripwire --check
+```
+
+- View Tripwire report:
+```
+twprint -m r --twrfile /var/lib/tripwire/report/<filename>
+```
