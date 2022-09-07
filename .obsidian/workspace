@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/EHD Practical 3 - Footprinting.md",
+            "file": "Others/OSSA/OSSA Summary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 3 - Footprinting.md",
+                "file": "Others/OSSA/OSSA Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 3 - Footprinting.md"
+                "file": "Others/OSSA/OSSA Summary.md"
               }
             }
           },
@@ -116,6 +116,7 @@
   },
   "active": "70f05ce2057f0b5a",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 3 - Footprinting.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
@@ -124,7 +125,6 @@
     "Others/QISP/QISP Notes.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "SMW/Theory/Untitled.md",
-    "README.md",
-    "BED/BED Chapter 5 - Databases.md"
+    "README.md"
   ]
 }
