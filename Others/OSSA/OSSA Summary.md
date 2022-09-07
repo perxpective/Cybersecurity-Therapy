@@ -40,3 +40,18 @@ tripwire --check
 ```
 twprint -m r --twrfile /var/lib/tripwire/report/<filename>
 ```
+
+- Policies can be edited on the Tripwire Policy text file: `twpol.txt`
+
+- Update the Tripwire database whenever `twpol.txt` was edited:
+```
+tripwire --update --twrfile /var/lib/tripwire/report/<filename>
+```
+
+### Cryptography (GPG)
+- Generate a new keypair:
+```
+gpg --gen-key
+```
+
+- 
