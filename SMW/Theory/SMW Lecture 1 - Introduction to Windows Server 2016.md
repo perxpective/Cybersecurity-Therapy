@@ -466,4 +466,14 @@
 
 > **Automatic configuration** can be disabled via the Windows Server 2016 Registry
 
-> A **regist**
+> A **registry** is a database used to store information about the configuration, program setup, devices, drivers and other data important to the setup of Windows OS
+
+
+#### Dynamic Addressing Through a DHCP Server
+- Common for medium-sized and large networks
+- In addition to assigning the IP address, DHCP server can also assign the following:
+	- Subnet mask
+	- Default gateway
+	- DNS server
+	- Other IP settings
+- Using a DHCP server can save large amounts of administrative effort
