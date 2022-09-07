@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "70f05ce2057f0b5a",
+        "id": "599fd3f1b748cf20",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -114,8 +114,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "70f05ce2057f0b5a",
+  "active": "599fd3f1b748cf20",
   "lastOpenFiles": [
+    "Others/OSSA/OSSA Summary.md",
     "EHD/Practical/EHD Practical 3 - Footprinting.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
@@ -124,7 +125,6 @@
     "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "Others/QISP/QISP Notes.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "SMW/Theory/Untitled.md",
-    "README.md"
+    "SMW/Theory/Untitled.md"
   ]
 }

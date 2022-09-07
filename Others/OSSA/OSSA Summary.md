@@ -8,8 +8,21 @@ Useful notes and summaries for the Organisational System Security Analyst (OSSA)
 ```
 
 ## Commands
-#### Snort
+### Snort
 - Starting snort:
 ```
-
+snort -c /etc/snort/snort.conf
 ```
+
+- View all Snort logs:
+```
+tail -f /var/log/snort/alert
+```
+
+- Check the latest Snort log:
+	- `<filename>` is the desired log file
+```
+more /var/log/snort/<filename>
+```
+
+###
