@@ -141,9 +141,14 @@ show exploits
 show options
 ```
 
-- Set `RHOST`
+- Set `RHOST`:
 ```
 set RHOST <ip address>
+```
+
+- Set `TARGET` option:
+```
+set TARGET <option number>
 ```
 
 - Show all targets support for the exploit
@@ -151,5 +156,18 @@ set RHOST <ip address>
 show targets
 ```
 
+- Show all payloads offered for the exploit
+```
+show payloads
+```
 
+- Execute the exploit:
+```
+exploit
+```
+
+### Backdoor Deployment
+**Stations:**
+- station1 - Windows Workstation
+- 
 
