@@ -211,3 +211,4 @@ notepad c:\<full file path>:hidden.txt
 ### File Hiding with Steganography
 - Using S-Tools
 - Test all encryption algorithms to reveal hidden password-protected files
+
