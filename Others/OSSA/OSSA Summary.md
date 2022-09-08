@@ -8,6 +8,16 @@ Useful notes and summaries for the Organisational System Security Analyst (OSSA)
 ```
 
 ## Commands
+### Analysing Wireshark Files
+**Filters:**
+- Source IP address - `ip.src`
+- Destination IP address - `ip.dst`
+
+**Unencrypted network traffic:**
+- FTP
+- HTTP
+- Telnet
+
 ### Network-Based IDS Configuration (Snort)
 - Starting snort:
 ```
