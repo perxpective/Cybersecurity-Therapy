@@ -64,4 +64,8 @@
 - Scan all system files to verify integrity
 - Scan and replace files as needed
 - Scan only certain files
-- System File Check can be man
+- Can be manually run from the Command Prompt or PowerShell window
+	- Requires administration rights - `sfc /scannow`
+
+### Using Sigverif to Verify System and Critical Files
+- Sigverif verifies system and critical files to determine if they have a signature
