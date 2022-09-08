@@ -110,7 +110,7 @@ nmap -sP -n 10.50.6.0/24
 
 - **SYN Stealth Scan:**
 ```
-nmap -sS <ip address> 
+nmap -sS -vv --reason <ip address> 
 ```
 
 - **Suggested SYN Scan:**
