@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/OSSA/OSSA Summary.md",
+            "file": "EHD/Practical/EHD Practical 3 - Footprinting.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Banner",
+                "query": "zone transfer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/OSSA/OSSA Summary.md",
+                "file": "EHD/Practical/EHD Practical 3 - Footprinting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/OSSA/OSSA Summary.md"
+                "file": "EHD/Practical/EHD Practical 3 - Footprinting.md"
               }
             }
           },
@@ -114,10 +115,10 @@
   },
   "active": "599fd3f1b748cf20",
   "lastOpenFiles": [
+    "Others/OSSA/OSSA Summary.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 4 - Port Scanning.md",
-    "Others/OSSA/OSSA Summary.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 3 - Footprinting.md",
