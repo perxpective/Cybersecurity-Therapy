@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/OSSA/OSSA Summary.md",
+            "file": "EHD/Practical/EHD Practical 1b - Network Protocols.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "netcat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,12 +70,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/OSSA/OSSA Summary.md",
+                "file": "EHD/Practical/EHD Practical 1b - Network Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
+                "showSearch": true,
+                "searchQuery": "banner ",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/OSSA/OSSA Summary.md"
+                "file": "EHD/Practical/EHD Practical 1b - Network Protocols.md"
               }
             }
           },
@@ -106,25 +107,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 139.3560333251953,
-    "collapsed": true
+    "width": 139.3560333251953
   },
   "active": "599fd3f1b748cf20",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 4 - Port Scanning.md",
+    "EHD/Practical/EHD Practical 5 - Firewall.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+    "EHD/Practical/EHD Practical 3 - Footprinting.md",
+    "Others/OSSA/OSSA Summary.md",
     "EHD/Theory/EHD Topic 4 - Port Scanning.md",
     "EHD/Theory/EHD Topic 5 - Firewalls.md",
-    "Others/OSSA/OSSA Summary.md",
     "EHD/Practical/EHD Practical 1a - Network Protocols.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
-    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "EHD/Practical/EHD Practical 3 - Footprinting.md",
-    "EHD/Practical/EHD Practical 1b - Network Protocols.md",
-    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
-    "EHD/Practical/Vim Keymap.md"
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
   ]
 }
