@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/OSSA/OSSA Summary.md",
+            "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/OSSA/OSSA Summary.md",
+                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/OSSA/OSSA Summary.md"
+                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md"
               }
             }
           },
@@ -116,15 +116,15 @@
   },
   "active": "599fd3f1b748cf20",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 1a - Network Protocols.md",
+    "EHD/Theory/EHD Topic 5 - Firewalls.md",
     "Others/OSSA/OSSA Summary.md",
+    "EHD/Practical/EHD Practical 1a - Network Protocols.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "EHD/Practical/EHD Practical 3 - Footprinting.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/Vim Keymap.md",
-    "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
-    "Others/QISP/QISP Notes.md"
+    "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
   ]
 }

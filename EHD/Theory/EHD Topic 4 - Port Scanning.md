@@ -34,7 +34,7 @@
 
 - 3-way handshake not completed, so application will not log connection
 
-- Quiter and stealthier compared to TCP connect scan
+- Quieter and stealthier compared to TCP connect scan
 
 - If port is opened
   
