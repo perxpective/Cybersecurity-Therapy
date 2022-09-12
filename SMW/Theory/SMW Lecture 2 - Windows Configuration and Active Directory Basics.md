@@ -139,7 +139,7 @@
 	- Alias for HKEY_LOCAL_MACHINE\Software\Classes
 - Associations exist for executable files, text files, graphics files, Clipboard files, audio files etc.
 	- Used as defaults for all users who log on to the Windows Server 2016
-- Hackers can manipulate the subkeys or registry entries of this root key easily to install spyware, 
+- Hackers can manipulate the subkeys or registry entries of this root key easily to install spyware, man-in-the-middle attack malware into the victim's system
 
 #### HKEY_CURRENT_CONFIG
 - HKEY_CURRENT_CONFIG root key
@@ -164,13 +164,24 @@
 - **Active Directory:**
 	- Directory service that houses information about all network resources e.g. servers, printers, user accounts, groups of user accounts, security policies and other information
 	- Windows Server 2016 uses it to manage accounts, groups and other network management services
+
 - **Directory Service:**
 	- Responsible for providing a central listing of resources and ways to quickly find and access specific resources and providing a way to manage network resources
+
 - **Domain Controllers (DCs):**
 	- Servers that have AD DS server roles installed
 	- Contains writable copies of information in the Active Directory
+
 - **Member Servers:**
 	- Servers on a network managed by Active Directory that do not have Active Directory installed
+
 - **Domain:**
 	- Container that holds information about all network resources grouped within it
 	- Every resource is called an <u>object</u>
+
+- **Multi-master Replication**
+	- Each DC is equal to every other DC
+		- Contains the full range of information that composes the Active Directory
+		- If information on one DC changes, it is replicated to all other DCs
+
+> **Active Directory**
