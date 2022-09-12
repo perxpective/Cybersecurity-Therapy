@@ -139,6 +139,7 @@
 	- Alias for HKEY_LOCAL_MACHINE\Software\Classes
 - Associations exist for executable files, text files, graphics files, Clipboard files, audio files etc.
 	- Used as defaults for all users who log on to the Windows Server 2016
+- Hackers can manipulate the subkeys or registry entries of this root key easily to install spyware, 
 
 #### HKEY_CURRENT_CONFIG
 - HKEY_CURRENT_CONFIG root key
@@ -171,4 +172,5 @@
 - **Member Servers:**
 	- Servers on a network managed by Active Directory that do not have Active Directory installed
 - **Domain:**
-	- 
+	- Container that holds information about all network resources grouped within it
+	- Every resource is called an <u>object</u>
