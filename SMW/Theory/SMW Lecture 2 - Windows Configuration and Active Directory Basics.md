@@ -78,4 +78,17 @@
 
 ## Understanding the Windows Server 2016 Registry
 > - A complex database containing all information the operating system needs about the entire server
-> - Registry is the coora
+> - Registry is the coordinating center for a specific server
+
+- **Data contained in the Registry:**
+	- Information about all <u>hardware components</u>
+	- Information about the Windows Server 2016 services installed
+	- Data about user profiles and Windows Server 2016 group policies
+	- Data on the last current and last known setup used to boot the computer
+	- Configuration information about all software in use
+	- Software licensing information
+	- Server Manager and Control Panel parameter configurations
+
+### Registry Editor
+- Launched from the Start Button **Run** or **Command Prompt** option `regedit`
+- **Precautions when working with the Registry:**
