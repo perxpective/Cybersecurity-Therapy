@@ -293,4 +293,10 @@
 	- Two-way trust relationships exist between parent and child domains
 	- All domains in a single tree use the same schema for all types of common objects
 	- All domains use the same global catalog
-	- 
+- Domains in a tree typically have a hierarchical structure
+	- Such as a root domain at the top and other domains under the root
+- Domains within a tree are in a **Kerberos Trust Relationship**
+	- Consists of two-way trusts between parent domains and child domains
+	- Allows any one domain to have access to the resources of all the others
+
+### Domain
