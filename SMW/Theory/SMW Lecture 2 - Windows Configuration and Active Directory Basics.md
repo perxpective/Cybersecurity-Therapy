@@ -150,4 +150,14 @@
 	- Other hardware characteristics for the current profile
 
 ### Backing Up the Registry
-- 
+- Before working on the Registry
+	- It is important to have a backup of its contents
+- **Easiest way to create a backup:**
+	- Set a restore point
+- **If Registry is damaged after working on it:**
+	- Go back to the restore point created just before working on the Registry
+- **How to create a restore point?**
+	- Using the Checkpoint-Computer `cmdlet` in the PowerShell
+
+## Active Directory Basics
+- Directory service that houses information about all network resources e.g
