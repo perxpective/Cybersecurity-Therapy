@@ -237,3 +237,14 @@
 | Child object contains the name of a parent object | Child object does not resemble name of parent object               |
 
 ### Containers in Active Directory
+- Forests
+- Trees
+- Domains
+- Organizational Units (OUs)
+- Sites
+
+![](https://i.imgur.com/hti5TgU.png)
+
+### Active Directory Structure
+**Logical Structure:**
+- 
