@@ -138,4 +138,16 @@
 - Holds data to associate file extensions with programs
 	- Alias for HKEY_LOCAL_MACHINE\Software\Classes
 - Associations exist for executable files, text files, graphics files, Clipboard files, audio files etc.
-	- Used as defaults for all users who log on the
+	- Used as defaults for all users who log on to the Windows Server 2016
+
+#### HKEY_CURRENT_CONFIG
+- HKEY_CURRENT_CONFIG root key
+- Has information about the current hardware profile
+- Holds the following information:
+	- Monitor type
+	- Keyboard
+	- Mouse
+	- Other hardware characteristics for the current profile
+
+### Backing Up the Registry
+- 
