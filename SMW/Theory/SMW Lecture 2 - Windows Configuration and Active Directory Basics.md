@@ -280,4 +280,17 @@
 	- Windows Server 2008 Forest Functional Level
 	- Windows Server 2008 R2 Forest Functional Level
 	- Windows Server 2012 Forest Functional Level
-	- Windows Server 2003 Forest Functional Level
+	- Windows Server R2 Forest Functional Level
+	- Windows Server 2016 Forest Functional Level
+- When servers are upgraded, forest functional levels are raised to match the server OS in use
+
+![](https://i.imgur.com/XcIZSDW.png)
+
+### Tree
+- Contains one or more domains in a common relationship
+- **Characteristics:**
+	- Domains are represented in a contiguous namespace and can be in a hierarchy
+	- Two-way trust relationships exist between parent and child domains
+	- All domains in a single tree use the same schema for all types of common objects
+	- All domains use the same global catalog
+	- 
