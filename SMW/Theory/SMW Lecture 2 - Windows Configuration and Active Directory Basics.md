@@ -112,4 +112,17 @@
 
 ![](https://i.imgur.com/cGUrSpz.png)
 
-#### HKEY-
+#### HKEY_LOCAL_MACHINE
+- Contains information on every hardware component in the server
+- Includes the following information:
+	- What drivers are loaded and their version levels
+	- IRQ lines used
+	- Set-up configurations
+	- BIOS version
+
+> A few subkeys stored as a set are called **hives**
+
+![](https://i.imgur.com/QGYRCfi.png)
+
+#### HKEY_CURRENT_USER
+- Contains information about the desktop setup for the account currently signed in to the server con
