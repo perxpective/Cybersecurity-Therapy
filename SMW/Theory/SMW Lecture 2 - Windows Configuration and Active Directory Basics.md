@@ -160,4 +160,15 @@
 	- Using the Checkpoint-Computer `cmdlet` in the PowerShell
 
 ## Active Directory Basics
-- Directory service that houses information about all network resources e.g
+- **Active Directory:**
+	- Directory service that houses information about all network resources e.g. servers, printers, user accounts, groups of user accounts, security policies and other information
+	- Windows Server 2016 uses it to manage accounts, groups and other network management services
+- **Directory Service:**
+	- Responsible for providing a central listing of resources and ways to quickly find and access specific resources and providing a way to manage network resources
+- **Domain Controllers (DCs):**
+	- Servers that have AD DS server roles installed
+	- Contains writable copies of information in the Active Directory
+- **Member Servers:**
+	- Servers on a network managed by Active Directory that do not have Active Directory installed
+- **Domain:**
+	- 
