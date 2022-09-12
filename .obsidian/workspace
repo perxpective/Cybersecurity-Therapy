@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EHD/Practical/EHD Practical 3 - Footprinting.md",
+            "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
             "mode": "source",
             "source": false
           }
@@ -49,12 +49,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 3 - Footprinting.md",
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 3 - Footprinting.md"
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
               }
             }
           },
@@ -115,13 +115,13 @@
   },
   "active": "599fd3f1b748cf20",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 3 - Footprinting.md",
     "Others/OSSA/OSSA Summary.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 4 - Port Scanning.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Practical/EHD Practical 3 - Footprinting.md",
     "EHD/Theory/EHD Topic 4 - Port Scanning.md",
     "EHD/Theory/EHD Topic 5 - Firewalls.md",
     "EHD/Practical/EHD Practical 1a - Network Protocols.md"
