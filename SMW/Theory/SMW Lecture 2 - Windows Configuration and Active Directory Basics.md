@@ -188,10 +188,24 @@
 > - Replicates individual properties instead of entire accounts
 > - Replicate Active Directory on the basis of the speed of the network link
 
-- **General Concepts for Understanding the Active Directory**
-	- Schema
-	- Global Catalog
-	- Namespace
+### General Concepts for Understanding the Active Directory
+- Schema
+- Global Catalog
+- Namespace
 
 ![](https://i.imgur.com/wLsdxlY.png)
 
+#### Schema
+- Defines the objects and the information pertaining to those objects (attributes) that can be stored in the Active Directory
+- Examples of object classes:
+	- User accounts
+	- Computers
+	- Groups
+- **Caveat:**
+	- Replication between Domain Controllers require the involved parties to be having an identical Active Directory schema
+
+![](https://i.imgur.com/uTsGYqd.png)
+
+### Global Catalog
+- Stores information about every object within a forest
+- First DC configured in a forest becomes global catalog server
