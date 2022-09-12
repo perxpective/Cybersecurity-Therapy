@@ -161,27 +161,37 @@
 	- Using the Checkpoint-Computer `cmdlet` in the PowerShell
 
 ## Active Directory Basics
-- **Active Directory:**
-	- Directory service that houses information about all network resources e.g. servers, printers, user accounts, groups of user accounts, security policies and other information
-	- Windows Server 2016 uses it to manage accounts, groups and other network management services
+#### Active Directory
+- Directory service that houses information about all network resources e.g. servers, printers, user accounts, groups of user accounts, security policies and other information
+- Windows Server 2016 uses it to manage accounts, groups and other network management services
 
-- **Directory Service:**
-	- Responsible for providing a central listing of resources and ways to quickly find and access specific resources and providing a way to manage network resources
+#### Directory Service
+- Responsible for providing a central listing of resources and ways to quickly find and access specific resources and providing a way to manage network resources
 
-- **Domain Controllers (DCs):**
-	- Servers that have AD DS server roles installed
-	- Contains writable copies of information in the Active Directory
+#### Domain Controllers (DCs)
+- Servers that have AD DS server roles installed
+- Contains writable copies of information in the Active Directory
 
-- **Member Servers:**
-	- Servers on a network managed by Active Directory that do not have Active Directory installed
+#### Member Servers
+- Servers on a network managed by Active Directory that do not have Active Directory installed
 
-- **Domain:**
-	- Container that holds information about all network resources grouped within it
-	- Every resource is called an <u>object</u>
+#### Domain
+- Container that holds information about all network resources grouped within it
+- Every resource is called an <u>object</u>
 
-- **Multi-master Replication**
-	- Each DC is equal to every other DC
-		- Contains the full range of information that composes the Active Directory
-		- If information on one DC changes, it is replicated to all other DCs
+#### Multi-Master Replication
+- Each DC is equal to every other DC
+	- Contains the full range of information that composes the Active Directory
+	- If information on one DC changes, it is replicated to all other DCs
 
-> **Active Directory**
+> **Active Directory** is built to make replication efficient
+> - Replicates individual properties instead of entire accounts
+> - Replicate Active Directory on the basis of the speed of the network link
+
+- **General Concepts for Understanding the Active Directory**
+	- Schema
+	- Global Catalog
+	- Namespace
+
+![](https://i.imgur.com/wLsdxlY.png)
+
