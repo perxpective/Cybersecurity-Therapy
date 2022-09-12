@@ -226,3 +226,7 @@
 - Has the ability to perform name resolution
 - Active Directory uses the **Domain Name System (DNS)**
 	- There must be a DNS server on the network that the Active Directory can access
+- Active Directory also employs two kinds of namespaces:
+	- Contiguous
+	- Disjointed
+	- 
