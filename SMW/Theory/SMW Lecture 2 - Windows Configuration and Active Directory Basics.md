@@ -268,4 +268,9 @@
 
 ![](https://i.imgur.com/Yt1Sc2t.png)
 
-- Forest provi
+- Forest provides a means to relate the trees using a contiguous namespace in domains within each tree
+	- Which have disjointed namespaces in relationship to each other
+- **Advantage of joining trees into a forest:**
+	- All domains share the same schema and global catalog
+- **Forest Functional Level:**
+	- Refers to the Active Directory functions supported forest-wide
