@@ -209,3 +209,13 @@
 ### Global Catalog
 - Stores information about every object within a forest
 - First DC configured in a forest becomes global catalog server
+- **Global Catalog Server:**
+	- Stores a full replica of every object within its own domain and partial replica of each object within every domain in the forest
+	- Enables forest-wide searches of data
+
+- **Purposes:**
+	- Serving as the central storehouse of key object information in a forest with multiple domains
+	- Providing lookup and access to all resource in all domains
+	- Providing replication key Active Directory elements
+	- Keeping a copy of most used attributes for each object for quick access
+	- 
