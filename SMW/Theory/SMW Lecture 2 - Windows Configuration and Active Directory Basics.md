@@ -274,3 +274,10 @@
 	- All domains share the same schema and global catalog
 - **Forest Functional Level:**
 	- Refers to the Active Directory functions supported forest-wide
+- **Types of Forest Functional Levels Recognised by the Active Directory:**
+	- Windows 2000 Native Forest Functional Level
+	- Windows Server 2003 Forest Functional Level
+	- Windows Server 2008 Forest Functional Level
+	- Windows Server 2008 R2 Forest Functional Level
+	- Windows Server 2012 Forest Functional Level
+	- Windows Server 2003 Forest Functional Level
