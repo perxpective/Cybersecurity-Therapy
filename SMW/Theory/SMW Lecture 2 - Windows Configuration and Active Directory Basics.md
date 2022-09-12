@@ -247,4 +247,25 @@
 
 ### Active Directory Structure
 **Logical Structure:**
-- 
+- Forests
+- Trees
+- Domains
+- Organisational Units
+- Site Objects
+
+**Physical Structures:**
+- Domain Controllers
+- Sites (Actual Physical Network)
+
+### Forest
+- Consists of one or more Active Directory trees in a common relationship
+- **Characteristics:**
+	- Trees can use a disjointed namespace
+	- All trees use the same schema
+	- All trees use the same global catalog
+	- Domains enable administration of commonly associated objects e.g. accounts and other resources within a forest
+	- Two-way transitive trusts automatically configured between domains within a single forest
+
+![](https://i.imgur.com/Yt1Sc2t.png)
+
+- Forest provi
