@@ -125,4 +125,17 @@
 ![](https://i.imgur.com/QGYRCfi.png)
 
 #### HKEY_CURRENT_USER
-- Contains information about the desktop setup for the account currently signed in to the server con
+- Contains information about the desktop setup for the account currently signed in to the server console
+- Alias for HKEY_USERS\ logged-on user's hive
+
+#### HKEY_USERS
+- Contains profile information for each user who has logged onto the computer
+- Each profile is listed under this root key
+- Within each user profile is information identical to that viewed in the HKEY_CURRENT_USER root key
+	- Profile used when signed in is one of the profiles stored under HKEY_USERS
+
+#### HKEY_CLASSES_ROOT
+- Holds data to associate file extensions with programs
+	- Alias for HKEY_LOCAL_MACHINE\Software\Classes
+- Associations exist for executable files, text files, graphics files, Clipboard files, audio files etc.
+	- Used as defaults for all users who log on the
