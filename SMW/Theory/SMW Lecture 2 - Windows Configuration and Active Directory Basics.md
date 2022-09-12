@@ -206,7 +206,7 @@
 
 ![](https://i.imgur.com/uTsGYqd.png)
 
-### Global Catalog
+#### Global Catalog
 - Stores information about every object within a forest
 - First DC configured in a forest becomes global catalog server
 - **Global Catalog Server:**
@@ -221,7 +221,7 @@
 	- By default the first DC in the forest is automatically designated as the global catalog server
 		- There is an option of configuring another DC to be a global catalog server as well as designating multiple DCs as global catalog servers
 
-### Namespace
+#### Namespace
 - A logical area on a network that contains directory services and named objects
 - Has the ability to perform name resolution
 - Active Directory uses the **Domain Name System (DNS)**
@@ -229,4 +229,11 @@
 - Active Directory also employs two kinds of namespaces:
 	- Contiguous
 	- Disjointed
-	- 
+
+![](https://i.imgur.com/ExsC7E0.png)
+
+| **Contiguous**                                    | **Disjointed** |
+| ------------------------------------------------- | -------------- |
+| Child object contains the name of a parent object | Child object does not resemble name of parent object               |
+
+### Containers in Active Directory
