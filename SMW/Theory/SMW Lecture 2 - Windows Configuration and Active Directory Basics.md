@@ -66,6 +66,10 @@
 - Scan only certain files
 - Can be manually run from the Command Prompt or PowerShell window
 	- Requires administration rights - `sfc /scannow`
+- **Best Use Cases:**
+	- Initial checking on a new system based on a new installation media or baseline
+	- To verify the integrity of a possible compromised system
+	- To recover a malfunction system due to corrupted system files
 
 ### Using Sigverif to Verify System and Critical Files
 - `Sigverif` verifies system and critical files to determine if they have a signature
@@ -92,3 +96,7 @@
 ### Registry Editor
 - Launched from the Start Button **Run** or **Command Prompt** option `regedit`
 - **Precautions when working with the Registry:**
+	- Establish specific group of administrators who have privileges to open and modify the Registry
+	- Only make changes to the Registry as a <u>last resort</u>
+	- Regularly back up the Registry as part of backing up the Windows Server 2016 Windows folder
+	- Never copy the Registry from one Windows-based system over to the registry of a different system
