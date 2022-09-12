@@ -100,3 +100,16 @@
 	- Only make changes to the Registry as a <u>last resort</u>
 	- Regularly back up the Registry as part of backing up the Windows Server 2016 Windows folder
 	- Never copy the Registry from one Windows-based system over to the registry of a different system
+
+### Registry Contents
+| Component              | Description                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| Hierarchical Structure | Made up of keys, subkeys and entries                                                       |
+| Registry Key           | Category or division of information within the Registry                                    |
+| Registry Subkeys       | Single key can contain one or more lower-level keys                                        |
+| Registry Entry         | Data parameter associated with a software or hardware characteristic under a key or subkey |
+| Root Key               | Primary or highest level category of data contained in the Registry<br> Total of 5 root keys                                                                                           |
+
+![](https://i.imgur.com/cGUrSpz.png)
+
+#### HKEY-
