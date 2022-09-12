@@ -68,4 +68,14 @@
 	- Requires administration rights - `sfc /scannow`
 
 ### Using Sigverif to Verify System and Critical Files
-- Sigverif verifies system and critical files to determine if they have a signature
+- `Sigverif` verifies system and critical files to determine if they have a signature
+	- Only scans file
+	- Does not overwrite inappropriate files
+		- Enabling the use of the tool while users are logged on 
+- After the scan is complete, results are written to a log file `sigverif.txt`
+- If the tool finds a file without a signature that needs to be replaced:
+	- File can be replaced when users are off the system
+
+## Understanding the Windows Server 2016 Registry
+> - A complex database containing all information the operating system needs about the entire server
+> - Registry is the coora
