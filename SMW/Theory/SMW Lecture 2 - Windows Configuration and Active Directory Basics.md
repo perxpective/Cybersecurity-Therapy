@@ -312,4 +312,16 @@
 
 #### Domain Functional Levels
 - Refers to the Windows Server operating systems on Domain Controllers and the domain-specific functions they support
-- ****
+- **Types of Domain Functional Levels:**
+	- Windows 2000 Native Domain Functional Level
+	- Windows Server 2003 Domain Functional Level
+	- Windows Server 2008 Domain Functional Level
+	- Windows Server 2008 R2 Domain Functional Level
+	- Windows Server 2012 Domain Functional Level
+	- Windows Server R2 Domain Functional Level
+	- Windows Server 2016 Domain Functional Level
+
+### Organisational Unit (OU)
+- Offers a way to achieve more flexibility  in managing the resources associated with a business unit, department or division
+- A grouping of related objects within a domain
+	- Allows grouping of objects that can be administered using the same group policies
