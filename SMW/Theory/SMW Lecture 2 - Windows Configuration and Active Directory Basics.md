@@ -377,3 +377,15 @@
 	- Unlike BPA, SCW allows the administrator the choice of applying the adjustment immediately or not
 - SCW can do the following:
 	- Disable unnecessary services and software
+	- Close network communication ports and other communication resources not in use
+	- Examine shared files and folders to help manage network access through access protocols
+	- Configure audit policy
+
+- **Components in SCW:**
+	- GUI interactive wizard
+	- Database
+	- Command-line tool called `scwcmd`
+- **Security Configuration Database (SCD)**
+	- Group of XML files that establish a security policy
+
+****
