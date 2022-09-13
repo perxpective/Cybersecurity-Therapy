@@ -364,4 +364,16 @@
 - Implement only one domain on most small networks
 - Use OUs to reflect the organisation's structure
 - Create only the number of OUs that are absolutely necessary
-- Do not build an Active Direcct
+- Do not build an Active Directory with more than 10 levels of OUs
+- Use domains as partitions in forests to demarcate commonly associated accounts and resources governed by group and security policies
+- Implement multiple trees and forests only as necessary
+- Use sites in situations where there are multiple IP subnets and geographical locations
+	- Acts as a means to improve logon and DC replication performance
+
+## Security Configuration Wizard
+- Useful security tools for Windows Server 2008-2012 R2
+- SCW examines the roles a server plays
+	- Tries to adjust security settings to match these roles
+	- Unlike BPA, SCW allows the administrator the choice of applying the adjustment immediately or not
+- SCW can do the following:
+	- Disable unnecessary services and software
