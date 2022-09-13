@@ -325,3 +325,11 @@
 - Offers a way to achieve more flexibility  in managing the resources associated with a business unit, department or division
 - A grouping of related objects within a domain
 	- Allows grouping of objects that can be administered using the same group policies
+- OUs can be nested within OUs
+- **Three concerns in mind when creating OUs:**
+	- Microsoft recommends to limit OUs to 10 levels or fewer
+	- Active Directory works more efficiently when OUs are set up horizontally instead of vertically
+	- The creation of OUs involves more processing resources as each request through an OU requires more CPU time
+
+### Site
+- TCP/IP-based concept within the Active Directory linked to 
