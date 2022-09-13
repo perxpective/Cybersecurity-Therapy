@@ -161,25 +161,25 @@
 	- Using the Checkpoint-Computer `cmdlet` in the PowerShell
 
 ## Active Directory Basics
-#### Active Directory
+### Active Directory
 - Directory service that houses information about all network resources e.g. servers, printers, user accounts, groups of user accounts, security policies and other information
 - Windows Server 2016 uses it to manage accounts, groups and other network management services
 
-#### Directory Service
+### Directory Service
 - Responsible for providing a central listing of resources and ways to quickly find and access specific resources and providing a way to manage network resources
 
-#### Domain Controllers (DCs)
+### Domain Controllers (DCs)
 - Servers that have AD DS server roles installed
 - Contains writable copies of information in the Active Directory
 
-#### Member Servers
+### Member Servers
 - Servers on a network managed by Active Directory that do not have Active Directory installed
 
-#### Domain
+### Domain
 - Container that holds information about all network resources grouped within it
 - Every resource is called an <u>object</u>
 
-#### Multi-Master Replication
+### Multi-Master Replication
 - Each DC is equal to every other DC
 	- Contains the full range of information that composes the Active Directory
 	- If information on one DC changes, it is replicated to all other DCs
@@ -351,4 +351,17 @@
 	- Paths are used for replication
 
 #### Bridgehead Server
-- DC that is designated to have the role of exchanging replication
+- DC that is designated to have the role of exchanging replication information
+- Only one bridgehead server is set up per site
+
+![300](https://i.imgur.com/hELMuL9.png)
+
+## Active Directory Guidelines
+- Keep the Active Directory as simple as possible
+- Plan its structure before implementing it
+- Implement the least number of domains possible
+	- with one domain being the ideal and building from there
+- Implement only one domain on most small networks
+- Use OUs to reflect the organisation's structure
+- Create only the number of OUs that are absolutely necessary
+- Do not build an Active Direcct
