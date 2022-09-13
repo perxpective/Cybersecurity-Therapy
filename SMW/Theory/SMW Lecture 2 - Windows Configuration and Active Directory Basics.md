@@ -300,3 +300,4 @@
 	- Allows any one domain to have access to the resources of all the others
 
 ### Domain
+- A logical 
