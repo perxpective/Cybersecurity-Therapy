@@ -332,4 +332,23 @@
 	- The creation of OUs involves more processing resources as each request through an OU requires more CPU time
 
 ### Site
-- TCP/IP-based concept within the Active Directory linked to 
+- TCP/IP-based concept within the Active Directory linked to IP subnets
+
+- **Functions:**
+	- Reflects one or more interconnected subnets
+	- Reflects the physical aspect of the network
+	- Used for DC replication
+	- Used to enable a client to access the DC that is physically the closest
+	- Composed of only two types of objects: servers and configuration objects
+- Sites are based on the connectivity and replication functions
+
+- **Reasons to define a site:**
+	- Enable a client to access network servers using the most efficient physical route
+	- DC replication is the most efficient when Active Directory has information about which DCs are in which locations
+
+- **Advantage of creating a site:**
+	- Sets up redundant paths between DCs
+	- Paths are used for replication
+
+#### Bridgehead Server
+- DC that is designated to have the role of exchanging replication
