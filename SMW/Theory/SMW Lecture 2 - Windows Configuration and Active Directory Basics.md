@@ -300,4 +300,5 @@
 	- Allows any one domain to have access to the resources of all the others
 
 ### Domain
-- A logical 
+- A logical partition within an Active Directory forest
+- A grouping of objects that typically exist as a primary container within the Active Directory
