@@ -272,8 +272,9 @@
 	- Which have disjointed namespaces in relationship to each other
 - **Advantage of joining trees into a forest:**
 	- All domains share the same schema and global catalog
-- **Forest Functional Level:**
-	- Refers to the Active Directory functions supported forest-wide
+
+#### Domain Functional Level
+- Refers to the Active Directory functions supported forest-wide
 - **Types of Forest Functional Levels Recognised by the Active Directory:**
 	- Windows 2000 Native Forest Functional Level
 	- Windows Server 2003 Forest Functional Level
@@ -302,3 +303,13 @@
 ### Domain
 - A logical partition within an Active Directory forest
 - A grouping of objects that typically exist as a primary container within the Active Directory
+- **Basic Functions:**
+	- Provide an Active Directory "partition" in which to house objects that have a common relationship in terms of management and security
+	- to establish a set of information to be replicated from one DC to another
+	- To expedite management of a set of objects
+
+![400](https://i.imgur.com/ythbhu7.png)
+
+#### Domain Functional Levels
+- Refers to the Windows Server operating systems on Domain Controllers and the domain-specific functions they support
+- ****
