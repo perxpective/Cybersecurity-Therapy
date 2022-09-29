@@ -15,3 +15,6 @@
 		- Accounts that are set up via a stand-alone server that does not have an Active Directory
 	- **Domain User Accounts**
 		- Accounts that are set up in a domain when the Active Directory is installed
+- When accounts are created in the domain through Active Directory, these accounts can be used to access any server or resource in the domain
+---
+- New accounts are created by first installing the *Local Users and Groups* MMC snap-in for stand-alone serve that do not use the Active Directory
