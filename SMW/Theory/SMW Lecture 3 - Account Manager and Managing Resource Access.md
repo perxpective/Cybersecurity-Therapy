@@ -6,3 +6,8 @@
 ```toc
 ```
 
+## User Account Management
+- **Default accounts:**
+	- Administrator
+	- Guest
+
