@@ -18,3 +18,6 @@
 - When accounts are created in the domain through Active Directory, these accounts can be used to access any server or resource in the domain
 ---
 - New accounts are created by first installing the *Local Users and Groups* MMC snap-in for stand-alone serve that do not use the Active Directory
+
+![](https://i.imgur.com/HzjKYpM.png)
+
