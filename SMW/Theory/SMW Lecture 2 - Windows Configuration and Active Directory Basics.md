@@ -398,3 +398,6 @@
 | `rollback`  | Rolls back security settings to the previously configured settings                                      |
 | `transform` | Converts XML security settings in the SCD to a Group Policy Object (GPO) usable in the Active Directory |
 | `view`      | View the current security settings in the SCD                                                                                                        |
+
+
+
