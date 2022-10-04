@@ -19,5 +19,5 @@
 ---
 - New accounts are created by first installing the *Local Users and Groups* MMC snap-in for stand-alone serve that do not use the Active Directory
 
-![](https://i.imgur.com/HzjKYpM.png)
+![500](https://i.imgur.com/HzjKYpM.png)
 
