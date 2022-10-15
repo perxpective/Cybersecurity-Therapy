@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "7d8ccb3c15db36c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b385849807ee3f7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "599fd3f1b748cf20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f448af85d233641",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2b29da50fd8fde7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e015461cbc414f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3609a2072024b121",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "zone transfer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d7155f0add1902e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1dc156175492f39b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d876cb05db1e67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af50f44cd2b112d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "banner ",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0364907611e68eb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
+              }
+            }
+          },
+          {
+            "id": "96ae23b7fb15ce2c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9549b7e8a36438f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0286f947f982bbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f282c5f2a5b555e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 139.3560333251953,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "599fd3f1b748cf20",
+  "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+    "EHD/Theory/EHD Topic 5 - Firewalls.md",
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+    "EHD/Practical/EHD Practical 3 - Footprinting.md",
+    "Others/OSSA/OSSA Summary.md",
+    "EHD/Practical/EHD Practical 1b - Network Protocols.md",
+    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
+    "EHD/Practical/EHD Practical 4 - Port Scanning.md",
+    "EHD/Practical/EHD Practical 5 - Firewall.md"
+  ]
+}

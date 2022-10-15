@@ -5,5 +5,6 @@
   "cssTheme": "Obsidian Nord",
   "baseFontSize": 19,
   "theme": "moonstone",
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
