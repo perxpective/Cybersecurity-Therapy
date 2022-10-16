@@ -1,4 +1,3 @@
-# Qualified Information Security Profession Examination (QISP) Notes
 
 ## Table of Contents
 ```toc

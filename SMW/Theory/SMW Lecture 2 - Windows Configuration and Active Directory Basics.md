@@ -1,5 +1,3 @@
-# SMW Lecture 2 - Windows Configurations and Active Directory Basics
-
 ###### tags: #SMW
 
 ## Table of Contents

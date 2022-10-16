@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "EHD/Theory/EHD Topic 5 - Firewalls.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zone transfer",
+                "query": "tag:#DFI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "EHD/Theory/EHD Topic 5 - Firewalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
+                "file": "EHD/Theory/EHD Topic 5 - Firewalls.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "EHD/Theory/EHD Topic 5 - Firewalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,15 +157,15 @@
   },
   "active": "599fd3f1b748cf20",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
     "EHD/Theory/EHD Topic 5 - Firewalls.md",
+    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+    "Others/QISP/QISP Notes.md",
+    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "EHD/Practical/EHD Practical 3 - Footprinting.md",
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+    "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "Others/OSSA/OSSA Summary.md",
-    "EHD/Practical/EHD Practical 1b - Network Protocols.md",
-    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
-    "EHD/Practical/EHD Practical 4 - Port Scanning.md",
-    "EHD/Practical/EHD Practical 5 - Firewall.md"
+    "DFI/DFI Chapter 3 - Data Acquisition.md"
   ]
 }
