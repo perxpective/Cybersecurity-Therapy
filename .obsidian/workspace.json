@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
+                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "599fd3f1b748cf20",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
+    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 5 - Firewalls.md",
+    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
+    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
+    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "BED/BED Chapter 5 - Databases.md",
-    "BED/BED Chapter 7 - Authentication and Authorization.md",
-    "EHD/Practical/Vim Keymap.md",
-    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
-    "EHD/Theory/EHD Topic 5 - Firewalls.md"
+    "BED/BED Chapter 5 - Databases.md"
   ]
 }

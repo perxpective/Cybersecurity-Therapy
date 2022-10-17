@@ -4,49 +4,41 @@
 
 ## Target Specification
 - **Scan a single IP**
-  
   ```
   nmap 192.168.1.1
   ```
 
 - **Scan specific IPs**
-  
   ```
   nmap 192.168.1.1 192.168.1.2
   ```
 
 - **Scan a range of IPs**
-  
   ```
   nmap 192.168.1.1-254
   ```
 
 - **Scan a domain**
-  
   ```
   nmap scanme.nmap.org
   ```
 
 - **Scan an IP with CIDR notation**
-  
   ```
   nmap 192.168.1.0/24
   ```
 
 - `-iL` -- **Scan a list of targets from a file**
-  
   ```
   nmap -iL targets.txt
   ```
 
 - `-iR` -- **Scan a number of random hosts**
-  
   ```
   nmap -iR 100    // Scan random 100 hosts
   ```
 
-- `--exclude` **Exclude listed addresses**
-  
+- `--exclude` -- **Exclude listed addresses**
   ```
   nmap --exclude 192.168.1.1    // Exclude 192.168.1.1 from scanning
   ```
