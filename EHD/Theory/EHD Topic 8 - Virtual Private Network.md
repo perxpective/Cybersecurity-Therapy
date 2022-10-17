@@ -5,7 +5,9 @@
 ## Table of Contents
 ```toc
 ```
+
 ## Virtual Private Networks
+### What is a VPN?
 > A Virtual Private Network enables computers to:
 > - Communicate securely over insecure channels
 > - Exchange private encrypted messages that others cannot decipher
@@ -18,3 +20,7 @@
 
 ![500](https://i.imgur.com/qsmervB.png)
 
+### Why Establish a VPN?
+- Business incentives for VPN adoption
+- Cost-effective
+- Provide secure connection for remote users (e.g. busines
