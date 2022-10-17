@@ -79,6 +79,17 @@
 
 ## VPN Core Activities
 ### Encapsulation
-- Encloses a packet within another with a different 
+- Encloses a packet within another with a different IP source and destination
+- Protects integrity of data
+
+![](https://i.imgur.com/hNsac4y.png)
+
+#### Tunnelling Protocols
+- VPNs link networks and gateways that might have different operating systems
+- Tunnelling protocols must be present so computers can communicate
+
+
+
 ### Encryption
+
 ### Authentication
