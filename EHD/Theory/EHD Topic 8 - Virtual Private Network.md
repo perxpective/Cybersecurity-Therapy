@@ -35,3 +35,10 @@
 | Tunnel              | Connection through which data is sent         |
 | VPN Protocol        | Set of standardized communication settings<br>Used to encrypt data sent along the VPN                                              |
 
+### Types of VPN
+- **Site-to-site VPN**
+	- Link two or more network
+	- Gateway-to-gateway VPN
+- **Client-to-site VPN**
+	- Link remote users to network
+	- Remote access VPN
