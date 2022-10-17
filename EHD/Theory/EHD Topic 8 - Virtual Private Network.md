@@ -103,17 +103,24 @@
 	- Provides authentication of source and destination computers
 - Widely supported
 - When computers establish IPSec connections, they set up **Security Associations**
-- **Security Association (SA)**
-	- Relationship between two or more entities
-	- Describe how they will use encryption, encapsulation and/or authentication and the algorithms used
-	- Used by IPSec to track all particulars of a communication sessions
-	- **Unidirectional** - Two SAs needed for two computers to communicate with each other
+
+##### Security Association (SA)
+- Relationship between two or more entities
+- Describe how they will use encryption, encapsulation and/or authentication and the algorithms used
+- Used by IPSec to track all particulars of a communication sessions
+- **Unidirectional** - Two SAs needed for two computers to communicate with each other
+
+##### Components
 - **Core Components**
 	- Authentication Header (AH)
 	- Encapsulating Security Payload (ESP)
 - **Other Components**
-	- Internet Security Association Key Management Protocol
-	- 
+	- Internet Security Association Key Management Protocol (ISAKMP) to establish SA
+	- Internet Key Exchange (IKE) to exchange keys
+	- Oakley Protocol
+	- IPSec Driver (software handling the encryption and authentication of packets)
+
+
 
 ### Encryption
 
