@@ -88,7 +88,14 @@
 - VPNs link networks and gateways that might have different operating systems
 - Tunnelling protocols must be present so computers can communicate
 - **Examples:**
-	- IPSec with IKE
+	- IPSec with IKE - Popular protocol suite used in VPNs
+	- SSL - Leverage web-based applications 
+
+#### IPSec/IKE
+> **IPSec** - Internet Protocol Security
+- Set of standard procedures
+- Developed by the Internet Engineering Task Force (IETF)
+- Enables secure communications 
 
 ### Encryption
 
