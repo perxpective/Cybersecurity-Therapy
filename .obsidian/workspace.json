@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "599fd3f1b748cf20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2104bc28077e218d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
+                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
+                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md"
+                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md"
               }
             }
           },
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
+                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -170,15 +159,15 @@
   },
   "active": "2104bc28077e218d",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
+    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
     "EHD/Theory/EHD Topic 5 - Firewalls.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
-    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
-    "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
     "DFI/DFI Chapter 2 - Understanding Investigation.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "BED/BED Chapter 7 - Authentication and Authorization.md"
+    "BED/BED Chapter 4 - Restful Web Services with Express.md"
   ]
 }
