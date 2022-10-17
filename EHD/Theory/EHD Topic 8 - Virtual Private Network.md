@@ -50,5 +50,14 @@
 	- Designed to server as VPN endpoint
 	- Join multiple LANs
 - **Benefits**
-	- Scalable
-		- 
+
+| Benefit  | Explanation                                                   |
+| -------- | ------------------------------------------------------------- |
+| Scalable | Can handle more network traffic compared to software products |
+| Security | Not dependent on a computer's operating system                                                              |
+
+![500](https://i.imgur.com/4y8ib1B.png)
+
+### Software VPNs
+- Integrated with firewalls
+- Appro
