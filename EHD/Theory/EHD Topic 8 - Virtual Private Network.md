@@ -66,4 +66,4 @@
 	- Offers maximum flexibility
 
 ### VPN Combinations
-- 
+- Combining VPN hardware with software adds layers of network security
