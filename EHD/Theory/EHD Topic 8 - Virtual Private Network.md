@@ -42,3 +42,13 @@
 - **Client-to-site VPN**
 	- Link remote users to network
 	- Remote access VPN
+
+### Hardware VPNs
+- Connects one gateway to another
+- Hardware VPNs can be routers at each network gateway that encrypt and decrypt packets
+- Also known as **VPN appliance**
+	- Designed to server as VPN endpoint
+	- Join multiple LANs
+- **Benefits**
+	- Scalable
+		- 
