@@ -60,4 +60,4 @@
 
 ### Software VPNs
 - Integrated with firewalls
-- Appro
+- Appropriate when participating 

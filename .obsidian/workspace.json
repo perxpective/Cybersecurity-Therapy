@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "318a2060db063b8d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +156,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2104bc28077e218d",
+  "active": "318a2060db063b8d",
   "lastOpenFiles": [
     "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
     "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",

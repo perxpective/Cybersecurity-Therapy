@@ -7,5 +7,6 @@
   "theme": "moonstone",
   "translucency": false,
   "accentColor": "#4ac970",
-  "showViewHeader": false
+  "showViewHeader": true,
+  "nativeMenus": true
 }
