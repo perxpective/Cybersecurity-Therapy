@@ -147,6 +147,9 @@
 ![500](https://i.imgur.com/WdYWu9Q.png)
 
 ### Encryption
+- **Components:**
+	- Encryption Key
+	- Encryption Algorithms
 
 
 ### Authentication
