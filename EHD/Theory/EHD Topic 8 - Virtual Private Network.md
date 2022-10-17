@@ -23,4 +23,15 @@
 ### Why Establish a VPN?
 - Business incentives for VPN adoption
 - Cost-effective
-- Provide secure connection for remote users (e.g. busines
+- Provide secure connection for remote users (e.g. business partners, travelling employees etc.)
+- Good solution for organisations that need to keep costs down while maintaining security
+
+### VPN Components
+
+| Components          | Description                                   |
+| ------------------- | --------------------------------------------- |
+| VPN Server or Host  | Configured to accept connections from clients |
+| VPN Client or Guest | Endpoints connecting to a VPN                 |
+| Tunnel              | Connection through which data is sent         |
+| VPN Protocol        | Set of standardized communication settings<br>Used to encrypt data sent along the VPN                                              |
+
