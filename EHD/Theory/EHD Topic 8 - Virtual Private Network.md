@@ -136,7 +136,10 @@
 ![500](https://i.imgur.com/ZFsRi40.png)
 
 ##### Encapsulating Security Payload (ESP)
-
+- Provides confidentiality for messages
+- Encrypts different parts of a TCP/IP packet
+- Performs authentication
+- 
 
 ### Encryption
 
