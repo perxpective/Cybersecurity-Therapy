@@ -1,4 +1,4 @@
-# SMW Lecture 2 - Windows Configuration and Active Directory Basics
+# SMW Lecture 3 - Account Manager and Managing Resource Access
 
 ###### tags: #SMW 
 
