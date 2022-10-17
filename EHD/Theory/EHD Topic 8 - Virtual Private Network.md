@@ -105,7 +105,15 @@
 - When computers establish IPSec connections, they set up **Security Associations**
 - **Security Association (SA)**
 	- Relationship between two or more entities
-	- Describe how they will use encryption, encapsulation and
+	- Describe how they will use encryption, encapsulation and/or authentication and the algorithms used
+	- Used by IPSec to track all particulars of a communication sessions
+	- **Unidirectional** - Two SAs needed for two computers to communicate with each other
+- **Core Components**
+	- Authentication Header (AH)
+	- Encapsulating Security Payload (ESP)
+- **Other Components**
+	- Internet Security Association Key Management Protocol
+	- 
 
 ### Encryption
 
