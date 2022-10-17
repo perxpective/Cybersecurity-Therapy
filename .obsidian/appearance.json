@@ -1,6 +1,6 @@
 {
   "interfaceFontFamily": "SF Pro Display,Inter",
-  "textFontFamily": "SF Pro Display,Inter,Segoe UI",
+  "textFontFamily": "Inter,SF Pro Display,Segoe UI",
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "",
   "baseFontSize": 19,

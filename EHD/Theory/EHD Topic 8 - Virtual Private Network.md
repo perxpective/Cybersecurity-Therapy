@@ -61,3 +61,6 @@
 ### Software VPNs
 - Integrated with firewalls
 - Appropriate when participating networks use different routers and firewalls
+- **Benefits**
+	- More cost-effective
+	- Offers maximum flexibility
