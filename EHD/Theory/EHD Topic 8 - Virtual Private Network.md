@@ -10,3 +10,4 @@
 > - Communicate securely over insecure channels
 > - Exchange private encrypted messages that others cannot decipher
 
+- **VPNs** use the Internet to establish a secure network
