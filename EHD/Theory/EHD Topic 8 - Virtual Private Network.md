@@ -163,11 +163,23 @@
 	- Use public and private key encryption
 	- Use sockets as a method of communication
 	- Operates at the higher layers (5-6) of the OSI model
-- Widely used on the web
+- <u>Widely used on the web</u>
 	- Only supports data exchanged by web-enabled applications
 	- Unlikely to replace IPSec
 - Client (Web Browser) and Server (Web Server) need to establish a SSL handshake
 - Client sends its preferences for encryption method, SSL version number and a randomly generated number
 - Server responses with SSL version number, its own cipher preferences, another random number and its digital certificate
+- Client verifies date and other information on the server's digital certificate
+- Client generates and send a "pre-master" code encrypted with the server's public key
+- Server uses its private key to decode pre-master code
+- Client and server generates session keys from pre-master code that will be used to encrypted data sent across the Internet
+
+#### Transport Layer Security (TLS)
+- Regarded by many to be the successor of SSL
+- TLS 1.3 designed to offer:
+	- Better security
+	- Improved speed
 
 ### Authentication
+- Identifying a user or computer as authorized to access and use network resources
+- **Types of authentiica**
