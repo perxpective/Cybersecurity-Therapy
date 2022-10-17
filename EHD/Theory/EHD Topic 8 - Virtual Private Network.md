@@ -10,4 +10,7 @@
 > - Communicate securely over insecure channels
 > - Exchange private encrypted messages that others cannot decipher
 
-- **VPNs** use the Internet to establish a secure network
+- **VPNs** use the Internet to establish a secure connection (tunnel)
+	- Extends an organisation's network
+	- Computers can be part of the network even though they are located physically in other places
+	- 
