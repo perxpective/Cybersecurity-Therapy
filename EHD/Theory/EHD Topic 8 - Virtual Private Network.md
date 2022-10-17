@@ -198,4 +198,13 @@
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Passwords are not sent across the network (they cannot be intercepted) | Authentication Server (Key Distribution Centre) is a single point of failure |
 | Has a lower "network overhead" than a Public Key Infrastructure (PKI)  |                                                                              |
-| Handy for Single-Sign                                                                       |                                                                              |
+| Handy for Single Sign-On (SSO)                                                                       |                                                                              |
+
+## Advantages and Disadvantages of VPNs
+
+| Advantages                                                         | Disadvantages                                                                    |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Far less expensive than leased lines                               | Can be complex to configure                                                      |
+| Many elements working together provide strong security             | Can result in lower data transfer rates than a leased line                       |
+| Can result in less overall complexity in an organization's network | Depends on the unpredictable Internet (If the Internet goes down, VPN goes down) |
+| Can make use of a company's existing broadband connection          | Requires administrator to install VPN client software on remote                                                                                  |
