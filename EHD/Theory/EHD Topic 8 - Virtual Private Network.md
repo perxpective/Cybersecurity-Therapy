@@ -95,7 +95,17 @@
 > **IPSec** - Internet Protocol Security
 - Set of standard procedures
 - Developed by the Internet Engineering Task Force (IETF)
-- Enables secure communications 
+- Enables secure communications on the Internet
+- **Characteristics**
+	- Works at Layer 3
+	- Can encrypt entire TCP/IP packets
+	- Originally developed for use with IPv6
+	- Provides authentication of source and destination computers
+- Widely supported
+- When computers establish IPSec connections, they set up **Security Associations**
+- **Security Association (SA)**
+	- Relationship between two or more entities
+	- Describe how they will use encryption, encapsulation and
 
 ### Encryption
 

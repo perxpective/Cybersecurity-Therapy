@@ -2,7 +2,7 @@
   "interfaceFontFamily": "Inter,SF Pro Display",
   "textFontFamily": "SF Pro Display,Segoe UI,Inter",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "",
+  "cssTheme": "Gitsidian",
   "baseFontSize": 18,
   "theme": "moonstone",
   "translucency": false,
