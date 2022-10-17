@@ -120,7 +120,22 @@
 	- Oakley Protocol
 	- IPSec Driver (software handling the encryption and authentication of packets)
 
+##### Authentication Header (AH)
+- Provides authentication of TCP/IP packets
+- Ensures data integrity
+- Packets are signed with a digital signature
+- Adds a header calculated by values in the packet
+- Creates a message digest of the packet
+- Provides authentication and integrity but not privacy
+- **AH in Tunnel Mode**
+	- Authenticates the entire original header and data
+	- Places a new header at the front of the original packet
+- **AH in Transport Mode**
+	- Authenticates the original header and data except for fields that can change during transit
 
+![500](https://i.imgur.com/ZFsRi40.png)
+
+##### Encapsulating Security Paylaod
 
 ### Encryption
 
