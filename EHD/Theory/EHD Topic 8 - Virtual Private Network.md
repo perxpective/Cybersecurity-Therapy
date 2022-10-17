@@ -135,7 +135,8 @@
 
 ![500](https://i.imgur.com/ZFsRi40.png)
 
-##### Encapsulating Security Paylaod
+##### Encapsulating Security Payload (ESP)
+
 
 ### Encryption
 
