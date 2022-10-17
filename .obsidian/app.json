@@ -26,5 +26,6 @@
   "communityThemeSortOrder": "download",
   "spellcheckDictionary": [
     "Securable"
-  ]
+  ],
+  "showInlineTitle": false
 }

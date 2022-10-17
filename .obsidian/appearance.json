@@ -6,5 +6,6 @@
   "baseFontSize": 19,
   "theme": "moonstone",
   "translucency": false,
-  "accentColor": "#4ac970"
+  "accentColor": "#4ac970",
+  "showViewHeader": false
 }

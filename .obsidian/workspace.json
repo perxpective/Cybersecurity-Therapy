@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
-                "mode": "preview",
+                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md"
+                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+                "file": "EHD/Theory/EHD Topic 4 - Port Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,15 +170,15 @@
   },
   "active": "2104bc28077e218d",
   "lastOpenFiles": [
-    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md",
-    "BED/BED Chapter 7 - Authentication and Authorization.md",
-    "BED/BED Chapter 5 - Databases.md",
-    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
-    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
     "EHD/Theory/EHD Topic 5 - Firewalls.md",
-    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
-    "DFI/DFI Chapter 12 - Rooting and Jailbreaking.md",
-    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
+    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
+    "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+    "DFI/DFI Chapter 4 - Forensics Tools.md",
+    "DFI/DFI Chapter 3 - Data Acquisition.md",
+    "DFI/DFI Chapter 1 - Introduction to Forensics.md",
+    "DFI/DFI Chapter 2 - Understanding Investigation.md",
+    "BED/BED Chapter 4 - Restful Web Services with Express.md",
+    "BED/BED Chapter 7 - Authentication and Authorization.md"
   ]
 }
