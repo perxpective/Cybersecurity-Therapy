@@ -150,6 +150,16 @@
 - **Components:**
 	- Encryption Key
 	- Encryption Algorithms
+- **Methods to set up key between endpoints:**
+	- Digital certificates
+	- Internet Key Exchange (IKE)
+		- Uses tunnel method to encrypt keys sent across the Internet
 
+![500](https://i.imgur.com/6bfHJR6.png)
+
+#### Secure Sockets Layer (SSL)
+- Enables web servers and browsers to exchange encrypted information
+- **Characteristics:**
+	- 
 
 ### Authentication
