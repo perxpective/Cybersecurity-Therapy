@@ -160,6 +160,14 @@
 #### Secure Sockets Layer (SSL)
 - Enables web servers and browsers to exchange encrypted information
 - **Characteristics:**
-	- 
+	- Use public and private key encryption
+	- Use sockets as a method of communication
+	- Operates at the higher layers (5-6) of the OSI model
+- Widely used on the web
+	- Only supports data exchanged by web-enabled applications
+	- Unlikely to replace IPSec
+- Client (Web Browser) and Server (Web Server) need to establish a SSL handshake
+- Client sends its preferences for encryption method, SSL version number and a randomly generated number
+- Server responses with SSL version number, its own cipher preferences, another random number and its digital certificate
 
 ### Authentication
