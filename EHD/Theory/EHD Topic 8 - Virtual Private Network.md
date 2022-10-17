@@ -182,4 +182,20 @@
 
 ### Authentication
 - Identifying a user or computer as authorized to access and use network resources
-- **Types of authentiica**
+- **Types of authentication methods used in VPNs:**
+	- IPSec
+	- Digital certificates
+
+#### Kerberos
+- Authentication system developed by MIT
+- Authenticates the identity of network users
+	- Authentication by assertion
+	- Computer that connects to a server and requests services acts on behalf of an approved user
+
+![500](https://i.imgur.com/fhRIRbk.png)
+
+| Advantages                                                             | Disadvantages                                                                |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Passwords are not sent across the network (they cannot be intercepted) | Authentication Server (Key Distribution Centre) is a single point of failure |
+| Has a lower "network overhead" than a Public Key Infrastructure (PKI)  |                                                                              |
+| Handy for Single-Sign                                                                       |                                                                              |
