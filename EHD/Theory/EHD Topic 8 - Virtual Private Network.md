@@ -139,8 +139,14 @@
 - Provides confidentiality for messages
 - Encrypts different parts of a TCP/IP packet
 - Performs authentication
-- 
+- **ESP in Tunnel Mode**
+	- Encrypts both the header and the data part of each packet
+- **ESP in Transport Mode**
+	- Encrypts only data portion of the packet
+
+![500](https://i.imgur.com/WdYWu9Q.png)
 
 ### Encryption
+
 
 ### Authentication
