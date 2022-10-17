@@ -12,5 +12,9 @@
 
 - **VPNs** use the Internet to establish a secure connection (tunnel)
 	- Extends an organisation's network
-	- Computers can be part of the network even though they are located physically in other places
-	- 
+		- Computers can be part of the network even though they are located physically in other places
+	- **Endpoints:**
+		- Specified computers, users or network gateways
+
+![500](https://i.imgur.com/qsmervB.png)
+
