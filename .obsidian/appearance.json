@@ -1,9 +1,9 @@
 {
-  "interfaceFontFamily": "SF Pro Display,Inter",
-  "textFontFamily": "Inter,SF Pro Display,Segoe UI",
+  "interfaceFontFamily": "Inter,SF Pro Display",
+  "textFontFamily": "SF Pro Display,Segoe UI,Inter",
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "",
-  "baseFontSize": 19,
+  "baseFontSize": 17,
   "theme": "moonstone",
   "translucency": false,
   "accentColor": "#4ac970",
