@@ -11,26 +11,11 @@
             "id": "2104bc28077e218d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "318a2060db063b8d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,8 +141,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "318a2060db063b8d",
+  "active": "2104bc28077e218d",
   "lastOpenFiles": [
+    "2022-10-17.md",
     "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
     "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
     "EHD/Theory/EHD Topic 4 - Port Scanning.md",
@@ -166,7 +152,6 @@
     "DFI/DFI Chapter 4 - Forensics Tools.md",
     "DFI/DFI Chapter 3 - Data Acquisition.md",
     "DFI/DFI Chapter 1 - Introduction to Forensics.md",
-    "DFI/DFI Chapter 2 - Understanding Investigation.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md"
+    "DFI/DFI Chapter 2 - Understanding Investigation.md"
   ]
 }

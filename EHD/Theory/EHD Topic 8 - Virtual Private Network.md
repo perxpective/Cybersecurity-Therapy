@@ -60,4 +60,4 @@
 
 ### Software VPNs
 - Integrated with firewalls
-- Appropriate when participating 
+- Appropriate when participating networks use different routers and firewalls
