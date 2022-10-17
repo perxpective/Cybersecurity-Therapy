@@ -67,3 +67,18 @@
 
 ### VPN Combinations
 - Combining VPN hardware with software adds layers of network security
+- One useful combination is a VPN bundled with a firewall
+- VPNs do not eliminate the need for firewalls
+- Provide flexibility and versatility
+- <u>Points to consider when selecting VPN hardware and software:</u>
+	- Compatibility
+	- Scalability
+	- Security
+	- Cost
+	- Vendor Support
+
+## VPN Core Activities
+### Encapsulation
+- Encloses a packet within another with a different 
+### Encryption
+### Authentication
