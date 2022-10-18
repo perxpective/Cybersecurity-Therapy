@@ -30,4 +30,13 @@
 - Pending
 
 ## Purpose and Objectives
-- To restore normal service operation as quickly as possible
+- **Purpose**
+	- To restore normal service operation as quickly as possible
+	- Minimize the adverse impacts on business
+	- Ensuring the best levels of service quality and availability are maintained according to SLA's'
+- **Objectives**
+	- Standardized methods and procedures
+	- Increased visibility and better communication
+	- Priorities aligned with business
+	- User satisfaction with the quality of IT services
+	- 
