@@ -21,3 +21,13 @@
 - Method of bypassing an incident or problem
 - **Temporary fix**
 - Not a permanent solution but something that is used to get the service up and running until the real solution is found
+
+## Life Cycles of Incidents
+- Open
+- In progress
+- Resolved
+- Closed
+- Pending
+
+## Purpose and Objectives
+- To restore normal service operation as quickly as possible
