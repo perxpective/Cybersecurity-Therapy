@@ -56,4 +56,5 @@
 - Must be agreed for all incident-handling stages
 - Based on the overall incident response and resolution targets within SLAs
 - Captured as targets within OLAs and Underpinning Contracts (UCs)
-- Support Grop
+- Support Groups should be made aware of these timescales
+- Service Management tools automate and escalate as required
