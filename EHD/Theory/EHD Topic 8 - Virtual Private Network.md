@@ -202,9 +202,10 @@
 
 ## Advantages and Disadvantages of VPNs
 
-| Advantages                                                         | Disadvantages                                                                    |
-| ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| Far less expensive than leased lines                               | Can be complex to configure                                                      |
-| Many elements working together provide strong security             | Can result in lower data transfer rates than a leased line                       |
-| Can result in less overall complexity in an organization's network | Depends on the unpredictable Internet (If the Internet goes down, VPN goes down) |
-| Can make use of a company's existing broadband connection          | Requires administrator to install VPN client software on remote                                                                                  |
+| Advantages                                                              | Disadvantages                                                                    |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Far less expensive than leased lines                                    | Can be complex to configure                                                      |
+| Many elements working together provide strong security                  | Can result in slower data transfer rates than a leased line                      |
+| Can result in less overall complexity in an organization's network      | Depends on the unpredictable Internet (If the Internet goes down, VPN goes down) |
+| Can make use of a company's existing broadband connection               | Requires administrator to install VPN client software on remote computers        |
+| Standards and protocols used in VPNs are well-developed and widely used | VPN hardware and software from different vendors might be incompatible because they are different protocols                                                                                 |
