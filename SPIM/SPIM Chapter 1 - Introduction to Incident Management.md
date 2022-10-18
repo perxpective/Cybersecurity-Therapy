@@ -39,4 +39,11 @@
 	- Increased visibility and better communication
 	- Priorities aligned with business
 	- User satisfaction with the quality of IT services
-	- 
+
+## Value to Business
+- Reducing service downtime
+- Reducing incident impact to business
+- Aligning IT to business priority
+- Identify possible improvements to service
+- Identification of additional requirements as a result of handling multiple incidents
+- 

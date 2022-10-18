@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/SPIM Chapter 1 - Introduction to Incident Management.md",
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/SPIM Chapter 1 - Introduction to Incident Management.md",
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/SPIM Chapter 1 - Introduction to Incident Management.md"
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/SPIM Chapter 1 - Introduction to Incident Management.md",
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
   "active": "9570ec2012dd3a97",
   "lastOpenFiles": [
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "EHD/Practical/SPIM Chapter 1 - Introduction to Incident Management.md",
+    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
