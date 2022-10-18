@@ -15,4 +15,9 @@
 ### Service Request 
 - Formal request for user for something to be provided
 - **Examples:**
-	- Request for information
+	- Request for information or advice, to reset a password or to install a workstation for a new user
+
+### Workaround
+- Method of bypassing an incident or problem
+- **Temporary fix**
+- Not a permanent solution but something that is used to get the service up and running until the real solution is found
