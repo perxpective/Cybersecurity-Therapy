@@ -46,4 +46,14 @@
 - Aligning IT to business priority
 - Identify possible improvements to service
 - Identification of additional requirements as a result of handling multiple incidents
-- 
+
+## Incident Priority
+- Ensures that support groups will pay required attention to the incident **based on the urgency and impact**
+
+>**Impact + Urgency = Priority**
+
+### Timescales
+- Must be agreed for all incident-handling stages
+- Based on the overall incident response and resolution targets within SLAs
+- Captured as targets within OLAs and Underpinning Contracts (UCs)
+- Support Grop
