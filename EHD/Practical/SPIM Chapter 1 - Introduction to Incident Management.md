@@ -9,4 +9,10 @@
 ## Key Definitions
 ### Incident
 - Unplanned interruption to an IT service
-- Reduction in the quality of 
+- Reduction in the quality of an IT service
+- Failure of a C that has not yet impacted an IT service
+
+### Service Request 
+- Formal request for user for something to be provided
+- **Examples:**
+	- Request for information
