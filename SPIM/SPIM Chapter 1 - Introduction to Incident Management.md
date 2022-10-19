@@ -71,4 +71,12 @@
 	- Shorter timescales and greater urgency
 	- Separate major incident team under the direct leadership of the incident manager
 	- Informing management and Customer
-	- Service Desk ensures all activities are recorded and users are kept fu
+	- Service Desk ensures all activities are recorded and users are kept fully informed of progress
+
+## Functional and Hierarchical Escalation
+> **Escalation** is the mechanism that assists timely resolution of an incident
+
+### Differences
+| Hierarchical Escalation                        | Functional Escalation |
+| ---------------------------------------------- | --------------------- |
+| Can take place at any moment during resolution | Involving more specialist personnel or access privileges to solve the incident. Department                       |
