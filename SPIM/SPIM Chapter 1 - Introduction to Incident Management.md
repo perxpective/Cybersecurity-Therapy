@@ -158,4 +158,12 @@
 
 ### Investigation and Diagnosis
 - More detailed information might be collected on the following:
-	- What has exact
+	- What has exactly gone wrong
+	- Understanding the chronological order of events
+	- Confirming the full impact
+	- Identifying events that may have triggered the incident
+	- Knowledge searches
+	- Previous incidents
+	- Changes made
+
+### Resolution and Recovery
