@@ -140,4 +140,22 @@
 ### Incident Diagnosis
 - Server Desk Analyst will determine with the user the following:
 	- Full symptoms
-	- 
+	- How to correct them:
+		- Diagnostic scripts
+		- Known error information
+
+### Functional Escalation
+- If the incident is not resolved, it will be escalated (with users informed)
+- Occurs when:
+	- Current level of support cannot resolve the incident
+	- Current level of support has reached timescales for resolving the incident
+
+### Hierarchical Escalation
+- Occurs when:
+	- SLA breaches are threatened
+	- Extra resources are needed to resolve the incident
+	- Senior management needs to be aware and approve the steps required
+
+### Investigation and Diagnosis
+- More detailed information might be collected on the following:
+	- What has exact
