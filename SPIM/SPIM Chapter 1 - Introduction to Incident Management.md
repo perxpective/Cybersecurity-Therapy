@@ -58,3 +58,9 @@
 - Captured as targets within OLAs and Underpinning Contracts (UCs)
 - Support Groups should be made aware of these timescales
 - Service Management tools automate and escalate as required
+- Use **priority coding system** 
+
+![](https://i.imgur.com/bupGWy3.png)
+
+## Major Incidents
+- Highest 
