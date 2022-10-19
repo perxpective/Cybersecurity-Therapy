@@ -134,11 +134,10 @@
 		- Finance
 		- Purchase Order System
 
-### Service Request
-- If category is a service request, it will be transferred to the **Request Fulfilment** process
-- If not, transferred to the **Incident Prioritisation** process
-
 ### Incident Prioritization
 - Determines how the incident will be handled by support staff and by support tools
 
-### Major Incident
+### Incident Diagnosis
+- Server Desk Analyst will determine with the user the following:
+	- Full symptoms
+	- 
