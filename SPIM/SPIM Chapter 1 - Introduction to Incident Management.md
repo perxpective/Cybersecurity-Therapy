@@ -60,7 +60,15 @@
 - Service Management tools automate and escalate as required
 - Use **priority coding system** 
 
-![](https://i.imgur.com/bupGWy3.png)
+![400](https://i.imgur.com/bupGWy3.png)
 
 ## Major Incidents
-- Highest 
+> **Major Incident = High Impact + High Urgency
+
+- Highest category of impact for an incident
+- Results in significant distribution to a business
+- Should have a <u>separate procedure</u>
+	- Shorter timescales and greater urgency
+	- Separate major incident team under the direct leadership of the incident manager
+	- Informing management and Customer
+	- Service Desk ensures all activities are recorded and users are kept fu
