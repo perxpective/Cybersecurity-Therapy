@@ -76,7 +76,13 @@
 ## Functional and Hierarchical Escalation
 > **Escalation** is the mechanism that assists timely resolution of an incident
 
-### Differences
-| Hierarchical Escalation                        | Functional Escalation |
-| ---------------------------------------------- | --------------------- |
-| Can take place at any moment during resolution | Involving more specialist personnel or access privileges to solve the incident. Department                       |
+### Functional Escalation
+- Involving more specialist personnel or access privileges to solve the incident
+- Departmental boundaries may be exceeded
+
+### Hierarchical Escalation
+- Can take place at any moment during resolution
+- **Reasons:**
+	- SLA threat
+	- Extra resources required
+	- Need to information higher management
