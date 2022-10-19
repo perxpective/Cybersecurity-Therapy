@@ -133,4 +133,7 @@
 		- Application
 		- Finance
 		- Purchase Order System
-	- 
+
+### Service Request
+- If category is a service request, it will be transferred to the **Request Fulfilment** process
+- If not, transferred to the **Incident Prioritisation** process
