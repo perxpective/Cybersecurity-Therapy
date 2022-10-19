@@ -167,3 +167,6 @@
 	- Changes made
 
 ### Resolution and Recovery
+- When resolution has been identified, it should be applied and tested
+- If satisfactory, a time and date stamp is recorded
+- Incident record must be updated with de
