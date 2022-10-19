@@ -140,3 +140,5 @@
 
 ### Incident Prioritization
 - Determines how the incident will be handled by support staff and by support tools
+
+### Major Incident
