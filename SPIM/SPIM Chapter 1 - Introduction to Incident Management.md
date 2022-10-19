@@ -99,4 +99,17 @@
 > Support tools can be used to automate the handling of standard incidents
 
 ## Process Workflow
-![Uploading file...gflq0]()
+![](https://i.imgur.com/B0u1SsQ.png)
+### Incident Identification
+**Triggers:**
+- Incidents from:
+	- Event management
+	- Web interface
+	- Users
+	- Suppliers
+	- Technical staff
+
+### Incident Logging
+- All incidents must be:
+	- Fully logged
+		- Inc. no.
