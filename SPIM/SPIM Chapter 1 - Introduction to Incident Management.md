@@ -86,3 +86,17 @@
 	- SLA threat
 	- Extra resources required
 	- Need to information higher management
+
+## Standard Incident Models
+- Designed and implemented for handling standard incident more efficiently
+- Incident Model should include the following:
+	- Steps required to handle the incident and their order
+	- Responsibilities
+	- Timescales and thresholds for completion
+	- Any escalation procedure
+	- Any evidence prevention activities
+
+> Support tools can be used to automate the handling of standard incidents
+
+## Process Workflow
+![Uploading file...gflq0]()
