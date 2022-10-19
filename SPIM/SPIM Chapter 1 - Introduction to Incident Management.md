@@ -112,4 +112,25 @@
 ### Incident Logging
 - All incidents must be:
 	- Fully logged
-		- Inc. no.
+		- Date
+		- Time
+		- Owner
+		- Contact
+	- Date and timestamped
+	- Full historical record of all incidents must be maintained
+	- Opportunity fixes must also be logged
+	- When incident is logged, resolution time count starts
+
+### Incident Categorization
+- Indicates the type of incident being logged
+- Category is related to a team that will handle the incident from the Service Desk
+- Categories are multi-level
+	- **Hardware**
+		- Server
+		- Memory Board
+		- Card Failure
+	- **Software**
+		- Application
+		- Finance
+		- Purchase Order System
+	- 
