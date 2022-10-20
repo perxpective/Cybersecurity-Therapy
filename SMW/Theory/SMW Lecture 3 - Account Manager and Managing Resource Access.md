@@ -74,4 +74,12 @@
 #### Properties of Groups
 - Properties of specific groups can be configured
 	- Through Local Users and Groups tool for local groups or;
-	- 
+	- In the Active Directory Users and Computers tool for domain groups
+- Properties are configured using the following tabs:
+	- General
+	- Members
+	- Member Of
+	- Managed By
+
+#### Organizational Units (OU) vs Security Groups
+- Group Policies applied to OUs (e.g. password changes)
