@@ -214,4 +214,6 @@
 	- Number of percentage of incidents resolved remotely without the need for a visit
 - **CSF maintain quality of IT services**
 	- Total number of incidents (as a control measure)
-	- 
+	- Size of current incident backlog of for each IT service
+	- Number and percentage of major incidents for each IT service
+- **CSF **
