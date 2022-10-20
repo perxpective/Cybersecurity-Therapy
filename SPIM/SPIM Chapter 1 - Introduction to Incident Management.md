@@ -206,4 +206,11 @@
 - Mismatch in objectives/expectations for Incident Management
 
 
-## Critical Success Factors (CSF)
+## Critical Success Factors (CSF) and Key Performance Indicators (KPI)
+- **CSF resolve incidents as quickly as possible to achieve incident resolution or circumvention, broken down by impact code**
+	- Elapsed time to achieve incident resolution or circumvention broken down by impact code
+	- Breakdown of incidents at each stage
+	- Percentage of incidents closed by the service desk without reference to other levels of support
+	- Number of percentage of incidents resolved remotely without the need for a visit
+- **CSF maintain quality of IT services**
+	- Total number of incidents
