@@ -216,4 +216,6 @@
 	- Total number of incidents (as a control measure)
 	- Size of current incident backlog of for each IT service
 	- Number and percentage of major incidents for each IT service
-- **CSF **
+- **CSF maintain user satisfaction with IT services**
+	- Average user survey score 
+	- Percentage of satisfaction surveys answered versus total number of satisfaction surveys sent
