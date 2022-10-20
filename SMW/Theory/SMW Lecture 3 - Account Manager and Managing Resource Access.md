@@ -33,4 +33,11 @@
 		- MMC snap-in
 
 ### Disabling, Enabling, and Renaming Accounts
-- When user takes a leave of absence, you have the 
+- When user takes a leave of absence, you have the option to disable their account
+- Organisations might also have the practice of disabling accounts when someone leaves and enabling the account of the person's replacement
+
+### Move an Account
+- When an employee moves from one department to another
+	- Might need to move that person's account from one container to another
+
+### Resetting a Password
