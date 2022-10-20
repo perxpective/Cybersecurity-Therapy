@@ -203,4 +203,7 @@
 - Incidents not handled in appropriate timescales
 - Insufficient incident backlog
 - Poor information availability
-- Mismatch in objectives/expectations  
+- Mismatch in objectives/expectations for Incident Management
+
+
+## Critical Success Factors (CSF)
