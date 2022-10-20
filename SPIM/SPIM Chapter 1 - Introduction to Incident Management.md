@@ -170,4 +170,13 @@
 - When resolution has been identified, it should be applied and tested
 - If satisfactory, a time and date stamp is recorded
 - Incident record must be updated with details of action taken
-- Incident should be returned
+- Incident should be returned to the Service Desk for closure action
+
+### Incident Closure
+- Before closing the incident, the Service Desk must:
+	- Ensure that the user is informed and happy with the solution
+	- The assigned incident category is the correct one 
+	- The incident documentation is complete
+	- Ensure that if there is indication that the incident might reoccur, a problem record should be raised
+
+## Process Interfaces
