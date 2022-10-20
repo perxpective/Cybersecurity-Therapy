@@ -50,4 +50,19 @@
 	- Deleting accounts that are not in use
 	- Failure to do so could expose a company to security risks
 - <u>When an account is deleted:</u>
-	- Its **globally unique identifier (GUID)** is also deleted and will not be u
+	- Its **globally unique identifier (GUID)** is also deleted and will not be reused even if you create another account using the same name
+
+> **Recovering a deleted account**
+> - By default, the Active Directory Recycle Bin is off
+
+### Security Group Management
+- For resource permissions management, one of the best ways to manage accounts is by grouping accounts that have similar characteristics
+- **Scope of influence**
+	- The reach of a group for gaining access to resources in Active Directory
+- Types of groups:
+	- Local
+	- Domain local
+	- Global
+	- Universal
+
+###
