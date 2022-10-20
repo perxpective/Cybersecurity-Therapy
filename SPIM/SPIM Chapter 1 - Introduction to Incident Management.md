@@ -219,3 +219,23 @@
 - **CSF maintain user satisfaction with IT services**
 	- Average user survey score 
 	- Percentage of satisfaction surveys answered versus total number of satisfaction surveys sent
+
+
+## Roles
+### Incident Management Process Owner
+- Accountable for the process
+
+### Incident Manager
+- Manages the work of Incident Support Staff
+- Develops and maintains the IM process and procedures
+	- Driving efficiency and effectiveness
+- Managing work of incident support staff (first and second line)
+- Manages major incidents
+- Monitors the effectiveness of IM and recommend the improvments
+- Developing and maintaining the IM systems
+- Producing management information
+
+### First, Second and Third Line Support
+| Line Support | Description |
+| ------------ | ----------- |
+| First        | I            |
