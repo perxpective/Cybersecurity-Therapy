@@ -42,4 +42,12 @@
 
 ### Resetting a Password
 - Administrators do not have the option to look up a password, but can reset passwords for users
-- 
+- For organisations that have accounts that manage sensitive information:
+	- It is advisable to have specific guidelines that govern the circumstances under which an account password is reset
+
+### Delete an Account
+- <u>Good practice:</u>
+	- Deleting accounts that are not in use
+	- Failure to do so could expose a company to security risks
+- <u>When an account is deleted:</u>
+	- Its **globally unique identifier (GUID)** is also deleted and will not be u
