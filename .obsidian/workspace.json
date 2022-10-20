@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c1bee8d14d37b861",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md"
+              }
             }
           },
           {
@@ -127,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,12 +143,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 139.3560333251953
+    "width": 139.3560333251953,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c1bee8d14d37b861",
+  "active": "94575a8561e5d910",
   "lastOpenFiles": [
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",

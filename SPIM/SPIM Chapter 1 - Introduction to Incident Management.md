@@ -180,3 +180,11 @@
 	- Ensure that if there is indication that the incident might reoccur, a problem record should be raised
 
 ## Process Interfaces
+| Interface                          | Description                                                                                 |
+| ---------------------------------- | ------------------------------------------------------------------------------------------- |
+| Event Management                   | Event can automatically raise incident                                                      |
+| Request Fulfilment                 | Request handling can also be handled by IM process                                          |
+| Problem Management                 | Incidents often point to problems                                                           |
+| Asset and Configuration Management | Provides data used to identify and progress incidents<br> IM assists in verification of CMS |
+| Change Management                  | Changes are often why reasons incidents occur<br> Incidents can lead to changes required for resolutions and workarounds                                                                                            |
+
