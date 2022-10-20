@@ -59,10 +59,19 @@
 - For resource permissions management, one of the best ways to manage accounts is by grouping accounts that have similar characteristics
 - **Scope of influence**
 	- The reach of a group for gaining access to resources in Active Directory
-- Types of groups:
+- <u>Types of groups:</u>
 	- Local
 	- Domain local
 	- Global
 	- Universal
+- All of these groups can be used for security or distribution groups
 
-###
+| Security Groups                                                                  | Distribution Groups                                                                  |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Used to enable access to resources on a standalone server or in Active Directory | Used for email or telephone lists to provide quick, mass distribution of information |
+| The resources access permission is simply implementing via group membership                                                                                 |                                                                                      |
+
+#### Properties of Groups
+- Properties of specific groups can be configured
+	- Through Local Users and Groups tool for local groups or;
+	- 
