@@ -213,4 +213,5 @@
 	- Percentage of incidents closed by the service desk without reference to other levels of support
 	- Number of percentage of incidents resolved remotely without the need for a visit
 - **CSF maintain quality of IT services**
-	- Total number of incidents
+	- Total number of incidents (as a control measure)
+	- 
