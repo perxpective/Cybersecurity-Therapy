@@ -236,6 +236,9 @@
 - Producing management information
 
 ### First, Second and Third Line Support
-| Line Support | Description |
-| ------------ | ----------- |
-| First        | I            |
+| Line Support | Description                                                                 | Party                            |
+| ------------ | --------------------------------------------------------------------------- | -------------------------------- |
+| First        | Identify, log, categorize, diagnose, resolve/escalate and close an incident | Service Desk                     |
+| Second       | Investigate, diagnose, resolve an incident                                  | Technical/Application Management |
+| Third        | Investigate, diagnose, resolve an incident                                  | External or internal experts                                 |
+

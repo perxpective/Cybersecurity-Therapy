@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f279c71b68b6872",
+        "id": "f868aeb37bf8f5dc",
         "type": "tabs",
         "children": [
           {
-            "id": "94575a8561e5d910",
+            "id": "292ef18918a4c7e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -149,7 +149,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "94575a8561e5d910",
+  "active": "292ef18918a4c7e3",
   "lastOpenFiles": [
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
