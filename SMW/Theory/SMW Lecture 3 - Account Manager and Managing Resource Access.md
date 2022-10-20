@@ -41,3 +41,5 @@
 	- Might need to move that person's account from one container to another
 
 ### Resetting a Password
+- Administrators do not have the option to look up a password, but can reset passwords for users
+- 
