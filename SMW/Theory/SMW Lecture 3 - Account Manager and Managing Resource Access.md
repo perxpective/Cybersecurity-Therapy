@@ -55,7 +55,7 @@
 > **Recovering a deleted account**
 > - By default, the Active Directory Recycle Bin is off
 
-### Security Group Management
+## Security Group Management
 - For resource permissions management, one of the best ways to manage accounts is by grouping accounts that have similar characteristics
 - **Scope of influence**
 	- The reach of a group for gaining access to resources in Active Directory
@@ -84,4 +84,9 @@
 #### Organizational Units (OU) vs Security Groups
 - Group Policies applied to OUs (e.g. password changes)
 - Delegation of authority are also applied to OUs
-- Security 
+- Security groups are used to assign file and folder permissions, shared folder permissions and any type of resources permissions
+
+### Implementing Local Groups
+- **Local Security Group**
+	- Used to manage resources on a standalone computer that is not part of a domain and on member servers in a domain
+- Instead of installing Active Directory, you can divide accounts into local groups
