@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,8 +164,8 @@
   },
   "active": "3ffa687857dde231",
   "lastOpenFiles": [
-    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",

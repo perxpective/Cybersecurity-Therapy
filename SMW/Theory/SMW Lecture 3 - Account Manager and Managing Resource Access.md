@@ -83,3 +83,5 @@
 
 #### Organizational Units (OU) vs Security Groups
 - Group Policies applied to OUs (e.g. password changes)
+- Delegation of authority are also applied to OUs
+- Security 
