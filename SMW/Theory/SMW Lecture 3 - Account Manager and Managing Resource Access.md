@@ -87,6 +87,16 @@
 - Security groups are used to assign file and folder permissions, shared folder permissions and any type of resources permissions
 
 ### Implementing Local Groups
-- **Local Security Group**
-	- Used to manage resources on a standalone computer that is not part of a domain and on member servers in a domain
+> **Local Security Groups** are used to manage resources on a standalone computer that is not part of a domain and on member servers in a domain
 - Instead of installing Active Directory, you can divide accounts into local groups
+	- Each group would be given different security access based on the resources at the server
+
+### Implementing Domain Local Groups
+> **Domain Local Security Groups** are used when Active Directory is deployed
+> - Typically used to manage resources in a domain and give global groups from the same and other domains
+> - Give global groups from the same and other domains access to those resources
+
+- Scope of a domain local group is the domain in which the group exists
+- Typical purpose of a domain local group is to provide access to resources
+	- Grant access to servers, folders, shared folders, and printers to a domain local group
+- 
