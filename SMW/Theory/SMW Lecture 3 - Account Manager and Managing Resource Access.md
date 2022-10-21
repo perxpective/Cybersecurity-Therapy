@@ -99,4 +99,15 @@
 - Scope of a domain local group is the domain in which the group exists
 - Typical purpose of a domain local group is to provide access to resources
 	- Grant access to servers, folders, shared folders, and printers to a domain local group
-- 
+- Only put domain local groups in access control lists
+	- Members of the domain local groups should mainly be global groups
+
+- **Membership Capabilities of a Domain Local Group**
+
+| Active Directory objects that can be members of a domain local group                                           | Active Directory objects that a domain local group can join as a member                                           |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| User accounts in the same domain                                                                               | Access control lists for objects in the same domain e.g. permissions to access a folder, shared folder or printer |
+| Domain local groups in the same domain                                                                         | Domain local groups in the same domain                                                                            |
+| Global groups in any domain in a tree or forest (as long there are transitive or 2-way trust relationships)    |                                                                                                                   |
+| Universal groups in any domain in a tree or forest (as long there are transitive or 2-way trust relationships) |                                                                                                                   |
+
