@@ -41,3 +41,7 @@
 - Network-Based Intrusion Detection Systems
 - Host-Based Intrusion Detection Systems
 - Third-party monitoring service
+
+### Analysis
+- Inspecting alerts, raw events, application and system logs
+- Working quickly to analyse and validate each incident following a pre-defined process and documenting each step taken
