@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ffa687857dde231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md"
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
               }
             }
           },
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,17 +162,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ea7f5d39c247604b",
+  "active": "3ffa687857dde231",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
+    "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+    "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "EHD/Practical/EHD Practical 1a - Network Protocols.md",
-    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
     "README.md",
-    "2022-10-17.md",
-    "DFI/DFI Chapter 9 - Historical Cellular.md"
+    "2022-10-17.md"
   ]
 }
