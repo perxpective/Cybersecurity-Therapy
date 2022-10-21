@@ -45,11 +45,14 @@
 > - Each user account object has a unique object SID or GUID which can be used to link event log records with the associated user account
 > - Once an account is deleted, the linkage is broken and can cause difficulties in forensic investigations
 > - Moreover, all files and folders owned by the account will be automatically changed to pass the ownership to the system administrators
-> 	- Can cause security implications e.g. system administrators 
+> 	- Can cause security implications e.g. system administrators not being allowed to own and access highly classified information in those files and folders
 
 ### Move an Account
 - When an employee moves from one department to another
 	- Might need to move that person's account from one container to another
+- Security group membership affects user's permissions for resources access
+- OU affects user's security settings
+- Security settings to a user is often mixed up with permissions granted to a user
 
 ### Resetting a Password
 - Administrators do not have the option to look up a password, but can reset passwords for users
@@ -102,6 +105,8 @@
 - Group Policies applied to OUs (e.g. password changes)
 - Delegation of authority are also applied to OUs
 - Security groups are used to assign file and folder permissions, shared folder permissions and any type of resources permissions
+
+> **Extra Information:**
 
 ### Implementing Local Groups
 > **Local Security Groups** are used to manage resources on a standalone computer that is not part of a domain and on member servers in a domain
