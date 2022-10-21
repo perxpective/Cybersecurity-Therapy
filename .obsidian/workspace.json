@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f868aeb37bf8f5dc",
+        "id": "5e2093d4c95dd35d",
         "type": "tabs",
         "children": [
           {
-            "id": "292ef18918a4c7e3",
+            "id": "ea7f5d39c247604b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,6 +144,43 @@
   },
   "ribbon": {
     "mostRecentAction": ""
+  },
+  "floating": {
+    "id": "3de16e56e6a90262",
+    "type": "floating",
+    "children": [
+      {
+        "id": "eae9149ecae18918",
+        "type": "window",
+        "children": [
+          {
+            "id": "e9f45694b031a254",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "292ef18918a4c7e3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1082,
+        "y": 14,
+        "width": 836,
+        "height": 708,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "292ef18918a4c7e3",
   "lastOpenFiles": [
