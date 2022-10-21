@@ -64,6 +64,12 @@
 	- Domain local
 	- Global
 	- Universal
+
+
+> **Note:** local group is not part of the Active Directory, 
+> - Only exists and visible in the machine where it belongs
+> - A local group can take in members from the Active Directory but not the vice-versa
+
 - All of these groups can be used for security or distribution groups
 
 | Security Groups                                                                  | Distribution Groups                                                                  |
