@@ -16,6 +16,10 @@
 	- **Domain User Accounts**
 		- Accounts that are set up in a domain when the Active Directory is installed
 - When accounts are created in the domain through Active Directory, these accounts can be used to access any server or resource in the domain
+
+> **Notes:** Default accounts are created automatically and can be threats to a system
+> - Hackers can use these accounts to hack into a system
+
 ---
 ### Creating Accounts When Active Directory Is Not Installed 
 - New accounts are created by first installing the *Local Users and Groups* MMC snap-in for stand-alone serve that do not use the Active Directory
@@ -35,6 +39,7 @@
 ### Disabling, Enabling, and Renaming Accounts
 - When user takes a leave of absence, you have the option to disable their account
 - Organisations might also have the practice of disabling accounts when someone leaves and enabling the account of the person's replacement
+> **Ex**
 
 ### Move an Account
 - When an employee moves from one department to another
