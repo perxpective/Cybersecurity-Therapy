@@ -36,4 +36,8 @@
 - Feedback from staff
 - System logs and application logs
 - Security events log
-- 
+- Antivirus, antispyware alerts
+- File integrity checking software
+- Network-Based Intrusion Detection Systems
+- Host-Based Intrusion Detection Systems
+- Third-party monitoring service
