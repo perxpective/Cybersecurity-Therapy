@@ -39,7 +39,13 @@
 ### Disabling, Enabling, and Renaming Accounts
 - When user takes a leave of absence, you have the option to disable their account
 - Organisations might also have the practice of disabling accounts when someone leaves and enabling the account of the person's replacement
-> **Ex**
+
+> **Extra Information:**
+> - To preserve file ownership and forensic information, a user account should be disabled before being deleted from the system
+> - Each user account object has a unique object SID or GUID which can be used to link event log records with the associated user account
+> - Once an account is deleted, the linkage is broken and can cause difficulties in forensic investigations
+> - Moreover, all files and folders owned by the account will be automatically changed to pass the ownership to the system administrators
+> 	- Can cause security implications e.g. system administrators 
 
 ### Move an Account
 - When an employee moves from one department to another
