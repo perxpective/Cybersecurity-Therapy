@@ -107,6 +107,7 @@
 - Security groups are used to assign file and folder permissions, shared folder permissions and any type of resources permissions
 
 > **Extra Information:**
+> - User group policy settings also control other settings with serious security implications
 
 ### Implementing Local Groups
 > **Local Security Groups** are used to manage resources on a standalone computer that is not part of a domain and on member servers in a domain
