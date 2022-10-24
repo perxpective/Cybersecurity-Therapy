@@ -78,7 +78,7 @@
 - If needed, restoring systems and/or files from clean backups
 
 ### Post-Incident Activity
-- AR meetings with all involved parties after a major inccident
+- AR meetings with all involved parties after a major incident
 	- Chain of events and times
 	- Findings
 	- Conclusions
