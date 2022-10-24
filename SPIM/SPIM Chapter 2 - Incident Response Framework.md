@@ -100,4 +100,20 @@
 
 ## Example of Detection, Analysis and Response  (Silicon SOC)
 - **Detection:**
-	- Silicon SOC received 
+	- Silicon SOC received an corelated alert on `Exploit.url.MVX`
+	- Host IP: `192.67.25.197`
+	- Date: `26 Feb 2016 10.22:06 SGT`
+	- <u>Behaviours observed:</u>
+		- Suspicious JS Activity
+		- Exploit Code Generic Detection
+		- Evasion Behaviour
+		- Exploit Code Activity
+- **Analysis:**
+	- The incident was analysed and compromised site that was surfed by the user is summarised
+	- GET Request: 
+	
+`
+hxxp://super.koumas.net/boards/viewforum.php?
+f=a87&sid=59_huz5pl0p9v1d4a07t7zyzgp7g7tklnwawie7lofiwwz9xsb3-
+5txyiettf5k23nn2sqs3_36eujtvflqgx4z3nfl5lgj2q
+`
