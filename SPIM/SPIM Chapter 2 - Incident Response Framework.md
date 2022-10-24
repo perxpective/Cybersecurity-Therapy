@@ -121,3 +121,16 @@
 	- **Eradication and Recovery:**
 		- Format and do a clean reinstallation of the operating system
 		- Update to the latest version of flash player for all end hosts
+
+## Incident Response Hierarchy of Capabilities
+![](https://i.imgur.com/RMGV2rr.png)
+
+## Security Operation Centre
+- Centralised facility that collects information on threats and protect an organisation's IT systems against attacks
+- **Examples:**
+	- Internal Threats
+	- External Threats
+	- User Activities
+	- Policy Violation
+	- Systems Availability
+	- 
