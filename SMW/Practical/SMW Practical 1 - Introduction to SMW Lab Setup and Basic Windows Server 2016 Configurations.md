@@ -20,4 +20,14 @@
 	1. **Deployment Configuration:**
 		1. Add a new forest
 		2. Root domain name (smw.soc.com)
-	2. **Domain Controller Oop**
+	2. **Domain Controller Option:**
+		1. Select the desired Windows Server version for both the Forest Functional Level and the Domain Functional Level
+		2. Specify the DNS and Global Catalog (GC)
+
+![](https://i.imgur.com/080DX8a.png)
+
+5. Select the **Install** option
+
+![](https://i.imgur.com/KqhpJov.png)
+
+## Exploring the Domain Controller
