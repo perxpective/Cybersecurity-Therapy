@@ -74,3 +74,7 @@
 ### Recovery
 - Restore systems to normal operations
 - Revert any limitations that were used for isolation
+- Confirm that the systems are functioning normally
+- If needed, restoring systems and/or files from clean backups
+
+### Post-Incident Activity
