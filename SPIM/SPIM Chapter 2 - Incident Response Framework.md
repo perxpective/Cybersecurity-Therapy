@@ -120,3 +120,4 @@
 		- Backup data
 	- **Eradication and Recovery:**
 		- Format and do a clean reinstallation of the operating system
+		- Update to the latest version of flash player for all end hosts
