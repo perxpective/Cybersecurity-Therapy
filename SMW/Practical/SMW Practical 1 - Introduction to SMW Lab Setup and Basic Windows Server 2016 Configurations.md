@@ -6,4 +6,6 @@
 ```toc
 ```
 
-## Setting Up a Domain
+## Setting Up a Domain 
+1. To promote a Windows Server to become a domain controller, add the Active Directory Domain Service role to the server
+2. **Add role:** Server Manager > Local Server  .
