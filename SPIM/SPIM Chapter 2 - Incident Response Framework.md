@@ -9,7 +9,8 @@
 ## Cyber Incident Response Life Cycle
 - Preparation
 - Detection and Analysis
-- Containment Eradication and Recovery
+- Containment/Eradication
+- Recovery
 - Post-Incident Activity
 
 ### Preparation
@@ -25,13 +26,13 @@
 - Managing incidents investigation
 - Incident documentation
 
-## Signs of Incidents
+#### Signs of Incidents
 - **Precursor**
 	- Sign that an incident may occur in the future
 - **Indication**
 	- Sign that an incident occurred or may be occurring now
 
-### Incident Detection Techniques
+#### Incident Detection Techniques
 - Feedback from customers
 - Feedback from staff
 - System logs and application logs
@@ -61,3 +62,10 @@
 	- Identify if the detected ability is permitted by security policy
 
 ### Containment/Eradication
+- Containing the threat
+- If it is of spreading nature, prevent it from spreading further
+- Prevent data leakage to the attacker (e.g. block communications, disabling accounts)
+- Elimination of incident components
+- Clean infected machines
+- Disable breached accounts
+- Evidence should be collected according to procedures that meet all applicable laws and regulationsa
