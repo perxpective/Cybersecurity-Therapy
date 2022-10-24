@@ -110,10 +110,13 @@
 		- Exploit Code Activity
 - **Analysis:**
 	- The incident was analysed and compromised site that was surfed by the user is summarised
-	- GET Request: 
-	
-`
-hxxp://super.koumas.net/boards/viewforum.php?
-f=a87&sid=59_huz5pl0p9v1d4a07t7zyzgp7g7tklnwawie7lofiwwz9xsb3-
-5txyiettf5k23nn2sqs3_36eujtvflqgx4z3nfl5lgj2q
-`
+	- GET Request: `hxxp://super.koumas.net/boards/viewforum.php?f=a87&sid=59_huz5pl0p9v1d4a07t7zyzgp7g7tklnwawie7lofiwwz9xsb3-5txyiettf5k23nn2sqs3_36eujtvflqgx4z3nfl5lgj2q`
+	- Referrer: `hxxp://news.geltuihameleon.info/hellomylittlepiggy/search/?keyword=84190`
+	- Malicious Host: `hxxp://super.koumas.net`
+- **Response Phase**
+	- **Containment:**
+		- Blacklist the malicious URLs
+		- Disconnect and isolate the host from the network
+		- Backup data
+	- **Eradication and Recovery:**
+		- Format and do a clean reinstallation of the operating system
