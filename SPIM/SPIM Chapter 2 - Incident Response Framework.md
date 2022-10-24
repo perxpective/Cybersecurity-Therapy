@@ -133,4 +133,7 @@
 	- User Activities
 	- Policy Violation
 	- Systems Availability
-	- 
+
+### Typical SOC Staffing
+![](https://i.imgur.com/eWeOjso.png)
+
