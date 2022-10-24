@@ -68,4 +68,9 @@
 - Elimination of incident components
 - Clean infected machines
 - Disable breached accounts
-- Evidence should be collected according to procedures that meet all applicable laws and regulationsa
+- Evidence should be collected according to procedures that meet all applicable laws and regulations
+- If alert if of a known issue act of predefined knowledge base and decision support
+
+### Recovery
+- Restore systems to normal operations
+- Revert any limitations that were used for isolation
