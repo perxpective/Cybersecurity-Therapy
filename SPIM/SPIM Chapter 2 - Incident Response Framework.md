@@ -82,3 +82,13 @@
 	- Chain of events and times
 	- Findings
 	- Conclusions
+	- Recommendations
+		- What needs to be done
+		- Proactive updates
+- Updating the knowledge base with specific incident details for next time's handling
+- Recognize security weaknesses and threats
+- Identifying and mitigating all vulnerabilities that were exploited
+
+## OODA Loop
+- Decision-making occurs in a recurring cycle of **observe-orient-decide-act**
+- An entity that can process 
