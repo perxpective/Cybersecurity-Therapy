@@ -50,9 +50,14 @@
 - Escalating to relevant personnel for further analysis
 - Analyse if it is a targeted attack or in-the-wild threat
 
-### Steps
+**Steps**
 1. Correlation
 	- Identify if detected activity is a characteristic of an intrusion attempt
 2. Structural Analysis
 	- Identify if intended target is vulnerable to the detected activity
-	- 
+3. Intrusion Path Analysis
+	- Identify if intended target is vulnerable to detected activity
+4. Behaviour Analysis
+	- Identify if the detected ability is permitted by security policy
+
+### Containment/Eradication
