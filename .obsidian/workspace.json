@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,10 +150,10 @@
   },
   "active": "b61e0a373bc9002d",
   "lastOpenFiles": [
+    "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SC/SC Topic 2 - Input and Output Sanitization.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
-    "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
