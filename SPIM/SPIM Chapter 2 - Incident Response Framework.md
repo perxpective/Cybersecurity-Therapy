@@ -45,3 +45,14 @@
 ### Analysis
 - Inspecting alerts, raw events, application and system logs
 - Working quickly to analyse and validate each incident following a pre-defined process and documenting each step taken
+- Identifying the attacker and targets
+- Assessing the risk to business processes
+- Escalating to relevant personnel for further analysis
+- Analyse if it is a targeted attack or in-the-wild threat
+
+### Steps
+1. Correlation
+	- Identify if detected activity is a characteristic of an intrusion attempt
+2. Structural Analysis
+	- Identify if intended target is vulnerable to the detected activity
+	- 
