@@ -91,4 +91,13 @@
 
 ## OODA Loop
 - Decision-making occurs in a recurring cycle of **observe-orient-decide-act**
-- An entity that can process 
+- An entity that can process this cycle quickly, observing and reacting to unfolding events more rapidly than an opponents can thereby get inside the opponent's decision cycle to gain an advantage
+
+![](https://i.imgur.com/JL792pU.png)
+
+## Conflict in Incident Handling
+![](https://i.imgur.com/sez9jB0.png)
+
+## Example of Detection, Analysis and Response  (Silicon SOC)
+- **Detection:**
+	- Silicon SOC received 
