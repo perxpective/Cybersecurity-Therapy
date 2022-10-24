@@ -108,7 +108,7 @@
 
 ### Trusted Cloud
 - Long-term initiative
-- **Based on the 3 fundamental principles:**
+- **Goals are based on the 3 fundamental principles:**
 	- Security
 	- Privacy
 	- Compliance
