@@ -31,3 +31,14 @@
 ![](https://i.imgur.com/KqhpJov.png)
 
 ## Exploring the Domain Controller
+1. On Server Manager > Local Server, explore the Properties page
+
+![](https://i.imgur.com/L7Qh9gH.png)
+
+2. On Server Manager > Local Server > Tools, explore the following tools:
+	1. Active Directory Users and Computers
+	2. Services
+	3. System Information
+	4. Windows Firewall with Advanced Security
+
+## Adding the DHCP Service to the Domain Controller
