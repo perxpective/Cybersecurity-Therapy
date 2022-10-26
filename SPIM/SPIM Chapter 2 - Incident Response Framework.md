@@ -168,3 +168,5 @@
 - Helping personnel to recover quickly and efficiently from security incidents, minimizing loss or theft of information and disruption of services
 - Using information gathered during the incident handling can help better prepare for handling future incidents and provide stringer protection for systems and data
 - Dealing properly with legal issues that may arise during incidents
+
+### Information Security Incident Management Framework
