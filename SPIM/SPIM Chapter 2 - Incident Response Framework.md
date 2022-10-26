@@ -139,4 +139,11 @@
 ### Processes in a SOC
 ![](https://i.imgur.com/IF6eaSR.png)
 
-###
+### Raw Logs to Correlated Security Events
+1. Collect event logs in native device formats from multiple devices
+2. Normalise data into a common format
+3. Correlate data across multiple rules to drill down to critical events
+4. Real-time monitoring and detection
+
+## Need for Incident Response Plans
+- Preventive activities based on the results od 
