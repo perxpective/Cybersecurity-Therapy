@@ -148,4 +148,15 @@
 ## Need for Incident Response Plans
 - Preventive activities based on the results of risk assessments can lower the number of incidents but not all incidents can be prevented
 - Computer security incident is a violation or imminent threat of violation of computer security policies, acceptable use policies and standard security practices
-- Incident response capability 
+- Incident response capability is necessary for:
+	- rapidly detecting incidents
+	- minimizing loss and destruction
+	- mitigating the weaknesses that were exploited
+	- restoring business services
+
+### Incident Management Guidelines
+- **Recommended Actions:**
+	- Defining incident response policy and plan
+	- Procedure planning for incident handling and reporting
+	- Setting guidelines for communicating with internal or external groups regarding incidents
+	- Selecting and staffing incident response 
