@@ -179,4 +179,14 @@
 		- Relationship with the other groups
 
 #### Establishing an Incident Response Team
-- i
+- Incident response team personnel
+- Incident response team staffing
+- Selection of team models
+- Outsourcing contractor issues
+- Dependencies within organizations
+
+##### Incident Response Team Personnel
+- **Team Manager and Duty Team Manager**
+	- Regardless of which incident response model an organisation chooses, a single employee should be in charge of incident response
+	- In a fully outsourced model, the team manager is responsible for overseeing and evaluating the outsourcer's work
+	- In other models, this responsibility is achieved by having a team manager and a deputy team manager who assumes authority in th
