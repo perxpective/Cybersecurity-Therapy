@@ -146,4 +146,6 @@
 4. Real-time monitoring and detection
 
 ## Need for Incident Response Plans
-- Preventive activities based on the results od 
+- Preventive activities based on the results of risk assessments can lower the number of incidents but not all incidents can be prevented
+- Computer security incident is a violation or imminent threat of violation of computer security policies, acceptable use policies and standard security practices
+- Incident response capability 
