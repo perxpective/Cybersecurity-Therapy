@@ -136,4 +136,7 @@
 
 ### Typical SOC Staffing
 ![](https://i.imgur.com/eWeOjso.png)
+### Processes in a SOC
+![](https://i.imgur.com/IF6eaSR.png)
 
+###
