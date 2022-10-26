@@ -189,4 +189,6 @@
 - **Team Manager and Duty Team Manager**
 	- Regardless of which incident response model an organisation chooses, a single employee should be in charge of incident response
 	- In a fully outsourced model, the team manager is responsible for overseeing and evaluating the outsourcer's work
-	- In other models, this responsibility is achieved by having a team manager and a deputy team manager who assumes authority in th
+	- In other models, this responsibility is achieved by having a team manager and a deputy team manager who assumes authority in the absence of the team manager
+- Technical lead
+- Team members with good technical and communication skills
