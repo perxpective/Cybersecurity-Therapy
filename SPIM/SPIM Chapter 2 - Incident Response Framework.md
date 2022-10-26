@@ -159,4 +159,10 @@
 	- Defining incident response policy and plan
 	- Procedure planning for incident handling and reporting
 	- Setting guidelines for communicating with internal or external groups regarding incidents
-	- Selecting and staffing incident response 
+	- Selecting and staffing incident response team according to pre-defined structure and staffing model
+	- Determining services provided by incident response team
+	- Training plans for incident response team
+
+### Benefits of Incident Response
+- Responding to incidents systematically so that appropriate steps are taken
+- Helping personnel to recover quickly and efficiently from security in
