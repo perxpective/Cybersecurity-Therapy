@@ -170,3 +170,13 @@
 - Dealing properly with legal issues that may arise during incidents
 
 ### Information Security Incident Management Framework
+- **Incident Response Services**
+	- <u>Incident Response Policy</u>
+		- Incident Response Procedure
+		- Communication Guidelines
+	- <u>Incident Response Team</u>
+		- Staffing and Training
+		- Relationship with the other groups
+
+#### Establishing an Incident Response Team
+- i
