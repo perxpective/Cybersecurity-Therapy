@@ -193,4 +193,27 @@
 ## Remote Procedure Call (RPC)
 - Interprocess communication mechanism
 - Allows a program running on one host to run code on a remote host
-- **Examples of worms that exploited **
+- **Examples of worms that exploited RPC:**
+	- MSBlast (LovSAN, Blaster)
+	- Nachi
+
+## Server Message Block (SMB)
+- Used by Windows to share files
+- Runs on top of NetBIOS, NetBEUI or TCP/IP
+- **Hacking tools:**
+	- L0phtcrack's SMB Packet Capture Utility
+	- SMBRelay
+- SMB3 introduced in Windows 8 and Windows Server 2012
+
+## Common Internet File System (CIFS)
+- Implementation of SMB
+- Remote file system protocol
+- Enables computers to share network resources over the Internet
+- Relies on other protocols to handle service announcements
+- **Server security methods:**
+	- Share-level security
+	- User-level security
+
+## Samba
+- Open-source implementation of CIFS
+- Allows sharing
