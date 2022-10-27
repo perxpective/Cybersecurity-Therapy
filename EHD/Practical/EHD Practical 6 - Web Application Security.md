@@ -523,9 +523,6 @@ java -jar webgoat-server-nnnn.jar --server.port=9090
 18. Change Field 1 to three lowercase characters
 19. Forward packets until HTTP request packet for submitted form found
 20. Modify form data so that all fields do not meet validation checks
-
-![](https://i.imgur.com/vXNDutX.png)
-
 21. Set **Intercept is off** in Burp
 22. Modified HTTP request sent to WebGoat
 

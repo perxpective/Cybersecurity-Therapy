@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +160,8 @@
   },
   "active": "10387cfc5428f77b",
   "lastOpenFiles": [
-    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SC/SC Topic 2 - Input and Output Sanitization.md",
