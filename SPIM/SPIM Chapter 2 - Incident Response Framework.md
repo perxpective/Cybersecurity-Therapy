@@ -232,3 +232,5 @@
 ##### Coordinating Team
 - Incident response team provides guidance and advice to other teams without having authority over those teams
 
+#### Factors to be Considered when Selecting Team Models
+
