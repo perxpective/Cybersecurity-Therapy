@@ -60,4 +60,23 @@
 
 ![](https://i.imgur.com/X4GLo3i.png)
 
-7. Right -cli
+7. Right click on the IPv4 node and select **New Scope**
+
+![](https://i.imgur.com/utmF0Hl.png)
+![](https://i.imgur.com/Y2D60HI.png)
+![](https://i.imgur.com/zLCKMg6.png)
+![](https://i.imgur.com/9QSeA1E.png)
+![](https://i.imgur.com/nzgq63i.png)
+![](https://i.imgur.com/GJVp00a.png)
+![](https://i.imgur.com/nGLEmqw.png)
+
+8. Verify the scope configuration at the DHCP Manager Console:
+
+![](https://i.imgur.com/63nvoxf.png)
+
+## Adding a Client to the Domain
+1. Ensure that Windows Server 2016 is running and the local DHCP service of VMNet is disabled
+2. Start the Windows 10 VM
+3. Verify that the IP settings of the Windows 10 VM remains dynamic
+4. Check if it can access the Internet
+5. Verify and record the 
