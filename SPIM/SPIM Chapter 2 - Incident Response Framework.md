@@ -215,3 +215,5 @@
 - After major incident has been handled, organisation should hold a meeting to:
 	- review how effective incident handling process was
 	- identify necessary improvements to existing security controls and practices
+- Meetings should be held periodically for lesser incidents
+	- Information accumulated from all lessons learned meetings should be used to identify systemic s
