@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -158,9 +157,6 @@
     "direction": "horizontal",
     "width": 139.3560333251953,
     "collapsed": true
-  },
-  "ribbon": {
-    "mostRecentAction": ""
   },
   "active": "10387cfc5428f77b",
   "lastOpenFiles": [
