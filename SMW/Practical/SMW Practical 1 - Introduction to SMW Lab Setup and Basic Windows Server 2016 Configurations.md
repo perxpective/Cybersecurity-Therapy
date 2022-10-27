@@ -52,4 +52,12 @@
 
 ![](https://i.imgur.com/CUGkzLC.png)
 
-5. Accept 
+5. Accept all the defaults to complete the post-deployment configuration
+
+![](https://i.imgur.com/penEtbw.png)
+
+6. DHCP Scope configuration: The scope definition determines the information to be sent to all connected DHCP clients. Start the DHCP Manager to configure the scope
+
+![](https://i.imgur.com/X4GLo3i.png)
+
+7. Right -cli
