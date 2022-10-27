@@ -79,4 +79,9 @@
 | `<computer name>` | 43     | Registered by the System Management Server (SMS) remote control client. Allows admins to take control of a client for troubleshooting and administration           |
 | `<computer name>` | 44     | Indicates that the SMS remote control tool is running on this computer                                                                                             |
 | `<computer name>` | 45     | Indicates that SMS remote chat is enabled on this computer                                                                                                         |
-| `<computer name>`                  |        |                                                                                                                                                                    |
+| `<computer name>` | 46     | Signifies that SMS remote transfer is enabled on this computer                                                                                                     |
+| `<computer name>` | 4C     | Indicates that DEC Pathworks TCP/IP is configured on the computer                                                                                                  |
+| `<computer name>` | 52     | Also indicates that DEC Pathworks is configured on the computer                                                                                                    |
+| `<computer name>` | 87     | Signifies that the MS Exchange Transfer Agent (MTA) is running                                                                                                     |
+| `<computer name>` | 6A     | Indicates that Microsoft Exchange Internet Mail Connector (IMC) is running                                                                                         |
+| `<computer name>` | BE     | Signifies that Netmon Agent (Microsoft netow)                                                                                                                                                                   |
