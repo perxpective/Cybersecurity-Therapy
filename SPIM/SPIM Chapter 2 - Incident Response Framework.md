@@ -201,4 +201,11 @@
 	- The services are mostly performed by contractors are computer forensics, advanced incident analysis, incident containment and eradication and vulnerability mitigation
 - **Fully Outsourced**
 	- The organisation completely outsources its incident response work typically to an onsite contractor
-	- This model is most likely to be used when the organisation needs a full-time onsite incident response team but does o
+	- This model is most likely to be used when the organisation needs a full-time onsite incident response team but does not have time available qualified employees
+
+##### Training
+- Regular mock-up incident response exercise
+- Walkthrough the incident response policy and procedures
+- Attend external training courses
+- Drafting new incident response procedures
+- After major incident has been handled, organisation s
