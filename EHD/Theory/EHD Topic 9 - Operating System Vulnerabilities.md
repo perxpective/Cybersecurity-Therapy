@@ -116,4 +116,31 @@
 	- Powerful enumeration tool included the with Microsoft OS
 	- Displays NetBIOS table
 - `net view` command
-	- Shows whether there are any shared re
+	- Shows whether there are any shared resources on a network host
+- Use information obtained from port scanning during enumeration
+	- Use an IP address obtained when port scanning to perform a NetBIOS enumeration
+
+![](https://i.imgur.com/G0WXoNq.png)
+![](https://i.imgur.com/0P4WOfQ.png)
+![](https://i.imgur.com/SU9LXrI.png)
+
+- `net use` command
+	- Used to connect to a computer with shared folders or files
+
+![](https://i.imgur.com/aRFDBiL.png)
+
+### Additional Enumeration Tools
+- NetScanTools Pro
+- DumpSec
+- Hyena
+- Nessus
+- OpenVAS
+
+#### NetScanTools Pro
+- Produces a graphical view of NetBIOS running on a network
+- Enumerates any shares running on the computer
+- Verifies whether access is available for shared resource using its **Universal Naming Convention (UNC)** name
+
+![](https://i.imgur.com/j7gQxiq.png)
+![](https://i.imgur.com/t4wWgkm.png)
+
