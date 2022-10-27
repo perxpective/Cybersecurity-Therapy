@@ -62,35 +62,35 @@
 	- NetBIOS used for backward compatibility\
 
 **NetBIOS names and suffixes**
-| NetBIOS Name      | Suffix | Description                                                                                                                                                        |
-| ----------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `<computer name>` | 00     | Workstation service registered the computer name                                                                                                                   |
-| `<_MSBROWSE_>`    | 01     | Signifies that the computer is the master browser on the network (responsible for notifying all computers on the network of any NetBIOS name changes or additions) |
-| `<computer name>` | 03     | Computer is registered by Messenger service which client uses when sending and receiving messages                                                                  |
-| `<computer name>` | 06     | Registered by Routing and Remote Access Service (RRAS)                                                                                                             |
-| `<computer name>` | 1F     | Network Dynamic Data Exchange (NetDDE) services started on the computer. NetDDE is a system that runs on Microsoft OSs to facilitate exchange of network data      |
-| `<computer name>` | 20     | Registered by the Server service. A computer must have this service running to share printers or files                                                             |
-| `<computer name>` | 21     | Registered by Remote Access Service (RAS)                                                                                                                          |
-| `<computer name>` | 22     | Registered by the Microsoft Exchange Interchange service                                                                                                           |
-| `<computer name>` | 23     | Registered by the Microsoft Exchange Store service where mailboxes and public folders are stored                                                                   |
-| `<computer name>` | 24     | Registered by the MS Exchange Directory service                                                                                                                    |
-| `<computer name>` | 30     | Registered by Modem Sharing Server Service                                                                                                                         |
-| `<computer name>` | 31     | Registered by Modem Sharing Client Service                                                                                                                         |
-| `<computer name>` | 43     | Registered by the System Management Server (SMS) remote control client. Allows admins to take control of a client for troubleshooting and administration           |
-| `<computer name>` | 44     | Indicates that the SMS remote control tool is running on this computer                                                                                             |
-| `<computer name>` | 45     | Indicates that SMS remote chat is enabled on this computer                                                                                                         |
-| `<computer name>` | 46     | Signifies that SMS remote transfer is enabled on this computer                                                                                                     |
-| `<computer name>` | 4C     | Indicates that DEC Pathworks TCP/IP is configured on the computer                                                                                                  |
-| `<computer name>` | 52     | Also indicates that DEC Pathworks is configured on the computer                                                                                                    |
-| `<computer name>` | 87     | Signifies that the MS Exchange Transfer Agent (MTA) is running                                                                                                     |
-| `<computer name>` | 6A     | Indicates that Microsoft Exchange Internet Mail Connector (IMC) is running                                                                                         |
-| `<computer name>` | BE     | Signifies that Netmon Agent (Microsoft network-monitoring tool) is running                                                                                         |
-| `<computer name>` | BF     | Indicates that the Messenger service is running                                                                                                                    |
-| `<username>`      | 03     | Indicates that the Messenger service is running                                                                                                                    |
-| `<domain name>`   | 00     | Indicates that the Domain Name Service (DNS) is running                                                                                                            |
-| `<domain name>`   | 1B     | Identifies the computer as a domain master browser                                                                                                                 |
-| `<domain name>`   | 1C     | Identifies the computer as a domain controller                                                                                                                     |
-| `<domain name>`   | 1D     | Identifies the computer as a master browser                                                                                                                        |
-| `<domain name>`   | 1E     | Signifies that Browser Services Election is running                                                                                                                |
-| `<iNet~Services>` | 1C     | Indicates that Internet Information Services (IIS) is running                                                                                                      |
-| `<IS-computernaa`                  |        |                                                                                                                                                                    |
+| NetBIOS Name        | Suffix | Description                                                                                                                                                        |
+| ------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `<computer name>`   | 00     | Workstation service registered the computer name                                                                                                                   |
+| `<_MSBROWSE_>`      | 01     | Signifies that the computer is the master browser on the network (responsible for notifying all computers on the network of any NetBIOS name changes or additions) |
+| `<computer name>`   | 03     | Computer is registered by Messenger service which client uses when sending and receiving messages                                                                  |
+| `<computer name>`   | 06     | Registered by Routing and Remote Access Service (RRAS)                                                                                                             |
+| `<computer name>`   | 1F     | Network Dynamic Data Exchange (NetDDE) services started on the computer. NetDDE is a system that runs on Microsoft OSs to facilitate exchange of network data      |
+| `<computer name>`   | 20     | Registered by the Server service. A computer must have this service running to share printers or files                                                             |
+| `<computer name>`   | 21     | Registered by Remote Access Service (RAS)                                                                                                                          |
+| `<computer name>`   | 22     | Registered by the Microsoft Exchange Interchange service                                                                                                           |
+| `<computer name>`   | 23     | Registered by the Microsoft Exchange Store service where mailboxes and public folders are stored                                                                   |
+| `<computer name>`   | 24     | Registered by the MS Exchange Directory service                                                                                                                    |
+| `<computer name>`   | 30     | Registered by Modem Sharing Server Service                                                                                                                         |
+| `<computer name>`   | 31     | Registered by Modem Sharing Client Service                                                                                                                         |
+| `<computer name>`   | 43     | Registered by the System Management Server (SMS) remote control client. Allows admins to take control of a client for troubleshooting and administration           |
+| `<computer name>`   | 44     | Indicates that the SMS remote control tool is running on this computer                                                                                             |
+| `<computer name>`   | 45     | Indicates that SMS remote chat is enabled on this computer                                                                                                         |
+| `<computer name>`   | 46     | Signifies that SMS remote transfer is enabled on this computer                                                                                                     |
+| `<computer name>`   | 4C     | Indicates that DEC Pathworks TCP/IP is configured on the computer                                                                                                  |
+| `<computer name>`   | 52     | Also indicates that DEC Pathworks is configured on the computer                                                                                                    |
+| `<computer name>`   | 87     | Signifies that the MS Exchange Transfer Agent (MTA) is running                                                                                                     |
+| `<computer name>`   | 6A     | Indicates that Microsoft Exchange Internet Mail Connector (IMC) is running                                                                                         |
+| `<computer name>`   | BE     | Signifies that Netmon Agent (Microsoft network-monitoring tool) is running                                                                                         |
+| `<computer name>`   | BF     | Indicates that the Messenger service is running                                                                                                                    |
+| `<username>`        | 03     | Indicates that the Messenger service is running                                                                                                                    |
+| `<domain name>`     | 00     | Indicates that the Domain Name Service (DNS) is running                                                                                                            |
+| `<domain name>`     | 1B     | Identifies the computer as a domain master browser                                                                                                                 |
+| `<domain name>`     | 1C     | Identifies the computer as a domain controller                                                                                                                     |
+| `<domain name>`     | 1D     | Identifies the computer as a master browser                                                                                                                        |
+| `<domain name>`     | 1E     | Signifies that Browser Services Election is running                                                                                                                |
+| `<iNet~Services>`   | 1C     | Indicates that Internet Information Services (IIS) is running                                                                                                      |
+| `<IS-computername>` | 00     | Also indicates that IIS is running                                                                                                                                                                   |
