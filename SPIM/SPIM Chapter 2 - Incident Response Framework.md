@@ -254,3 +254,7 @@
 - Lack of organisation-specific knowledge
 - Lack of correlation
 	- If intrusion detection system records attempted attack against web server but the outsourcer has no access to the web, it may be unable to determine if the attack was successful
+- Handling incidents at multiple locations
+	- If outsourcer is offsite, consider where outsourcer is located and how quickly it can have an incident response team at any facility and the cost
+- Maintaining incident response skills in-house
+	- 
