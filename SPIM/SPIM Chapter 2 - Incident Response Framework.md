@@ -178,14 +178,14 @@
 		- Staffing and Training
 		- Relationship with the other groups
 
-#### Establishing an Incident Response Team
+### Establishing an Incident Response Team
 - Incident response team personnel
 - Incident response team staffing
 - Selection of team models
 - Outsourcing contractor issues
 - Dependencies within organizations
 
-##### Incident Response Team Personnel
+#### Incident Response Team Personnel
 - **Team Manager and Duty Team Manager**
 	- Regardless of which incident response model an organisation chooses, a single employee should be in charge of incident response
 	- In a fully outsourced model, the team manager is responsible for overseeing and evaluating the outsourcer's work
@@ -207,7 +207,7 @@
 	- The organisation completely outsources its incident response work typically to an onsite contractor
 	- This model is most likely to be used when the organisation needs a full-time onsite incident response team but does not have time available qualified employees
 
-##### Training
+#### Training
 - Regular mock-up incident response exercise
 - Walkthrough the incident response policy and procedures
 - Attend external training courses
@@ -220,19 +220,19 @@
 - Follow-up reports generated for each resolved incident can be important not only for evidentiary purposes but also for reference in handling future incidents and in training new incident response team members
 - Incident database with detailed information on each incident that occurs can also be valuable source of information for incident handlers
 
-#### Selection of Team Models
-##### Central Incident Response Team
+### Selection of Team Models
+#### Central Incident Response Team
 - Single incident response team that handles incidents throughout the organisation
 - Effective for small organisations and for large organisations with minimal geographic diversity in terms of computing resources
 
-##### Disrupted Incident Response Teams
+#### Disrupted Incident Response Teams
 - An organisation has multiple incident response teams each responsible for handling incidents for a particular logical or physical segment of the organisation
 - Effective for large organisations (e.g. one team per division) and for organisations with major computing resources at distant locations
 
-##### Coordinating Team
+#### Coordinating Team
 - Incident response team provides guidance and advice to other teams without having authority over those teams
 
-#### Factors to be Considered when Selecting Team Models
+### Factors to be Considered when Selecting Team Models
 - **Need for 24/7 Availability**
 	- Larger and smaller organisations that support critical infrastructures usually need incident response staff to be available 24/7
 - **Full-Time vs Part-Time Team Members**
@@ -247,7 +247,7 @@
 	- If an organisation has three department that function independently, incident response may be more effective if each department has its own incident response team
 	- Main organisation can host a centralised incident response entity that facilitates standard practices and communications among the teams
 
-#### Outsourcing Contractor Issues
+### Outsourcing Contractor Issues
 - Sensitive information is revealed to the contractor
 - Current and future quality of work of contractor
 - Division of responsibilities
@@ -257,4 +257,12 @@
 - Handling incidents at multiple locations
 	- If outsourcer is offsite, consider where outsourcer is located and how quickly it can have an incident response team at any facility and the cost
 - Maintaining incident response skills in-house
+	- Organisations that completely outsource incident response should strive to maintain incident response skills in-house
+	- As situation may arise where the outsourcer is unavailable
+
+### Dependencies Within Organisations
+- Incident response teams rely on the expertise, judgement and abilities of others, including:
+	- Management
+	- Information security
+	- Telecommunications
 	- 
