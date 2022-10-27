@@ -73,4 +73,10 @@
 | `<computer name>` | 21     | Registered by Remote Access Service (RAS)                                                                                                                          |
 | `<computer name>` | 22     | Registered by the Microsoft Exchange Interchange service                                                                                                           |
 | `<computer name>` | 23     | Registered by the Microsoft Exchange Store service where mailboxes and public folders are stored                                                                   |
-| `<computer name>` | 24     | Registered by Systems Management                                                                                                                                                                    |
+| `<computer name>` | 24     | Registered by the MS Exchange Directory service                                                                                                                    |
+| `<computer name>` | 30     | Registered by Modem Sharing Server Service                                                                                                                         |
+| `<computer name>` | 31     | Registered by Modem Sharing Client Service                                                                                                                         |
+| `<computer name>` | 43     | Registered by the System Management Server (SMS) remote control client. Allows admins to take control of a client for troubleshooting and administration           |
+| `<computer name>` | 44     | Indicates that the SMS remote control tool is running on this computer                                                                                             |
+| `<computer name>` | 45     | Indicates that SMS remote chat is enabled on this computer                                                                                                         |
+| `<computer name>`                  |        |                                                                                                                                                                    |
