@@ -196,5 +196,6 @@
 	- The organisation performs all of its incident response work with limited technical and administrative support from contractors
 - **Partially Outsourced**
 	- Organisations outsource portions of its incident response work
-	- Most prevalent arrange is for the organisation to outsource 24/7 monitoring of intrusion detection sensors, firewalls and other security
-	- 
+	- Most prevalent arrange is for the organisation to outsource 24/7 monitoring of intrusion detection sensors, firewalls and other security services provider
+	- Some organisations perform basic incident response work in-house and call contractors to assist with handling incidents, particularly those that are more serious or widespread
+	- The services are mostly performed by contractors are computer forensics, advanced incident anal
