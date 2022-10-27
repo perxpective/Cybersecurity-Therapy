@@ -94,3 +94,6 @@
 | `<domain name>`     | 1E     | Signifies that Browser Services Election is running                                                                                                                |
 | `<iNet~Services>`   | 1C     | Indicates that Internet Information Services (IIS) is running                                                                                                      |
 | `<IS-computername>` | 00     | Also indicates that IIS is running                                                                                                                                                                   |
+
+## NetBIOS Null Sessions
+- Unauthenticated 
