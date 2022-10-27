@@ -224,3 +224,6 @@
 ##### Central Incident Response Team
 - Single incident response team that handles incidents throughout the organisation
 - Effective for small organisations and for large organisations with minimal geographic diversity in terms of computing resources
+
+##### Disrupted Incident Response Teams
+- An organisation
