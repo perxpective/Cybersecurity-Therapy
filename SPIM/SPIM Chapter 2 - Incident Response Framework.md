@@ -235,3 +235,13 @@
 #### Factors to be Considered when Selecting Team Models
 - **Need for 24/7 Availability**
 	- Larger and smaller organisations that support critical infrastructures usually need incident response staff to be available 24/7
+- **Full-Time vs Part-Time Team Members**
+	- Organisations with limited funding, staffing or incident response needs may have only part-time incident response team members
+	- In this case, the incident response team can also be known as a volunteer fire department
+- **Cost**
+- **Staff Expertise**
+- **Employee Morale**
+	- Incident response work and on-call responsibilities of team members is very stressful
+	- Many organisations struggle to find willing, available, experienced and properly skilled people to participate in 24-hour support
+- **Organisational Structure**
+	- If an organisation
