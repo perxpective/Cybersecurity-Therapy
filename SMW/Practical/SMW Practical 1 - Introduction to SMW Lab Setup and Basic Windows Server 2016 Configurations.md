@@ -79,4 +79,11 @@
 2. Start the Windows 10 VM
 3. Verify that the IP settings of the Windows 10 VM remains dynamic
 4. Check if it can access the Internet
-5. Verify and record the 
+5. Go to the System Information of the Windows VM and access the **Computer Name/Domain Changes** popup 
+6. Update the computer name and select **Domain** (domain: SMW)
+
+![](https://i.imgur.com/dW6gBLT.png)
+
+7. Enter the smw_srv2016 credentials to proceed
+
+## Logging onto Windows 10 with Local and Domain Administrator
