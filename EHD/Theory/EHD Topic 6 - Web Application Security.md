@@ -109,7 +109,7 @@
 
 ### Simple Injections
 ```mysql
-SELECT * from user='' or  1=1 - - ''
+SELECT * from user='' or  1=1 -- ''
 ```
 - Always true
 - If used for login processing, first record being returned will be the login user
