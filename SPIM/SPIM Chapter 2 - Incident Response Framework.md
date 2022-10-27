@@ -265,4 +265,9 @@
 	- Management
 	- Information security
 	- Telecommunications
-	- 
+	- IT support
+	- Legal department
+	- Public affairs and media relations
+	- Human resources
+	- Physical security and facility management
+	- Business continuity planning
