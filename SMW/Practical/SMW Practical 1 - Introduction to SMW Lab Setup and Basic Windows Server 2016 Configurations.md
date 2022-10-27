@@ -87,3 +87,5 @@
 7. Enter the smw_srv2016 credentials to proceed
 
 ## Logging onto Windows 10 with Local and Domain Administrator
+1. Windows 10 has a local administrator account named `.\ladmin`. The local user account only exists locally on the Windows 10 VM and log into the Windows Server 2016
+2. The domain administrator account is named `smw_srv2016@smw.soc.com` and exists on all computers under the SMW domain. This account can log into both Windows 10 and Windows Server 2016 as they are both in the domain
