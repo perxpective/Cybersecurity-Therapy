@@ -192,3 +192,7 @@
 	- In other models, this responsibility is achieved by having a team manager and a deputy team manager who assumes authority in the absence of the team manager
 - Technical lead
 - Team members with good technical and communication skills
+- **Employees**
+	- The organisation performs all of its incident response work with limited technical and administrative support from contractors
+- **Partially Outsourced**
+	- 
