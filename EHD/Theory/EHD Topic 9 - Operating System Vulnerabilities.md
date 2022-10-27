@@ -170,4 +170,17 @@
 ![](https://i.imgur.com/GHm2PoF.png)
 ![](https://i.imgur.com/mfRFe3B.png)
 ![](https://i.imgur.com/Oq1TQZG.png)
-![Uploading file...km1ap]()
+![](https://i.imgur.com/IH37tZR.png)
+![](https://i.imgur.com/aTHZddd.png)
+![](https://i.imgur.com/KidUdee.png)
+
+#### OpenVAS
+> **OpenVAS** - Open Vulnerability Assessment Scanner
+
+- www.openvas.org
+- Scans for open ports
+- Identifies services running on these ports
+- Based on the identified service, runs appropriate vulnerability tests against the service
+- **Network Vulnerability Tests (NVTs)**
+	- Scans for vulnerabilities
+	- Can be downloaded
