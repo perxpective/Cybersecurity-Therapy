@@ -84,4 +84,13 @@
 | `<computer name>` | 52     | Also indicates that DEC Pathworks is configured on the computer                                                                                                    |
 | `<computer name>` | 87     | Signifies that the MS Exchange Transfer Agent (MTA) is running                                                                                                     |
 | `<computer name>` | 6A     | Indicates that Microsoft Exchange Internet Mail Connector (IMC) is running                                                                                         |
-| `<computer name>` | BE     | Signifies that Netmon Agent (Microsoft netow)                                                                                                                                                                   |
+| `<computer name>` | BE     | Signifies that Netmon Agent (Microsoft network-monitoring tool) is running                                                                                         |
+| `<computer name>` | BF     | Indicates that the Messenger service is running                                                                                                                    |
+| `<username>`      | 03     | Indicates that the Messenger service is running                                                                                                                    |
+| `<domain name>`   | 00     | Indicates that the Domain Name Service (DNS) is running                                                                                                            |
+| `<domain name>`   | 1B     | Identifies the computer as a domain master browser                                                                                                                 |
+| `<domain name>`   | 1C     | Identifies the computer as a domain controller                                                                                                                     |
+| `<domain name>`   | 1D     | Identifies the computer as a master browser                                                                                                                        |
+| `<domain name>`   | 1E     | Signifies that Browser Services Election is running                                                                                                                |
+| `<iNet~Services>` | 1C     | Indicates that Internet Information Services (IIS) is running                                                                                                      |
+| `<IS-computernaa`                  |        |                                                                                                                                                                    |
