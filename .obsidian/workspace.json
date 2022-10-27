@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10387cfc5428f77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 6 - Web Application Security.md"
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,14 +145,14 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "10387cfc5428f77b",
+  "active": "b61e0a373bc9002d",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
-    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
-    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SC/SC Topic 2 - Input and Output Sanitization.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
