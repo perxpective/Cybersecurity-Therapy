@@ -244,4 +244,8 @@
 	- Incident response work and on-call responsibilities of team members is very stressful
 	- Many organisations struggle to find willing, available, experienced and properly skilled people to participate in 24-hour support
 - **Organisational Structure**
-	- If an organisation
+	- If an organisation has three department that function independently, incident response may be more effective if each department has its own incident response team
+	- Main organisation can host a centralised incident response entity that facilitates standard practices and communications among the teams
+
+#### Outsourcing Contractor Issues
+- Sensitive information is re
