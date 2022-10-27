@@ -227,5 +227,8 @@
 
 ##### Disrupted Incident Response Teams
 - An organisation has multiple incident response teams each responsible for handling incidents for a particular logical or physical segment of the organisation
-- Effective for large organisations (e.g. one team per division)
-- 
+- Effective for large organisations (e.g. one team per division) and for organisations with major computing resources at distant locations
+
+##### Coordinating Team
+- Incident response team provides guidance and advice to other teams without having authority over those teams
+
