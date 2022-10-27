@@ -233,4 +233,5 @@
 - Incident response team provides guidance and advice to other teams without having authority over those teams
 
 #### Factors to be Considered when Selecting Team Models
-
+- **Need for 24/7 Availability**
+	- Larger and smaller organisations that support critical infrastructures usually need incident response staff to be available 24/7
