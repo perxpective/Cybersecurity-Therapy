@@ -96,4 +96,24 @@
 | `<IS-computername>` | 00     | Also indicates that IIS is running                                                                                                                                                                   |
 
 ## NetBIOS Null Sessions
-- Unauthenticated 
+- Unauthenticated connection to a Windows computer
+- Does not require any username or password
+- Normally used in SMB (Windows File and Printer Sharing)
+- Null session vulnerability may allow attacker to connect and get information about the system
+- Null sessions are no longer enabled on newer Windows OSs
+
+## Enumeration
+- Discovering resources available on the network
+- Usernames or groups assigned on the network
+- Gaining access to network resources
+
+> Port scanning is part of enumeration
+> - Intrusive process
+> - Involves connecting to the system
+
+### NetBIOS Enumeration Tools
+- `nbtstat` command
+	- Powerful enumeration tool included the with Microsoft OS
+	- Displays NetBIOS table
+- `net view` command
+	- Shows whether there are any shared re
