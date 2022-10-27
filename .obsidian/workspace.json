@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce04f1e5255bf26e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,9 +145,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "ce04f1e5255bf26e",
+  "active": "325d3914ceb21b74",
   "lastOpenFiles": [
     "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+    "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
@@ -168,7 +156,6 @@
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SC/SC Topic 2 - Input and Output Sanitization.md"
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
   ]
 }
