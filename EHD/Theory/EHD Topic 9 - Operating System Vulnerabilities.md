@@ -184,3 +184,13 @@
 - **Network Vulnerability Tests (NVTs)**
 	- Scans for vulnerabilities
 	- Can be downloaded
+- OpenVAS allows the choice of allowing the running of these "dangerous" tests against the target
+- Can choose only "safe" tests if you do not want to risk the vulnerability tests causing negative effects on the target (e.g. live web server)
+- All scanning activities generate extra network traffic
+- When running scans against production networks, prepare firewalls, intrusion detection systems and logging systems to give alerts
+- Security systems should detect such scanning activities
+
+## Remote Procedure Call (RPC)
+- Interprocess communication mechanism
+- Allows a program running on one host to run code on a remote host
+- **Examples of worms that exploited **
