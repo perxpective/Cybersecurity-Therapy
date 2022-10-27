@@ -144,3 +144,30 @@
 ![](https://i.imgur.com/j7gQxiq.png)
 ![](https://i.imgur.com/t4wWgkm.png)
 
+#### Hyena
+- www.systemtools.com
+- GUI for managing and securing Microsoft OSs
+- Shows shares and user logon names for Windows servers and domain controllers
+- Displays graphical representations of the following:
+	- Microsoft Terminal Services
+	- Microsoft Windows Network
+	- Web Client Network
+	- Find User/Group
+
+![](https://i.imgur.com/toT9CNo.png)
+
+#### Nessus
+- Allows enumeration of different OSs on a large network
+- Identifies:
+	- NetBIOS names in use
+	- Shared resources
+	- Vulnerabilities with shared resources
+	- Also offers solutions to those vulnerabilities
+	- OS version
+	- OS vulnerability
+	- Firewall vulnerabilities
+
+![](https://i.imgur.com/GHm2PoF.png)
+![](https://i.imgur.com/mfRFe3B.png)
+![](https://i.imgur.com/Oq1TQZG.png)
+![Uploading file...km1ap]()
