@@ -43,8 +43,20 @@
 
 ## NetBIOS Basics
 > **NetBIOS** - Network Input Output System
-
 - Programming interface
 - Allows computer communication over LAN
 - Used to share files and printers
-- 
+- **NetBIOS names:**
+	- Computer names on Windows systems
+	- Limit of 16 characters
+	- Last characters identifies type of service running so 15 characters left for computer name
+	- Must be unique on a network
+- Software loaded into memory
+	- Enables a computer program to interact with a network resource or other devices
+- NetBIOS is **not** a protocol (it is an interface to a network protocol)
+- **NetBEUI:**
+	- Fast, efficient network protocol
+	- Allows NetBIOS to be transmitted over to TCP/IP
+	- NBT is NetBIOS over TCP
+- Newer Microsoft OSs do not need NetBIOS to share resources
+	- NetBIOS used for backward compatibility
