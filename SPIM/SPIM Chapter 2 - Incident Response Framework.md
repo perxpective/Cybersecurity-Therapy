@@ -248,4 +248,9 @@
 	- Main organisation can host a centralised incident response entity that facilitates standard practices and communications among the teams
 
 #### Outsourcing Contractor Issues
-- Sensitive information is re
+- Sensitive information is revealed to the contractor
+- Current and future quality of work of contractor
+- Division of responsibilities
+- Lack of organisation-specific knowledge
+- Lack of correlation
+	- If intrusion detection system records attempted attack against web server but the outsourcer has no access to the web, it may be unable to determine if the attack was successful
