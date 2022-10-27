@@ -216,4 +216,11 @@
 	- review how effective incident handling process was
 	- identify necessary improvements to existing security controls and practices
 - Meetings should be held periodically for lesser incidents
-	- Information accumulated from all lessons learned meetings should be used to identify systemic s
+	- Information accumulated from all lessons learned meetings should be used to identify systemic security weakness deficiencies in policies and procedures
+- Follow-up reports generated for each resolved incident can be important not only for evidentiary purposes but also for reference in handling future incidents and in training new incident response team members
+- Incident database with detailed information on each incident that occurs can also be valuable source of information for incident handlers
+
+#### Selection of Team Models
+##### Central Incident Response Team
+- Single incident response team that handles incidents throughout the organisation
+- Effective for small organisations and for large organisations with minimal geographic diversity in terms of computing resources
