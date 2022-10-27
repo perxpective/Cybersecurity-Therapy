@@ -68,4 +68,9 @@
 | `<_MSBROWSE_>`    | 01     | Signifies that the computer is the master browser on the network (responsible for notifying all computers on the network of any NetBIOS name changes or additions) |
 | `<computer name>` | 03     | Computer is registered by Messenger service which client uses when sending and receiving messages                                                                  |
 | `<computer name>` | 06     | Registered by Routing and Remote Access Service (RRAS)                                                                                                             |
-| `<computer name>` | 1F     |                                                                                                                                                                    |
+| `<computer name>` | 1F     | Network Dynamic Data Exchange (NetDDE) services started on the computer. NetDDE is a system that runs on Microsoft OSs to facilitate exchange of network data      |
+| `<computer name>` | 20     | Registered by the Server service. A computer must have this service running to share printers or files                                                             |
+| `<computer name>` | 21     | Registered by Remote Access Service (RAS)                                                                                                                          |
+| `<computer name>` | 22     | Registered by the Microsoft Exchange Interchange service                                                                                                           |
+| `<computer name>` | 23     | Registered by the Microsoft Exchange Store service where mailboxes and public folders are stored                                                                   |
+| `<computer name>` | 24     | Registered by Systems Management                                                                                                                                                                    |
