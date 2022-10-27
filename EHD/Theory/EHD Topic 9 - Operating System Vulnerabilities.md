@@ -59,4 +59,13 @@
 	- Allows NetBIOS to be transmitted over to TCP/IP
 	- NBT is NetBIOS over TCP
 - Newer Microsoft OSs do not need NetBIOS to share resources
-	- NetBIOS used for backward compatibility
+	- NetBIOS used for backward compatibility\
+
+**NetBIOS names and suffixes**
+| NetBIOS Name      | Suffix | Description                                                                                                                                                        |
+| ----------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `<computer name>` | 00     | Workstation service registered the computer name                                                                                                                   |
+| `<_MSBROWSE_>`    | 01     | Signifies that the computer is the master browser on the network (responsible for notifying all computers on the network of any NetBIOS name changes or additions) |
+| `<computer name>` | 03     | Computer is registered by Messenger service which client uses when sending and receiving messages                                                                  |
+| `<computer name>` | 06     | Registered by Routing and Remote Access Service (RRAS)                                                                                                             |
+| `<computer name>` | 1F     |                                                                                                                                                                    |
