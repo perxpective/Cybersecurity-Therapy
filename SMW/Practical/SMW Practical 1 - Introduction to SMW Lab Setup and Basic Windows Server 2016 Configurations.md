@@ -42,3 +42,5 @@
 	4. Windows Firewall with Advanced Security
 
 ## Adding the DHCP Service to the Domain Controller
+1. Login to an account that is a member of the Domain Administrator Group
+2. Go to Server Manager > Local Server > Add Role and Features to add the 
