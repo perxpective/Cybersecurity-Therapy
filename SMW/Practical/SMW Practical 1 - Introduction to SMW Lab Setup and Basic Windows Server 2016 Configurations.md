@@ -43,4 +43,13 @@
 
 ## Adding the DHCP Service to the Domain Controller
 1. Login to an account that is a member of the Domain Administrator Group
-2. Go to Server Manager > Local Server > Add Role and Features to add the 
+2. Go to Server Manager > Local Server > Add Role and Features to add the DHCP role
+3. Accept all the default settings and click the next button until the installation is completed
+
+![](https://i.imgur.com/jYCluSV.png)
+
+4. After the roles and features added, complete the post-deployment configuration
+
+![](https://i.imgur.com/CUGkzLC.png)
+
+5. Accept 
