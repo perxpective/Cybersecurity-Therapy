@@ -198,7 +198,11 @@
 	- Organisations outsource portions of its incident response work
 	- Most prevalent arrange is for the organisation to outsource 24/7 monitoring of intrusion detection sensors, firewalls and other security services provider
 	- Some organisations perform basic incident response work in-house and call contractors to assist with handling incidents, particularly those that are more serious or widespread
-	- The services are mostly performed by contractors are computer forensics, advanced incident analysis, incident containment and eradication and vulnerability mitigation
+	- The services are mostly performed by contractors are mostly:
+		- computer forensics
+		- advanced incident analysis
+		- incident containment
+		- eradication and vulnerability mitigation
 - **Fully Outsourced**
 	- The organisation completely outsources its incident response work typically to an onsite contractor
 	- This model is most likely to be used when the organisation needs a full-time onsite incident response team but does not have time available qualified employees
@@ -208,4 +212,6 @@
 - Walkthrough the incident response policy and procedures
 - Attend external training courses
 - Drafting new incident response procedures
-- After major incident has been handled, organisation s
+- After major incident has been handled, organisation should hold a meeting to:
+	- review how effective incident handling process was
+	- identify necessary improvements to existing security controls and practices
