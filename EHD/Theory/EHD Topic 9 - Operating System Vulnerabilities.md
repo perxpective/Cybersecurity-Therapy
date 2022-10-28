@@ -228,7 +228,6 @@
 - Hackers can make use of these to gain access to Windows without needing a password
 
 ## Windows Authentication
-
 ### LM Hash
 - On Windows systems, hashed passwords of local users stored in SAM (Security Account Manager) in `C:\windows\system32\SAM`
 - LM hash was used previously to hash the passwords
@@ -241,3 +240,10 @@
 | NTLM     | 128-bit hashing, Windows still sends LM hash and NTLM over the network for backward compatibility |
 | NTLMv2   | Cryptographically strengthened                                                                    |
 | Kerberos | Open standard authentication protocol                                                                                                  |
+
+## Windows Password Dumping
+- Software tools exist to dump Windows password hashes from the SAM
+	- samdump2
+	- pwdump
+	- Meterpreter in Metasploit
+- 
