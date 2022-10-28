@@ -287,4 +287,21 @@
 - Review logs regularly for signs of intrusion or other problems
 - Use a log-monitoring tool
 
-## Disable 
+## Disable Unused or Unneeded Services
+- Delete unnecessary applications or scripts
+- Unused applications or services are an invitation for attacks
+- Requires careful planning
+- Close unused ports but maintain functionality
+
+## Other Best Security Practices
+- Delete unused scripts and sample restrictions
+- Delete default hidden shares
+- Be careful of default permissions
+- Use appropriate packet-filtering techniques
+- Use available tools to assess system security
+- Disable Guest aaccount
+- Rename the default Administrator account
+- Make sure there are no accounts with blank passwords
+- Set BIOS password
+- Encrypt important files
+- Protect physical access to system
