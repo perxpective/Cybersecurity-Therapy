@@ -216,4 +216,9 @@
 
 ## Samba
 - Open-source implementation of CIFS
-- Allows sharing
+- Allows sharing resources over multiple OSs
+- Accessing Microsoft shares can make a network susceptible to attacks
+- Samba is used to trick Microsoft services into believing that the NIX resources are Microsoft resources
+- To protect a network from SMB attacks, filter out ports **137 to 139 and 445**
+
+## Sticky Keys and Utility Manager
