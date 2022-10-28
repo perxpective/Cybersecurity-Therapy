@@ -262,3 +262,8 @@
 ## Patching Systems
 - Number 1 way to keep systems secure
 - Attacks take advantage of known vulnerabilities
+- **Options for small networks:**
+	- Accessing Windows Updates manually
+	- Automatic Updates
+- **Options for patch management for large networks:**
+	- Systems Management Serve
