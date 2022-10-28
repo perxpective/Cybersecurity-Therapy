@@ -252,4 +252,13 @@
 - **SQL server:**
 	- SA account with blank password and cannot be disabled
 	- SQL Server Agent
-		- Authorized but unprivileged user
+		- Authorized but unprivileged user can create scheduled jobs to be run by the agent
+	- Extended store procedures
+		- Buffer overflow
+		- Fails to perform input validation
+	- Default SQL port 1433
+		- Spida worm exploit
+
+## Patching Systems
+- Number 1 way to keep systems secure
+- Attacks take advantage of known vulnerabilities
