@@ -246,4 +246,10 @@
 	- samdump2
 	- pwdump
 	- Meterpreter in Metasploit
-- 
+
+## Vulnerabilities in Microsoft Services
+- Internet Information Services (IIS) vulnerabilities
+- **SQL server:**
+	- SA account with blank password and cannot be disabled
+	- SQL Server Agent
+		- Authorized but unprivileged user
