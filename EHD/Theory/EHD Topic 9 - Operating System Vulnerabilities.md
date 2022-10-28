@@ -222,3 +222,11 @@
 - To protect a network from SMB attacks, filter out ports **137 to 139 and 445**
 
 ## Sticky Keys and Utility Manager
+- Features to help Windows users with disabilities
+- Pressing the <kbd>Shift</kbd> key 5 times quickly will enable the Sticky Keys configuration
+- Pressing the Windows key and <kbd>U</kbd> will start the Utility Manager
+- Hackers can make use of these to gain access to Windows without needing a password
+
+## Windows Authentication (LM Hash)
+- On Windows systems, hashed passwords of local users stored in SAM (Security Account Manager) in `C:\windows\system32\SAM`
+- 
