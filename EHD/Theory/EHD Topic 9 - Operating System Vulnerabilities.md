@@ -227,6 +227,17 @@
 - Pressing the Windows key and <kbd>U</kbd> will start the Utility Manager
 - Hackers can make use of these to gain access to Windows without needing a password
 
-## Windows Authentication (LM Hash)
+## Windows Authentication
+
+### LM Hash
 - On Windows systems, hashed passwords of local users stored in SAM (Security Account Manager) in `C:\windows\system32\SAM`
-- 
+- LM hash was used previously to hash the passwords
+- As LM hash is not considered secure anymore, NTLMv2 is used
+- For Windows systems in an Active Directory domain, hashed passwords are stored in the Active Directory database on the server
+
+### NTLM 
+|          | Description                                                                                       |
+| -------- | ------------------------------------------------------------------------------------------------- |
+| NTLM     | 128-bit hashing, Windows still sends LM hash and NTLM over the network for backward compatibility |
+| NTLMv2   | Cryptographically strengthened                                                                    |
+| Kerberos | Open standard authentication protocol                                                                                                  |
