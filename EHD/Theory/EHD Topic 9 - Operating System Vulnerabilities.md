@@ -266,4 +266,25 @@
 	- Accessing Windows Updates manually
 	- Automatic Updates
 - **Options for patch management for large networks:**
-	- Systems Management Serve
+	- Systems Management Server (SMS)
+	- Software Update Service (SUS)
+
+## Antivirus Solutions
+- An antivirus solution is essential
+
+| For Small Networks                            | For Large Networks       |
+| --------------------------------------------- | ------------------------ |
+| Desktop antivirus tool with automatic updates | Corporate-level solution |
+
+ - Antivirus tools are useless if not updated regularly
+
+## Enable Logging and Review Logs Regularly
+- Monitor the critical areas:
+	- Performance
+	- Traffic patterns
+	- Possible security breaches
+- Logging can have a negative impact on performance
+- Review logs regularly for signs of intrusion or other problems
+- Use a log-monitoring tool
+
+## Disable 
