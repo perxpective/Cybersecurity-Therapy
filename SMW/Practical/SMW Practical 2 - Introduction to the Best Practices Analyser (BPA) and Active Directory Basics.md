@@ -88,9 +88,10 @@
 ![](https://i.imgur.com/pBK6UW9.png)
 
 5. Click **Delegate Control**
-6. Click **Next** when the delegation of control wizard starts
-7. Click **Add**
-8. Click the **Advanced Button**
-9. Click **Find Now**
-10. Click **OK** in the Select Users, Computers or Groups dialog box
-11. 
+6. Click **Next** when the delegation of control wizard starts and follow the instructions
+7. Delegate the control of SalesOU to Mgr1 to only reset user passwords and force password change at next logon control
+
+![](https://i.imgur.com/3KfvjNS.png)
+
+## Installing and Configuring Server Administration Tools on Windows 10
+> - Often the Administrators wish to carry out admin tasks e.g. creating domain users using their own workstations instead of physically 
