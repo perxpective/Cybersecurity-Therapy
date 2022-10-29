@@ -117,4 +117,8 @@
 4. Navigate to **Active Directory Users and Computers**
 5. Display the contents under `smw.soc.com`
 6. Click **Users** in the tree
-7. Select the **Action** menu, N
+7. Select the **Action** menu, New > Group
+8. In the Group name box, enter **DomainMgrs**
+9. Click **Domain Local** under the Group scope and click **Security**
+10. Find the group just created in the right pane within the Users folder
+11. Click the Create a new group in the current container icon on the button bar (with two heads)
