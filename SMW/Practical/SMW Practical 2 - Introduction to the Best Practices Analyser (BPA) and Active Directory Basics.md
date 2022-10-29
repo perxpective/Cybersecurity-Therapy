@@ -54,3 +54,8 @@
 
 ![](https://i.imgur.com/irus2CQ.png)
 
+![](https://i.imgur.com/A9MNuz2.png)
+
+7. To continue configuring an account, double click an account (or right click the account and select **Properties**)
+
+## Group Policy Controlling Ccess 
