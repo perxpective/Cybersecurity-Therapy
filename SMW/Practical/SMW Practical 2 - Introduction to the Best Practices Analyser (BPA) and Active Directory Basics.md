@@ -83,3 +83,14 @@
 1. On the Server Manager, click on **Tools** and click **Active Directory Users and Computers**
 2. Right click `smw.soc.com` on the left pane and select New > Organisational Unit
 3. Create a new OU called SalesOU
+4. Move the User1 and Staff1 user accounts and the Windows 10 computer object to the SalesOU
+
+![](https://i.imgur.com/pBK6UW9.png)
+
+5. Click **Delegate Control**
+6. Click **Next** when the delegation of control wizard starts
+7. Click **Add**
+8. Click the **Advanced Button**
+9. Click **Find Now**
+10. Click **OK** in the Select Users, Computers or Groups dialog box
+11. 
