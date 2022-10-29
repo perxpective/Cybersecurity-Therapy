@@ -80,4 +80,6 @@
 2. Login to the Domain Controller directly with the newly created account to prove it has administrative rights
 
 ## Managing Organisational Units (OU)
-1. On the Domain Controller, 
+1. On the Server Manager, click on **Tools** and click **Active Directory Users and Computers**
+2. Right click `smw.soc.com` on the left pane and select New > Organisational Unit
+3. Create a new OU called SalesOU
