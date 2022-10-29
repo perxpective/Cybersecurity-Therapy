@@ -67,4 +67,13 @@
 1. On the Domain Controller, login as any one of the three domain user accounts just created - It should be unsuccessful (security by default)
 2. Login as Domain Administrator
 3. Under Administrative Tools, run Group Policy Management and expand the domain. 
-4. Under Domain Controllers, there is a 
+4. Under Domain Controllers, there is a **Default Domain Controller Policy** (policy that controls all domain controllers in the domain)
+5. Right click on Default Domain Controller Policy and select **Edit**
+6. Expand Computer Configuration > Policies > Windows Settings > Security Settings > Local Policies, click on **User Rights Assignments**
+7. On the right-hand pane, double click on **Allow log locally**
+8. Click on **Add User or Group** and click browse
+9. Type **Mgr1** and click **Check Names**. Click OK three times
+10. Login as Mgr1 on the Domain Controller - It should be successful now
+
+## Granting Administrative Rights to User Account By Security Group Member
+1. Create another domain user account and make them aa
