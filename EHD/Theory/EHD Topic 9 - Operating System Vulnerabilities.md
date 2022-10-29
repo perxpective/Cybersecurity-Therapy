@@ -309,4 +309,25 @@
 ## Backdoors
 - `netcat`: versatile connection utility
 - Use `netcat` as a client or a server
-- Hackers use it to provuid
+- Hackers use it to provide a reverse shell
+
+## UNIX Enumeration
+- Finger utility
+	- Most popular tool security testers
+	- Finds out who is logged in to a NIX system
+	- Determine owner of any process
+- Nessus
+	- Important NIX enumeration tool
+
+## Linux OS Vulnerabilities
+- Knoppix
+- Nessus
+	- Discover vulnerabilities related to SMB and NetBIOS
+	- Enumerate shared resources
+	- Discover root password
+
+ ![](https://i.imgur.com/ebONx4k.png)
+
+## Remote Access Attacks on Linux Systems
+### Linux To
+
