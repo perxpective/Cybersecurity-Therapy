@@ -305,3 +305,8 @@
 - Set BIOS password
 - Encrypt important files
 - Protect physical access to system
+
+## Backdoors
+- `netcat`: versatile connection utility
+- Use `netcat` as a client or a server
+- Hackers use it to provuid
