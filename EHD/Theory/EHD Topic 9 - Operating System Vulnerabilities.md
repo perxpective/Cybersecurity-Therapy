@@ -329,5 +329,21 @@
  ![](https://i.imgur.com/ebONx4k.png)
 
 ## Remote Access Attacks on Linux Systems
-### Linux To
+### Linux Trojan Programs
+- Trojan programs are disguised as legitimate programs
+- Can use legitimate outbound ports
+	- Firewalls and IDS cannot identify this traffic as malicious (e.g. Sheepshank)
+- Easier to protect systems from already identified Trojan programs
+	- `Trojan.Linux.JBellz`
+	- Remote shell
+	- Dextenea
+- **Rootkits**
+	- Contains Trojan binary programs ready to be installed by an intruder with root access to the system
+	- Attacker hides tools used for later attacks
+	- Replace legitimate commands with Trojan programs
+- Security testers can use the following to check their Linux systems for rootkits"
+	- Rootkit Hunter
+	- `Chkrootkit`
+
+## Linux Password Cracking
 
