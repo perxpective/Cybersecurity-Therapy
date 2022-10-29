@@ -31,4 +31,8 @@
 
 ## Viewing Firewall Rules
 1. Navigate to **Windows Firewall with Advanced Security**
-2. 
+
+![](https://i.imgur.com/BoN0iLE.png)
+
+## Raising the Forest and Domain Functional Level
+1. In Server Manager, click **Tools**
