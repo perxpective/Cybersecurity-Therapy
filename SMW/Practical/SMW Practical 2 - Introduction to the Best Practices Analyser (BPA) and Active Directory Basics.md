@@ -76,4 +76,8 @@
 10. Login as Mgr1 on the Domain Controller - It should be successful now
 
 ## Granting Administrative Rights to User Account By Security Group Member
-1. Create another domain user account and make them aa
+1. Create another domain user account and make them a member of the Domain Administrators group
+2. Login to the Domain Controller directly with the newly created account to prove it has administrative rights
+
+## Managing Organisational Units (OU)
+1. On the Domain Controller, 
