@@ -94,4 +94,8 @@
 ![](https://i.imgur.com/3KfvjNS.png)
 
 ## Installing and Configuring Server Administration Tools on Windows 10
-> - Often the Administrators wish to carry out admin tasks e.g. creating domain users using their own workstations instead of physically 
+> - Often the Administrators wish to carry out admin tasks e.g. creating domain users using their own workstations instead of physically going to the Domain Controller every time
+> - They can instal the Remote Server Administration Tools (RSAT) on their own workstations
+
+1. On Windows 10, right click on the Start button and click on the **Apps and Features** menu
+2. Click on **Optional Features** to find all installable RSAT components
