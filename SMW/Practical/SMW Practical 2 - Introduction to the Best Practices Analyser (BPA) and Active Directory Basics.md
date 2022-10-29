@@ -45,3 +45,6 @@
 5. Click **Raise**
 
 ## Creating Domain User Accounts in Active Directory
+1. Run **mmc**
+2. Click the **File** menu and select **Add/Remove Snap-in**
+3. Under available snap-ins, click **Active Directory Users and Computers** and click **Add** and **Ok**
