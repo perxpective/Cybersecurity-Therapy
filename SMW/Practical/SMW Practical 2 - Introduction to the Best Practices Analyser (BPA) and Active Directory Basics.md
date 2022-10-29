@@ -35,4 +35,11 @@
 ![](https://i.imgur.com/BoN0iLE.png)
 
 ## Raising the Forest and Domain Functional Level
-1. In Server Manager, click **Tools**
+1. In Server Manager, click **Tools** and click the **Active Directory Domains and Trusts**
+2. In the tree in the left pane, right-click **Active Directory Domains and Trusts** (server and domain name)
+3. Click **Raise Forest Functional Level**
+
+![](https://i.imgur.com/uj5YGTH.png)
+
+
+
