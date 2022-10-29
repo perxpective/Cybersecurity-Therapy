@@ -299,7 +299,7 @@
 - Be careful of default permissions
 - Use appropriate packet-filtering techniques
 - Use available tools to assess system security
-- Disable Guest aaccount
+- Disable Guest account
 - Rename the default Administrator account
 - Make sure there are no accounts with blank passwords
 - Set BIOS password
