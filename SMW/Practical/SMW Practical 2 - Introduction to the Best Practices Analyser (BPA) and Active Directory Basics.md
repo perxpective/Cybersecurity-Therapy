@@ -56,6 +56,15 @@
 
 ![](https://i.imgur.com/A9MNuz2.png)
 
+> Three accounts to be created: User1, Staff1, Mgr1
+
 7. To continue configuring an account, double click an account (or right click the account and select **Properties**)
 
-## Group Policy Controlling Ccess 
+## Group Policy Controlling Access to the Domain Controller
+> - As the domain controller is a very important server, physical access to it should be restricted
+> - Direct login to the Domain Controller should also be restricted
+
+1. On the Domain Controller, login as any one of the three domain user accounts just created - It should be unsuccessful (security by default)
+2. Login as Domain Administrator
+3. Under Administrative Tools, run Group Policy Management and expand the domain. 
+4. Under Domain Controllers, there is a 
