@@ -113,4 +113,5 @@
 ## Create Domain Local and Global Security Groups
 1. Login as Domain Administrator on the client Windows 10 image or on the Domain Controller if client is not working
 2. Run **Active Directory and Computers console**
-3. Create aa D
+3. Create a Domain Local Group called **DomainMgrs** and a Global Security Group called **GlobalMgrs**
+4. 
