@@ -101,4 +101,9 @@
 2. Click on **Optional Features** to find all installable RSAT components
 3. Search for "RSAT" and install it
 4. After the installation, login as Mgr1 (Domain user account) at the client Windows workstation
-5. Go to **Active Directory Users and Computers** and test if Mgr1 can reset the passwords of User1 and Staff1 
+5. Go to **Active Directory Users and Computers** and test if Mgr1 can reset the passwords of User1 and Staff1 (should be successful)
+6. Test if Mgr1 can:
+	- Move User1 back to the Users container
+	- Reset the password of Administrator
+
+> Should be unsuccessful, 
