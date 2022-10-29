@@ -121,4 +121,9 @@
 8. In the Group name box, enter **DomainMgrs**
 9. Click **Domain Local** under the Group scope and click **Security**
 10. Find the group just created in the right pane within the Users folder
-11. Click the Create a new group in the current container icon on the button bar (with two heads)
+11. Click the **Create a new group in the current container** icon on the button bar (with two heads)
+12. In the Group name box, type **GlobalMgrs**
+13. Ensure **Global** is selected under the group scope and that **Security** is selected under Group type
+14. Find the global group just created in the right pane and double click it
+15. On the **Members** tab, there are no members associated with the group
+16. Click **Add** and **Advanced**
