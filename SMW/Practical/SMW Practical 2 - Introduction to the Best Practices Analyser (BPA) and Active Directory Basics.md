@@ -97,6 +97,8 @@
 > - Often the Administrators wish to carry out admin tasks e.g. creating domain users using their own workstations instead of physically going to the Domain Controller every time
 > - They can instal the Remote Server Administration Tools (RSAT) on their own workstations
 
+![](https://i.imgur.com/RCfahJb.png)
+
 1. On Windows 10, right click on the Start button and click on the **Apps and Features** menu
 2. Click on **Optional Features** to find all installable RSAT components
 3. Search for "RSAT" and install it
@@ -106,4 +108,9 @@
 	- Move User1 back to the Users container
 	- Reset the password of Administrator
 
-> Should be unsuccessful, 
+> Should be unsuccessful since Mgr1 is only delegated to reset passwords of users in SalesOU
+
+## Create Domain Local and Global Security Groups
+1. Login as Domain Administrator on the client Windows 10 image or on the Domain Controller if client is not working
+2. Run **Active Directory and Computers console**
+3. Create aa D
