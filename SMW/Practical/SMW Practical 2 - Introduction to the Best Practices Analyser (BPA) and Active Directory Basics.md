@@ -41,5 +41,7 @@
 
 ![](https://i.imgur.com/uj5YGTH.png)
 
+4. Select a functional level (Functional levels cannot be rolled back to a lower level)
+5. Click **Raise**
 
-
+## Creating Domain User Accounts in Active Directory
