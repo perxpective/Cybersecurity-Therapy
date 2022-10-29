@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fedb85a022572d8f",
+        "id": "7db65a783ec21f20",
         "type": "tabs",
         "children": [
           {
-            "id": "325d3914ceb21b74",
+            "id": "e1da4b9bc1da7876",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md"
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,10 +146,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "325d3914ceb21b74",
+  "active": "e1da4b9bc1da7876",
   "lastOpenFiles": [
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
+    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "EHD/Practical/EHD Practical 4 - Port Scanning.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
