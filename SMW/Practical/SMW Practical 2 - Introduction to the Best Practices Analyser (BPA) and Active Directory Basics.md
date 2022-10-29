@@ -114,4 +114,7 @@
 1. Login as Domain Administrator on the client Windows 10 image or on the Domain Controller if client is not working
 2. Run **Active Directory and Computers console**
 3. Create a Domain Local Group called **DomainMgrs** and a Global Security Group called **GlobalMgrs**
-4. 
+4. Navigate to **Active Directory Users and Computers**
+5. Display the contents under `smw.soc.com`
+6. Click **Users** in the tree
+7. Select the **Action** menu, N
