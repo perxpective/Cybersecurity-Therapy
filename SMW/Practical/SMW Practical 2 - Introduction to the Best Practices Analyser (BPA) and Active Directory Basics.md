@@ -47,4 +47,10 @@
 ## Creating Domain User Accounts in Active Directory
 1. Run **mmc**
 2. Click the **File** menu and select **Add/Remove Snap-in**
-3. Under available snap-ins, click **Active Directory Users and Computers** and click **Add** and **Ok**
+3. Under available snap-ins, click **Active Directory Users and Computers** and click **Add** and **OK**
+4. Click the right point arrow in **Active Directory Users and Computers** and under `smw.soc.com` to display the folders and OUs below
+5. Select the **Users** folder and in the middle pane, view the user accounts (with one head icons) and groups (with two head icons) already created
+6. Right click **Users** in the left pane and point to **New** and click **User**
+
+![](https://i.imgur.com/irus2CQ.png)
+
