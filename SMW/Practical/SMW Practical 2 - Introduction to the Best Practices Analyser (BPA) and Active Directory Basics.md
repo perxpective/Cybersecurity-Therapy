@@ -99,3 +99,5 @@
 
 1. On Windows 10, right click on the Start button and click on the **Apps and Features** menu
 2. Click on **Optional Features** to find all installable RSAT components
+3. Search for "RSAT" and install it
+4. After the installation, login as Mgr1 (Domain user account) at the client Windows workstation
