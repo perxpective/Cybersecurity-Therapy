@@ -163,7 +163,7 @@ In MySQL, there is a special database called `information_schema` that contains 
 ppp' or '0' = '0' union select table_schema, table_name from information_schema.tables -- 
 ```
 
-### John The Ripper
+## John The Ripper
 **On Kali VM**
 1. Use John The Ripper to crack the hashed passwords inside <u>passwd.txt</u>
 ```
