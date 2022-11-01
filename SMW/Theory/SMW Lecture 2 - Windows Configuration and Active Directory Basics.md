@@ -179,6 +179,7 @@
 
 ### Domain
 - Container that holds information about all network resources grouped within it
+- Logical group that share the same Active Directory
 - Every resource is called an <u>object</u>
 
 ### Multi-Master Replication
