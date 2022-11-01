@@ -215,4 +215,5 @@
 	- Read-only and hidden
 	- On General tab in an NTFS folder or file properties dialog box
 - NTFS offers advanced or extended attributes
-- 
+	- Accessed by clicking the General tab's Advanced button
+- Advanced attributes are archive, index, compress and encrypt
