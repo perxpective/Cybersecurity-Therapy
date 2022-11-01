@@ -249,3 +249,6 @@
 	- **Cipher command:**
 		- Usual tool that works in PowerShell for EPS operations
 
+- **Best practices for using EFS:**
+	- Move files for encryption into specifically designated folders flagged for encryption
+	- Safer for an application to work on a file in a n
