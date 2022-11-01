@@ -336,3 +336,10 @@
 	- When installed on Windows system share, enables it to be accessed by UNIX and Linux computers
 - **File Server Resource Manager Role Service**
 	- Allows folder quotas to be set
+
+#### Publishing a Shared Folder in Active Directory
+- To publish an object:
+	- Means to make it available for users when they view the contents of the Active Directory
+	- Makes it easier to find when user searches for that object
+- Active Directory search capabilities are automatically built into all modern Windows OS including Windows 10 and Server 2016
+- When an object is published, 
