@@ -251,4 +251,12 @@
 
 - **Best practices for using EFS:**
 	- Move files for encryption into specifically designated folders flagged for encryption
-	- Safer for an application to work on a file in a n
+	- Safer for an application to work on a file in an encrypted folder rather than work on an individually encrypted file
+	- User and server administrators should frequently export certificates and private keys to portable media and store media in a secure place
+
+### Configuring Folder and File Permissions
+> **Permissions** - control access to an object e.g. folder and files
+
+- When configuring a folder so that domain local group has access to only read contents of that folder
+	- Configuring permissions
+- As the same time, the folder's DACL
