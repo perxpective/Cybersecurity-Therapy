@@ -226,7 +226,11 @@
 	- File server backup systems can be set to detect files with archive attribute to ensure those files are backed up
 - **Index attribute vs Windows Search Service:**
 
-| Index Attribute                                                                                                                                         | Windows Search Service                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| NTFS index attribute used to index folder and file contents so that file properties can be quickly searched in Windows Server 2016 via Indexing service | To use the Windows Search Service, must install the File and Storage Services role via the Se |
-|                                                                                                                                                         |                                                                                           |
+| Index Attribute                                                                                                                                         | Windows Search Service                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| NTFS index attribute used to index folder and file contents so that file properties can be quickly searched in Windows Server 2016 via Indexing service | To use the Windows Search Service, must install the File and Storage Services role via the Server Manaager |
+
+- **Compress attribute**
+	- A folder and its contents can be stored on the disk in compressed format
+	- Compression saves space and can work on compressed files in the same way as on uncompressed files
+	- Compressed files increase CPU overhead to open files and copy them
