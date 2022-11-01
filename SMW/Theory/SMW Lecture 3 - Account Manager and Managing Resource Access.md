@@ -244,8 +244,8 @@
 - **Encrypt attribute:**
 	- Protects files and folders so that only the user who encrypts the file or folder can read it
 	- Encrypted folder or file uses the Microsoft Encrypting File System (EFS)
+		- Sets up unique, private encryption key associated with user account that encrypted the folder and file
 	- When moving an encrypted file to another folder on the same computer, file remains encrypted even if it is renamed
 	- **Cipher command:**
 		- Usual tool that works in PowerShell for EPS operations
 
-> - When user account is created, system will generate a random and unique set of 
