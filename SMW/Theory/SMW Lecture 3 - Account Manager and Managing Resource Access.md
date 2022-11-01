@@ -226,6 +226,7 @@
 	- File server backup systems can be set to detect files with archive attribute to ensure those files are backed up
 - **Index attribute vs Windows Search Service:**
 
-| Index Attribute | Windows Search Service |
-| --------------- | ---------------------- |
-| NTFS index attribute used to index folder and file contents                |                        |
+| Index Attribute                                                                                                                                         | Windows Search Service                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| NTFS index attribute used to index folder and file contents so that file properties can be quickly searched in Windows Server 2016 via Indexing service | To use the Windows Search Service, must install the File and Storage Services role via the Se |
+|                                                                                                                                                         |                                                                                           |
