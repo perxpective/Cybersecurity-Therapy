@@ -354,4 +354,10 @@
 	- File that is <u>copied</u> from one folder to another on the same volume inherits the permissions of the folder which it is copied
 	- File or folder that is <u>moved</u> from one folder to another on the same volume takes with it the permissions it had on the original folder
 	- File or folder that is <u>moved or copied</u> to a folder on a different volume inherits the permissions of the folder to which it is moved or copied
-	- A file or folder that is moved or copied from an NTFS volume to a folder in a FAT or FAT32 volume that is not protected by NTFS 
+	- A file or folder that is <u>moved or copied</u> from an NTFS volume to a folder in a FAT or FAT32 volume that is not protected by NTFS permissions 
+		- but does not inherit the same permissions if they are assigned to the FAT/FAT32 folder
+	- File and folder that is <u>moved or copied</u> from a FAT volume to a folder in an NTFS volume inherits the permissions already assigned in the NTFS folder
+
+### Combining NTFS and Shared Folder Permissions
+- When accessing a shared folder over the network, both NTFS and Share permissions are considered
+- When NTFS and Share permissions are combined, the more restrictive permission applies
