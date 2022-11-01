@@ -152,3 +152,13 @@
 > **Universal Security Groups** - Provides a means to span domains and trees
 
 - Universal group membership can include user accounts from any domain, global groups from any domain and other universal groups from any domain
+- Offered to provide an easy means to access any resources in a tree
+- **Guidelines to help simplify how you plan to use the groups:**
+	- Use global groups to hold accounts as members
+	- Use domain local groups to provide access to resources in a specific domain
+	- Use universal groups to provide extensive access to resources
+
+### Implementing Security Groups and Resources Permission
+- **Two acronyms:**
+	- AGDLP
+	- AGUDLP
