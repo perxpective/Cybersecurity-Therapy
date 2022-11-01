@@ -265,5 +265,6 @@
 
 - If need to customize permissions, there is an option to set up special permissions for particular group or user
 - Known as **advanced permissions configuration**
-- Microsoft provides best practice guidelines for setting permissions
-	- Protect 
+- Microsoft provides best practice guidelines for setting permissions:
+	- Protect `\Windows` folder contains OS files on Windows from general users through allowing limited access to Windows Server 2016 and its subfolders
+	- Protect server utility folders with access permissions only for Administrators, Server Operators and Backup Operator groups
