@@ -217,3 +217,15 @@
 - NTFS offers advanced or extended attributes
 	- Accessed by clicking the General tab's Advanced button
 - Advanced attributes are archive, index, compress and encrypt
+
+![](https://i.imgur.com/UmrJiaH.png)
+![](https://i.imgur.com/VYSmaXO.png)
+
+- **Archive attribute:**
+	- Indicates that the folder or file needs to be backed up as it is new or changed
+	- File server backup systems can be set to detect files with archive attribute to ensure those files are backed up
+- **Index attribute vs Windows Search Service:**
+
+| Index Attribute | Windows Search Service |
+| --------------- | ---------------------- |
+| NTFS index attribute used to index folder and file contents                |                        |
