@@ -329,6 +329,6 @@
 
 #### Configuring Sharing Through Server Manager
 - Offers an interface for managing permissions and shares from one tool
-- **Server Message Block (SMB)**
+- **Server Message Block (SMB) Protocol** 
 	- Enables OS to offer shared files, folders, printers, serial ports and other port communications on a network
-	- 
+- **Network File System (NFS) Protocol**
