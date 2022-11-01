@@ -196,10 +196,11 @@
 
 ### System ACL (SACL)
 - Contains information used to audit access to an object
-- Related 
+- Related to Active Directory object audit settings
 
 > DACL and SACL controls for folder and files:
 > - Attributes
 > - Permissions
 > - Auditing
 > - Ownership
+
