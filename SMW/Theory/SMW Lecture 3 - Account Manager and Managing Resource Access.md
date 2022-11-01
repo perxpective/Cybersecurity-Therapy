@@ -328,4 +328,7 @@
 > - However, this feature can cause issues if multiple users are accessing the same file while offline
 
 #### Configuring Sharing Through Server Manager
-- Offers an interface
+- Offers an interface for managing permissions and shares from one tool
+- **Server Message Block (SMB)**
+	- Enables OS to offer shared files, folders, printers, serial ports and other port communications on a network
+	- 
