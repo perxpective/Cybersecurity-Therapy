@@ -186,4 +186,11 @@
 - When you want to give five users access to a new printer, assign the group with domain local scope permission to access the new printer
 - All members of the group with the global scope automatically receive access to the new printer
 
-###
+## Managing Folder and File Security
+- Creating accounts and groups are the initial steps for sharing resources
+	- Next steps are to create **access control lists (ACLs)** to secure these objects and set them up for sharing
+
+### Discretionary ACL (DACL)
+- ACL that is configured by server administrator or owner of an object
+
+### System ACL ()
