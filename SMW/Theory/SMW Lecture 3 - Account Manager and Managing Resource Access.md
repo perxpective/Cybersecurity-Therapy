@@ -394,4 +394,9 @@
 - Additional steps can be handled by running PowerShell cmdlets and using a PowerShell script to define configuration parameters
 
 ### Fine-Grained Password Policy Enhancements
-- Different security groups 
+- Different security groups can have different password policies
+- Introduced by Windows Server 2012 R2
+	- ability to use the Active Directory Administrative Center for managing password setting objects in the Active Directory schema
+	- makes server access more secure
+	- helps reduce errors made by server administrators when working with fine-grained passwords
+- 
