@@ -150,7 +150,6 @@
 
 ### Implementing Universal Groups
 > **Universal Security Groups** - Provides a means to span domains and trees
-
 - Universal group membership can include user accounts from any domain, global groups from any domain and other universal groups from any domain
 - Offered to provide an easy means to access any resources in a tree
 - **Guidelines to help simplify how you plan to use the groups:**
