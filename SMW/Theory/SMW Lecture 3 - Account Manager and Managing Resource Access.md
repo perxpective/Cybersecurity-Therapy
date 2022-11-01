@@ -278,4 +278,6 @@
 - Windows Server 2016 NTFS folders and files enables auditing of a combination of any or all of activities listed as advanced permissions
 
 ### Configuring Folder and File Ownership
-- With permissions and auditing setup, 
+- With permissions and auditing setup, ownership of fille should be verified
+- Folders are first owned by the account that creates them
+- F
