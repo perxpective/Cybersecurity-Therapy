@@ -342,4 +342,13 @@
 	- Means to make it available for users when they view the contents of the Active Directory
 	- Makes it easier to find when user searches for that object
 - Active Directory search capabilities are automatically built into all modern Windows OS including Windows 10 and Server 2016
-- When an object is published, 
+- When an object is published, it can be published to be shared for domain-wide access or managed through an organisational unit (OU)
+
+## Troubleshooting a Security Conflict
+- Windows Server 2016 offers the Effective Access tab in the Properties tab of a folder or file
+	- Tool to help troubleshoot permissions conflicts
+- Using the Effective Access tab, effective permissions assigned to a user or group can be viewed
+- Calculation will take into account group membership and permission inheritance
+- When a file or folder is created, copied or moved, the file and folder permissions can be affected in the following ways:
+	- Newly created file inherits permissions already set up in a folder
+	- File that is copied from one folder to another 
