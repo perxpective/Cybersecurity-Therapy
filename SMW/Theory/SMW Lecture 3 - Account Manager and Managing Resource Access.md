@@ -181,4 +181,9 @@
 	- More difficult to maintain (error-prone)
 
 #### Case Comparison
-- You can simplify this routine administrative task by creating a group with domain local scope and assigning it with permission ot
+- You can simplify this routine administrative task by creating a group with **domain local scope** and assigning it with permission to access the printer **(Printer Group)**
+- Put 5 user accounts in a group with the global scope and add this group to the **domain local** scope **(Printer Users Group)**
+- When you want to give five users access to a new printer, assign the group with domain local scope permission to access the new printer
+- All members of the group with the global scope automatically receive access to the new printer
+
+###
