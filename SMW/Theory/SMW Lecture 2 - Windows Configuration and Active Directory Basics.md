@@ -162,8 +162,10 @@
 
 ## Active Directory Basics
 ### Active Directory
-- Directory service that houses information about all network resources e.g. servers, printers, user accounts, groups of user accounts, security policies and other information
+- Directory service that houses information about all network resources e.g. servers, printers, user accounts, groups of user accounts, security policies, emails and other information
 - Windows Server 2016 uses it to manage accounts, groups and other network management services
+- Records password changes
+- Can be distributed around the world
 
 ### Directory Service
 - Responsible for providing a central listing of resources and ways to quickly find and access specific resources and providing a way to manage network resources
