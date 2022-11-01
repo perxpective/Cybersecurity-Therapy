@@ -351,4 +351,7 @@
 - Calculation will take into account group membership and permission inheritance
 - When a file or folder is created, copied or moved, the file and folder permissions can be affected in the following ways:
 	- Newly created file inherits permissions already set up in a folder
-	- File that is copied from one folder to another 
+	- File that is <u>copied</u> from one folder to another on the same volume inherits the permissions of the folder which it is copied
+	- File or folder that is <u>moved</u> from one folder to another on the same volume takes with it the permissions it had on the original folder
+	- File or folder that is <u>moved or copied</u> to a folder on a different volume inherits the permissions of the folder to which it is moved or copied
+	- A file or folder that is moved or copied from an NTFS volume to a folder in a FAT or FAT32 volume that is not protected by NTFS 
