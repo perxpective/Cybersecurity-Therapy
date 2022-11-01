@@ -241,4 +241,9 @@
 
 ![](https://i.imgur.com/MP5ZCjF.png)
 
-- **Encrypt attribute**
+- **Encrypt attribute:**
+	- Protects files and folders so that only the user who encrypts the file or folder can read it
+	- Encrypted folder or file uses the Microsoft Encrypting File System (EFS)
+	- When moving an encrypted file to another folder on the same computer, file remains encrypted even if it is renamed
+	- **Cipher command:**
+		- 
