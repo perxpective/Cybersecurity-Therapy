@@ -374,3 +374,13 @@
 3. Cloning Domain Controllers
 4. Fine-grained Password Policy Enhancements
 5. Protected Users Global Group
+
+### Restart Capability
+- Windows Server 2016 has the option to stop the Active Directory Domain Service (ADDS) without shutting down the computer
+- After work is done on the Active Directory, simply restart the ADDS
+
+### Read-Only Domain Controller (RODC)
+- Cannot be used to update information in the Active Directory and does not replicate to regular Domain Controllers
+- RODC can still function as a Key Distribution Center for the Kerberos authentication method
+- Purpose of RODC - better security at branch locations
+	- Where physical security measures might not be strong as at a central 
