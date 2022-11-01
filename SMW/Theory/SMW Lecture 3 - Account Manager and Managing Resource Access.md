@@ -332,3 +332,7 @@
 - **Server Message Block (SMB) Protocol** 
 	- Enables OS to offer shared files, folders, printers, serial ports and other port communications on a network
 - **Network File System (NFS) Protocol**
+	- Used for file and folder sharing on UNIX and Linux systems
+	- When installed on Windows system share, enables it to be accessed by UNIX and Linux computers
+- **File Server Resource Manager Role Service**
+	- Allows folder quotas to be set
