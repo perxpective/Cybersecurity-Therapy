@@ -383,4 +383,15 @@
 - Cannot be used to update information in the Active Directory and does not replicate to regular Domain Controllers
 - RODC can still function as a Key Distribution Center for the Kerberos authentication method
 - Purpose of RODC - better security at branch locations
-	- Where physical security measures might not be strong as at a central 
+	- Where physical security measures might not be strong as at a central office
+- RODCs can also be configured as a DNS server
+
+### Cloning Domain Controllers
+- Introduced by Windows Server 2012 R2
+- Targeted for easier deployment of multiple domain controllers in an environment with multiple virtual machines
+- Cloning reduces the number of steps required to create additional virtual domain controllers
+- Server administrators can configure Active Directory and create a copy of the virtual domain controller
+- Additional steps can be handled by running PowerShell cmdlets and using a PowerShell script to define configuration parameters
+
+### Fine-Grained Password Policy Enhancements
+- Different security groups 
