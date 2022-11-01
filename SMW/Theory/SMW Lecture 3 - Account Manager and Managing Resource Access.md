@@ -267,3 +267,7 @@
 - Microsoft provides best practice guidelines for setting permissions:
 	- Protect `\Windows` folder contains OS files on Windows from general users through allowing limited access to Windows Server 2016 and its subfolders
 	- Protect server utility folders with access permissions only for Administrators, Server Operators and Backup Operator groups
+	- Protect software application folders with read, execute and write to enable users to run applications and write temporary files
+	- Create publicly used folders to have modify access
+	- Provide users full control of their own home folders
+	- Remove unnecessary access groups from confi
