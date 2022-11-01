@@ -234,3 +234,11 @@
 	- A folder and its contents can be stored on the disk in compressed format
 	- Compression saves space and can work on compressed files in the same way as on uncompressed files
 	- Compressed files increase CPU overhead to open files and copy them
+	- **Best practices for using the compress attribute**
+		- Busy servers that experience high-volume write or execute operations are poor candidates for compression
+		- Servers that are rarely accessed or archived on the server can be candidates
+		- User home folders on server typically have high levels of read and write activity and generally should not be compressed
+
+![](https://i.imgur.com/MP5ZCjF.png)
+
+- **Encrypt attribute**
