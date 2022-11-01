@@ -315,4 +315,14 @@
 - Folders can be cached to make contents of shared folder available offline
 	- Any offline files that have been modified can be synchronised with network versions of the files
 - **Three ways of caching:**
-	- Only files and pro
+	- Only files and programs that users specify will be available offline
+	- No files or programs from shared folder are available offline
+	- All files and programs that users open from shared folder are automatically available offline
+- **Access-Based Enumeration:**
+	- Permits user to view only folders and files for which they have permissions
+	- Besides hiding a shared folder using the `$` sign, access-based enumeration can be enabled
+
+> **Take **
+
+#### Configuring Sharing Through Server Manager
+- Offers an interface
