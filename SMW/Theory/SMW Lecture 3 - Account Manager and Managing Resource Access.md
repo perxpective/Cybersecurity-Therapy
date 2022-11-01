@@ -134,4 +134,4 @@
 | Global groups in any domain in a tree or forest (as long there are transitive or 2-way trust relationships)    |                                                                                                                   |
 | Universal groups in any domain in a tree or forest (as long there are transitive or 2-way trust relationships) |                                                                                                                   |
 
-###
+### Implementing Global Groups
