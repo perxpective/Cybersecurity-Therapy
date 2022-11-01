@@ -406,3 +406,4 @@
 - **User profile advantages:**
 	- Multiple users can use the same computer and maintain their own customized settings
 	- Profile can be stored on a network server so they are available to users regardless of computer used to login (roaming profile)
+	- 
