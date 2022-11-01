@@ -1,9 +1,9 @@
 {
   "interfaceFontFamily": "Inter,SF Pro Display",
-  "textFontFamily": "SF Pro Display,Segoe UI,Inter",
+  "textFontFamily": "Inter,SF Pro Display,Segoe UI",
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "Gitsidian",
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "theme": "obsidian",
   "translucency": false,
   "accentColor": "#4ac970",
