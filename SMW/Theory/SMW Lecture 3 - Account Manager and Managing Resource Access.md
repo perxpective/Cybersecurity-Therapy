@@ -246,4 +246,6 @@
 	- Encrypted folder or file uses the Microsoft Encrypting File System (EFS)
 	- When moving an encrypted file to another folder on the same computer, file remains encrypted even if it is renamed
 	- **Cipher command:**
-		- 
+		- Usual tool that works in PowerShell for EPS operations
+
+> - When user account is created, system will generate a random and unique set of 
