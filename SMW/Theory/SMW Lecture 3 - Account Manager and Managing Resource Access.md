@@ -135,9 +135,18 @@
 | Universal groups in any domain in a tree or forest (as long there are transitive or 2-way trust relationships) |                                                                                                                   |
 
 ### Implementing Global Groups
-- **Global Security Group**
-	- Intended to contain user accounts from a single domain
+> - **Global Security Group**
+>	- Intended to contain user accounts from a single domain
 	- Can also be set up as a member of a domain local group in the same or another domain
 - Global groups can container user accounts and other global groups from the domain in which it was created
 - Can be converted in a **universal group**
-- 
+	- As long as it is not nested in another global group or universal group
+
+> **Typical use for a global group:**
+> - To build it with accounts that need access to resources in the same or other domain
+> - Make global group in one domain a member of a domain local group in the same or other domain
+> - Enables one to manage user accounts and their access to resources through one or more global groups (while reducing the complexity of managing accounts)
+
+### Implementing Universal Groups
+
+>
