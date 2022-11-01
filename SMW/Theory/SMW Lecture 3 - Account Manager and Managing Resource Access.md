@@ -294,7 +294,25 @@
 - Network discovery can be turned on
 - It is necessary for users to be able to access server's shared file/folder and printer resources
 
+![](https://i.imgur.com/wl86gd8.png)
+
 #### Configuring Folder/File Sharing Through Folder/File Properties
 - Share permissions for folder or file
 	- Can be set by configuring sharing (using the File Sharing window) and folder's or file's Sharing tab in Properties dialog box
-	- 
+- When configuring sharing using Advanced Sharing options:
+	- Share permissions include full control and change
+	- Configured using the Advanced Sharing button on the Sharing tab of the Properties
+- **Share Permissions:**
+	- Read
+	- Write
+	- Change/Contribute
+	- Custom
+	- Full Control
+	- Owner
+
+![](https://i.imgur.com/vnS106m.png)
+
+- Folders can be cached to make contents of shared folder available offline
+	- Any offline files that have been modified can be synchronised with network versions of the files
+- **Three ways of caching:**
+	- Only files and pro
