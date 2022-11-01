@@ -404,4 +404,5 @@
 - Local user profile is automatically created at the local computer when logging on with an account for the first time
 - Profile can be modified to consist of desktop settings that are customized for one or more clients who log on locally
 - **User profile advantages:**
-	- Multiple users can use the same computer and maintain theri
+	- Multiple users can use the same computer and maintain their own customized settings
+	- Profile can be stored on a network
