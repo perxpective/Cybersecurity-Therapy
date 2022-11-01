@@ -259,4 +259,11 @@
 
 - When configuring a folder so that domain local group has access to only read contents of that folder
 	- Configuring permissions
-- As the same time, the folder's DACL
+- At the same time, the folder's discretionary access control list (DACL) of security descriptors is configured
+
+![](https://i.imgur.com/k5uB5zc.png)
+
+- If need to customize permissions, there is an option to set up special permissions for particular group or user
+- Known as **advanced permissions configuration**
+- Microsoft provides best practice guidelines for setting permissions
+	- Protect 
