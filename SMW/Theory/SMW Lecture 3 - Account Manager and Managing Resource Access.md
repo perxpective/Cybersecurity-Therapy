@@ -365,4 +365,12 @@
 > **Example:**
 > - John has NTFS Modify Permissions to the *Reports* folder
 > - He is given Reader Share Permissions to the Reports folder
-> - If he logs in locally to the system and accesses the Reports folder, he can modify it as 
+> - If he logs in locally to the system and accesses the Reports folder, he can modify it as NTFS permissions apply
+> - If he accesses the Reports folder over the network, he only has Read Permissions (the more restrictive of the NTFS and Share permissions)
+
+## Important Features in the Windows Server 2016 Active Directory
+1. Restart capability
+2. Read-Only Domain Controller
+3. Cloning Domain Controllers
+4. Fine-grained Password Policy Enhancements
+5. Protected Users Global Group
