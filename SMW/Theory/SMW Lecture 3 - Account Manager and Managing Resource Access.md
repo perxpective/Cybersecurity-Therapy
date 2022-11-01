@@ -272,3 +272,10 @@
 	- Provide users full control of their own home folders
 	- Remove unnecessary access groups from confidential folders
 	- Use Deny sparingly
+
+### Configuring Folder and File Auditing
+- Enables activity tracking on a folder or file
+- Windows Server 2016 NTFS folders and files enables auditing of a combination of any or all of activities listed as advanced permissions
+
+### Configuring Folder and File Ownership
+- With permissions and auditing setup, 
