@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md"
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,11 +148,11 @@
   },
   "active": "e1da4b9bc1da7876",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
     "EHD/Practical/EHD Practical 4 - Port Scanning.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Theory/EHD Topic 4 - Port Scanning.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
