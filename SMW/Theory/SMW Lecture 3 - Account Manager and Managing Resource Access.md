@@ -193,4 +193,11 @@
 ### Discretionary ACL (DACL)
 - ACL that is configured by server administrator or owner of an object
 
-### System ACL ()
+### System ACL (SACL)
+- Contains information used to audit access to an object
+
+> DACL and SACL controls for folder and files:
+> - Attributes
+> - Permissions
+> - Auditing
+> - Ownership
