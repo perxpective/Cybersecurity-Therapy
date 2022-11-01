@@ -280,4 +280,9 @@
 ### Configuring Folder and File Ownership
 - With permissions and auditing setup, ownership of fille should be verified
 - Folders are first owned by the account that creates them
-- F
+- Folder owners have the ability to change permissions for the folders they create
+- Ownership can be transferred only by having the **Take Ownership** advanced permission or **Full Control** permission
+
+### Configuring Shared Folders and Permissions
+- A folder can be set up as a shared folder for users to access over the network
+- Configuring shared folders include features so that the person configuring a share is more aware of security options
