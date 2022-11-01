@@ -286,3 +286,15 @@
 ### Configuring Shared Folders and Permissions
 - A folder can be set up as a shared folder for users to access over the network
 - Configuring shared folders include features so that the person configuring a share is more aware of security options
+- Sharing a folder or file consists of first enabling sharing
+
+#### Enabling Sharing
+- First step:
+	- Make sure folder or file and printer sharing is enabled
+- Network discovery can be turned on
+- It is necessary for users to be able to access server's shared file/folder and printer resources
+
+#### Configuring Folder/File Sharing Through Folder/File Properties
+- Share permissions for folder or file
+	- Can be set by configuring sharing (using the File Sharing window) and folder's or file's Sharing tab in Properties dialog box
+	- 
