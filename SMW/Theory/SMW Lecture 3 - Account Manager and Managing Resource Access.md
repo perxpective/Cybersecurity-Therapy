@@ -399,4 +399,9 @@
 	- ability to use the Active Directory Administrative Center for managing password setting objects in the Active Directory schema
 	- makes server access more secure
 	- helps reduce errors made by server administrators when working with fine-grained passwords
-- 
+
+### Implementing User Profiles
+- Local user profile is automatically created at the local computer when logging on with an account for the first time
+- Profile can be modified to consist of desktop settings that are customized for one or more clients who log on locally
+- **User profile advantages:**
+	- Multiple users can use the same computer and maintain theri
