@@ -162,3 +162,23 @@
 - **Two acronyms:**
 	- AGDLP
 	- AGUDLP
+
+| Letter | Meaning      |
+| ------ | ------------ |
+| A      | Account      |
+| U      | Universal    |
+| G      | Global       |
+| DL     | Domain Local |
+| P      | Permissions  |
+
+- There are many Group/Resources Permission approaches
+	- AP
+	- AGP
+	- AUP
+	- AGUP
+- The shorter of the A to P distance implies
+	- Easier to create
+	- More difficult to maintain (error-prone)
+
+#### Case Comparison
+- You can simplify this routine administrative task by creating a group with domain local scope and assigning it with permission ot
