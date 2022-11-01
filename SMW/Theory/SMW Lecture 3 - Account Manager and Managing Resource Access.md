@@ -204,3 +204,15 @@
 > - Auditing
 > - Ownership
 
+### Configuring Folder and File Attributes
+- Stored as header information with each folder and file
+	- Along with other characteristics including:
+		- volume label
+		- designation as a subfolder
+		- date of creation
+		- time of creation
+- Two basic attributes remain in NTFS that are still compatible with FAT
+	- Read-only and hidden
+	- On General tab in an NTFS folder or file properties dialog box
+- NTFS offers advanced or extended attributes
+- 

@@ -20,8 +20,8 @@ This module equips students with the fundamental concepts and techniques of secu
 ### ST2612 Securing Microsoft Windows (SMW)
 Aims at equipping the students with hands-on knowledge in securing and hardening a Windows operating system. The course will cover the security mechanism used in the operating system, configuring different levels of security measures, best practices and security related tools and utilities.
 
-## Q: Where TF are your Year 1 Notes?
-Sorry, I cannot include them in this repository as I wrote them on paper when I myself was Year 1 and I did not know that Markdown exists until Year 2 (bruh moment)
+## Q: Where are your Year 1 Notes?
+Sorry, I cannot include them in this repository as I wrote them on paper when I myself was Year 1 and I did not know that Markdown exists until Year 2
 I would remake my Year 1 notes here, but why TF would I do that? It doesn't make sense!
 
 ## Q: What app do you use to make your notes?
