@@ -200,7 +200,7 @@
 
 #### Schema
 - Defines the objects and the information pertaining to those objects (attributes) that can be stored in the Active Directory
-- Examples of object classes:
+- **Examples of object classes:**
 	- User accounts
 	- Computers
 	- Groups
