@@ -322,7 +322,10 @@
 	- Permits user to view only folders and files for which they have permissions
 	- Besides hiding a shared folder using the `$` sign, access-based enumeration can be enabled
 
-> **Take **
+> **Take note:**
+> - Folder caching is a good feature when client is unable to connect to Domain Network all the time
+> - Can work with cached files within client and update the actual version at a later time when client connects back to network
+> - However, this feature can cause issues if multiple users are accessing the same file while offline
 
 #### Configuring Sharing Through Server Manager
 - Offers an interface
