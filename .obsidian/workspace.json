@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
+                "file": "README.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +160,8 @@
   },
   "active": "50e37d7260a1d731",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",

@@ -1,4 +1,8 @@
 # Cybersecurity Therapy
+
+
+> Course Notes for the Diploma in Infocomm Security Management at Singapore Polytechnic. 
+
 Welcome to Cybersecurity Therapy, your place of comfort after another typical day of BS from DISM! You can cry, weep and mug in my little safe repository where I sacrifice my blood, sweat, tears (and sleep :D) to create notes that are so damn useful for my own survival in DISM (and to get a decent GPA).
 
 ## Q: What modules are featured here?
