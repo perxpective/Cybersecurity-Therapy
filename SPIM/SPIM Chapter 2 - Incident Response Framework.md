@@ -19,7 +19,7 @@
 - Implementing defence mechanisms
 - Proactively looking for threats
 
-### Detection
+### Detection and Analysis
 - Collection and processing data from the system sources
 - Classification of cyber incidents by types
 - Prioritizing cyber incidents

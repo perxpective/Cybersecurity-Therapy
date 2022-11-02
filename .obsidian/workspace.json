@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md"
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
+                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
