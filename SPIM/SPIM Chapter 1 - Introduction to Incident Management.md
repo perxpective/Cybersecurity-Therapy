@@ -85,7 +85,7 @@
 - **Reasons:**
 	- SLA threat
 	- Extra resources required
-	- Need to information higher management
+	- Need to inform higher management
 
 ## Standard Incident Models
 - Designed and implemented for handling standard incident more efficiently
