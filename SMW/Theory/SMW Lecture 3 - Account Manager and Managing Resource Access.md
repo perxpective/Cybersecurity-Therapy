@@ -405,7 +405,11 @@
 - Only way to change security for a member of this group is to remove the member from  the group
 - User accounts, computers, printers and servers can be members
 - <u>Security restrictions that apply to the protected users global group:</u>
-	- 
+	- Group members cannot use weaker forms of authentication
+	- Kerberos Ticket Granting Ticket's lifetime is limited to 4 hours
+		- means that group member must be authenticated every 4 hours
+	- Connections to system that do not utilize this global group may not succeed
+	- Only higher-level encryption methods compatible with Kerberos security can be used
 
 ### Implementing User Profiles
 - Local user profile is automatically created at the local computer when logging on with an account for the first time
@@ -413,4 +417,5 @@
 - **User profile advantages:**
 	- Multiple users can use the same computer and maintain their own customized settings
 	- Profile can be stored on a network server so they are available to users regardless of computer used to login (roaming profile)
-	- 
+	- Profiles can be made mandatory so users have the same settings every time they log on (mandatory profile)
+- To set up a profile, first set up a generic account on the server with the desired 
