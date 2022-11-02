@@ -187,7 +187,7 @@
 | Request Fulfilment                 | Request handling can also be handled by IM process                                                                       |
 | Problem Management                 | Incidents often point to problems                                                                                        |
 | Asset and Configuration Management | Provides data used to identify and progress incidents<br> IM assists in verification of CMS                              |
-| Change Management                  | Changes are often why reasons incidents occur<br> Incidents can lead to changes required for resolutions and workarounds |
+| Change Management                  | Changes are often reasons why incidents occur<br> Incidents can lead to changes required for resolutions and workarounds |
 | Service Level Management           | IM must restore service as agreed in SLAs; thus targets for IM are determined considering SLM and vice-versa             |
 | Service Catalogue Management       | Service Desk will consult Service Catalogue in handling incidents                                                        |
 | Capacity Management                | IM may trigger monitoring system of system or service performed by Capacity Management<br> Workarounds used by IM can come from Capacity Management<br> Incident data is important in determining availability|
