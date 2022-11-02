@@ -420,3 +420,5 @@
 	- Profiles can be made mandatory so users have the same settings every time they log on (mandatory profile)
 - To set up a profile, first set up a generic account on the server with the desired desktop configuration
 	- Copy the `Ntuser.dat` file to the `\Users\Default` folder in Windows Server 2016
+- To create a roaming profile, set up generic account and customize the desktop
+	- Set up those users to access a profile by opening the Profile tab in each users account properties and entering the path to
