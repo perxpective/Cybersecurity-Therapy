@@ -400,6 +400,13 @@
 	- makes server access more secure
 	- helps reduce errors made by server administrators when working with fine-grained passwords
 
+### Protected Users Global Group
+- Enforces strict locked-in security and protection measures that cannot be reconfigured
+- Only way to change security for a member of this group is to remove the member from  the group
+- User accounts, computers, printers and servers can be members
+- <u>Security restrictions that apply to the protected users global group:</u>
+	- 
+
 ### Implementing User Profiles
 - Local user profile is automatically created at the local computer when logging on with an account for the first time
 - Profile can be modified to consist of desktop settings that are customized for one or more clients who log on locally
