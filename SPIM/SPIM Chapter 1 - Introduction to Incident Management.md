@@ -33,7 +33,7 @@
 - **Purpose**
 	- To restore normal service operation as quickly as possible
 	- Minimize the adverse impacts on business
-	- Ensuring the best levels of service quality and availability are maintained according to SLA's'
+	- Ensuring the best levels of service quality and availability are maintained according to SLA's
 - **Objectives**
 	- Standardized methods and procedures
 	- Increased visibility and better communication
