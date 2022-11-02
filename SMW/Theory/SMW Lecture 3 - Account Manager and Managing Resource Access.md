@@ -418,4 +418,5 @@
 	- Multiple users can use the same computer and maintain their own customized settings
 	- Profile can be stored on a network server so they are available to users regardless of computer used to login (roaming profile)
 	- Profiles can be made mandatory so users have the same settings every time they log on (mandatory profile)
-- To set up a profile, first set up a generic account on the server with the desired 
+- To set up a profile, first set up a generic account on the server with the desired desktop configuration
+	- Copy the `Ntuser.dat` file to the `\Users\Default` folder in Windows Server 2016
