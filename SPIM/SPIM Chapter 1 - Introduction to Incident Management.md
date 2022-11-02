@@ -63,10 +63,10 @@
 ![400](https://i.imgur.com/bupGWy3.png)
 
 ## Major Incidents
-> **Major Incident = High Impact + High Urgency
+> **Major Incident = High Impact + High Urgency**
 
 - Highest category of impact for an incident
-- Results in significant distribution to a business
+- Results in significant disruption to a business
 - Should have a <u>separate procedure</u>
 	- Shorter timescales and greater urgency
 	- Separate major incident team under the direct leadership of the incident manager
