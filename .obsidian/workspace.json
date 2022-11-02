@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,7 @@
   },
   "active": "e1da4b9bc1da7876",
   "lastOpenFiles": [
+    "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "README.md",
@@ -155,7 +156,6 @@
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
-    "EHD/Practical/EHD Practical 4 - Port Scanning.md"
+    "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md"
   ]
 }
