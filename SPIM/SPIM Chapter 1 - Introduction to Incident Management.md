@@ -99,6 +99,7 @@
 > Support tools can be used to automate the handling of standard incidents
 
 ## Process Workflow
+
 ![](https://i.imgur.com/B0u1SsQ.png)
 ### Incident Identification
 **Triggers:**
@@ -117,9 +118,9 @@
 		- Owner
 		- Contact
 	- Date and timestamped
-	- Full historical record of all incidents must be maintained
-	- Opportunity fixes must also be logged
-	- When incident is logged, resolution time count starts
+- Full historical record of all incidents must be maintained
+- Opportunity fixes must also be logged
+- When incident is logged, resolution time count starts
 
 ### Incident Categorization
 - Indicates the type of incident being logged
