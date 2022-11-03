@@ -49,3 +49,13 @@
 
 ## Applications and Service Logs
 - Stores events from a single application or component rather than events that have systemwide impact
+
+## Event Properties
+| Property Name    | Description                                                                                                                                                            |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source           | Software that logged the event                                                                                                                                         |
+| Event ID         | Number identifying the event type                                                                                                                                      |
+| Level            | Information, Warning, Error, Critical Success Audit, Failure Audit (indicates exercise of a user right has succeeded or failed in security log)                        |
+| User             | Name of user on whose behalf the event occurred<br>Client ID if the event was actually caused by the server process or primary ID if impersonation is not taking place |
+| Operational Code | Contains numeric value that identifies the activity or point within active that the application was performing when it raised the event                                |
+	| Log                 |                                                                                                                                                                        |
