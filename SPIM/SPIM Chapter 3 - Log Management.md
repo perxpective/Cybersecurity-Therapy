@@ -190,10 +190,19 @@ cron.* /var/log/cron.log
 
 #### W3C Log Fields
 
-| Field                     | Description                                                                                         |
-| ------------------------- | --------------------------------------------------------------------------------------------------- |
-| Date (date)               | Date on which the request occurred                                                                  |
-| Time (time)               | Time in UTC at which the request occurred                                                           |
-| Client IP Address (c-ip)  | IP address of the client that made the request                                                      |
-| Username (cs-username)    | Name of the authenticated user that accessed the server (Anonymous users are indicated by a hyphen) |
-| Service Name (s-sitename) | The site instance number that fulfilled the request                                                                                                    |
+| Field                                 | Description                                                                                         |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Date (date)                           | Date on which the request occurred                                                                  |
+| Time (time)                           | Time in UTC at which the request occurred                                                           |
+| Client IP Address (c-ip)              | IP address of the client that made the request                                                      |
+| Username (cs-username)                | Name of the authenticated user that accessed the server (Anonymous users are indicated by a hyphen) |
+| Service Name (s-sitename)             | The site instance number that fulfilled the request                                                 |
+| Server Name (s-computername)          | Name of the server on which the log file entry was generated                                        |
+| Server IP Address (s-ip)              | IP address of server on which the log file entry was generated                                      |
+| Server Port (s-port)                  | The server port number that is configured for the service                                           |
+| Method (cs-method)                    | The requested action                                                                                |
+| URI Stem (cs-uri-stem)                | Universal Resource Identifier, or target of the action                                              |
+| URI Query (cs-url-query)              | The query, if any, that the client was trying to perform (only necessary for dynamic pages)         |
+| Protocol Stats (sc-status)            | HTTP or FTP status code                                                                             |
+| Protocol Sub-status (sc-win32-status) | Windows status                                                                                                    |
+
