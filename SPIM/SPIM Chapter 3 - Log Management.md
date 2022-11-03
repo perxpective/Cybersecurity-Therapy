@@ -101,5 +101,12 @@
 	- Facility refers to subsystem that produces specific syslog message e.g. `mail, auth, authpriv, cron, daemon, kern, lpr, news, syslog, user, uucp, local0-local7 etc.`
 	- Priority `debug, info, notice, warn, err, crit, alert, emerg`
 	- **Examples:**
-		- `kern .*` - selects all kernel syslog messages with any priority
-		- `mail.crit` - 
+		- `kern.*` - selects all kernel syslog messages with any priority
+		- `mail.crit` - selects all mail syslog messages with priority `crit` and higher
+		- `cron.!info, !debug` - selects all `cron` syslog messages except those with `info` or `debug` priority
+- **Property-based filters:**
+```powershell
+# :<property>, [!]<compare_operation>, "<string>"
+# Selects syslog messages that contain the string "error" in message.txt
+:msg,contains,"error"
+```
