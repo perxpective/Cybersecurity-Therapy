@@ -58,4 +58,5 @@
 | Level            | Information, Warning, Error, Critical Success Audit, Failure Audit (indicates exercise of a user right has succeeded or failed in security log)                        |
 | User             | Name of user on whose behalf the event occurred<br>Client ID if the event was actually caused by the server process or primary ID if impersonation is not taking place |
 | Operational Code | Contains numeric value that identifies the activity or point within active that the application was performing when it raised the event                                |
-	| Log                 |                                                                                                                                                                        |
+| Log              | Name of log where the event was recorded                                                                                                                               |
+| Task Category    | Subcomponent or activity of event publisher                                                                                                                                                                       |
