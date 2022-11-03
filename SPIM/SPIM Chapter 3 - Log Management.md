@@ -7,5 +7,10 @@
 ```
 
 ## Server Operating Systems
-- Windows-based
-	- 
+| Type    | Examples                                 |
+| ------- | ---------------------------------------- |
+| Windows | Windows Server 2012, Windows Server 2008 |
+| Unix    | IBM AIX, HP UX, Solaris, OS X            |
+| Linux   | Redhat Enterprise Linux, SUSE, Ubuntu    |
+| Others  | z/OS (IBM)                               |
+
