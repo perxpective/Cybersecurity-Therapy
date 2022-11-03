@@ -174,4 +174,12 @@ cron.* /var/log/cron.log
 
 #### W3C Log Format
 - Default location: `%systemdrive%\inetpub\logs\logfiles\W3SVC1`
-- 
+- Number after W3DVC designates the site ID of the website
+- **Log rotation:**
+	- Log file can be created hourly, daily, weekly or monthly or based on maximum
+	- Use local server time or Coordinated Universal Time (UTC) for file naming and rollover
+
+| Log Interval | W3C Extended   | NCSA           | IIS            |
+| ------------ | -------------- | -------------- | -------------- |
+| Hourly       | exyymmddhh.log | ncyymmddhh.log | lnyymmddhh.log |
+| Daiily       |                |                |                |
