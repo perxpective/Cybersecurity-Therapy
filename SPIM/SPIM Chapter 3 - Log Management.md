@@ -138,5 +138,13 @@ cron.* /var/log/cron.log
 
 ### Linux Log Files
 - Common Linux log files and default locations:
-	- `/var/log/messages` > general message and system related objects
-	- 
+	- `/var/log/messages` > General message and system related objects
+	- `/var/log/auth.log` > Authentication logs
+	- `/var/log/kern.log` > Kernel logs
+	- `/var/log/cron.log` > `Crond` logs
+	- `/var/log/mailog` > Mail server logs
+	- `/var/log/qmail` > Qmail log directory
+	- `/var/log/httpd` > Apache access and error logs directory
+	- `/var/log/lighttpd` > `Lighttpd` access and error logs
+	- `/var/log/boot.log` > System boot log
+	- `/var/log/mysqld.log` > MySQL database server log file
