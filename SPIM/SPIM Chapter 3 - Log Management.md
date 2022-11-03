@@ -165,4 +165,6 @@ cron.* /var/log/cron.log
 #### IIS Logs
 - Logging can be set to log per site or per entire server
 - Log formats:
-	- )
+	- **IIS** - fixed ASCII text-based format and not customizable
+	- **W3C** - most widely used, default log format, customizable
+	- **NCSA** - default log format for Apache Web s
