@@ -14,3 +14,10 @@
 | Linux   | Redhat Enterprise Linux, SUSE, Ubuntu    |
 | Others  | z/OS (IBM)                               |
 
+## Windows Server Logging
+![](https://i.imgur.com/u3s1Zhc.png)
+
+## Application Log
+- Contains events logged by applications or programs
+- Database program might record a file error in the application log
+- Program develops
