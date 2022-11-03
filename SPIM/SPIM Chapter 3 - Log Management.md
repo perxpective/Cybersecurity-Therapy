@@ -80,3 +80,15 @@
 ### Linux Log Management
 - Most Linux applications use `syslog` or `rsyslog`
 - Log files usually stored in `/var/log` directory
+- Configuration file for **`syslog`** is `/etc/syslog.conf` and **`rsyslog`** is `/etc/rsyslog.conf`
+
+> - **rsyslog** implements basic syslog protocol and extends it with content-based filtering capabilities, flexible configuration options and adds important features e.g. using TCP for transport
+
+#### Syslog
+![](https://i.imgur.com/2YcxpUq.png)
+
+#### Rsyslog
+![](https://i.imgur.com/WL9DbBk.png)
+
+##### Rsyslog Rules
+- Consist of two columns:
