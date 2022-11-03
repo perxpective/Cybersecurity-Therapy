@@ -110,3 +110,22 @@
 # Selects syslog messages that contain the string "error" in message.txt
 :msg,contains,"error"
 ```
+- **Expression-based filters:**
+```powershell
+# Example
+$msg startswith 'DEVNAME'
+```
+
+##### Rsyslog Actions
+- Saving syslog messages to log files
+```powershell
+# Examples
+
+# Save syslog messages to log files
+cron.* /var/log/cron.log
+
+# Forwards messages to 192.168.0.1 via UDP Protocol
+*.* @192.168.0.1
+
+# Forwards messages to example.com usiing port 18 and TCP Pr
+```
