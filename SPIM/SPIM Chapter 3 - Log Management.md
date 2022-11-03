@@ -127,5 +127,16 @@ cron.* /var/log/cron.log
 # Forwards messages to 192.168.0.1 via UDP Protocol
 *.* @192.168.0.1
 
-# Forwards messages to example.com usiing port 18 and TCP Pr
+# Forwards messages to example.com usiing port 18 and TCP Protocol
+*.* @@example.com:18
 ```
+
+### Linux Auditing
+- Linux kernel traps auditable events and writes them to buffers where they are processed by the `auditd` daemon
+- e.g. Pluggable Authentication Module (PAM) reports login related events to audit log
+- Admin can control what event and activity are audited by `/etc/audit/audit.rules` and `auditctl` command
+
+### Linux Log Files
+- Common Linux log files and default locations:
+	- `/var/log/messages` > general message and system related objects
+	- 
