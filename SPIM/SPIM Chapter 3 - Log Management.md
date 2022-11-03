@@ -39,4 +39,13 @@
 	- Directory service access
 	- Logon events
 	- Object access
-	- Policy
+	- Policy changes
+	- Privilege use
+	- Process tracking
+	- System events
+- Contains events logged by Windows system components
+	- **Example:** failure of a driver or other system components to load during start-up is recorded in system log
+	- Event types logged by system component are predetermined by Windows
+
+## Applications and Service Logs
+- Stores events from a single application or component rather than events that have systemwide impact
