@@ -190,6 +190,10 @@ cron.* /var/log/cron.log
 
 #### W3C Log Fields
 
-| Field | Description |
-| ----- | ----------- |
-| Date  | d            |
+| Field                     | Description                                                                                         |
+| ------------------------- | --------------------------------------------------------------------------------------------------- |
+| Date (date)               | Date on which the request occurred                                                                  |
+| Time (time)               | Time in UTC at which the request occurred                                                           |
+| Client IP Address (c-ip)  | IP address of the client that made the request                                                      |
+| Username (cs-username)    | Name of the authenticated user that accessed the server (Anonymous users are indicated by a hyphen) |
+| Service Name (s-sitename) | The site instance number that fulfilled the request                                                                                                    |
