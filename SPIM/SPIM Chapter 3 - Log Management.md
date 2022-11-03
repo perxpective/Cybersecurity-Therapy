@@ -17,12 +17,12 @@
 ## Windows Server Logging
 ![](https://i.imgur.com/u3s1Zhc.png)
 
-## Application Log
+### Application Log
 - Contains events logged by applications or programs
 - Database program might record a file error in the application log
 - Program developers decide which events to log
 
-## Security Log
+### Security Log
 - Contains events such as valid and invalid login attempts and events related to resource use e.g. creating, opening or deleting files or other objects
 - Administrators can specify what events are recorded in the security log
 	- **Example:** if login auditing is enabled, attempts to login to the system are recorded as specified in the audit policy
@@ -47,10 +47,10 @@
 	- **Example:** failure of a driver or other system components to load during start-up is recorded in system log
 	- Event types logged by system component are predetermined by Windows
 
-## Applications and Service Logs
+### Applications and Service Logs
 - Stores events from a single application or component rather than events that have systemwide impact
 
-## Event Properties
+### Event Properties
 | Property Name    | Description                                                                                                                                                            |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Source           | Software that logged the event                                                                                                                                         |
@@ -64,7 +64,19 @@
 | Computer         | Name of the computer on which the event occurred                                                                                                                       |
 | Date and Time    | Date and time that the event was logged                                                                                                                                |
 
-## Location of Logs
+### Location of Logs
 **Default locations:**
 - `%SystemRoot%\System32\Winevt\Logs\Application.evtx`
-- `%SystemRoot%\System32\Winevt\Logs\Application.evtx`
+- `%SystemRoot%\System32\Winevt\Logs\Security.evtx`
+- `%SystemRoot%\System32\Winevt\Logs\System.evtx`
+
+> Default locations can be changed using regedit or EventViewer
+
+## Linux Operating System
+- Usually packaged as different Linux distributions:
+	- Debian, Ubuntu, Linux Mint, Fedora, Arch Linux, Red Hat Enterprise Linux and SUSE Linux Enterprise Server
+	- Includes the Linux kernel supporting utilities and libraries and various application software for intended use
+
+### Linux Log Management
+- Most Linux applications use `syslog` or `rsyslog`
+- Log files usually stored in `/var/log` directory
