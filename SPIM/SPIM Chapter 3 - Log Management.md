@@ -148,3 +148,21 @@ cron.* /var/log/cron.log
 	- `/var/log/lighttpd` > `Lighttpd` access and error logs
 	- `/var/log/boot.log` > System boot log
 	- `/var/log/mysqld.log` > MySQL database server log file
+	- `/var/log/secure` or `/var/log/auth.log` > Authentication log
+	- `/var/log/utmp` or `/var/log/wtmp` > Login records fiile
+	- `/var/log/yum.log` > Yum command log file
+
+### Internet Information Services (IIS)
+- Extensible web server created by Microsoft for use with the Windows NT family
+- Supports HTTP, HTTPS, FTP, FTPS, SMTP and NNTP
+- Versions:
+	- IIS 6.0 (Windows Server 2003)
+	- IIS 7.0 (Windows Server 2008)
+	- IIS 7.5 (Windows Server 2008 R2)
+	- IIS 8.0 (Windows Server 2012)
+	- IIS 8.5 (Windows Server 2012 R2)
+
+#### IIS Logs
+- Logging can be set to log per site or per entire server
+- Log formats:
+	- )
