@@ -59,4 +59,12 @@
 | User             | Name of user on whose behalf the event occurred<br>Client ID if the event was actually caused by the server process or primary ID if impersonation is not taking place |
 | Operational Code | Contains numeric value that identifies the activity or point within active that the application was performing when it raised the event                                |
 | Log              | Name of log where the event was recorded                                                                                                                               |
-| Task Category    | Subcomponent or activity of event publisher                                                                                                                                                                       |
+| Task Category    | Subcomponent or activity of event publisher                                                                                                                            |
+| Keyword          | A set of categories or tags that can be used to filter or search for events                                                                                            |
+| Computer         | Name of the computer on which the event occurred                                                                                                                       |
+| Date and Time    | Date and time that the event was logged                                                                                                                                |
+
+## Location of Logs
+**Default locations:**
+- `%SystemRoot%\System32\Winevt\Logs\Application.evtx`
+- `%SystemRoot%\System32\Winevt\Logs\Application.evtx`
