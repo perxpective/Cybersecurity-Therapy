@@ -27,5 +27,16 @@
 - Administrators can specify what events are recorded in the security log
 	- **Example:** if login auditing is enabled, attempts to login to the system are recorded as specified in the audit policy
 - One of the primary tools used by administrators to detect and investigate attempted and successful unauthorized activity and to troubleshoot problems
-- The log and audit policies that govern are favourite targets of hackers
-	- Rogue sys
+- The log and audit policies that govern are favourite targets of hackers and rogue system administrators looking to cover their tracks before and after committing unauthorizing activity
+- If audit policy is set to record logins, successful login results in the user and computer name being logged together with the username logged into
+
+> - Depending on the Windows version and the method of login, IP address may or may not be recorded
+> - For example, Windows Server 2000 does not log IP addresses for successful logins but Windows Server 2003 includes this capability
+
+- **Category of events that can be logged:**
+	- Account logon events
+	- Account management
+	- Directory service access
+	- Logon events
+	- Object access
+	- Policy
