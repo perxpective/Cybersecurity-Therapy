@@ -167,4 +167,11 @@ cron.* /var/log/cron.log
 - Log formats:
 	- **IIS** - fixed ASCII text-based format and not customizable
 	- **W3C** - most widely used, default log format, customizable
-	- **NCSA** - default log format for Apache Web s
+	- **NCSA** - default log format for Apache Web Server, ASCII text-based, not customizable
+- **Configurable using:**
+	- IIS Manager (UI)
+	- Appcmd
+
+#### W3C Log Format
+- Default location: `%systemdrive%\inetpub\logs\logfiles\W3SVC1`
+- 
