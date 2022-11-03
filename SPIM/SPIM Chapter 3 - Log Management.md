@@ -92,3 +92,11 @@
 
 ##### Rsyslog Rules
 - Consist of two columns:
+	- **Column 1:** list the facilities and severities of messages
+	- **Column 2:** the files to which they should be logged to
+- Severity level:
+	- Emergencies, alerts, critical, errors, warnings, notifications, informational, debugging
+- **Rules:**
+	- Facility/priority-based filters
+	- Facility refers to subsystem that produces specific syslog message e.g. mail, auth, authpriv, cron, daemon, kern, lpr, news, syslog, user, uucp, local0-local7 etc.
+	- Priority `debug, info, notice, warn, err, crit, alert, emerg`
