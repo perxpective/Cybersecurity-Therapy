@@ -98,5 +98,8 @@
 	- Emergencies, alerts, critical, errors, warnings, notifications, informational, debugging
 - **Rules:**
 	- Facility/priority-based filters
-	- Facility refers to subsystem that produces specific syslog message e.g. mail, auth, authpriv, cron, daemon, kern, lpr, news, syslog, user, uucp, local0-local7 etc.
+	- Facility refers to subsystem that produces specific syslog message e.g. `mail, auth, authpriv, cron, daemon, kern, lpr, news, syslog, user, uucp, local0-local7 etc.`
 	- Priority `debug, info, notice, warn, err, crit, alert, emerg`
+	- **Examples:**
+		- `kern .*` - selects all kernel syslog messages with any priority
+		- `mail.crit` - 
