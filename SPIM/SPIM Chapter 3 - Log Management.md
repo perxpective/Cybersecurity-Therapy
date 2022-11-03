@@ -179,7 +179,17 @@ cron.* /var/log/cron.log
 	- Log file can be created hourly, daily, weekly or monthly or based on maximum
 	- Use local server time or Coordinated Universal Time (UTC) for file naming and rollover
 
+#### IIS Log Naming
 | Log Interval | W3C Extended   | NCSA           | IIS            |
 | ------------ | -------------- | -------------- | -------------- |
 | Hourly       | exyymmddhh.log | ncyymmddhh.log | lnyymmddhh.log |
-| Daiily       |                |                |                |
+| Daily        | exyymmdd.log   | ncyymmdd.log   | lnyymmdd.log   |
+| Weekly       | exyymmww.log   | ncyymmww.log   | lnyymmww.log   |
+| Monthly      | exyymm.log     | ncyymm.log     | lnyymm.log     |
+| Size         | extendnn.log   | ncsann.log     | lnetsvnn.log   |
+
+#### W3C Log Fields
+
+| Field | Description |
+| ----- | ----------- |
+| Date  | d            |
