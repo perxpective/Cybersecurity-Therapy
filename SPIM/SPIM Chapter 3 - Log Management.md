@@ -215,3 +215,25 @@ cron.* /var/log/cron.log
 | Cookie (cs(Cookie))                | Content of cookie sent or received (if any)                                                         |
 | Referrer                           | Site that user last visited. Site provided a link to the current state                              |
 
+**Sample:**
+```
+# Software: Microsoft Internet Information Services 6.0
+# Version: 1.0 #Date: 2009-06-11 05:12:03 #Fields: date time
+s-sitename s-ip cs-method cs-uri-stem cs-uri-query s-port
+cs-username c-ip cs(User-Agent) sc-status sc-substatus scwin32-
+status 2009-06-11 05:12:02 W3SVC1893743816
+192.168.1.109 GET / – 4677 – 192.168.1.109 Mozilla/4.0
+(compatible;+MSIE+4.01;+Windows+NT;+MS+Search+5.0+Robot)
+401 2 2148074254 2009-06-11 05:12:02 W3SVC1893743816
+192.168.1.109 GET / – 4677 – 192.168.1.109 Mozilla/4.0+
+(compatible;+MSIE+4.01;+Windows+NT;+MS+Search+5.0+Robot)
+401 2 2148074254 - See more at:
+http://www.surfray.com/blog/2009/08/11/iis-log-fileformats-
+overview/#sthash.GaXCsZkQ.dpuf
+```
+
+### Apache HTTP Server
+- Most popular web servers
+- Supports variety of features, many implemented as compiled modules which extend the core functionality ranging from server-side programming language support to authentication schemes
+	- Common language interfaces support Perl, Python, TCL and PHP
+	- Popular authentication modules include `mod_acess`
