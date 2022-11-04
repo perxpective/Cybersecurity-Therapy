@@ -446,4 +446,22 @@ CustomLog log/access_log combined
 		- Firewall more critical than workstation
 		- DNS server is less critical than credit processing server
 - **Validation:**
-	- Get stakeholders to verify 
+	- Get stakeholders to verify together that the source is indeed a critical asset
+
+![](https://i.imgur.com/QPZwyGD.png)
+
+### Logging Policy On Log Source Selection
+- Collect log records from external firewalls and IDS/IPS systems
+- Collect log records from every firewall, IPS, server and desktop in the network
+- Review policy every 3-6 months
+
+### Architecture
+#### Basic Log Server Deployment
+![](https://i.imgur.com/DtgQ3CF.png)
+
+#### Log Server and Log Collector Deployment
+![](https://i.imgur.com/1H3VXw0.png)
+- Distribute log collectors in strategic points in network
+- Log server acts as central place for reviewing and analysing logs
+- Log collectors only back up logs temporarily
+- 
