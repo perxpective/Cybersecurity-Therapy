@@ -477,6 +477,22 @@ CustomLog log/access_log combined
 
 #### OS Logs
 - Authentication (Linux syslogs, Remote User Authentication with SSH daemon)
+![](https://i.imgur.com/sUVjXhQ.png)
+
 - Service start-up, shutdown and status change (Solaris syslog, Sendmail daemon starting up)
+![](https://i.imgur.com/GfvgvP3.png)
+
 - Service crash (due to crash or kill command)
-- Miscellaneous status message (Linux syslog of )
+![](https://i.imgur.com/pZErB6w.png)
+
+- Miscellaneous status message (Linux syslog of a time synchronisation daemon (NTPD))
+![](https://i.imgur.com/vIjwtdk.png)
+
+- OS Logs are relevant to security
+	- <u>Useful for:</u>
+		- Intrusion detection
+		- Incident response
+
+#### Network Daemon Logs
+- Connection established to the service
+- Connection failed to server
