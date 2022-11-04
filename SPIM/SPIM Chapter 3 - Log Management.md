@@ -279,4 +279,15 @@ CustomLog log/access_log combined
 ### Terminology
 **User Agents:**
 - Application run directly by user
-- Used to compose and sent outgoing messages and to display, file and print messages arriving in a user's m
+- Used to compose and sent outgoing messages and to display, file and print messages arriving in a user's mailbox
+
+**Transfer Agents:**
+- Mail Transfer Agents (MTAs) used to transfer messages between machines
+- User Agents give the message to the Transfer Agent who may pass it onto another Transfer Agent or others
+- Transfer Agents are responsible for properly routing messages to destination
+- Sendmail is an example of MTA
+
+**Delivery Agents:**
+- Delivery Agents are used to place a message into a user's mailbox
+- When message arrives at its destination, final transfer agent will give the message to the appropriate delivery  agent who will add the message to the user's mailbox
+
