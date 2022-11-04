@@ -57,3 +57,13 @@ smbclient //Win10-IP/shared
 ```
 smbclient //Win10-IP/shared -U admin
 ``` 
+6. At the SMB prompt, type `ls` to list contents of the share
+7. Use the `get` command to download the text file to Kali
+```
+get test.txt
+```
+8. Type exit to end the connection
+9. Stop Wireshark. View the TCP packets with the SMB protocol connecting to port 445 on Win10
+
+### Accessing Windows without Logging In (Sticky Keys)
+1. 
