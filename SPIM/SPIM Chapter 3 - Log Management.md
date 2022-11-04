@@ -550,8 +550,19 @@ CustomLog log/access_log combined
 
 ### High Level Concerns on Planning
 - **Accuracy**
-	- Free from defects or misleading information
-	- Reduce false positives
-	- IDS to consult a vulnerability database
-	- IDS to implement policy scheme whereby user and group profiles are used to create acceptable network usage of individuals
-	- 
+- Free from defects or misleading information
+- Reduce false positives
+- IDS to consult a vulnerability database
+- IDS to implement policy scheme whereby user and group profiles are used to create acceptable network usage of individuals
+- Timestamps
+- Different vendors use different formats
+- ISO 8601 standard
+- Format `YYYY-MM-DDTHH:MM:SS.SSS +/-H`
+- **Integrity**
+- Authenticate client and server, encrypt data
+- Send data in clear, but use dedicated network
+- Digital signature
+**Confidence**
+- Priority or severity
+- Take input from many disjointed areas and deriving a more mature and accurate fact from the set of all inputs
+
