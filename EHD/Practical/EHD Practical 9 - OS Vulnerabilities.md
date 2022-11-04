@@ -17,6 +17,8 @@
 6. Type `nbtstat -a Win10-IP`
 
 ### OpenVAS
+> OpenVAS  is an open source vulnerability assessment software like Nessus
+
 1. Power on OpenVAS image
 2. At the login screen, note the IP address of the OpenVAS image
 3. On web browser on another VM, browser to the OpenVAS IP and add exception for the security certificate
@@ -98,3 +100,9 @@ exit
 21. Restart the Win10 VM to refresh and login to the newly added user
 
 ### Windows Password Cracking
+> Ophcrack is an open source Windows password cracker that uses rainbow tables
+> - May not work with antivirus software which can flag it as a Trojan
+
+**On Win10 VM**
+<u>Using fgdump</u>
+1. Disable the Windows Defender to prevent anti-malware from detecting fgdump
