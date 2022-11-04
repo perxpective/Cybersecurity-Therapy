@@ -40,4 +40,6 @@
 21. To shut down OpenVAS, select the **Maintenance** and choose **Power**
 
 ### SMB/CIFS
+> Server Message Block (SMB) or CIFS (Common Internet File System) can be used to share resources betw
+
 **On Kali VM**
