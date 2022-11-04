@@ -155,5 +155,6 @@ ncat -l -p 8082 > newfile.txt
 **On Kali VM**
 8. Run netcat to connect to the listening netcat on Win10 on port 8082 and direct contents of a file to it
 ```
-nc Win10-IP 808
+nc Win10-IP 8082 < /etc/passwd
 ```
+9. After a few seconds, press <kbd>Ctrl</kbd>+<kbd>C</kbd> 
