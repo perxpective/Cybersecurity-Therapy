@@ -18,4 +18,6 @@
 
 ### OpenVAS
 1. Power on OpenVAS image
-2. At the login screen, note
+2. At the login screen, note the IP address of the OpenVAS image
+3. On web browser on another VM, browser to the OpenVAS IP and add exception for the security certificate
+4. 
