@@ -36,4 +36,8 @@
 17. Under **Reports**, click to view the report to view the vulnerabilities found
 18. When clicking on the vulnerability, details will be displayed
 19. Under the **Configuration** menu, select Scan Configs
-20. Click on Full and fast to see what type of NVTs (Network Vulnerability Tests) are included in the test
+20. Click on Full and fast to see what type of NVTs (Network Vulnerability Tests) are included in the scan
+21. To shut down OpenVAS, select the **Maintenance** and choose **Power**
+
+### SMB/CIFS
+**On Kali VM**
