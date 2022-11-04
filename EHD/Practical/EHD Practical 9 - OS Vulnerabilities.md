@@ -31,4 +31,9 @@
 12. Enter a name for a task
 13. For Scan Config, choose the default **Full and fast**
 14. Click **Create**
-15.  Under Actions, click on 
+15. Under Actions, click on the Play icon to start the scan
+16. When the scan is completed, the status will be updated to **Done**
+17. Under **Reports**, click to view the report to view the vulnerabilities found
+18. When clicking on the vulnerability, details will be displayed
+19. Under the **Configuration** menu, select Scan Configs
+20. Click on Full and fast to see what type of NVTs (Network Vulnerability Tests) are included in the test
