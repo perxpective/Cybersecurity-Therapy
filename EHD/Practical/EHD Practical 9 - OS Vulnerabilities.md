@@ -114,4 +114,14 @@ cd C:\ophcrack\fgdump-2.1.0
 ```
 5. On the Command Prompt, run fgdump to dump out hashed passwords of the current system
 6. The hashed passwords will be stored on the file `127.0.0.1.pwdump`
-7. 
+7. Download the Ophcrack installation file and Vista Free rainbow tables
+8. Run the x64 version of `ophcrack.exe`
+9. Click on **Tables** and select the downloaded folder with Vista Free rainbow tables
+10. On the **Load** menu, select the PWDUMP file
+11. Click **Crack** to start the password cracking
+
+![](https://i.imgur.com/MnSXD0u.png)
+
+### Netcat
+> A backdoor is a program installed secretly on the victim's computer that opens a port for the attacker
+> Netcat will be used to open a port on 
