@@ -124,4 +124,12 @@ cd C:\ophcrack\fgdump-2.1.0
 
 ### Netcat
 > A backdoor is a program installed secretly on the victim's computer that opens a port for the attacker
-> Netcat will be used to open a port on 
+> Netcat will be used to open a port on the victim's computer
+
+**On Win10 VM**
+1. Install nmap for Windows
+2. On the Command Prompt, run Netcat with the help option to see the available options
+```
+ncat -h
+```
+3. 
