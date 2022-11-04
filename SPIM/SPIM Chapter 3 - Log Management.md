@@ -495,4 +495,18 @@ CustomLog log/access_log combined
 
 #### Network Daemon Logs
 - Connection established to the service
+![](https://i.imgur.com/eLACd4a.png)
+
 - Connection failed to server
+![](https://i.imgur.com/NsVDXLs.png)
+
+- Connection was established but access was not allowed
+![](https://i.imgur.com/lVkdgnP.png)
+
+- Various failure messages
+![](https://i.imgur.com/xaCv8yH.png)
+
+- Various status messages
+![](https://i.imgur.com/jWVezsO.png)
+
+> Network daemons present the most common entryways into the system remotely and many of the attacks are targeted against them
