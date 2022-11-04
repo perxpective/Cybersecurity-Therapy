@@ -187,3 +187,9 @@ nc -v -b Win10-IP port_number
 
 ## Linux Vulnerabilities
 ### Connecting to a SSH Server and Disabling Remote Root Login using PuTTY
+**On web-server2 VM**
+1. By default, the web server does not allow user root to do a remote login
+2. Edit the SSH service config file `/etc/ssh/sshd_config` and look for the setting `PermitRootLogin`. It is set to "no" so users are not permitted to do an SSH connection
+
+**On Kali VM**
+3. Try to SSH to web-server2 as user root
