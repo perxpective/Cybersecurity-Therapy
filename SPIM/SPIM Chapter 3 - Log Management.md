@@ -461,7 +461,22 @@ CustomLog log/access_log combined
 
 #### Log Server and Log Collector Deployment
 ![](https://i.imgur.com/1H3VXw0.png)
+
 - Distribute log collectors in strategic points in network
 - Log server acts as central place for reviewing and analysing logs
 - Log collectors only back up logs temporarily
-- 
+
+#### Logging Policy on Data Collection
+- Log message should tell what happened and why it happened
+- State:
+	- Program variable
+	- Return values
+	- Stack information
+- Context:
+	- Supporting information describing why the log message is written
+
+#### OS Logs
+- Authentication (Linux syslogs, Remote User Authentication with SSH daemon)
+- Service start-up, shutdown and status change (Solaris syslog, Sendmail daemon starting up)
+- Service crash (due to crash or kill command)
+- Miscellaneous status message (Linux syslog of )
