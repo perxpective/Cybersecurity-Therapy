@@ -510,3 +510,21 @@ CustomLog log/access_log combined
 ![](https://i.imgur.com/jWVezsO.png)
 
 > Network daemons present the most common entryways into the system remotely and many of the attacks are targeted against them
+
+#### Application Logs
+- Application user activity
+- Privileged user activity
+- Routine but critical activity
+- Reconfiguration
+
+#### HIDS & HIPS
+- **Example:** Dragon HIDS
+	- Nessus vulnerability scanner probe detects by watching the FTP logs
+![](https://i.imgur.com/GAz2nLN.png)
+
+- Authorisation or authentication failed
+![](https://i.imgur.com/rv8xlcV.png)
+
+### Log Rotation
+- An active log file moved to an archive copy
+- New empty file created for an application to begin writing to
