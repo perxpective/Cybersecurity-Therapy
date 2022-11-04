@@ -66,4 +66,12 @@ get test.txt
 9. Stop Wireshark. View the TCP packets with the SMB protocol connecting to port 445 on Win10
 
 ### Accessing Windows without Logging In (Sticky Keys)
-1. 
+1. Shutdown Win10 VM
+2. Use ISO image file 
+
+![](https://i.imgur.com/dCGpCq9.png)
+
+3. Start the Win10 VM. When VMWare word appears, press <kbd>F2</kbd> to enter BIOS setup utility
+4. In the Boot menu, select CD-ROM Drive and bring it to the top
+5. Press <kbd>F10</kbd> to save and exit
+6. 
