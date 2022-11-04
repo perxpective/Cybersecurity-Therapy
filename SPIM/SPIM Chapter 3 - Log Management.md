@@ -375,6 +375,7 @@ CustomLog log/access_log combined
 	- Detect attempts to transfer a larger-than-expected batch of data
 
 ### Bad Habits in Logging
-| Bad Habit | Explanation |
-| --------- | ----------- |
-|           |             |
+| Bad Habit                       | Explanation                                                                                                                              |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Missing timestamp and time zone | Without this information, it is hard to know when the log actually occurred which can hurt investigative procedures, data searching etc. |
+| Magic or secret numbers         | Magic or secret numbers appear quire                                                                                                                                          |
