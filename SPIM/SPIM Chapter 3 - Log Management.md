@@ -360,4 +360,13 @@ CustomLog log/access_log combined
 	- Related components - destination, source port, destination port
 - **Timestamp and Time Zone (When)**
 	- Time zone essential for distributed applications
-	- High volume system can also
+	- High volume system can also use a transaction ID
+- **Reason (Why)**
+	- Does not require security and audit personnel to dig for hidden reason
+- **Action (How)**
+	- Provide nature of the event
+- **Priority**
+	- Different companies can have different policies on information availability/confidentiality
+- **Group Related Messages (Session ID)**:
+	- Group related messages across multiple threads and processes
+- ****
