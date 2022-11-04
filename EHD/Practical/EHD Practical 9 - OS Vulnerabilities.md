@@ -106,3 +106,12 @@ exit
 **On Win10 VM**
 <u>Using fgdump</u>
 1. Disable the Windows Defender to prevent anti-malware from detecting fgdump
+2. Create a folder `C:\ophcrack` for storing the Ophcrack files
+3. Download the fgdump program and copy it into `C:\ophcrack`
+4. Launch the Command Prompt and move to the following directory:
+```
+cd C:\ophcrack\fgdump-2.1.0
+```
+5. On the Command Prompt, run fgdump to dump out hashed passwords of the current system
+6. The hashed passwords will be stored on the file `127.0.0.1.pwdump`
+7. 
