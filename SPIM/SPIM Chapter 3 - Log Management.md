@@ -306,3 +306,17 @@ CustomLog log/access_log combined
 - **Active Directory Domain Services (AD DS)** is Microsoft's implementation of a directory service that provides centralised authentication and authorization services
 - Centrally stores and manages security principals e.g. users, groups and computers and offers centralised and secure access to network resources
 - Active Directory makes use of Lightweight Directory Access Protocol (LDAP) versions 2 and 3 (Microsoft's version of Kerberos and DNS)
+
+### AD Logs
+| Log                   | Description                                                                                                                                                                  |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Directory Service Log | Contains events logged by Windows Active Directory service <br> **Example:** connection problems between server and global catalog are recorded in the directory service log |
+| Security Log          | Security audit logs, e.g. logon events and directory access/changes                                                                                                                                                                             |
+
+### AD Auditing Log
+- Auditing of directory access and modifications must be enabled
+- Audit events are logged to the security event log
+- **Categories:**
+	- Directory Service Access
+	- Directory Service Changes
+	- 
