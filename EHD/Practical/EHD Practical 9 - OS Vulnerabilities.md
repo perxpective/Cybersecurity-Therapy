@@ -20,4 +20,6 @@
 1. Power on OpenVAS image
 2. At the login screen, note the IP address of the OpenVAS image
 3. On web browser on another VM, browser to the OpenVAS IP and add exception for the security certificate
-4. 
+4. Login to the Greenbone Security Manager with username `admin` and password `admin`
+5. Power on and use web-server2 as the target and take note of its IP address
+6. In the Web Browser,
