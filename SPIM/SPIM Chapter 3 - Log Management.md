@@ -302,3 +302,7 @@ CustomLog log/access_log combined
 - Delivery Agents are used to place a message into a user's mailbox
 - When message arrives at its destination, final transfer agent will give the message to the appropriate delivery  agent who will add the message to the user's mailbox
 
+## Active Directory
+- **Active Directory Domain Services (AD DS)** is Microsoft's implementation of a directory service that provides centralised authentication and authorization services
+- Centrally stores and manages security principals e.g. users, groups and computers and offers centralised and secure access to network resources
+- Active Directory makes use of Lightweight Directory Access Protocol (LDAP) versions 2 and 3 (Microsoft's version of Kerberos and DNS)
