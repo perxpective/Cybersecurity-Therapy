@@ -265,3 +265,18 @@ CustomLog log/access_log combined
 ```
 
 - **Forensic log**
+	- `mod_log_forensic` provides for forensic logging of client requests
+	- Logging is done before and after processing a request
+		- Hence, forensics log contains two log lines for each request
+	- Forensic logger is very strict with no customizations
+		- Can be an invaluable debugging and security tool
+
+#### Sendmail
+> Email handling program on Unix/Linux
+
+![](https://i.imgur.com/YZ0MhyT.png)
+
+### Terminology
+**User Agents:**
+- Application run directly by user
+- Used to compose and sent outgoing messages and to display, file and print messages arriving in a user's m
