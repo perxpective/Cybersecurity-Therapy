@@ -381,4 +381,14 @@ CustomLog log/access_log combined
 | Magic or secret numbers                     | Magic or secret numbers appear quite often in log messages as many times there is no documentation to back up the number leading to misinformation on the log reviewer part and frustration                                                                               |
 | Vague or no description                     | Log entries need to be clear, concise and comprehendible as vague or missing descriptions not only make it difficult for humans and automated tools to decipher a message, but it can waste valuable time when investigating systems outages or potential security issues |
 | No Source/Destination IPs, Hostnames, Ports | For systems that are client-server, source and destination IPs and port information needs to be included in the log entry                                                                                                                                                 |
-| No unique message identifier                | Each log message must have a unique identifer                                                                                                                                                                                                                                                                          |
+| No unique message identifier                | Each log message must have a unique identifier as having a way to uniquely describe a message has value for searching and other applications on the log message                                                                                                           |
+| No unique message type identifier           | To solve this, concatenate together common parts of a log message. This differs from a unique ID                                                                                                                                                                          |
+
+### Criteria for Good Logging
+- What will happen next
+- What else happened that should be cared about
+- What should be done about it
+- Where to get more info
+- How certain to be that the above really happened
+- What is affected
+- 
