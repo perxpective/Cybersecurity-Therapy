@@ -75,4 +75,6 @@ get test.txt
 4. In the Boot menu, select CD-ROM Drive and bring it to the top
 5. Press <kbd>F10</kbd> to save and exit
 6. Win10 VM will boot into Kali using the ISO file
-7. 
+7. Login with username `root` and password `toor` (or username `kali` and password `kali`)
+8. Type `fdisk -l` to view the Windows partition
+9. Windows partition may be listed as `/dev/sda2`

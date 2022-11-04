@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93491bec17acb22e",
+        "id": "363fbafc59dfc31c",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca287d14bdcc158",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "611964e903297192",
+            "id": "f065c084a86c30aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md"
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
               }
             }
           },
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +146,17 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "5ca287d14bdcc158",
+  "active": "f065c084a86c30aa",
   "lastOpenFiles": [
+    "SC/SC Topic 2 - Input and Output Sanitization.md",
+    "SPIM/SPIM Chapter 3 - Log Management.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
     "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
-    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
-    "SPIM/SPIM Chapter 3 - Log Management.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "README.md"
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
   ]
 }
