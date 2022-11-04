@@ -204,4 +204,20 @@ ssh student00@web-server2-IP
 5. Once logged in as `student00`, type `su -` to switch to the root account
 
 **On web-server2 VM**
-6. Edit the following two file to allow only one IP address (Win10 VM) to connect the SSH service
+6. Edit the following two files to allow only one IP address (Win10 VM) to connect the SSH service
+7. On `/etc/hosts.deny`, add the following:
+```
+sshd: ALL
+```
+8. On `/etc/hosts.allow`, add the following:
+```
+sshd: Win10-IP
+```
+9. Restart the SSH service:
+```
+systemctl restart sshd
+```
+10. Remove the lines  and restart the SSH service to undo all the changes
+
+### Using John the Ripper
+**On Kali VM**
