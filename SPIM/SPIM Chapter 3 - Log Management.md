@@ -236,4 +236,15 @@ overview/#sthash.GaXCsZkQ.dpuf
 - Most popular web servers
 - Supports variety of features, many implemented as compiled modules which extend the core functionality ranging from server-side programming language support to authentication schemes
 	- Common language interfaces support Perl, Python, TCL and PHP
-	- Popular authentication modules include `mod_acess`
+	- Popular authentication modules include `mod_access`, `mod_auth`, `mod_digest`, `mod_auth_digest`
+	- Other features include: SSL, TLS, proxy module, URL rewriter, custom log files and filtering support
+
+#### Server Logs
+**Types of logs:**
+
+| Log    | Description                                                                                                                                          |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Error  | - diagnostic information and record any errors that it encounters in processing requests<br> - Default name: error_log (unix) or error.log (windows) |
+| Access | - records all HTTP requests processed by the server                                                                                                  |
+
+#### Access Logs
