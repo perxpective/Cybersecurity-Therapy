@@ -369,4 +369,12 @@ CustomLog log/access_log combined
 	- Different companies can have different policies on information availability/confidentiality
 - **Group Related Messages (Session ID)**:
 	- Group related messages across multiple threads and processes
-- ****
+- **Process ID (pid) and Thread ID (tid)**
+	- Correlate a running application with its log records when multiple applications write to a shared log file
+- **Activity Measurement**
+	- Detect attempts to transfer a larger-than-expected batch of data
+
+### Bad Habits in Logging
+| Bad Habit | Explanation |
+| --------- | ----------- |
+|           |             |
