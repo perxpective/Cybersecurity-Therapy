@@ -22,4 +22,13 @@
 3. On web browser on another VM, browser to the OpenVAS IP and add exception for the security certificate
 4. Login to the Greenbone Security Manager with username `admin` and password `admin`
 5. Power on and use web-server2 as the target and take note of its IP address
-6. In the Web Browser,
+6. In the Web Browser, in the Greenbone Security Manager, under the Configuration menu, select **Targets**
+7. Click on the star icon on the top left corner to create a **New Target**
+8. Check that the Manual radio button is selected and enter IP address of web-server2
+9. Click **Create**
+10. Under the Scans menu, select Tasks
+11. Click on the star icon in the top left corner to create a **New Task**
+12. Enter a name for a task
+13. For Scan Config, choose the default **Full and fast**
+14. Click **Create**
+15.  Under Actions, click on 
