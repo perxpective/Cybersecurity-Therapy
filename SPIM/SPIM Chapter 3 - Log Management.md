@@ -213,5 +213,5 @@ cron.* /var/log/cron.log
 | Host (cs-host)                     | Hostname (if any)                                                                                   |
 | User Agent (cs(UserAgent))         | Browser type that client used                                                                       |
 | Cookie (cs(Cookie))                | Content of cookie sent or received (if any)                                                         |
-| Referrer                           |                                                                                                     |
+| Referrer                           | Site that user last visited. Site provided a link to the current state                              |
 
