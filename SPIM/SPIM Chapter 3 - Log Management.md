@@ -271,10 +271,21 @@ CustomLog log/access_log combined
 	- Forensic logger is very strict with no customizations
 		- Can be an invaluable debugging and security tool
 
-#### Sendmail
+### Sendmail
 > Email handling program on Unix/Linux
 
 ![](https://i.imgur.com/YZ0MhyT.png)
+
+#### Sendmail Log
+- Sendmail uses `syslog(3)` facility to log its activities
+- Syslog facility used is "mail"
+- Log message contents depends on Sendmail version
+- General format of a Sendmail message log line is:
+```
+<date> <host> sendmail[pid]: <qid>: <message>
+```
+- Most messages are in the `name=value` pair
+- Line is logged per message received and per delivery attempt
 
 ### Terminology
 **User Agents:**
