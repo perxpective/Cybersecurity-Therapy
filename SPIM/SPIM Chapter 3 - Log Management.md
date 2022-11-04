@@ -345,4 +345,19 @@ CustomLog log/access_log combined
 ### Log Message Formatting
 - **Username (Who)**
 	- For user or administrator activities
-	- Include name of 
+	- Include name of identity provider if available
+- **Object (What)**
+	- Affected system component
+	- Examples: User account, file
+- **Status (What)**
+	- Action succeeded, failed or deferred
+- **System/Application/Component (Where)**
+	- Relevant application context
+	- Examples: Initiator, target systems
+- **Source (Where)**
+	- For network connectivity or distributed application operation
+	- IP address or hostname
+	- Related components - destination, source port, destination port
+- **Timestamp and Time Zone (When)**
+	- Time zone essential for distributed applications
+	- High volume system can also
