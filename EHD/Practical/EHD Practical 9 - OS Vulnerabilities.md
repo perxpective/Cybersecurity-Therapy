@@ -198,8 +198,10 @@ ssh root@web-server2-IP
 ```
 
 4. SSH as user `student00` (password: `student00`)
-5. Once logged in as `student00`, type `su -` to switch to the root acount
 ```
 ssh student00@web-server2-IP
 ```
-6. 
+5. Once logged in as `student00`, type `su -` to switch to the root account
+
+**On web-server2 VM**
+6. Edit the following two file to allow only one IP address (Win10 VM) to connect the SSH service
