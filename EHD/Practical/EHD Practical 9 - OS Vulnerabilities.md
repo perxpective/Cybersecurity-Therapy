@@ -74,4 +74,5 @@ get test.txt
 3. Start the Win10 VM. When VMWare word appears, press <kbd>F2</kbd> to enter BIOS setup utility
 4. In the Boot menu, select CD-ROM Drive and bring it to the top
 5. Press <kbd>F10</kbd> to save and exit
-6. 
+6. Win10 VM will boot into Kali using the ISO file
+7. 
