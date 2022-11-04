@@ -319,4 +319,17 @@ CustomLog log/access_log combined
 - **Categories:**
 	- Directory Service Access
 	- Directory Service Changes
-	- 
+	- Directory Service Replication
+	- Detailed Directory Service Replication
+
+## NIDS Alert Logs (Snort)
+![](https://i.imgur.com/SgFjSsB.png)
+
+## DNS Logs
+![](https://i.imgur.com/cZA0CpV.png)
+
+- One of the root DNS servers has its IP address changed, but this DNS server produced the above syslog message still has the old information in its configuration file
+
+## Log Formats
+**Text logs:**
+- W3C Extended log file format (ELF), Apache access log, Cisco SDEE/CIDEE, ArcSight common eve
