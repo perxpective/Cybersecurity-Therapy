@@ -139,3 +139,21 @@ ncat -l -p 8989 -e cmd.exe
 
 **On Kali VM**
 4. Run netcat to connect to the listening netcat on Win10 on port 8989
+```
+nc Win10-IP 8989
+```
+5. If the connection is successful, you are connected to the Command Prompt of the Win10 VM
+6. To close the session, type `exit`
+
+<u>Transferring a file:</u>
+**On Win10 VM**
+7. On Win10 VM, run netcat to listen on port 8082 and direct all incoming data to a file
+```
+ncat -l -p 8082 > newfile.txt
+```
+
+**On Kali VM**
+8. Run netcat to connect to the listening netcat on Win10 on port 8082 and direct contents of a file to it
+```
+nc Win10-IP 808
+```
