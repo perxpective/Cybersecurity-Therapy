@@ -419,4 +419,12 @@ CustomLog log/access_log combined
 - Host logs produced by OS components
 - Various network services logs
 - Logs of applications running on the system
-- Host logs from applications with security mission running on a 
+- Host logs from applications with security mission running on a host
+	- Related to attacks, intrusions, compromises, infections
+	- False alarms
+- **Host intrusion detection and prevention:**
+	- Detect and block a wide variety of network, OS and application attacks
+	- HIPS block attacks based on signatures, dynamic rules or other mechanisms
+	- <u>Events recorded are related to:</u>
+		- Reconnaissance or probe detected
+		- Changes to executable files
