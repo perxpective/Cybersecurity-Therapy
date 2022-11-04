@@ -528,3 +528,14 @@ CustomLog log/access_log combined
 ### Log Rotation
 - An active log file moved to an archive copy
 - New empty file created for an application to begin writing to
+- **Two basic types of mechanisms**
+	- Log rotation scripts
+	- Application itself handles log rotation duties
+		- Handled by custom-written application code
+		- Built-in features of a third-party logging library
+- Application does not need to know that log rotation has occurred
+- **Log Rotation Schemes:**
+	- Hourly, daily, weekly
+	- Size based (10MB, etc.)
+	- Size and time-based
+		- Log file is archived based on time but each log file is also capped at some size
