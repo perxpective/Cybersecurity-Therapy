@@ -11,5 +11,6 @@
   "obsidian-image-toolkit",
   "emoji-shortcodes",
   "obsidian-emoji-toolbar",
-  "obsidian-scroll-offset"
+  "obsidian-scroll-offset",
+  "obsidian-autocomplete-plugin"
 ]

