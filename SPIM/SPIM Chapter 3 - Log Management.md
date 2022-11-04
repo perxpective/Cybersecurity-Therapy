@@ -248,3 +248,20 @@ overview/#sthash.GaXCsZkQ.dpuf
 | Access | - records all HTTP requests processed by the server                                                                                                  |
 
 #### Access Logs
+- Location and content of access log are controlled by the CustomLog directive
+- **Common log format:**
+	- Typical configuration for the access log might look as follows:
+	
+```
+LogFormat "%h %l %u %t \"%r\" %>s %b" common
+CustomLog logs/access_log common
+```
+
+- **Combined log format:**
+```
+LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""
+combined
+CustomLog log/access_log combined
+```
+
+- **Forensic log**
