@@ -192,4 +192,14 @@ nc -v -b Win10-IP port_number
 2. Edit the SSH service config file `/etc/ssh/sshd_config` and look for the setting `PermitRootLogin`. It is set to "no" so users are not permitted to do an SSH connection
 
 **On Kali VM**
-3. Try to SSH to web-server2 as user root
+3. Try to SSH to web-server2 as user `root` - It should be unsuccessful
+```
+ssh root@web-server2-IP
+```
+
+4. SSH as user `student00` (password: `student00`)
+5. Once logged in as `student00`, type `su -` to switch to the root acount
+```
+ssh student00@web-server2-IP
+```
+6. 
