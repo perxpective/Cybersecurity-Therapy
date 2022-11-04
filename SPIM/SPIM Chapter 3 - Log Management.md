@@ -331,5 +331,18 @@ CustomLog log/access_log combined
 - One of the root DNS servers has its IP address changed, but this DNS server produced the above syslog message still has the old information in its configuration file
 
 ## Log Formats
-**Text logs:**
-- W3C Extended log file format (ELF), Apache access log, Cisco SDEE/CIDEE, ArcSight common eve
+- **Text logs:**
+	- W3C Extended log file format (ELF), Apache access log, Cisco SDEE/CIDEE, ArcSight common event format, Syslog, IDMEF (XML-based format)
+- **Binary logs:**
+	- Windows event log: EVT file in `c:\Windows\System32\Config\`
+	- Compressed logs: security by obscurity
+	- Relational database
+- **Open format:**
+	- Documented as ISO, ANSI, Internet standard or in an RFC reference
+- **Proprietary format**
+
+## Log Requirements
+### Log Message Formatting
+- **Username (Who)**
+	- For user or administrator activities
+	- Include name of 
