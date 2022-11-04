@@ -44,7 +44,16 @@
 
 **On Kali VM**
 1. To list out shared folders on a remote system, use the `smbclient` command (Use `-U` option to specify Windows 10 user account)
-
 ```
-smbclient -L  
+smbclient -L Win10-IP -U admin 
 ```
+2. Start Wireshark to capture the network traffic
+3. Use the following command to connect shared folder on Win10:
+```
+smbclient //Win10-IP/shared
+```
+4. Press <kbd>Enter</kbd> if asked for password
+5. If there is a `NT_STATUS_ACCESS_DENIED` message, specify Win10 username
+```
+smbclient //Win10-IP/shared -U admin
+``` 
