@@ -391,4 +391,32 @@ CustomLog log/access_log combined
 - Where to get more info
 - How certain to be that the above really happened
 - What is affected
-- 
+
+## Log Management
+### Log Collection Planning
+- Identify exact needs
+- Architecture
+- Policy definition
+- Scalability
+- Software selection
+
+### Log Analysis Goals
+- Varies depending on business needs - **security and compliance**
+- Past bad things
+- Future bad things
+- Never before seen things
+
+### Policy Definition
+- Logging policy
+	- Adequate logging
+	- Log aggregation and retention
+	- Log protection
+	- Log review
+
+![](https://i.imgur.com/mocPmVk.png)
+
+### Security Host Logs
+- Host logs produced by OS components
+- Various network services logs
+- Logs of applications running on the system
+- Host logs from applications with security mission running on a 
