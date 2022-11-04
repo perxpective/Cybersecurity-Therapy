@@ -539,3 +539,19 @@ CustomLog log/access_log combined
 	- Size based (10MB, etc.)
 	- Size and time-based
 		- Log file is archived based on time but each log file is also capped at some size
+
+### Logging Policy on Log Retention/Storage
+- Log storage, accessibility and log destruction
+- Never use a syslog server as a log retention system
+- Storage size per day
+	- Log records (in bytes) per second - 86400
+	- General rule of thumb is to add 25% to log retention capacity needs
+	- Distributed storage
+
+### High Level Concerns on Planning
+- **Accuracy**
+	- Free from defects or misleading information
+	- Reduce false positives
+	- IDS to consult a vulnerability database
+	- IDS to implement policy scheme whereby user and group profiles are used to create acceptable network usage of individuals
+	- 
