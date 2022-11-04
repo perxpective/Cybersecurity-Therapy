@@ -40,6 +40,7 @@
 21. To shut down OpenVAS, select the **Maintenance** and choose **Power**
 
 ### SMB/CIFS
-> Server Message Block (SMB) or CIFS (Common Internet File System) can be used to share resources betw
+> Server Message Block (SMB) or CIFS (Common Internet File System) can be used to share resources between computers running Windows or Linux
 
 **On Kali VM**
+- To list out shared folders on a remote system, use the `smbclient` command
