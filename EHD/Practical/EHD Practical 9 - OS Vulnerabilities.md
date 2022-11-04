@@ -132,4 +132,4 @@ cd C:\ophcrack\fgdump-2.1.0
 ```
 ncat -h
 ```
-3. 
+3. Run ncat to se
