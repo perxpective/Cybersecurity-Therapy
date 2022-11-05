@@ -273,4 +273,7 @@ passwd student01
 hydra web-server2-IP ssh -l student01 -P /usr/share/wordlists/rockyou.txt -V -t 10
 ```
 
-3. 
+**On web-server2 VM**
+3. Online password attacks can be easily detected and logged on `/var/log/secure`
+
+### Using fcrackzip to Crack Password Protected Zip Files
