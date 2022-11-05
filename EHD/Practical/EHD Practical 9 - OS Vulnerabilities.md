@@ -237,4 +237,9 @@ sudo cat /root/john/john.pot
 ```
 sudo john --show /etc/shadow
 ```
-5. View the contents of the password list available 
+5. View the contents of the password list available in the John the Ripper directory
+```
+less /usr/share/john/password.lst
+wc -l  /usr/share/john/password.lst
+```
+6. View the other word lists
