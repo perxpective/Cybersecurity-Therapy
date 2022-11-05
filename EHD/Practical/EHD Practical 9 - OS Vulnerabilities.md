@@ -255,3 +255,8 @@ sudo john --wordlist=/usr/share/wordlists/rockyou.txt --format=crypt /etc/shadow
 sudo ps -ef | grep john
 ```
 9. Use the kill command to send a USR1 signal to the John the Ripper process
+```
+sudo kill -s USR1 ProcessID
+```
+
+### Using Hydra to Crack Network Password
