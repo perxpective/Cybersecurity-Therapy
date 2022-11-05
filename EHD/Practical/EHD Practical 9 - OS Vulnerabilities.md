@@ -246,4 +246,12 @@ wc -l  /usr/share/john/password.lst
 ```
 sudo find / -name *wordlist*
 ```
-7. To run John the Ripper with the `rockyou.txt` password list, run the following command
+7. To run John the Ripper with the `rockyou.txt` password list, run the following command:
+```
+sudo john --wordlist=/usr/share/wordlists/rockyou.txt --format=crypt /etc/shadow
+```
+8. To find the Process ID of the John the Ripper process:
+```
+sudo ps -ef | grep john
+```
+9. Use the kill command to send a USR1 signal to the John the Ripper process
