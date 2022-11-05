@@ -221,3 +221,15 @@ systemctl restart sshd
 
 ### Using John the Ripper
 **On Kali VM**
+1. To crack the passwords in the current Linux shadow file, run the following command:
+```
+sudo john /etc/shadow
+```
+2. Run the following command to use John the Ripper with the `crypt` format to crack the hashed passwords
+```
+sudo john --format=crypt /etc/shadow
+```
+3. A directory called `.john` is created in the `/root` directory. Passwords that are cracked successfully are listed in a file called `john.pot`
+```
+sudo cat /root/john/john.pot
+```
