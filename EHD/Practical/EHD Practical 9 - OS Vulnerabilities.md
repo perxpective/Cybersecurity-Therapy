@@ -233,3 +233,8 @@ sudo john --format=crypt /etc/shadow
 ```
 sudo cat /root/john/john.pot
 ```
+4. To view the cracked passwords using John the Ripper:
+```
+sudo john --show /etc/shadow
+```
+5. View the contents of the password list available 
