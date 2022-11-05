@@ -196,7 +196,6 @@ nc -v -b Win10-IP port_number
 ```
 ssh root@web-server2-IP
 ```
-
 4. SSH as user `student00` (password: `student00`)
 ```
 ssh student00@web-server2-IP
@@ -280,4 +279,12 @@ hydra web-server2-IP ssh -l student01 -P /usr/share/wordlists/rockyou.txt -V -t 
 1. To install fcrackzip, run:
 ```
 sudo apt-get install fcrackzip
+```
+2. Run the following command to try fcrackzip with dictionary list `rockyou.txt`
+```
+fcrackzip --dictionary -p /usr/share/wordlists/rockyou.txt files.zip
+```
+3. Run fcrackzip with the `-u` option to try all possible passwords
+```
+fcrackzip --dictionary -p /usr/share/
 ```
