@@ -242,4 +242,8 @@ sudo john --show /etc/shadow
 less /usr/share/john/password.lst
 wc -l  /usr/share/john/password.lst
 ```
-6. View the other word lists
+6. View the other word lists available on Kali:
+```
+sudo find / -name *wordlist*
+```
+7. To run John the Ripper with the `rockyou.txt` password list, run the following command
