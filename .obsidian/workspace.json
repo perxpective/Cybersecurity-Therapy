@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md"
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +158,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "fffb98f0049161b5",
+  "active": "b2846a5c4289069d",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
@@ -169,7 +169,6 @@
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SC/SC Topic 2 - Input and Output Sanitization.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md"
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md"
   ]
 }
