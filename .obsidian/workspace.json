@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fffb98f0049161b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md"
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,12 +159,12 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "b2846a5c4289069d",
+  "active": "fffb98f0049161b5",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "SPIM/SPIM Chapter 3 - Log Management.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SC/SC Topic 2 - Input and Output Sanitization.md",
