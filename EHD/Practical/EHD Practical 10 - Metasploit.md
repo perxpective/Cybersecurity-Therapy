@@ -13,4 +13,5 @@
 
 **On WinXP VM**
 1. Go to the Control Panel and **Add or Remove Programs**
-2. Check the box **Show Updates**
+2. Check the box **Show Updates**. The list of installed programs and software updates will be displayed
+3. Search the list of security updates for ones containing the Knowledge Base numbers 958644  or 2705219 of the MS08-067 or MS12-054 security bulletins. If the
