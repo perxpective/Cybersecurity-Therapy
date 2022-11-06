@@ -286,5 +286,5 @@ fcrackzip --dictionary -p /usr/share/wordlists/rockyou.txt files.zip
 ```
 3. Run fcrackzip with the `-u` option to try all possible passwords
 ```
-fcrackzip --dictionary -p /usr/share/
+fcrackzip --dictionary -p /usr/share/wordlists/rockyou.txt -u files.zip
 ```
