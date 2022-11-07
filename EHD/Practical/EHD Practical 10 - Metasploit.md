@@ -193,5 +193,22 @@ ls /usr/share/metasploit-framework/modules
 **On Kali VM**
 1. On Metasploit, view the information for the `smb_version`  module and select it
 ```
-info auxiliary/scca
+info auxiliary/scanner/smb/smb_version
+use auxiliary/scanner/smb/smb_version
 ```
+2. Type `show options` to see the options that need to be set
+3. Set WinXP and Win2008 VMs as the remote hosts (RHOSTS)
+```
+set RHOSTS WinXP-IP Win2008-IP
+```
+4. If scanning a large number of hosts, increase the number concurrently to the number of hosts to be scanned (in the example, 2)
+```
+set THREADS 2
+```
+5. Run the scan
+```
+run
+```
+
+> On Host PC, power on the web-server2 VM which has a FTP server running on it\
+
