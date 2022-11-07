@@ -67,3 +67,5 @@ exploit
 9. To quit from the remote connection, press <kbd>Ctrl</kbd>+<kbd>C</kbd>
 
 ## Using Reverse TCP Payload
+> In the previous exploit, Kali creates a connection to the unpatched WinXP, but if the firewall on WinXP is enabled, Kali is unable to connect to WinXP
+> To address this problem, the payload `reverse_tcp` tells the victim to connect to the attacker (Kali VM) as Win
