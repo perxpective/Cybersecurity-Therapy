@@ -154,4 +154,5 @@ sudo john filename.txt
 
 **On Win2008 VM**
 2. Go to Start > Admin Tools > Services and enable **Remote Desktop Services**
-3. Go to Start > right-click Computer > Propertie
+3. Go to Start > right-click Computer > Properties
+4. Click on Remote settings and select **Allow connections from computers running any version of Remote Desktop**
