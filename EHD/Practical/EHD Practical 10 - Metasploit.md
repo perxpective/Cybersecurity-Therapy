@@ -23,3 +23,7 @@
 
 ## Using the Metasploit Console
 **On Kali VM**
+> <u>Activating the Metasploit console:</u>
+> - Click the Kali icon > 08 Exploitation Tools > Metasploit framework
+> - Run `msfconsole` on the terminal
+
