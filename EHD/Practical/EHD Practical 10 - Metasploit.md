@@ -219,3 +219,5 @@ info auxiliary/scanner/ftp/ftp_version
 use auxiliary/scanner/ftp/ftp_version
 ```
 7. Type `show options` to view options to be set
+8. Set web-server2 VM as the remote host
+9. In another terminal, create a file `/`
