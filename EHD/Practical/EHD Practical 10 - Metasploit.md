@@ -116,4 +116,7 @@ exploit
 ```
 4. Type `help` at the Meterpreter prompt to see all available commands
 5. Type `ps` to see list of processes running on the WinXP VM
-6. Type `screenshot` to take a screenshot of the WinXP VM
+6. Type `screenshot` to take a screenshot of the WinXP VM (File is saved to a file on Kali)
+7. Type `ifconfig` to list the network interfaces on the WinXP VM
+8. To see all possibilities for Meterpreter scripts on Kali, type `run` and press <kbd>Tab</kbd> twice
+9. To see all possibilities for Meterpreter extension modules on Kali, 
