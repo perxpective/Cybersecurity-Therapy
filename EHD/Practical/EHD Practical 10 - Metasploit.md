@@ -120,4 +120,15 @@ exploit
 7. Type `ifconfig` to list the network interfaces on the WinXP VM
 8. To see all possibilities for Meterpreter scripts on Kali, type `run` and press <kbd>Tab</kbd> twice
 9. To see all possibilities for Meterpreter extension modules on Kali, type `use` and press <kbd>Tab</kbd> twice
-10. Type `use sniffer` to load the load the sniffer extension
+10. Type `use sniffer` to load the load the sniffer extension to do network packet capturing on the WinXP VM
+11. Type `sniffer_start 2` (where 2 is the interface number of the VMWare network adapter)
+
+**On WinXP VM**
+12. Do some network activity e.g. pinging another system or browsing the Internet
+
+**On Kali VM**
+13. Type `sniffer_stats 2` to see statistics on the number of packets and bytes captured so far
+14. Type `sniffer_dump 2 /tmp/winxp.cap` to save the captured packets into a file `/tmp/winxp.cap`
+15. View the captured packet file using Wireshark
+
+## Use Metasploit M
