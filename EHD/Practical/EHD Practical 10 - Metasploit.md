@@ -120,4 +120,4 @@ exploit
 7. Type `ifconfig` to list the network interfaces on the WinXP VM
 8. To see all possibilities for Meterpreter scripts on Kali, type `run` and press <kbd>Tab</kbd> twice
 9. To see all possibilities for Meterpreter extension modules on Kali, type `use` and press <kbd>Tab</kbd> twice
-10. Type `use sniffer` to load the 
+10. Type `use sniffer` to load the load the sniffer extension
