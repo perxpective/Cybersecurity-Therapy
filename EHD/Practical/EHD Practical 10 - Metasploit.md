@@ -156,3 +156,8 @@ sudo john filename.txt
 2. Go to Start > Admin Tools > Services and enable **Remote Desktop Services**
 3. Go to Start > right-click Computer > Properties
 4. Click on Remote settings and select **Allow connections from computers running any version of Remote Desktop**
+5. On Command Prompt, type `netstat -an` and see if Port 3389 is open (Remote Desktop runs on Port 3389 by default)
+6. Go to Windows Firewall with Advanced Security and check that the Inbound Rule to allow Remote Desktop connections to TCP Port 3389 is enabled
+7. Go to Control Panel > Programs > View Installed Updates and check the list of security updates containing the Knowledge Base number for the MS12-020 security bulletin
+8. If the patch is listed, remove and start the Win2008 VM
+9. If not, Win2008 is not patched against this 
