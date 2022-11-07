@@ -573,4 +573,3 @@ CustomLog log/access_log combined
 - Normalisation
 	- translate to a well known log event format
 - Challenges with **time synchronisation**
-
