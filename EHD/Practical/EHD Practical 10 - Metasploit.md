@@ -64,4 +64,6 @@ exploit
 > - Type `set` to see list of current environment variables
 > - To create a new user: `net user username password /add`
 
+9. To quit from the remote connection, press <kbd>Ctrl</kbd>+<kbd>C</kbd>
 
+## Using Reverse TCP Payload
