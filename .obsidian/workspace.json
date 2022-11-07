@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
+                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
+                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
+                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
+                "file": "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +147,15 @@
   },
   "active": "b2846a5c4289069d",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 7 - Intrusion Detection Systems.md",
+    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
+    "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
+    "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
+    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
-    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
+    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md"
   ]
 }
