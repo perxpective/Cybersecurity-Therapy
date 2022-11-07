@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 10 - Metasploit.md"
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +147,9 @@
   },
   "active": "0b8937d034989039",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
     "EHD/Theory/EHD Topic 10 - Metasploit.md",
+    "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "README.md",

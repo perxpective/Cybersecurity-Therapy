@@ -27,4 +27,14 @@
 		- Gather more information or gain further access to an exploited system
 		- e.g. including hash dumps and application and service enumerators
 	- Others
-- 
+
+## Metasploit Modules
+- New modules can be created or added to the framework
+- Existing modules are normally found in the directory `/usr/share/metasploit-framework/modules`
+
+## Meterpreter
+- Advanced multi-function payload that provides an interactive shell
+- Some functions provided by the Meterpreter shell:
+	- Download a file
+	- Obtain the password hashes for user accounts
+	- 

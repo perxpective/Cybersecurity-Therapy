@@ -349,5 +349,4 @@
 - Linux passwords are usually hashed and stored in `/etc/shadow`
 - File should only be readable by root
 - Password cracking tool: John the Ripper
-- 
 
