@@ -11,8 +11,12 @@
             "id": "d9f6a12adf48eb28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md"
+              }
             }
           },
           {
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
