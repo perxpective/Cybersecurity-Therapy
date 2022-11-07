@@ -27,3 +27,9 @@
 > - Click the Kali icon > 08 Exploitation Tools > Metasploit framework
 > - Run `msfconsole` on the terminal
 
+- To see all possible commands, type `help` at the `msf` prompt
+- To see list of exploits, type `show exploits`
+	- List of exploits and CVE numbers will be displayed
+- To search for exploits related to SMB, type `search smb`
+- 
+
