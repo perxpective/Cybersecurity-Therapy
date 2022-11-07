@@ -141,4 +141,17 @@ exploit
 
 **On Kali VM**
 4. Using Metasploit, exploit WinXP with the Meterpreter payload
-5. At the Meterpreter prompt, type `hashdump`
+5. At the Meterpreter prompt, type `hashdump` to display a dump of the user accounts and hashed passwords of WinXP
+6. Copy the list of user accounts and hashed passwords into a text file
+7. Use John the Ripper to crack the hashed passwords
+```
+sudo john filename.txt
+```
+
+## Exploiting Remote Desktop
+**On Host PC**
+1. Search the Internet for information about the Microsoft Security Bulletin MS12-020 and take note of its Knowledge Base number
+
+**On Win2008 VM**
+2. Go to Start > Admin Tools > Services and enable **Remote Desktop Services**
+3. Go to Start > right-click Computer > Propertie
