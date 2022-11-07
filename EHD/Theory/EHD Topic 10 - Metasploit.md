@@ -37,4 +37,7 @@
 - Some functions provided by the Meterpreter shell:
 	- Download a file
 	- Obtain the password hashes for user accounts
-	- 
+	- Monitor network traffic on target
+
+> **Metasploit Unleashed**: [https://www.offensive-security.com/metasploit-unleashed/msfconsole/](https://www.offensive-security.com/metasploit-unleashed/msfconsole/)
+
