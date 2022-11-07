@@ -131,4 +131,14 @@ exploit
 14. Type `sniffer_dump 2 /tmp/winxp.cap` to save the captured packets into a file `/tmp/winxp.cap`
 15. View the captured packet file using Wireshark
 
-## Use Metasploit M
+## Use Metasploit Meterpreter to Get Password Dump
+> Use Meterpreter to dump out password hashes from the target
+
+**On WinXP VM**
+1. Go to the Control Panel > Performance and Maintenance > Admin Tools > Computer Management
+2. Under Computer Management, System Tools > Local Users and Groups > Users
+3. Right-click and select **New User** and create new accounts with passwords
+
+**On Kali VM**
+4. Using Metasploit, exploit WinXP with the Meterpreter payload
+5. At the Meterpreter prompt, type `hashdump`
