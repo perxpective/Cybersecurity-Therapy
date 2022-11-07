@@ -245,3 +245,10 @@ run
 ```
 
 ## EternalBlue and Mimikatz
+> EternalBlue is the name of an exploit for a software vulnerability in Microsoft's Windows OS and targets the SMB service in Windows
+
+**On Win2008 VM**
+1. Configure the Windows Firewall with Advanced Security to allow incoming connections to File and Printer Sharing (SMB-In)
+
+**On Kali VM**
+2. In a terminal, search in the following directory for the appropriate exploit for the EternalBlue vulnerability
