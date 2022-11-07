@@ -180,4 +180,18 @@ set RHOST Win2008-IP
 ```
 exploit
 ```
-15. The Blue Screen of Death appears in the Win2008 VM (restart it to )
+15. The Blue Screen of Death appears in the Win2008 VM (refresh the image to get rid of the BSOD)
+
+## Viewing Available Metasploit Modules
+1. List the type of modules available for Metasploit:
+```
+ls /usr/share/metasploit-framework/modules
+```
+2.  To add new modules, copy them to the corresponding directories and restart the Metasploit framework to reload all the modules
+
+## Using Metasploit to Scan for Versions of Microsoft Windows
+**On Kali VM**
+1. On Metasploit, view the information for the `smb_version`  module and select it
+```
+info auxiliary/scca
+```
