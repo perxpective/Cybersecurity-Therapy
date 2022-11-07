@@ -210,5 +210,12 @@ set THREADS 2
 run
 ```
 
-> On Host PC, power on the web-server2 VM which has a FTP server running on it\
+> On Host PC, power on the web-server2 VM which has a FTP server running on it
 
+**On Kali VM**
+6. On Metasploit, view the information about the `ftp_version` module and select it
+```
+info auxiliary/scanner/ftp/ftp_version
+use auxiliary/scanner/ftp/ftp_version
+```
+7. Type `show options` to view options to be set
