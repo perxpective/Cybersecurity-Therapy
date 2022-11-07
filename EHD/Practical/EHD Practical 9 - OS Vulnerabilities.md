@@ -276,6 +276,7 @@ hydra web-server2-IP ssh -l student01 -P /usr/share/wordlists/rockyou.txt -V -t 
 3. Online password attacks can be easily detected and logged on `/var/log/secure`
 
 ### Using fcrackzip to Crack Password Protected Zip Files
+**On Kali VM**
 1. To install fcrackzip, run:
 ```
 sudo apt-get install fcrackzip
