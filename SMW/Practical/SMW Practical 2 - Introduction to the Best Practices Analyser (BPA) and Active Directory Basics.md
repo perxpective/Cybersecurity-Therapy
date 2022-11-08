@@ -42,7 +42,7 @@
 ![](https://i.imgur.com/uj5YGTH.png)
 
 4. Select a functional level (Functional levels cannot be rolled back to a lower level)
-5. Click **Raise**
+5. Click **Raise** (Raise to Windows Server 2012)
 
 ## Creating Domain User Accounts in Active Directory
 1. Run **mmc**
