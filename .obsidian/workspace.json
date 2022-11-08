@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md"
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,12 +147,12 @@
   },
   "active": "d9f6a12adf48eb28",
   "lastOpenFiles": [
+    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "EHD/Theory/EHD Topic 10 - Metasploit.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SPIM/SPIM Chapter 3 - Log Management.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
