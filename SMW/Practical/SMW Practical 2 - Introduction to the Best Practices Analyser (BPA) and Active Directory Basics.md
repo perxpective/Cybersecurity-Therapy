@@ -95,7 +95,7 @@
 
 ## Installing and Configuring Server Administration Tools on Windows 10
 > - Often the Administrators wish to carry out admin tasks e.g. creating domain users using their own workstations instead of physically going to the Domain Controller every time
-> - They can instal the Remote Server Administration Tools (RSAT) on their own workstations
+> - They can install the Remote Server Administration Tools (RSAT) on their own workstations
 
 ![](https://i.imgur.com/RCfahJb.png)
 
@@ -112,7 +112,7 @@
 
 ## Create Domain Local and Global Security Groups
 1. Login as Domain Administrator on the client Windows 10 image or on the Domain Controller if client is not working
-2. Run **Active Directory and Computers console**
+2. Run **Active Directory Users and Computers console**
 3. Create a Domain Local Group called **DomainMgrs** and a Global Security Group called **GlobalMgrs**
 4. Navigate to **Active Directory Users and Computers**
 5. Display the contents under `smw.soc.com`
