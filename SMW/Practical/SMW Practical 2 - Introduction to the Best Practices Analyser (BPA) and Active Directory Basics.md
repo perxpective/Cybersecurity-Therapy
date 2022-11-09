@@ -127,6 +127,6 @@
 14. Find the global group just created in the right pane and double click it
 15. On the **Members** tab, there are no members associated with the group
 16. Click **Add** and **Advanced** button 
-17. Click **Find Now** and select Mgrs1
+17. Click **Find Now** and select Mgr1
 18. Double click the domain local group and click the **Members** tab
 19. Add the global group **GlobalMgrs** and click **OK**
