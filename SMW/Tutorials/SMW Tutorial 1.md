@@ -7,11 +7,10 @@
 ```
 
 ## Self-Evaluation Check List
-- **Do you know the weightages of the Mid Semester Test and the CA1?**
-- **What are the components comprised in CA1?**
-- **How many online quizzes you need to take in this module?**
 - **Would you list a few common sources of computer security issues?**
+	- Bad software design, bad implementation of software, viruses, worms, programs that steal confidential information and hacking via system vulnerabilities
 - **Would you list three common practices to reduce computer security threats?**
+	- 
 - **What are the four main areas Microsoft invested to improve the Windows Security?**
 - **What are the goals of Trusty Worthy Computing?**
 - **What are the means of achieving Trusty Worthy Computing?**
