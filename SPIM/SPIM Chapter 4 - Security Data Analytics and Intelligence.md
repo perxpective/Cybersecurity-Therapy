@@ -134,3 +134,9 @@
 ### Data Visualisation
 - Data analysis is closely related to data visualisation
 - Data visualisation is the presentation of data in a pictorial or graphical format
+- <u>To generate the best visuals:</u>
+	- Understand the data size and cardinality
+	- Determine the information to convey
+	- Understand how the targeted audience will consume the information
+	- Present the information in the best and simplest form
+- <u>Data visualisation  considera</u>
