@@ -39,3 +39,6 @@
 
 ### Security Data
 - Vast amount of raw security data come from system, network and application logs
+| Log | Log Entry |
+| --- | --------- |
+| Record of events occurring at an organisatoi    |           |
