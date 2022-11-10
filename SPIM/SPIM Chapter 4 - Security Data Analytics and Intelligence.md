@@ -205,3 +205,12 @@
 
 ![](https://i.imgur.com/z1akMJr.png)
 
+## Security Analytics
+- More security products are built or improved with advanced analytics and user and entity behaviour profiling since 2010
+	- Lower false-positive rates and higher staff productivity
+- By 2016, 25% of security products used for threat detection will have some form of machine learning built into them
+
+## Review of Traditional Security Approach
+- Primarily on prevention technologies, rule and signature-based detection mechanisms
+	- Requires prior knowledge of attacker methods
+- Security controls, like application security, network security, endpoint protection and data security are implemented 
