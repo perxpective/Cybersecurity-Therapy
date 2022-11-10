@@ -45,7 +45,7 @@
 - **What is the primary prerequisite to implement Active Directory in a Windows System?**
 	- The system needs to have a **domain controller**
 - **What is the relationship between the Windows Registry Database and the Active Directory Database?**
-	- Active Directory Database keeps centralized system configuration in terms of Group Policy Objects (GPOs). These GPOs will be sent to targeting systems. Once the GPOs are delivered to the systems, the GPO settings will be converted to Windows Registry entries and store at the local Windows Registry Database.
+	- Active Directory Database keeps centralized system configuration in terms of Group Policy Objects (GPOs). These GPOs will be sent to targeting systems. Once the GPOs are delivered to the systems, the GPO settings will be converted to Windows Registry entries and store at the local Windows Registry Database.-
 
 ## Challenging Questions
 - **Identify the relationship and/or difference between the requirement and the goals of Trustworthy computing.**
@@ -53,4 +53,21 @@
 - **List the minimum server roles for a Primary Domain Controller.**
 	- ADDS and DNS
 - **List the minimum requirement for a windows client to join to a Domain within the same LAN**
-	- 
+	- Ability to ping the domain with the domain name
+	- User logs into the Windows client with an account with local admin rights
+	- User has a domain user account that has rights to allow the workstation to join to the domain
+
+## Nano Test Questions and Answers
+- **List 3 essential server roles that a Primary Domain Controller should be having.**
+	- ADDS
+	- DNS
+	- File and Storage Services
+- **Which security group membership is required for an account to authorize a DHCP Service in a Windows 2016 Domain?**
+	- Domain Admins
+- **How many Nano Tests will the students to take for SMW?** (Useless Question 😠)
+	- The students will have to take 7 nano tests
+- Consider the given information of an Active Directory:
+> - It consists of a single domain (a.com) and two domain controllers.
+> - The two domain controllers in a.com are all running on Windows Server 2016. Question: 
+- What should be the proper forest functional level and domain functional level settings for a new domain?
+	- *
