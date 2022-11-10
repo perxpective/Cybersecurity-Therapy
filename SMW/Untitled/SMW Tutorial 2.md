@@ -32,12 +32,10 @@
 ## Challenging Questions
 - **Briefly describe the best approach to ensure only a group of selected domain user accounts can send print jobs to a particular network printer (The printer is attached to a domain member.).**
 	- Put the group of selected domain accounts into a global group and add the global group into the domain local group. Assign this domain local group to have permissions to access the printer. Now, the group of selected user accounts in the domain local group can access the printer to send print jobs.
-    
-- **Identify three major difference between BPA and SCW in terms its functionality and applications. (Hint: Ask yourself: When will you use SCW and when will you use BPA ?)**
+- **Identify three major difference between BPA and SCW in terms its functionality and applications. (Hint: Ask yourself: When will you use SCW and when will you use BPA?)**
 	1.  SCW examines the roles that the server plays and adjusts the security settings to match these roles while BPA only scans for problems for only roles that do not follow Microsoft’s best practices and only provides recommendations on how to resolve them.
 	2.  Settings configured with SCW can be exported and applied to other servers, but BPA does not have this function.
-	3.  Scanning rules of BPA can be updated by Microsoft via software updates but rules of SCW is fixed.
-
+	3.  Scanning rules of BPA can be updated by Microsoft via software updates but rules of SCW is fixed
 - **Briefly describe what the NTFS inherited permissions is and what will be the combination effect of inherited permissions and explicit permissions?**
 	- NTFS inherit permissions are permissions given to an object because it is a child of a parent object. When inherited and explicit permissions are combined together, the explicit permissions takes precedence over the inherited permissions of the object. Hence, the combination of inherited and explicit permissions equate to explicit permissions.
 
