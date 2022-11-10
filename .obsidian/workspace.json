@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98432a8cf6b80f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SC Topic 3 -  XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
+                "file": "SPIM/SC Topic 3 -  XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md"
+                "file": "SPIM/SC Topic 3 -  XSS.md"
               }
             }
           },
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
+                "file": "SPIM/SC Topic 3 -  XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "494ac0c69598a2a7",
+  "active": "98432a8cf6b80f9f",
   "lastOpenFiles": [
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SPIM/SPIM Chapter 3 - Log Management.md",
