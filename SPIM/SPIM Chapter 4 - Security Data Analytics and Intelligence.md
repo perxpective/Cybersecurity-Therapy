@@ -79,4 +79,6 @@
 - **Application Logs**
 	- More than enabling the server logging
 	- Application has the most information about a user (identify, roles, permissions) and context of the event (target, action, outcomes)
-	- 
+	- Process monitoring, audit and transaction logs are usually different from security event logs
+	- Data can be logged to file system or database
+	- Recommend to use standard format (common log file system, common event format)
