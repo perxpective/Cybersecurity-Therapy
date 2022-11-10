@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "391c6bce42a8c5b6",
+        "id": "41f03f913efec0e8",
         "type": "tabs",
         "children": [
           {
-            "id": "032de33653196e0e",
+            "id": "494ac0c69598a2a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "032de33653196e0e",
+  "active": "494ac0c69598a2a7",
   "lastOpenFiles": [
-    "SPIM/SPIM Chapter 3 - Log Management.md",
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
+    "SPIM/SPIM Chapter 3 - Log Management.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",

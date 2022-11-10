@@ -222,10 +222,18 @@
 ![](https://i.imgur.com/tUFg7x5.png)
 
 **Intelligence** implies the ability to:
-- Collect information
+- <u>Collect information</u>
 	- From endpoints, networks, monitors, scanners and users
 	- Internal: Logs, reports, organisation information
 	- External: Vulnerability and threat bulletins, regulations and social media
-- Acquire and apply knowledge and skills
+- <u>Acquire and apply knowledge and skills</u>
 	- Security information should be integrated and correlated not only between security data sources but also with non-security sources e.g. compliance with privacy laws, application business criticality
 	- Watch out for known threats reported by signature and rule-based systems and unknown threats using extensive analytics on behaviours of the systems and users
+
+### Enterprise Security Intelligence (ESI)
+- Concept that recognizes security intelligence as an explicit deliverable and designates it as a strategic security objective for enterprise IT security and risk management
+- ESI aims at increased accuracy and breadth of security detection and protection and optimal security and risk management
+
+![](https://i.imgur.com/uapHpiA.png)
+
+- Technology integration and correlation
