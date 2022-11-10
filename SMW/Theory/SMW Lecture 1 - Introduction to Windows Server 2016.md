@@ -129,7 +129,7 @@
 **Windows Server 2016 Platforms**
 - Windows Server 2016 Essentials Edition
 - Windows Server 2016 Standard Edition
-- Windows Server 2016 Datacenter Edition
+- Windows Server 2016 Datacentre Edition
 
 **Windows Server 2016 Additional Platforms**
 - Windows Server 2016 Multipoint Premium Server
@@ -193,7 +193,7 @@
 
 ![400](https://i.imgur.com/3O5ABfP.png)
 
-### Windows Server 2016 Datacenter Edition
+### Windows Server 2016 Datacentre Edition
 - Designed for the following environments with:
 	- Mission-critical applications
 	- Very large databases

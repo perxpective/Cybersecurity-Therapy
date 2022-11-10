@@ -29,8 +29,16 @@
 - **What are the foundational principles of Trusty Cloud Initiatives?**
 	- Security, Privacy and Compliance
 - **Name two differences between the Windows Server 2016 Standard Edition and Data Centre Edition.**
-	- Virtualisation, cloud computingg and
+	- Virtualisation, cloud computing and database handling
+	- Essential:
+		- Designed for a maximum of 25 users and limits remote desktop connections to only 50
+		- Cannot join a domain but and does not provide role for hosting virtual machines
+	- Datacentre:
+		- Designed for mission-critical applications or organisations with large databases
+		- Large virtualisation requirements compared to Essential
+		- Offers clustering of up to 64 computers
 - **Name two differences between Windows Server Core and Windows Nano Server.**
+	- 
 - **What is the main advantage of implementing Active Directory in a Windows System?**
 - **What is the primary prerequisite to implement Active Directory in a Windows System?**
 - **What is the relationship between the Windows Registry Database and the Active Directory Database?**
