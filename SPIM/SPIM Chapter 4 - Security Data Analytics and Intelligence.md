@@ -61,4 +61,8 @@
 	- Simple framework for log entry generation, storage and transfer
 	- Many log sources use syslog as their native logging format or offer features that allow log format to be converted to syslog format
 	- Most syslog implementation uses UDP to transfer logs and does not perform access control
-	- 
+	- **Message structure:**
+		- Facility and severity as numerical values
+		- Timestamp and hostname/IP of data source
+		- <u>Actual message content:</u>
+			- Flexible structure but not easily parsed by machines
