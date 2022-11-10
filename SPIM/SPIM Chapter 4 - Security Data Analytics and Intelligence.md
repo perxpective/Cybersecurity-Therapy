@@ -103,4 +103,9 @@
 - Common Information Model (CIM) by Distributed Management Task Force (DMTF)
 	- Conceptual information model for interchange of management information between management systems and applications
 	- Common and consistent method of describing all management information
-	- 
+
+- Common Information Model in Splunk
+
+![](https://i.imgur.com/T5yd5Ar.png)
+
+#### Contextual Data
