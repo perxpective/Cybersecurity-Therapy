@@ -226,6 +226,7 @@
 
 #### Namespace
 - A logical area on a network that contains directory services and named objects
+- Uniquely identifies a domain
 - Has the ability to perform name resolution
 - Active Directory uses the **Domain Name System (DNS)**
 	- There must be a DNS server on the network that the Active Directory can access
