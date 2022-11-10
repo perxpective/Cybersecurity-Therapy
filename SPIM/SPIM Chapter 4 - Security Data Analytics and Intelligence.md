@@ -190,6 +190,18 @@
 ![](https://i.imgur.com/I5HosHY.png)
 
 ### Data Analytics
-#### Analytics Capabilities
-- Descriptive/Diagnostic Analytics
-- Mine historical data for insightful findings and reasons behind the past success 
+#### Descriptive/Diagnostic Analytics
+- Mine historical data for insightful findings and reasons behind the past success or failure
+- **Examples:**
+	- Examine historical server usage to plan maintenance schedule
+	- Categorize network resource usage: personal, business, unknown etc.
+
+#### Prescriptive Analytics
+- Smart decision based on simulation and optimization
+- Goes beyond future outcome prediction by suggesting action and showing implication of each decision option
+- **Example:**
+	- Risk assessment and mitigation based on variety of parameters
+	- Past incidents, threat impact, asset characteristics, effectiveness of existing controls etc.
+
+![](https://i.imgur.com/z1akMJr.png)
+
