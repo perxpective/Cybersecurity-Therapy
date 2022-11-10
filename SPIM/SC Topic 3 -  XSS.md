@@ -89,3 +89,24 @@ app.get('/example2', (req, res, next) => {
 	res.render('example2');
 })
 ```
+
+**Infected Code**
+```
+http://localhost:3000/example2?name=%3Cb%3EWeiLiang%3C/b%3E
+```
+```js
+var url = new URL(window.location.href);
+var name = url.searchParams.get('name');
+document.getElementById(‘name’).innerHTML = name;
+
+/* 
+     <h1>Example 2</h1>
+     <p>Hello my name is <b>WeiLiang</b>!</p>
+*/
+```
+
+<u>Example 3</u>
+**Normal Code**
+```
+
+```
