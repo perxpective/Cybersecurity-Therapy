@@ -284,7 +284,7 @@
 	- Windows Server 2008 Forest Functional Level
 	- Windows Server 2008 R2 Forest Functional Level
 	- Windows Server 2012 Forest Functional Level
-	- Windows Server R2 Forest Functional Level
+	- Windows Server 2012 R2 Forest Functional Level
 	- Windows Server 2016 Forest Functional Level
 - When servers are upgraded, forest functional levels are raised to match the server OS in use
 
@@ -308,7 +308,7 @@
 - A grouping of objects that typically exist as a primary container within the Active Directory
 - **Basic Functions:**
 	- Provide an Active Directory "partition" in which to house objects that have a common relationship in terms of management and security
-	- to establish a set of information to be replicated from one DC to another
+	- To establish a set of information to be replicated from one DC to another
 	- To expedite management of a set of objects
 
 ![400](https://i.imgur.com/ythbhu7.png)
@@ -321,7 +321,7 @@
 	- Windows Server 2008 Domain Functional Level
 	- Windows Server 2008 R2 Domain Functional Level
 	- Windows Server 2012 Domain Functional Level
-	- Windows Server R2 Domain Functional Level
+	- Windows Server 2012 R2 Domain Functional Level
 	- Windows Server 2016 Domain Functional Level
 
 ### Organisational Unit (OU)
