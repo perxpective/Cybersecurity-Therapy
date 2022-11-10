@@ -139,4 +139,11 @@
 	- Determine the information to convey
 	- Understand how the targeted audience will consume the information
 	- Present the information in the best and simplest form
-- <u>Data visualisation  considera</u>
+- <u>Data visualisation considerations:</u>
+
+| Factor           | Description                                                                      |
+| ---------------- | -------------------------------------------------------------------------------- |
+| Data Selection   | Relevance to the objectives of the visualisation (e.g. time range and data sets) |
+| Presentation     | Colour, shape, layout                                                            |
+| Scale            | When dealing with high volume of data                                            |
+| User Interaction |                                                                                  |
