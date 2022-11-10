@@ -226,3 +226,6 @@
 	- From endpoints, networks, monitors, scanners and users
 	- Internal: Logs, reports, organisation information
 	- External: Vulnerability and threat bulletins, regulations and social media
+- Acquire and apply knowledge and skills
+	- Security information should be integrated and correlated not only between security data sources but also with non-security sources e.g. compliance with privacy laws, application business criticality
+	- Watch out for known threats reported by signature and rule-based systems and unknown threats using extensive analytics on behaviours of the systems and users
