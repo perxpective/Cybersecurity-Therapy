@@ -20,9 +20,14 @@
 	- Quality (processes and standards, best practices)
 	- Access Control and Authentication (passwords, cards, PKI, ADRMS)
 - **What are the goals of Trusty Worthy Computing?**
-	- Security
+	- Security, Privacy, Reliability
 - **What are the means of achieving Trusty Worthy Computing?**
+	- Security (by design, default and deployment)
+	- Privacy (fair information principles)
+	- Availability, manageability, accuracy
+	- Usability, responsiveness and transparency
 - **What are the foundational principles of Trusty Cloud Initiatives?**
+	- Security, Privacy and Compliance
 - **Name two differences between the Windows Server 2016 Standard Edition and Data Centre Edition.**
 - **Name two differences between Windows Server Core and Windows Nano Server.**
 - **What is the main advantage of implementing Active Directory in a Windows System?**
