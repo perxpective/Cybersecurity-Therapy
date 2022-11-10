@@ -18,7 +18,24 @@
 - Schema information is mixed with data values
 	- Also known as 'self-describing data' like XML, JSON
 
-## Unstructured Data
+### Unstructured Data
 - Majority of data available to an organisation are unstructured data e.g. emails, documents, social media posting, photos and videos
 - There is no rule governing how data is created, stored or retrieved
-- 
+
+> - Data model can be used to provide:
+> 	- more useful representation of underlying data
+> 	- deeper understanding of relationships in the data, making data more useful to broader base of users
+> - **Examples:**
+> 	- Traditional ER diagram for database design
+> 	- Web intelligence data model
+> 	- HTTP Request
+> 	- HTTP Failure
+> 	- HTTP Success
+> 		- Page view
+> 		- Asset access
+> 			- Document access
+> 			- Media access
+> 			- Podcast download
+
+### Security Data
+- Vast amount of raw security data come from system, network and application logs
