@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,7 @@
   },
   "active": "18476809e38ff297",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SPIM/SC Topic 3 -  XSS.md",
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
@@ -155,7 +156,6 @@
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "EHD/Theory/EHD Topic 10 - Metasploit.md"
+    "EHD/Practical/EHD Cheat Sheet (Web Application).md"
   ]
 }
