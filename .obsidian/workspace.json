@@ -162,6 +162,7 @@
   "active": "98432a8cf6b80f9f",
   "lastOpenFiles": [
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
+    "SPIM/SC Topic 3 -  XSS.md",
     "SPIM/SPIM Chapter 3 - Log Management.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
@@ -169,7 +170,6 @@
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Theory/EHD Topic 10 - Metasploit.md",
-    "EHD/Practical/EHD Practical 10 - Metasploit.md",
-    "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md"
+    "EHD/Practical/EHD Practical 10 - Metasploit.md"
   ]
 }

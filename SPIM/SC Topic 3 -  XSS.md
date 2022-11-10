@@ -46,8 +46,7 @@ $(“#myDiv”).html("Welcome, " + name + "! You are " + age +
 > - Returned as part of the response from HTML that server sends
 
 ```js
-router.get('/example1', function(req, res, next) {
+app.get('/example1', (req, res, next) => {
      res.render('example1', { name: req.query.name });
 });
-
 ```
