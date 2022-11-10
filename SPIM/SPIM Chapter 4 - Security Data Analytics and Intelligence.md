@@ -247,4 +247,21 @@
 - Policy engine to examine asset profiles and enforce policies
 
 ## Splunk Enterprise Security
-- Premium application built on top of Splunk Enterprise t
+- Premium application built on top of Splunk Enterprise that takes full advantage of its big data analytics and visualisation capability
+	- Capture, monitor, report on data from enterprise security devices, systems and applications
+	- Perform monitoring, alerting and analytics to identify and address both known and unknown threats
+	- Identify issues and allow quick investigation and resolution of security threats
+
+**Solution Architecture**
+![](https://i.imgur.com/6zDC9fm.png)
+
+- Notable Events
+	- Correlation searches run at regular intervals
+	- Continuously in real-time and search events for a particular pattern or type of activity
+		- e.g. high number of authentication failures on a single host followed by successful authentication
+	- Event information and asset list are combined to further identify important patterns
+
+![](https://i.imgur.com/u0UWXTo.png)
+
+**Deployment**
+![](https://i.imgur.com/6xfUq81.png)
