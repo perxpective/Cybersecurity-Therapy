@@ -66,3 +66,17 @@
 		- Timestamp and hostname/IP of data source
 		- <u>Actual message content:</u>
 			- Flexible structure but not easily parsed by machines
+- **W3C Extended Log File Format**
+	- Used in web server logs
+	- Permit control over data recorded
+	- Support needs for proxies, clients and servers in a common format
+	- Provide robust handling of character escaping issues
+	- Allows exchanged of demographic data
+	- Allow summary data to be expressed
+
+![](https://i.imgur.com/hnJF0Om.png)
+
+- **Application Logs**
+	- More than enabling the server logging
+	- Application has the most information about a user (identify, roles, permissions) and context of the event (target, action, outcomes)
+	- 
