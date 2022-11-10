@@ -236,4 +236,15 @@
 
 ![](https://i.imgur.com/uapHpiA.png)
 
-- Technology integration and correlation
+### Technology Integration and Correlation
+- Static data masking technique allows discovery of sensitive data and provides techniques to change them
+- Identity and Access Management system defines user identities and entitlements
+- Database Activity Monitoring offers real-time monitoring and prevention of data access
+- **Information Integration and Correlation**
+	- Data repository on security information and contextual information largely supported by SIEM products
+- Security profiles on the assets
+	- Application, database, network, server
+- Policy engine to examine asset profiles and enforce policies
+
+## Splunk Enterprise Security
+- Premium application built on top of Splunk Enterprise t
