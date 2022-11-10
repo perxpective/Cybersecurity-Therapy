@@ -154,4 +154,32 @@
 ##### Line Chart
 - Shows the relationship of one variable to another
 - Often used to track changes or trends over time
-- Stacking lines to compare the trend or in
+- Stacking lines to compare the trend or individual values for several variables
+
+![](https://i.imgur.com/c0v68b0.png)
+
+##### Bar or Column Chart
+- Compare the quantities of different categories or groups
+- Works best when values are distinct enough that difference in bars/columns can be detected by the human eye
+
+![](https://i.imgur.com/FBBfO7P.png)
+
+##### Scatter Plot
+- Indicates data spread and relationship between data points
+- Useful for identifying patterns present in the data distribution
+
+![](https://i.imgur.com/06btZip.png)
+
+##### Pie Chart
+- Compare parts of a whole
+- More effective when there are limited components and when text and percentages are included to describe the content
+
+![](https://i.imgur.com/8CAXIpy.png)
+
+##### Advanced Charting
+- Map for geographical data
+- Cloud visual on data frequency
+- Network analysis on data relationship
+
+![](https://i.imgur.com/LZkX3xg.png)
+
