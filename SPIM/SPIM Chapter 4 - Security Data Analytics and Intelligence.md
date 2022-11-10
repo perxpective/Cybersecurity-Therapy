@@ -85,6 +85,11 @@
 - Recommend to use standard format (common log file system, common event format)
 
 #### Challenges 
-| Challenge    | Explanation |
-| ------------ | ----------- |
-| Many sources | SIEM systems, OS and user activities            |
+| Challenge               | Explanation                                                                                                                                           |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Many sources            | SIEM systems, OS and user activity logs, user-level transactions, network traffic data and even data from social media networks, emails and documents |
+| Inconsistent Content    | Status "OK" can be written as "good", "functional", "operational" and "working" at different data sources                                             |
+| Inconsistent Timestamps | UTC, local time can be inaccurate                                                                                                                     |
+| Inconsistent Log Format | csv, tsv, syslog, SNMP, XML and binary files                                                                                                          |
+
+### Turning Data into Insightful Information
