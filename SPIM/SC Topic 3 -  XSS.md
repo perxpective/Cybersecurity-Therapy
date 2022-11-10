@@ -173,3 +173,43 @@ app.get('/example4', (req, res, next) => {
 > - Occurs when web application stores user input and later serves it to others
 > - Malicious code is executed by victim's browser and payload is stored on victim's server
 > - Returned as part of the response from HTML that server sends
+
+<u>Example 5</u>
+**Normal Code**
+```js
+app.get('/example1', (req, res, next) => {
+     db.all(‘select * from user’, [], (err, rows) => {
+          if (err) {
+               res.render('example5', { rows: [] });
+               return;
+          }
+          res.render('example5', { data: rows });
+     });
+});
+
+/* 
+	<td><%- data[i].name %></td>
+	<td><%- data[i].email %></td>
+*/
+
+let name = req.query.name;
+let email = req.query.email;
+let password = req.query.password;
+
+if (name && email && password) {
+     db.run('insert into user (name, email, password) values (?,?,?)', [name, email, password], 
+     function (err, result) {
+          console.log(‘Add user failed’);
+     });
+}
+```
+
+**Infected Code**
+```
+http://localhost:3000/example5?name=test%3Cscript%3Ewindow.location.href%20=%20%22https://www.google.com%22;%3C/script%3E&password=test&email=test@test.com
+```
+```js
+app.get('/example5', (req, res, next) ==> {
+		db.all('select * from user*')
+})
+```
