@@ -68,6 +68,9 @@
 	- The students will have to take 7 nano tests
 - Consider the given information of an Active Directory:
 > - It consists of a single domain (a.com) and two domain controllers.
-> - The two domain controllers in a.com are all running on Windows Server 2016. Question: 
-- What should be the proper forest functional level and domain functional level settings for a new domain?
-	- *
+> - The two domain controllers in a.com are all running on Windows Server 2016. 
+> - Question: What should be the proper forest functional level and domain functional level settings for a new domain?
+- **Answer**
+	- Domain Functional Level: Windows Server 2016
+	- Forest Functional Level: Windows Server 2016
+	- *All existing DCs must run on the same domain functional level and cannot be higher than the forest functional level*
