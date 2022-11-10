@@ -107,6 +107,27 @@ document.getElementById(‘name’).innerHTML = name;
 
 <u>Example 3</u>
 **Normal Code**
+```js
+app.get('/example3', (req, res, next) => {
+     let content = req.query.content;
+     if (content)
+          content = content.replace('<', '').replace('>', '');
+     else
+          content = '#';
+     res.render('example3', { content: content });
+});
+
+/* 
+	<h1>Example 3</h1>
+	<p>I really adore the beautiful skies.</p>
+	<p>Read more at <a href="<%- content %>">here</a>.</p>
+*/
 ```
 
+**Payload**
 ```
+http://localhost:3000/example3?name=WeiLiang%3Cscript%3Ealert(%27test%27);%3C/script%3E
+```
+
+<u>Example 4</u>
+**Normal Code**
