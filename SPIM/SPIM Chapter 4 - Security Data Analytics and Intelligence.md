@@ -109,3 +109,13 @@
 ![](https://i.imgur.com/T5yd5Ar.png)
 
 #### Contextual Data
+- Information varies widely and may include information about:
+	- Business context (e.g. business-criticality of IT assets)
+	- Compliance (e.g. laws and regulations)
+	- Risk (e.g. acceptable risk levels)
+	- Resources (e.g. budget, head count, skill portfolio)
+- Often pulled from data repository to enrich
+- Security data coming from various sources
+- Critical for decision making
+
+##### Data C
