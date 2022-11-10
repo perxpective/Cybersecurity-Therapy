@@ -213,4 +213,16 @@
 ## Review of Traditional Security Approach
 - Primarily on prevention technologies, rule and signature-based detection mechanisms
 	- Requires prior knowledge of attacker methods
-- Security controls, like application security, network security, endpoint protection and data security are implemented 
+- Security controls, like application security, network security, endpoint protection and data security are implemented in the enterprise
+	- Security incidents are detected and addressed in isolation
+- Log reviews and scanning reports may provide actionable information but lack the knowledge management, analytics and planning capabilities to derive intelligence
+
+## Security Intelligence as a Solution
+<u>Traditional Security vs Enterprise Security Intelligence</u> 
+![](https://i.imgur.com/tUFg7x5.png)
+
+**Intelligence** implies the ability to:
+- Collect information
+	- From endpoints, networks, monitors, scanners and users
+	- Internal: Logs, reports, organisation information
+	- External: Vulnerability and threat bulletins, regulations and social media
