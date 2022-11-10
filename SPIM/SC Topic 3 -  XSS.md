@@ -45,6 +45,7 @@ $(“#myDiv”).html("Welcome, " + name + "! You are " + age +
 > - Malicious code is executed by victim's browser and payload is not stored anywhere
 > - Returned as part of the response from HTML that server sends
 
+<u>Example 1</u>
 **Normal Code**
 ```js
 app.get('/example1', (req, res, next) => {
@@ -67,7 +68,24 @@ app.get('/example1', (req, res, next) => {
 });
 
 /* 
-     <h1>Example 1</h1>
-     <p>Hello my name is WeiLiang<script>alert(‘test’);</script></p>
+	<h1>Example 1</h1>
+	<p>Hello my name is WeiLiang<script>alert(‘test’);</script></p>
 */
+```
+
+<u>Example 2</u>
+**Normal Code**
+```js
+var url = new URL(window.location.href);
+var name = url.searchParams.get('name');
+document.getElementById(‘name’).innerHTML = name;
+
+/* this is similar to the original example
+	<h1>Example 2</h1>
+	<p>Hello, my name is <span id="name">anonymous</span>!</p>
+*/
+
+app.get('/example2', (req, res, next) => {
+	res.render('example2');
+})
 ```
