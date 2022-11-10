@@ -131,3 +131,23 @@ http://localhost:3000/example3?name=WeiLiang%3Cscript%3Ealert(%27test%27);%3C/sc
 
 <u>Example 4</u>
 **Normal Code**
+```js
+app.get('/example4', (req, res, next) => {
+     res.render('example4', { name: req.query.name });
+});
+
+/* almost exactly the same as example 1
+	<h1>Example 4</h1>
+	<p>Hello my name is <%= name %></p>
+*/
+```
+
+**Infected Code**
+```
+http://localhost:3000/example1?name=WeiLiang%3Cscript%3Ealert(%27test%27);%3C/script%3E
+```
+```js
+app.get('/example4', (req, res, next) {
+     res.render('example4', { name: req.query.name });
+});
+```
