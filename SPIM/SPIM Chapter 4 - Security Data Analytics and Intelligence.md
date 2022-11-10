@@ -101,4 +101,6 @@
 #### Data Normalisation
 - Make a given data set consistent with and comparable to other data used
 - Common Information Model (CIM) by Distributed Management Task Force (DMTF)
-- 
+	- Conceptual information model for interchange of management information between management systems and applications
+	- Common and consistent method of describing all management information
+	- 
