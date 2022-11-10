@@ -267,4 +267,11 @@
 ![](https://i.imgur.com/6xfUq81.png)
 
 ### Data Feeds
-| Data source
+| Data source                           | Type of data collected        |
+| ------------------------------------- | ----------------------------- |
+| Operating system logs                 | Log files                     |
+| Network device logs                   | Log files                     |
+| Security Logs (antimalware solutions) | Log files                     |
+| Vulnerability management solutions    | CVE information               |
+| Application logs                      | Application specific notation |
+
