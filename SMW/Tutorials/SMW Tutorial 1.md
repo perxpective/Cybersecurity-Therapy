@@ -38,7 +38,9 @@
 		- Large virtualisation requirements compared to Essential
 		- Offers clustering of up to 64 computers
 - **Name two differences between Windows Server Core and Windows Nano Server.**
-	- 
+	- Windows Nano Server cannot be used as a domain controller while Windows Core Server can
+	- Nano Server unlike Server Core does not support Group Policy
 - **What is the main advantage of implementing Active Directory in a Windows System?**
+	- Centralised enterprise system administration via G
 - **What is the primary prerequisite to implement Active Directory in a Windows System?**
 - **What is the relationship between the Windows Registry Database and the Active Directory Database?**
