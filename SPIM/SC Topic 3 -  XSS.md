@@ -168,3 +168,8 @@ app.get('/example4', (req, res, next) => {
      <% }); %>
 </ul>
 ```
+
+## Persistent XSS
+> - Occurs when web application stores user input and later serves it to others
+> - Malicious code is executed by victim's browser and payload is stored on victim's server
+> - Returned as part of the response from HTML that server sends
