@@ -252,16 +252,19 @@
 	- Perform monitoring, alerting and analytics to identify and address both known and unknown threats
 	- Identify issues and allow quick investigation and resolution of security threats
 
-**Solution Architecture**
+### Solution Architecture
 ![](https://i.imgur.com/6zDC9fm.png)
 
-- Notable Events
-	- Correlation searches run at regular intervals
-	- Continuously in real-time and search events for a particular pattern or type of activity
-		- e.g. high number of authentication failures on a single host followed by successful authentication
-	- Event information and asset list are combined to further identify important patterns
+### Notable Events
+- Correlation searches run at regular intervals
+- Continuously in real-time and search events for a particular pattern or type of activity
+	- e.g. high number of authentication failures on a single host followed by successful authentication
+- Event information and asset list are combined to further identify important patterns
 
 ![](https://i.imgur.com/u0UWXTo.png)
 
-**Deployment**
+### Deployment
 ![](https://i.imgur.com/6xfUq81.png)
+
+### Data Feeds
+| Data source
