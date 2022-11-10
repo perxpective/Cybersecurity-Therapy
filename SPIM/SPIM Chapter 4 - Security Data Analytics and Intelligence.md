@@ -46,3 +46,19 @@
 - **Two main categories:**
 	- Security software logs on computer security-related information
 	- Operating system logs and application logs on a variety of information
+
+![](https://i.imgur.com/SaIRW4T.png)
+
+- **Operating Systems**
+	- System Events
+	- Audit Records
+- **Applications**
+	- Client requests and server response
+	- Account information
+	- Usage information
+	- Significant operational actions
+- **Syslog**
+	- Simple framework for log entry generation, storage and transfer
+	- Many log sources use syslog as their native logging format or offer features that allow log format to be converted to syslog format
+	- Most syslog implementation uses UDP to transfer logs and does not perform access control
+	- 
