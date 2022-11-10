@@ -82,7 +82,7 @@
 
 ## Understanding the Windows Server 2016 Registry
 > - A complex database containing all information the operating system needs about the entire server
-> - Registry is the coordinating center for a specific server
+> - Registry is the coordinating centre for a specific server
 
 - **Data contained in the Registry:**
 	- Information about all <u>hardware components</u>
