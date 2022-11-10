@@ -210,6 +210,16 @@ http://localhost:3000/example5?name=test%3Cscript%3Ewindow.location.href%20=%20%
 ```
 ```js
 app.get('/example5', (req, res, next) ==> {
-		db.all('select * from user*')
+	db.all('select * from user', [], (err, rows) => {
+		/*...*/
+		res.render('example5', { data: rows })
+	})
 })
 ```
+
+## Vulnerability Ratings
+| Vulnerability  | Risk Associated | Knowledge Required to Identify | Ease of Exploitation | Difficulty in Fixing |
+| -------------- | --------------- | ------------------------------ | -------------------- | -------------------- |
+| XSS Reflected  | Medium          | Automated Tools                | Easy                 | Very Easy            |
+| XSS Persistent | Medium          | Basic                          | Easy                 | Very Easy            |
+
