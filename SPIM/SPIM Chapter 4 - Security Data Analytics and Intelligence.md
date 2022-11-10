@@ -118,4 +118,15 @@
 - Security data coming from various sources
 - Critical for decision making
 
-##### Data C
+#### Data Correlation
+- Events can come from multiple applications or hosts
+- Data can be internal logs or external threat information
+- Useful when single event may not provide enough information
+
+![](https://i.imgur.com/Nd78N9k.png)
+
+### Pivot Table
+- Data summarization tool to automatically sort, count, total or calculate average of data stored and display the summarised data
+	- Summarize the data into compact format
+	- Find relationships within data that are otherwise hard to see due to amount of detail
+	- Organise data into format that is easy to read
