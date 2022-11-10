@@ -147,7 +147,24 @@ app.get('/example4', (req, res, next) => {
 http://localhost:3000/example1?name=WeiLiang%3Cscript%3Ealert(%27test%27);%3C/script%3E
 ```
 ```js
-app.get('/example4', (req, res, next) {
+app.get('/example4', (req, res, next) => {
      res.render('example4', { name: req.query.name });
 });
+
+/* 
+	<h1>Example 1</h1>
+	<p>Hello my name is WeiLiang<script>alert(‘test’);</script></p>
+*/
+```
+
+> When utilizing `<%= %>` tags instead of `<%- %>` tags, EJS automatically escapes HTML content before rendering it to the screen
+> Use `<%- %>` to prevent double escaping information
+
+<u>Double Escaping:</u>
+```html
+<ul>
+     <% users.forEach(function(user){ %>
+          <%- include('user/show', {user: user}); %>
+     <% }); %>
+</ul>
 ```
