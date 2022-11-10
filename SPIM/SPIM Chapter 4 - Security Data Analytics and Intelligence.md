@@ -139,11 +139,19 @@
 	- Determine the information to convey
 	- Understand how the targeted audience will consume the information
 	- Present the information in the best and simplest form
-- <u>Data visualisation considerations:</u>
+
+<u>Data visualisation considerations:</u>
 
 | Factor           | Description                                                                      |
 | ---------------- | -------------------------------------------------------------------------------- |
 | Data Selection   | Relevance to the objectives of the visualisation (e.g. time range and data sets) |
 | Presentation     | Colour, shape, layout                                                            |
 | Scale            | When dealing with high volume of data                                            |
-| User Interaction |                                                                                  |
+| User Interaction | Component re-arrangement, query, drilldown                                       |
+| User Experience  | Human Factor                                                                     |
+
+#### Basic Charting
+##### Line Chart
+- Shows the relationship of one variable to another
+- Often used to track changes or trends over time
+- Stacking lines to compare the trend or in
