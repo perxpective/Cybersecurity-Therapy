@@ -93,3 +93,12 @@
 | Inconsistent Log Format | csv, tsv, syslog, SNMP, XML and binary files                                                                                                          |
 
 ### Turning Data into Insightful Information
+- Correlation
+- Normalisation
+- Context
+- Analytics
+
+#### Data Normalisation
+- Make a given data set consistent with and comparable to other data used
+- Common Information Model (CIM) by Distributed Management Task Force (DMTF)
+- 
