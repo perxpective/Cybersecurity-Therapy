@@ -41,6 +41,12 @@
 	- Windows Nano Server cannot be used as a domain controller while Windows Core Server can
 	- Nano Server unlike Server Core does not support Group Policy
 - **What is the main advantage of implementing Active Directory in a Windows System?**
-	- Centralised enterprise system administration via G
+	- Centralised enterprise system administration via Group Policy
 - **What is the primary prerequisite to implement Active Directory in a Windows System?**
+	- The system needs to have a domain controller
 - **What is the relationship between the Windows Registry Database and the Active Directory Database?**
+	- Active Directory Database keeps centralized system configuration in terms of Group Policy Objects (GPOs). These GPOs will be sent to targeting systems. Once the GPOs are delivered to the systems, the GPO settings will be converted to Windows Registry entries and store at the local Windows Registry Database.
+
+## Challenging Questions
+- **Identify the relationship and/or difference between the requirement and the goals of Trustworthy computing.**
+	- If the requirements are not met, the goals of T
