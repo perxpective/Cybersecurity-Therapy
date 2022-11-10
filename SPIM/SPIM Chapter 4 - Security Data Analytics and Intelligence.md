@@ -130,3 +130,7 @@
 	- Summarize the data into compact format
 	- Find relationships within data that are otherwise hard to see due to amount of detail
 	- Organise data into format that is easy to read
+
+### Data Visualisation
+- Data analysis is closely related to data visualisation
+- Data visualisation is the presentation of data in a pictorial or graphical format
