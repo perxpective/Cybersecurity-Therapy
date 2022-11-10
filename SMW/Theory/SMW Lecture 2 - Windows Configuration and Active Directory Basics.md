@@ -383,7 +383,6 @@
 	- Close network communication ports and other communication resources not in use
 	- Examine shared files and folders to help manage network access through access protocols
 	- Configure audit policy
-
 - **Components in SCW:**
 	- GUI interactive wizard
 	- Database
