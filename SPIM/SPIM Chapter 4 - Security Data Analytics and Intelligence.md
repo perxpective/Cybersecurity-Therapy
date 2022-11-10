@@ -183,3 +183,13 @@
 
 ![](https://i.imgur.com/LZkX3xg.png)
 
+#### SIEM
+> **Security Information and Event Management (SIEM)** is one of the foundational technologies that collect, correlate and analyse security information from a broad and heterogeneous set of system, network and security event sources
+
+![](https://i.imgur.com/2CgyLte.png)
+![](https://i.imgur.com/I5HosHY.png)
+
+### Data Analytics
+#### Analytics Capabilities
+- Descriptive/Diagnostic Analytics
+- Mine historical data for insightful findings and reasons behind the past success 
