@@ -29,6 +29,7 @@
 - **What are the foundational principles of Trusty Cloud Initiatives?**
 	- Security, Privacy and Compliance
 - **Name two differences between the Windows Server 2016 Standard Edition and Data Centre Edition.**
+	- Virtualisation, cloud computingg and
 - **Name two differences between Windows Server Core and Windows Nano Server.**
 - **What is the main advantage of implementing Active Directory in a Windows System?**
 - **What is the primary prerequisite to implement Active Directory in a Windows System?**
