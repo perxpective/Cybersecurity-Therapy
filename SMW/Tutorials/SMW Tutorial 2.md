@@ -40,4 +40,5 @@
 
 ## Nano Test Questions and Answers
 - **How many trees is/are in the above Active Directory?**
-	- There are 3 trees. kitty.org is a parent domain for east.kitty.org and thu. kitty.com.sg and kitty.com are 
+	- There are 4 trees. kitty.org is a parent domain for east.kitty.org and thus are contiguous namespaces. kitty.com.sg, kitty.org.sg and kitty.com are disjointed namespaces as they do not have parent domains. 
+	- The number of forests are undefined as 
