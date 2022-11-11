@@ -39,3 +39,4 @@
 	- NTFS inherit permissions are permissions given to an object because it is a child of a parent object. When inherited and explicit permissions are combined together, the explicit permissions takes precedence over the inherited permissions of the object. Hence, the combination of inherited and explicit permissions equate to explicit permissions.
 
 ## Nano Test Questions and Answers
+- **How many trees is/are in the above Active Directory**
