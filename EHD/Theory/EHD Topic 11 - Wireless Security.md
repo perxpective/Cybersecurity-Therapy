@@ -69,5 +69,28 @@
 - One Access Point (AP) with one or more clients make up a Basic Service Set
 - Clients communicate with one another via the access points
 - **Basic Service Set Identifier (BSSID)**
-	- MAC address of radio network interface of 
+	- MAC address of radio network interface of Access Point
+	- Unique identifier of AP
 ![](https://i.imgur.com/7DXZ92b.png)
+
+### Extended Service Set (ESS)
+- Extended Service Set is a collection of two or more Basic Service Sets connected together by the Distribution System (DS)
+	- DS is typically a wired network
+![](https://i.imgur.com/O9VeV7D.png)
+
+
+### Independent Basic Service Set (IBSS)
+- Clients connected to one another in an ad-hoc network form an IBSS
+- No APs in the network
+
+## Beaconing
+- APs send out Beacon frames regularly (as often as 10 times per second)
+- Beacon frames contain the following information for the client to connect to the AP:
+	- Timestamp
+	- Channel
+	- Data Rates
+	- SSID
+	- Other information
+
+## Wi-Fi Alliance
+- Consortium of wireless equipment manufacturers and software providers formed to promote wi
