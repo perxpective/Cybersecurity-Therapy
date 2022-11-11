@@ -8,9 +8,9 @@
 
 ## Self-Evaluation Check List
 - **How often should we run the BPA for a server? Why?**
-	- Every time one or more roles are installed 
+	- Every time one or more roles are installed or removed, but continue to scan once per month due to updating of BPA rules by Microsoft and if anything has been added to the server without knowledge
 - **What is the main advantage of implementing Active Directory in a Windows System?**
-	- It provides a centralized platform for administrators to manage and access resources and policies, as well as security administration all under a single logon.
+	- It provides a centralized platform for administrators to manage and access resources and policies, as well as security administration all under a single logon
 - **What is the primary prerequisite to implement Active Directory in a Windows System?**
 	- The Windows System must have a static IP address configured in order to implement the Active Directory
 - **What is the relationship between the Windows Registry Database and the Active Directory Database?**
