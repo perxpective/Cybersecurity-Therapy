@@ -15,7 +15,6 @@
 	- The Windows System must have a static IP address configured in order to implement the Active Directory
 - **What is the relationship between the Windows Registry Database and the Active Directory Database?**
 	- The Windows Registry Database is a hierarchical database that stores all low-level settings for the Windows Operating System. Whereas, the Active Directory Database that stores information about network resources namely servers, printers, user accounts, groups, security policies etc.
-
 - **List all the hierarchical containers in the Active Directory Structure.**
 	1.  Forests
 	2.  Trees
