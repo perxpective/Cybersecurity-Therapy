@@ -14,6 +14,5 @@
 | Access point (AP)                  | Transfers signals between wireless NICs              |
 
 ## Wireless Network Interface Card (WNIC)
+- 
 ![](https://i.imgur.com/EkOR3nO.png)
-
-1. 
