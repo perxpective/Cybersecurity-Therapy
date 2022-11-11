@@ -26,4 +26,16 @@
 | Managed Mode | also known as client mode - able to associate with an access point and connect to the wireless network |
 | Ad hoc Mode  | WNIC communicates directly with other WNIC to form ad hoc networks                                     |
 | Monitor Mode | WNIC able to capture wireless traffic without having to associate with an access point                 |
-| Master Mode  | WNIC acts as                                                                                                        |
+| Master Mode  | WNIC acts as an access point                                                                           |
+
+>**Note:** Not all WNICs support all modes
+
+### Access Points
+- **3 major parts:**
+	- Antenna and radio transmitter/receiver
+		- Transmit and receive from wireless nodes
+	- RJ-45 wired network interface
+		- To connect to wired network
+	- Special bridging software
+		- Translate communications between wired and wireless networks
+		- 
