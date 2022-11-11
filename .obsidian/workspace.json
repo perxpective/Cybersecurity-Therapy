@@ -98,12 +98,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 1.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "banner ",
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 1.md"
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 1.md",
+                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,15 +150,14 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "082b8fe0b06b504a",
+  "active": "af50f44cd2b112d7",
   "lastOpenFiles": [
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
