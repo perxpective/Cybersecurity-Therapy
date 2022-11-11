@@ -50,4 +50,11 @@ iwlist wlan0 scan
 	- AP contains BSSID or MAC address of the connected wireless AP
 ![](https://i.imgur.com/wDzUY4h.png)
 
-- To see the IP address
+- To see the IP address assigned to wireless card, type:
+```
+ifconfig wlan0
+```
+- Start browser and check if you can access the Internet
+- Disconnect from the wireless network
+
+## Monitoring Wireless Signals
