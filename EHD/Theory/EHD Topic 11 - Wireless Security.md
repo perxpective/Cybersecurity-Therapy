@@ -38,4 +38,17 @@
 		- To connect to wired network
 	- Special bridging software
 		- Translate communications between wired and wireless networks
-		- 
+- **2 basic functions:**
+	- Base station for wireless network
+	- Bridge between wireless and wired networks
+- Range of access points depends on several factors
+	- Type of wireless networks supported (e.g. 802.11ac)
+	- Environment like walls, doors and other interference sources
+- Number of wireless clients that single AP supports varies
+- Administrator password to AP should not be left as default
+	- Default IP, username and password of most network devices can easily be found on the Internet
+
+### Antenna
+- <u>Omnidirectional</u>
+	- Signals in all directions
+- <u>Di</u>
