@@ -32,4 +32,14 @@ lspci -vv
 ![](https://i.imgur.com/rHhM8lf.png)
 
 - Type `ifconfig` - `wlan0` network interface may be listed along with `eth0` and the wired network card
-- The following command can also be used to see status of wireless devi
+- The following command can also be used to see status of wireless devices and drivers used:
+```
+airmon-ng
+```
+![](https://i.imgur.com/hshKAAL.png)
+
+- Type `man iwlist` to see help page for the command
+- Type the following command to view listing of available wireless APs nearby
+```
+iwlist wlan0 scan
+```
