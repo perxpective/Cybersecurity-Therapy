@@ -43,3 +43,11 @@ airmon-ng
 ```
 iwlist wlan0 scan
 ```
+- On Kali, in the top right hand corner, click the Network icon and select one of the EHD networks using WPA-PSK
+![](https://i.imgur.com/mNJ5zr8.png)
+
+- Once connected, type `iwconfig`. ESSID now contains SSID of the connected wireless AP
+	- AP contains BSSID or MAC address of the connected wireless AP
+![](https://i.imgur.com/wDzUY4h.png)
+
+- To see the IP address
