@@ -8,7 +8,7 @@
 
 ## Self-Evaluation Check List
 - **How often should we run the BPA for a server? Why?**
-	- Once per month. Running BPA scans regularly on a monthly basis allows administrators to detect any arising problems in the Windows Server so that they can be resolved and ensures that best practices for the establishment of the role is followed regularly.
+	- Every time one or more roles are installed 
 - **What is the main advantage of implementing Active Directory in a Windows System?**
 	- It provides a centralized platform for administrators to manage and access resources and policies, as well as security administration all under a single logon.
 - **What is the primary prerequisite to implement Active Directory in a Windows System?**

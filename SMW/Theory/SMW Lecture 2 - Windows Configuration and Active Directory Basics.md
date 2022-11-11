@@ -213,7 +213,7 @@
 - Stores information about every object within a forest
 - First DC configured in a forest becomes global catalog server
 - **Global Catalog Server:**
-	- Stores a full replica of every object within its own domain and partial replica of each object within every domain in the forest (small number of attri)
+	- Stores a full replica of every object within its own domain and partial replica of each object within every domain in the forest (small number of attributes)
 	- Enables forest-wide searches of data
 - **Purposes:**
 	- Serving as the central storehouse of key object information in a forest with multiple domains
