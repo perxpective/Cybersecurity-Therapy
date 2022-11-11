@@ -93,4 +93,17 @@
 	- Other information
 
 ## Wi-Fi Alliance
-- Consortium of wireless equipment manufacturers and software providers formed to promote wi
+- Consortium of wireless equipment manufacturers and software providers formed to promote wireless network technology
+- Only products that pass the Wi-Fi Alliance tests may be referred to as Wi-Fi Certified
+- Uses the 802.11 standard
+
+### Wireless LAN Standards
+- **802.11** (operates at the MAC sub-layer of Data Link and Physical layers)
+- **802.11a, 802.11b, 802.11g are older technologies**
+	- Speeds of 5.5 Mbps, 11 Mbps, 54 Mbps
+	- Supports wireless devices up to 115 meters apart
+- **802.11n**
+	- Top speed from 100 Mbps to 500 Mbps
+- **802.11ac**
+	- Top speed from 500 Mbps to 1.3 Gbps
+	- Operates only in 5 GHz
