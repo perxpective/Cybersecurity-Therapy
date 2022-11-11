@@ -8,4 +8,8 @@
 
 ## Implementing Microsoft DNS
 - **Domain Name System (DNS)**
-	- TCP/IP application protocol that enables a DNS server to resolve
+	- TCP/IP application protocol that enables a DNS server to resolve:
+		- **Forward lookup** - Domain and computer names to IP addresses
+		- **Reverse lookup** - IP addresses to domain and computer names
+		- <u>Security implications</u>
+			- Refusal for connection from host without reverse lookup record
