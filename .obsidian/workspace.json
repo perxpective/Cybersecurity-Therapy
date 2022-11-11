@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/Untitled.md",
+                "file": "EHD/Theory/EHD Topic 11 - Wireless Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/Untitled.md",
+                "file": "EHD/Theory/EHD Topic 11 - Wireless Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/Untitled.md"
+                "file": "EHD/Theory/EHD Topic 11 - Wireless Security.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/Untitled.md",
+                "file": "EHD/Theory/EHD Topic 11 - Wireless Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
