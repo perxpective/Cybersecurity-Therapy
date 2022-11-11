@@ -7,4 +7,5 @@
 ```
 
 ## Implementing Microsoft DNS
-- 
+- **Domain Name System (DNS)**
+	- TCP/IP application protocol that enables a DNS server to resolve
