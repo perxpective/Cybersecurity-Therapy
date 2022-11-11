@@ -140,10 +140,10 @@ exploit
 3. Right-click and select **New User** and create new accounts with passwords
 
 **On Kali VM**
-4. Using Metasploit, exploit WinXP with the Meterpreter payload
-5. At the Meterpreter prompt, type `hashdump` to display a dump of the user accounts and hashed passwords of WinXP
-6. Copy the list of user accounts and hashed passwords into a text file
-7. Use John the Ripper to crack the hashed passwords
+1. Using Metasploit, exploit WinXP with the Meterpreter payload
+2. At the Meterpreter prompt, type `hashdump` to display a dump of the user accounts and hashed passwords of WinXP
+3. Copy the list of user accounts and hashed passwords into a text file
+4. Use John the Ripper to crack the hashed passwords
 ```
 sudo john filename.txt
 ```
