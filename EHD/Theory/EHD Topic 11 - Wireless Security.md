@@ -51,4 +51,19 @@
 ### Antenna
 - <u>Omnidirectional</u>
 	- Signals in all directions
-- <u>Di</u>
+- <u>Directional</u>
+	- Focuses signals in one direction
+
+### Set Service Identifier (SSID)
+- Network name used to identify the wireless network
+- Also known as Extended Service Set Identifier
+- Max length of 32 characters, case-sensitive
+- Some APs support multiple SSIDs
+- SSID may be included in beacon frames sent out by APs
+- Turning off SSID broadcasting can help hide the network from war-drivers
+- Attackers can still find the SSID of a network from other frames
+- Some users may not change the default SSID of their AP
+- Good practice would be to use a SSID name that does not raise attention
+
+### Basic Service Set (BSS)
+- One Access Point (AP) with one or more clients make up a Basic
