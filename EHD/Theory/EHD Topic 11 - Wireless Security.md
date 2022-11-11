@@ -66,4 +66,8 @@
 - Good practice would be to use a SSID name that does not raise attention
 
 ### Basic Service Set (BSS)
-- One Access Point (AP) with one or more clients make up a Basic
+- One Access Point (AP) with one or more clients make up a Basic Service Set
+- Clients communicate with one another via the access points
+- **Basic Service Set Identifier (BSSID)**
+	- MAC address of radio network interface of 
+![](https://i.imgur.com/7DXZ92b.png)
