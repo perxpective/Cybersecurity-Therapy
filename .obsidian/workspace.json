@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md"
+                "file": "SMW/Tutorials/SMW Tutorial 2.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,15 +159,15 @@
   },
   "active": "2d662c0711a04700",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 10 - Metasploit.md",
+    "SMW/Tutorials/SMW Tutorial 1.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+    "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Practical/Vim Keymap.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "EHD/Practical/EHD Practical 5 - Firewall.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
   ]
 }
