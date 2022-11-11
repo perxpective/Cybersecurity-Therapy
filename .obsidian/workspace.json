@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
+                "file": "SMW/Tutorials/SMW Tutorial 2.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,11 +156,11 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "2d662c0711a04700",
+  "active": "bdb94c32975753a6",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
-    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "EHD/Practical/Vim Keymap.md",
