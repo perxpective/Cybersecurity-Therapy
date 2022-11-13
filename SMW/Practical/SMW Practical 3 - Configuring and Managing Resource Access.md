@@ -88,3 +88,6 @@
 5. Ensure that there are two domain local groups in the domain: DLMgrs and DLStaff
 6. Add GlobalMgrs group to DLMgrs
 7. Add GlobalStaff group to DLStaff
+8. Switch to the Windows 2012 R2 Server and login as Domain Admin
+9. Create a file called `testDeny.txt` at `C:\Users\Public\TestXX` folder
+10. Assign the full contro
