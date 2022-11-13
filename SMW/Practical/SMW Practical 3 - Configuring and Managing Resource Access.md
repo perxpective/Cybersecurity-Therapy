@@ -68,4 +68,15 @@
 5. Click **OK** twice
 6. Ensure that **Domain Users** is selected under Group or usernames in the Properties dialog box
 7. Click the **Advanced** button and select **Domain Users** under *Permission entries* in the Advanced Security Settings window and click the **Edit** button
-8. 
+8. Click **Show advanced permissions in the Permission Entry** window
+
+![](https://i.imgur.com/PTGNQOG.png)
+
+9. Click the **Allow** box for each of the following advanced permissions entries:
+	- Create files/write data
+	- Create folders/append data
+	- Delete subfolders and files
+	- Delete
+10. Click the box for **Only apply these permissions to objects and/or containers within this container**
+11. Click OK three times
+12. 
