@@ -111,7 +111,7 @@
 
 ![](https://i.imgur.com/1LFVmDW.png)
 
-6. In the Server Select menu, choose the local Windows 2012 R2 Server 
+6. In the Server Select menu, choose the local Windows Server 2012 R2  
 7. In the subsequent screen, the wizard will display the detected installed roles, features, options for viewing and verification. Enable the "Network Discovery" feature and press Next
 
 ![](https://i.imgur.com/Zd2oq6x.png)
@@ -129,3 +129,7 @@
 
 ## Configuring a Shared Folder
 1. Login as `User1@smw.soc.com` to the Window Server 2012 R2
+2. Navigate to This PC > Documents and create a new folder with the name `DocumentXX`
+3. Share out the folder and let DomainMgrs group members have Read and Write permissions and Authenticated Users have Read permissions to the shared folder
+4. Click the Share button to complete the creation of the Shared folder
+5. On Windows 10, logaccess the shared folder 
