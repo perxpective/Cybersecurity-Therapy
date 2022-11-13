@@ -78,5 +78,7 @@
 	- Delete subfolders and files
 	- Delete
 10. Click the box for **Only apply these permissions to objects and/or containers within this container**
-11. Click OK three times
-12. 
+11. Click **OK** three times
+
+## Verifying the Effect of Deny Permissions
+1. Login as Domain Admin on the Domain Controller
