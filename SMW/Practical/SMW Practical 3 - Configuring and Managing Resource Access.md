@@ -106,4 +106,11 @@
 
 ![](https://i.imgur.com/L13gOyq.png)
 
-4. To change thee default network security settings, either update the firewall rules or use the Security Configguration 
+4. To change thee default network security settings, either update the firewall rules or use the Security Configuration Wizard (SCW)
+5. Run the Security Configuration Wizard via the Tools menu of the Server Manager
+
+![](https://i.imgur.com/1LFVmDW.png)
+
+6. In the Server Select menu, choose the local Windows 2012 R2 Server 
+7. In the subsequent screen, the wizard will display the detected installed roles, features, options for viewing and veriification
+8. 
