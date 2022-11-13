@@ -23,3 +23,5 @@
 ![](https://i.imgur.com/qJkZx13.png)
 
 ## Encrypting Files
+1. Login as User1
+2. 
