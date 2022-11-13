@@ -38,3 +38,9 @@
 - `/d` - decrypts files
 
 ## Configuring Folder Permissions
+1. Login as User1
+2. Navigate to `C:\Users\Public`
+3. Create the `Test` folder and `Utilities` subfolder
+4. Right-click the new Utilities folder, click **Properties** and click the **Security** tab
+5. Click the **Edit** button and then the **Add** button
+6. Click the **Advanced** button un
