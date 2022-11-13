@@ -49,4 +49,11 @@
 
 ## Inherited Permissions
 1. Login as Mgr1 and Staff1 and find out if the two accounts can both navigate to `C:\Users\Public\TestXX\UtilititiesXX`
-2. 
+2. Right-click the folder and click Properties
+3. Click the Security tab and click the Advanced button
+4. Review the groups that have permissions for the folder - click **Disable inheritance** button
+
+![](https://i.imgur.com/MsAENcB.png)
+
+5. Notice that you can select to convert the inherited permissions to specific permissions for the folder or select to remove all inherited permissions. Click **Remove all inherited permissions from this object**
+6. In Advanced Security Settings window, all other groups and user accounts with permissions have been removed except for th
