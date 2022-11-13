@@ -39,6 +39,4 @@
 	- NTFS inherit permissions are permissions given to an object because it is a child of a parent object. When inherited and explicit permissions are combined together, the explicit permissions takes precedence over the inherited permissions of the object. Hence, the combination of inherited and explicit permissions equate to explicit permissions.
 
 ## Nano Test Questions and Answers
-- **How many trees is/are in the above Active Directory?**
-	- There are 4 trees. kitty.org is a parent domain for east.kitty.org and thus are contiguous namespaces. kitty.com.sg, kitty.org.sg and kitty.com are disjointed namespaces as they do not have parent domains. 
-	- The number of forests are undefined as the trust relationships between the domains are not defined.
+(To be released soon!)
