@@ -61,3 +61,7 @@
 8. Login as Mgr1 and Staff1 again to try navigating to `C:\Users\Public\TestXX\UtilititiesXX`
 
 ## Configuring Advanced Permissions
+1. Create a new folder under `C:\Users\Account\Documents` folder called Documentation
+2. Right-click the new folder and click Properties
+3. Click the Security tab and click Edit
+4. 
