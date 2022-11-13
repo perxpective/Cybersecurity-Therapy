@@ -34,4 +34,7 @@
 9. Click OK again to exit the Properties dialog box
 
 **Using the cipher command:**
-- 
+- `/e` - encrypts files
+- `/d` - decrypts files
+
+## Configuring Folder Permissions
