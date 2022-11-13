@@ -32,3 +32,6 @@
 7. Click **Apply**
 8. Ensure that **Apply changes to this folder, subfolders and files** is selected and click **OK**
 9. Click OK again to exit the Properties dialog box
+
+**Using the cipher command:**
+- 
