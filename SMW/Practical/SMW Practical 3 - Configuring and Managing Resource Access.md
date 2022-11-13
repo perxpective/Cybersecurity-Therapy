@@ -82,3 +82,9 @@
 
 ## Verifying the Effect of Deny Permissions
 1. Login as Domain Admin on the Domain Controller
+2. Ensure there are two global groups in the domain: GlobalMgrs and GlobalStaff
+3. Create a new domain user account: newManager
+4. Add newManager to both the GlobalMgrs and GlobalStaff global groups
+5. Ensure that there are two domain local groups in the domain: DLMgrs and DLStaff
+6. Add GlobalMgrs group to DLMgrs
+7. Add GlobalStaff group to DLStaff
