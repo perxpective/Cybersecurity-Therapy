@@ -26,4 +26,4 @@
 1. Login as User1
 2. Create a new folder on the File Explorer
 3. Right-click on the new folder and click **Properties**
-4. Click the **Advanced** buttonx
+4. Click the **Advanced** button
