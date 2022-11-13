@@ -48,3 +48,5 @@
 8. Click the Allow box for Modify and grant Modify permissions to DomainMgrs
 
 ## Inherited Permissions
+1. Login as Mgr1 and Staff1 and find out if the two accounts can both navigate to `C:\Users\Public\TestXX\UtilititiesXX`
+2. 
