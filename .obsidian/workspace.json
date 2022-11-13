@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 2.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 2.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 2.md"
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 2.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +147,15 @@
   },
   "active": "bdb94c32975753a6",
   "lastOpenFiles": [
+    "SMW/Tutorials/SMW Tutorial 2.md",
+    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+    "EHD/Theory/EHD Topic 10 - Metasploit.md",
+    "EHD/Theory/EHD Topic 11 - Wireless Security.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
-    "SMW/Tutorials/SMW Tutorial 2.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
-    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "EHD/Practical/Vim Keymap.md",
-    "EHD/Practical/EHD Practical 5 - Firewall.md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md"
+    "EHD/Practical/EHD Practical 5 - Firewall.md"
   ]
 }
