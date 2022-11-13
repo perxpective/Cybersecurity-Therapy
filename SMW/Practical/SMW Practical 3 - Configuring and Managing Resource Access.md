@@ -14,4 +14,4 @@
 	- Password: `1qwer$#@!`
 4. Configure the Windows 2012 R2 server to use a static IP address
 5. Verify if the new server can access the Internet and ping the FQDN domain before joining the domain
-6. Change the server name and join the domain
+6. Change the server name and join the domain (Use the Mgr1 credential for Authentication)
