@@ -43,4 +43,8 @@
 3. Create the `Test` folder and `Utilities` subfolder
 4. Right-click the new Utilities folder, click **Properties** and click the **Security** tab
 5. Click the **Edit** button and then the **Add** button
-6. Click the **Advanced** button un
+6. Click the **Advanced** button under the <u>Select Users, Computers, Service Accounts or Groups</u> dialog box and click **Find Now**
+7. Select **DomainMgrs** group and click **OK**
+8. Click the Allow box for Modify and grant Modify permissions to DomainMgrs
+
+## Inherited Permissions
