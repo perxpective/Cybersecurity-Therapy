@@ -118,4 +118,8 @@
 
 8. In the Installed Options screen, the wizard has selected 'Smart Card' option for the server (unselect it)
 9. In the Confirm Services Change screen, note that the wizard has suggested to change for all the listed services (for some services, they will be changed from Manual start to Disable and some others will be from Manual start to auto start)
-10. When the wizard reaches the 
+10. When the wizard reaches the Network Security Rules screen, note that the wizard has enabled many network security rules based on the server roles
+
+![](https://i.imgur.com/l6TWE0p.png)
+
+11. Go through the remaining wizard pages till the wizard prompts to enter a filename for the file to store confirmed configurations (use `server1.xml` as the filename)
