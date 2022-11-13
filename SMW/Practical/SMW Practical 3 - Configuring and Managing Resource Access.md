@@ -100,4 +100,10 @@
 ![](https://i.imgur.com/0F82Mpv.png)
 
 ## Enabling the Shared Folder Feature
-1
+1. Login as a Domain Admin to the Windows Server 2012 R2
+2. As Shared Folder feature requires to turn on File and Printer Sharing and Network Discovery, go to the Network and Sharing Center and select Advanced Sharing Settings
+3. Turn on Network Discovery but cannot save the setting because the default network security settings disallows it to be turned on
+
+![](https://i.imgur.com/L13gOyq.png)
+
+4. To change thee default network security settings, either update the firewall rules or use the Security Configguration 
