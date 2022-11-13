@@ -62,6 +62,10 @@
 
 ## Configuring Advanced Permissions
 1. Create a new folder under `C:\Users\Account\Documents` folder called Documentation
-2. Right-click the new folder and click Properties
-3. Click the Security tab and click Edit
-4. 
+2. Right-click the new folder and click **Properties**
+3. Click the **Security** tab and click **Edit**
+4. Click Advanced > Find Now > double-click the Domain Users group under *search results*
+5. Click **OK** twice
+6. Ensure that **Domain Users** is selected under Group or usernames in the Properties dialog box
+7. Click the **Advanced** button and select **Domain Users** under *Permission entries* in the Advanced Security Settings window and click the **Edit** button
+8. 
