@@ -24,6 +24,11 @@
 
 ## Encrypting Files
 1. Login as User1
-2. Create a new folder on the File Explorer
-3. Right-click on the new folder and click **Properties**
-4. Click the **Advanced** button
+2. Navigate to `C:\Users\User1\Documents`
+3. Create a new folder on the File Explorer
+4. Right-click on the new folder and click **Properties**
+5. Click the **Advanced** button
+6. Check **Encrypt contents to secure data** and click **OK**
+7. Click **Apply**
+8. Ensure that **Apply changes to this folder, subfolders and files** is selected and click **OK**
+9. Click OK again to exit the Properties dialog box
