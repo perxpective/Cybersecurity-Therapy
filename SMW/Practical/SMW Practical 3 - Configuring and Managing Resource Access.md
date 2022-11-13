@@ -8,11 +8,11 @@
 
 ## Adding a New Member Server (Windows Server 2012 R2) to Domain
 1. Start the Domain Controller
-2. After Domain Controller has been started, start up the Windows 2012 R2 VM
+2. After Domain Controller has been started, start up the Windows Server 2012 R2 VM
 3. Default username and password of Windows 2012 R2 is:
 	- Username: `ladmin`
 	- Password: `1qwer$#@!`
-4. Configure the Windows 2012 R2 server to use a static IP address
+4. Configure the Windows Server 2012 R2 to use a static IP address
 5. Verify if the new server can access the Internet and ping the FQDN domain before joining the domain
 6. Change the server name and join the domain (Use the Mgr1 credential for Authentication)
 7. Verify the setup by logging into the new member server with the following Domain user accounts:
@@ -88,11 +88,11 @@
 5. Ensure that there are two domain local groups in the domain: DLMgrs and DLStaff
 6. Add GlobalMgrs group to DLMgrs
 7. Add GlobalStaff group to DLStaff
-8. Switch to the Windows 2012 R2 Server and login as Domain Admin
+8. Switch to the Windows Server 2012 R2  and login as Domain Admin
 9. Create a file called `testDeny.txt` at `C:\Users\Public\TestXX` folder
 10. Assign the full control permission of `testDeny.txt` to DLMgrs
 11. Assign full read control permission of `testDeny.txt` to DLStaff
-12. Switch the login to newManager at the Windows 2012 R2 Server
+12. Switch the login to newManager at the Windows Server 2012 R2 
 13. Test if newManager can update the `testDeny.txt` file
 14. As newManager, add Deny Read permissions to DLStaff group for the `testDeny.txt`
 15. Test if newManager can update the `testDeny.txt`
@@ -123,3 +123,9 @@
 ![](https://i.imgur.com/l6TWE0p.png)
 
 11. Go through the remaining wizard pages till the wizard prompts to enter a filename for the file to store confirmed configurations (use `server1.xml` as the filename)
+12. In the next page, there is an option to apply the configuration later or immediately (it should be applied now)
+13. Restart the firewall services or the system to apply the new changes
+14. Return to the Network and Sharing Center and turn on Network Discovery
+
+## Configuring a Shared Folder
+1. Login as `User1@smw.soc.com` to the Window Server 2012 R2
