@@ -132,4 +132,7 @@
 2. Navigate to This PC > Documents and create a new folder with the name `DocumentXX`
 3. Share out the folder and let DomainMgrs group members have Read and Write permissions and Authenticated Users have Read permissions to the shared folder
 4. Click the Share button to complete the creation of the Shared folder
-5. On Windows 10, logaccess the shared folder 
+5. On Windows 10, login as Mgr1 and access the shared folder
+6. Test if Mggr1 can view, create and modify the files in the shared folder (Mgr1 has co-owner share permissions)
+7. On Windows 10, login as Staff1
+8. Access the shared folder and test if Staff1 can view but cannot make changes to the shared folder (Authenticated User has Read Share permissions only)
