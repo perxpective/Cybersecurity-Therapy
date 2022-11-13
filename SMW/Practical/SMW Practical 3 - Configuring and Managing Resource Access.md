@@ -90,4 +90,14 @@
 7. Add GlobalStaff group to DLStaff
 8. Switch to the Windows 2012 R2 Server and login as Domain Admin
 9. Create a file called `testDeny.txt` at `C:\Users\Public\TestXX` folder
-10. Assign the full contro
+10. Assign the full control permission of `testDeny.txt` to DLMgrs
+11. Assign full read control permission of `testDeny.txt` to DLStaff
+12. Switch the login to newManager at the Windows 2012 R2 Server
+13. Test if newManager can update the `testDeny.txt` file
+14. As newManager, add Deny Read permissions to DLStaff group for the `testDeny.txt`
+15. Test if newManager can update the `testDeny.txt`
+
+![](https://i.imgur.com/0F82Mpv.png)
+
+## Enabling the Shared Folder Feature
+1
