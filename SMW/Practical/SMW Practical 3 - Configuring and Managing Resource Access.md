@@ -112,5 +112,10 @@
 ![](https://i.imgur.com/1LFVmDW.png)
 
 6. In the Server Select menu, choose the local Windows 2012 R2 Server 
-7. In the subsequent screen, the wizard will display the detected installed roles, features, options for viewing and veriification
-8. 
+7. In the subsequent screen, the wizard will display the detected installed roles, features, options for viewing and verification. Enable the "Network Discovery" feature and press Next
+
+![](https://i.imgur.com/Zd2oq6x.png)
+
+8. In the Installed Options screen, the wizard has selected 'Smart Card' option for the server (unselect it)
+9. In the Confirm Services Change screen, note that the wizard has suggested to change for all the listed services (for some services, they will be changed from Manual start to Disable and some others will be from Manual start to auto start)
+10. When the wizard reaches the 
