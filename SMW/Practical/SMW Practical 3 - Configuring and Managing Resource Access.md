@@ -56,4 +56,6 @@
 ![](https://i.imgur.com/MsAENcB.png)
 
 5. Notice that you can select to convert the inherited permissions to specific permissions for the folder or select to remove all inherited permissions. Click **Remove all inherited permissions from this object**
-6. In Advanced Security Settings window, all other groups and user accounts with permissions have been removed except for th
+6. In Advanced Security Settings window, all other groups and user accounts with permissions have been removed except for the DomainMgrs group configured manually and that does not use inherited permissions. Click **Confirm**
+7. Login as Mgr1 and Staff1 again to try navigating to `C:\Users\Public\TestXX\UtilititiesXX`
+
