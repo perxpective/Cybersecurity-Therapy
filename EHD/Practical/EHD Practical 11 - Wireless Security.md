@@ -114,3 +114,10 @@ airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
 4. After a while, press <kbd>Ctrl</kbd>+<kbd>C</kbd> to stop the capture
 5. Use Wireshark to open the `nobrdcst01-01.cap` file
 6. Look for the Beacon frame (filter by `wlan.fc.type_subtype==0x08`)
+7. Expand the frame and look for the SSID, the SSID field should be blank this time
+8. Look for the Probe response (filter by `wlan.fc.type_subtype==0x05`) and Probe requests (filter by `wlan.fc.type_subtype==0x04`)
+9. Expand the frame and look for the SSID. Although SSID does not appear in the Beacon frame, it will appear in other frames like the Probe frames
+
+## Exploring Frames of a WPA Connection
+1. As the attacker, use Airodump to capture the frames of one of the EHD networks using WPA-PSK (broadcasting or non-broadcasting) and store the frames into a file
+2. 
