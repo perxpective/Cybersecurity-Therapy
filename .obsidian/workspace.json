@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b32f8a36bcf51544",
+            "id": "1b9248e25303119c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "EHD/Practical/EHD Practical 6 - Web Application Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,10 +144,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "b32f8a36bcf51544",
+  "active": "1b9248e25303119c",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "EHD/Theory/EHD Topic 10 - Metasploit.md",
