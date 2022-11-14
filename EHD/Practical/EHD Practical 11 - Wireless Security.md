@@ -144,4 +144,8 @@ airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
 
 ## Cracking WPA Encryption
 1. Using the previous cap file containing the WPA 4-way handshake, Aircrack and a dictionary file can be used to crack the WPA key
-2. Use the John the Ripper diction
+2. Use the John the Ripper dictionary file to crack the key:
+```
+aircrack-ng nobrdcst01-01.cap -w /usr/share/john/password.lst
+```
+3. 
