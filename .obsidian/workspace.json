@@ -11,8 +11,12 @@
             "id": "b32f8a36bcf51544",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+              }
             }
           },
           {
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
