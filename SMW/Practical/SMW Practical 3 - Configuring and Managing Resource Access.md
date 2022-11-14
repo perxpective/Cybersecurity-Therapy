@@ -136,3 +136,6 @@
 6. Test if Mggr1 can view, create and modify the files in the shared folder (Mgr1 has co-owner share permissions)
 7. On Windows 10, login as Staff1
 8. Access the shared folder and test if Staff1 can view but cannot make changes to the shared folder (Authenticated User has Read Share permissions only)
+
+### Configuring a Shared Folder Using a Server Manager
+1. 
