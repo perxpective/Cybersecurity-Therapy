@@ -166,4 +166,11 @@
 ![](https://i.imgur.com/G54EVZY.png)
 
 25. In the Permissions Entry window for the folder, click **Select a principal**
-26. Click Advanced and click Find Now
+26. Click **Advanced** and click **Find Now**
+27. Double-click the Server Operators group and click OK in the Select User, Computer, Service Account or Group box
+28. Ensure that Allow is configured for Type and place a checkmark in the box for Full Control
+29. Click OK in the Permission Entry for the folder window
+30. In the Advanced Security Settings for the folder window, if the Everyone group is shown, click it and click Remove
+31. Click the Permissions tab and click **Server Operators** > **Edit**
+32. In the Permission Entry for the folder window, ensure that Full Control is selected for the Allow type and click OK
+33. Click OK in teh 
