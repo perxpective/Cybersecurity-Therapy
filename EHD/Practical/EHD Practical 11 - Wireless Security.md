@@ -137,5 +137,6 @@ airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
 > 
 
 10. Look for Authentication frames (filter by `wlan.fc.type_subtype==0x0B)
-11. Expand the Authentication frame and look for the
-12. 
+11. Expand the Authentication frame and look for the Authentication Algorithm (should be using the Open System Authentication)
+12. Look for Association Request (filter by `wlan.fc.type_subtype==0x00`)
+13. Look for Association Response (filter by `wlan.fc.type_subtype==0x01`)
