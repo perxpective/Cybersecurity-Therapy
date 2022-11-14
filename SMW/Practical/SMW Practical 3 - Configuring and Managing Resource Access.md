@@ -184,3 +184,5 @@
 41. (Optional) Verify if the data transfer between Windows 10 and SF1 are encrypted using Wireshark
 
 ## Publishing a Shared Folder
+1. Click Tools and click Active Directory Users and Computers
+2. 
