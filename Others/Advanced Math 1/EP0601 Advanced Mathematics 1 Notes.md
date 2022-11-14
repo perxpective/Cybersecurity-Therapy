@@ -439,14 +439,14 @@ Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$ and th
 
 Divide the area into $n$ subintervals and approximate using thin fundamental strips.
 
-Area of each strip =$[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
-Total Area $A$ = $\sum\limits^{n}_{k=1}[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
-Formula = $\int^{b}_{a}[f(x)-g(x)]dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
+- Area of each strip =$[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
+- Total Area $A$ = $\sum\limits^{n}_{k=1}[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
+- Formula = $\int^{b}_{a}[f(x)-g(x)]dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
 
 ### Volume of Solid of Revolution
-Volume of solid of revolution about the **x-axis**: 
+- Volume of solid of revolution about the **x-axis**: 
 $$\int^{b}_{a}\pi[(f(x))^2-(g(x))^2]dx$$
-Similarly the volume of solid of revolution about the **y-axis**: 
+- Similarly the volume of solid of revolution about the **y-axis**: 
 $$\int^{b}_{a}\pi[g(y)]^2$$
 ### Arc Length
 $$L = \int^{b}_{a}\sqrt{1+(f'(x))^{2}}dx$$
