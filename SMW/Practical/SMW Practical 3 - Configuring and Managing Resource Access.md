@@ -180,4 +180,7 @@
 37. In the Apply a quota to a folder or volume window, click Next
 38. In the Confirm selections window, review choices and click **Create**
 39. Click Close in the View results window
-40. In the Server Manager, verify that 
+40. In the Server Manager, verify that the new share is shown under Shares
+41. (Optional) Verify if the data transfer between Windows 10 and SF1 are encrypted using Wireshark
+
+## Publishing a Shared Folder
