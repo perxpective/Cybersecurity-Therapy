@@ -216,4 +216,10 @@
 2. Click the Security tab and click the **Advanced** button
 3. Click the **Auditing** tab and click Add
 4. Click **Select a principal** at the top of the Auditing Entry window
-5. Click **Advanced** button 
+5. Click **Advanced** button in the Select User, Computer, Service Account or Group dialog box
+6. Click Find Now and double-click the **Everyone** group, click OK
+7. Notice the permissions granted to the group and click the down arrow for the Type box and select All to audit both successful and failed access activities
+8. Click OK (x3)
+
+<u>Test the settings</u>
+1. As Mgr1 on Windows 10, access the shared folder created by User1 and create a new file called `mgr.txt`, entering some te
