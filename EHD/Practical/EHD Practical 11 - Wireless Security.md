@@ -83,5 +83,15 @@ iwconfig wlan0 channel 11
 1. As a victim, use a laptop or smartphone to connect to one of the EHD networks using WPA-PSK
 2. Use Airodump to see the list of wireless networks around:
 ```
-airodum-ng 
+airodump-ng wlan0
 ```
+3. Press <kbd>Ctrl</kbd>+<kbd>C</kbd>
+4. Pick the EHD network using WPA-PSK and take note of its BSSID (MAC address of the access point) and the channel number
+
+![](https://i.imgur.com/gZI3c5F.png)
+
+5. Use Airodump to capture the wireless frames of selected BSSID access point and save the frames into a file called `capture01`
+```
+airodump-ng wlan0 -w capture01 -c (channel) --bssid (bssid)
+```
+6. While Airodump is running, the MAC addresses of wireless clients currently con
