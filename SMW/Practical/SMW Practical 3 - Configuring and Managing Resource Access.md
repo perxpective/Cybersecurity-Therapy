@@ -189,4 +189,12 @@
 3. Enter the network path to the share: `\\servername\Users\Administrator\Documents\DocumentationXX`
 4. Click OK
 5. Notice that the shared folder is one of the objects listed in the right pane within the Users or OU folder
-6. On Windows 10, under the Network Node of the File Explorer, locate the sharted 
+6. On Windows 10, under the Network Node of the File Explorer, locate the shared folder by clicking on **Search Active Directory** on the Network tab
+
+## Adding Login and Shared File Access
+1. On the Domain Controller, login as Domain Administrator
+2. Run `mmc` and on the Run box and click OK
+3. Click File and click Add/Remove Snap-in
+4. 
+
+![](https://i.imgur.com/wU5u9pl.png)
