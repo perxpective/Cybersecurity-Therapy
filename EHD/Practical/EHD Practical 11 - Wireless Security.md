@@ -120,4 +120,10 @@ airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
 
 ## Exploring Frames of a WPA Connection
 1. As the attacker, use Airodump to capture the frames of one of the EHD networks using WPA-PSK (broadcasting or non-broadcasting) and store the frames into a file
-2. 
+2. As the victim, use a computer and smartphone to connect to the EHD network and access the Internet
+3. Note the MAC address of the client
+4. As the attacker, when the victim connects to the Access Point, the phrase "WPA handshake" should appear in `airodump-ng`
+5. Captured the 4-way WPA handshake frames of the victim
+
+![](https://i.imgur.com/S3jywlh.png)
+
