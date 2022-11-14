@@ -155,4 +155,15 @@
 15. In the middle pane, notice the Documentation folder under Shares
 16. Click the **down arrow** for tasks and click **New Share**
 17. In the Select the profile for this share window, select **SMB Share**. Click Next
-18. In the Select the server and path for this share window, notice that 
+18. Select **Type a custom path**, click the **Browse** button and browse to the Utilities folder
+19. Click Next in the server and path for the share window
+20. In the Specify share name window, leave the share name of the folder as the default and click Next
+21. Ensure that **Allow caching of share** is selected and click Next
+22. Review the permissions already configured in the Specify permissions to control access window and click **Customize permissions**
+23. In the Advanced Security Settings for the folder window, click the Share tab
+24. Click Add
+
+![](https://i.imgur.com/G54EVZY.png)
+
+25. In the Permissions Entry window for the folder, click **Select a principal**
+26. Click Advanced and click Find Now
