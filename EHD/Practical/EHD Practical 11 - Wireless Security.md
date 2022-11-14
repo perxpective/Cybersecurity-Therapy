@@ -80,3 +80,8 @@ iwconfig wlan0 channel 11
 ## Capturing Wireless Frames using Airodump
 > To capture wireless frames and possibly crack encryption keys, the attacker usually requires a victim to connect to the wireless network. You can a laptop or smartphone to act as the victim to connect to the wireless network while the Kali system captures the wireless frames
 
+1. As a victim, use a laptop or smartphone to connect to one of the EHD networks using WPA-PSK
+2. Use Airodump to see the list of wireless networks around:
+```
+airodum-ng 
+```
