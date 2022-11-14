@@ -407,7 +407,8 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 ### Fundamental Theorem of Calculus II
 > If function $f$ is **continuous** on $[a,b]$ and $F$ is an **antiderivative** of $f$, then:
-> $$\int^{b}_{a}f(t)dt=F(b)-F(a)$$ This can be written as: $$\int^{b}_{a}f(t)dt=[F(t)]^{b}_{a}$$
+> $$\int^{b}_{a}f(t)dt=F(b)-F(a)$$ This can be written as:
+> $$\int^{b}_{a}f(t)dt=[F(t)]^{b}_{a}$$
 
 ### Integration by Substitution
 - The differential of a function $y=f(x)$ is defined as: $dy=\frac{dy}{dx} \times dx$ or
@@ -416,12 +417,12 @@ $dy=f'(x) \times dx$
 ### Improper Integrals
 ![400](https://i.imgur.com/nYuWZ64.png)
 
-If the limit exists, the improper integral converges at this limit and is finite $$\int^{\infty}_{a}f(x)dx=\lim_\limits{b\to +\infty}\int^{b}_{a}f(x)dx$$
+If the limit exists, the improper integral converges at this limit and is finite
+$$\int^{\infty}_{a}f(x)dx=\lim_\limits{b\to +\infty}\int^{b}_{a}f(x)dx$$
 If the limit does not exist or is infinite, the improper integral is said to diverge and is not assigned a value.
 
 If region stretches towards both left infinity and right infinity: $$\int^{\infty}_{-\infty}f(x)dx$$
 Region can be split into two sub-regions:
-
 $\int^{m}_{-\infty}f(x)dx + \int^{\infty}_{m}f(x)dx$
 $= \lim_\limits{a \to -\infty}\int^{m}_{a}f(x)dx+\lim_\limits{b\to +\infty}\int^{b}_{m}f(x)dx$
 
@@ -443,7 +444,9 @@ Total Area $A$ = $\sum\limits^{n}_{k=1}[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
 Formula = $\int^{b}_{a}[f(x)-g(x)]dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
 
 ### Volume of Solid of Revolution
-Volume of solid of revolution about the **x-axis**: $$\int^{b}_{a}\pi[(f(x))^2-(g(x))^2]dx$$
-Similarly the volume of solid of revolution about the **y-axis**: $$\int^{b}_{a}\pi[g(y)]^2$$
+Volume of solid of revolution about the **x-axis**: 
+$$\int^{b}_{a}\pi[(f(x))^2-(g(x))^2]dx$$
+Similarly the volume of solid of revolution about the **y-axis**: 
+$$\int^{b}_{a}\pi[g(y)]^2$$
 ### Arc Length
 $$L = \int^{b}_{a}\sqrt{1+(f'(x))^{2}}dx$$
