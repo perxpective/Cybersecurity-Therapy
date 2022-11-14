@@ -143,4 +143,6 @@
 3. Click **Manage** near the top of the Server Manager window and click **Add Roles and Features**
 4. Ensure **Role-based or feature-based installation is installed** and click Next
 5. In the Select destination server window, ensure the server is selected and click Next
-6. 
+6. Ensure that **File and Storage Services** is already marked as installed and click the **right-pointing** arrow in front of the File and Storage Services
+7. Click the **right-pointing** arrow in front of **File and iSCSI** services to view the options under it
+8. Check the box for File Server Resource Man
