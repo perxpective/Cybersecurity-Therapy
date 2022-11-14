@@ -103,3 +103,8 @@ airodump-ng wlan0 -w capture01 -c (channel) --bssid (bssid)
 9. Management frames have the frame type 0 (set the filter to `wlan.fc.type==0x0`)
 10. Control frames have the frame type 1 (set the filter to `wlan.fc.type==0x1`)
 11. Data frames have the frame type 2 (set the filter to `wlan.fc.type==0x02`)
+
+## Exploring Frames of a Non-Broadcasting Access Point
+1. Use Airodump to view the list of wireless networks around 
+2. When one of the BSSID of the non-broadcasting EHD Access Points are seen, stop Airodump and take note of the BSSID and its channel number
+3. 
