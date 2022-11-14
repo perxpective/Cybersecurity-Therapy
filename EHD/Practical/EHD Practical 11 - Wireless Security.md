@@ -107,4 +107,7 @@ airodump-ng wlan0 -w capture01 -c (channel) --bssid (bssid)
 ## Exploring Frames of a Non-Broadcasting Access Point
 1. Use Airodump to view the list of wireless networks around 
 2. When one of the BSSID of the non-broadcasting EHD Access Points are seen, stop Airodump and take note of the BSSID and its channel number
-3. 
+3. Use Airodump to capture frames for selected BSSID access point and save the frames into a file called `nobrdcst01` 
+```
+airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
+```
