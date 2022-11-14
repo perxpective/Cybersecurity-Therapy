@@ -69,4 +69,12 @@ ifconfig wlan0 up
 4. Use Airodump to see the list of surrounding wireless networks. Note that the channel number on the top left hand corner is changing so the wireless card is hopping across channels scanning for different wireless networks
 ![](https://i.imgur.com/i46lfQg.png)
 
-5. To stop using Airodump, press <kbd>Ctrl</kbd>+<kbd></kbd>
+5. To stop using Airodump, press <kbd>Ctrl</kbd>+<kbd>C</kbd>
+6. Run Wireshark and start capturing wireless frames on the `wlan0` interface
+7. Type the following command to set the wireless card to channel 11:
+```
+iwconfig wlan0 channel 11
+```
+8. Run Wireshark again to see wireless frames captured on this channel
+
+## Capturing Wireless Frames using Airodump
