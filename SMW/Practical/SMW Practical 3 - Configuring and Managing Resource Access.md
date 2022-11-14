@@ -207,6 +207,13 @@
 13. Click **Define these policy settings** and click Success and Failure to audit successful completion of an action and failure of an action
 14. In the middle pane, double-click **Audit object success** and click **Define these policy settings**
 15. Click Success and Failure and click OK
-16. Close Console1 MMC window and provide a name of the console e.g. Default Domain Policies and click 
+16. Close Console1 MMC window and provide a name of the console e.g. Default Domain Policies, click **Desktop** and click **Save**
 
 ![](https://i.imgur.com/wU5u9pl.png)
+
+<u>To configure auditing for Documentation folder</u>
+1. From the  File Explorer window, right-click the Documentation folder and click Properties
+2. Click the Security tab and click the **Advanced** button
+3. Click the **Auditing** tab and click Add
+4. Click **Select a principal** at the top of the Auditing Entry window
+5. Click **Advanced** button 
