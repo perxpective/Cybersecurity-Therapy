@@ -100,5 +100,6 @@ airodump-ng wlan0 -w capture01 -c (channel) --bssid (bssid)
 
 7. Airodump saved the wireless frames into several files with different formats. Use Wireshark to open the `capture01-01.cap` file
 8. Look for the Beacon frame (filter by `wlan.fc.type_subtype==0x08`) and expand the frame and look for the SSID value
-9. Management frames have the frame type 0 - look for Management frames by setting the filter to `wlan.fc.type==0x0`
-10. Control frames have the 
+9. Management frames have the frame type 0 (set the filter to `wlan.fc.type==0x0`)
+10. Control frames have the frame type 1 (set the filter to `wlan.fc.type==0x1`)
+11. Data frames have the frame type 2 (set the filter to `wlan.fc.type==0x02`)
