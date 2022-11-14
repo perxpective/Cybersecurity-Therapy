@@ -229,3 +229,8 @@
 5. Try opening and reading `mgr.txt` from the shared folder
 6. Test if Staff1 is able to update the content of the text file
 7. On Windows Server 2012 R2, under Server Manager > Tools, run Event Viewer
+8. Under Windows logs, Security, click Find
+9. Open the Event Viewer and search Security Log for event ID 4656 or 5145 with "Audit Failed" keyword, "File Server" or "Removable Storage" task category 
+10. Find again and type "Staff1" to look for logged Audit Failure event describing his failed login
+
+## PowerShell for Log Tracing
