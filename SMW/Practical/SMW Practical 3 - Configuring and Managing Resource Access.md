@@ -145,4 +145,14 @@
 5. In the Select destination server window, ensure the server is selected and click Next
 6. Ensure that **File and Storage Services** is already marked as installed and click the **right-pointing** arrow in front of the File and Storage Services
 7. Click the **right-pointing** arrow in front of **File and iSCSI** services to view the options under it
-8. Check the box for File Server Resource Man
+8. Check the box for **File Server Resource Manager**
+9. On the Add Roles and Features wizard, click **Add Features**
+10. Click Next twice
+11. Click install in the Confirm installation window
+12. Ensure that the installation is successful and click Close in the installation progress window
+13. On the left pane of the Server Manager, click **File and Storage Services**
+14. Click Shares in the left pane
+15. In the middle pane, notice the Documentation folder under Shares
+16. Click the **down arrow** for tasks and click **New Share**
+17. In the Select the profile for this share window, select **SMB Share**. Click Next
+18. In the Select the server and path for this share window, notice that 
