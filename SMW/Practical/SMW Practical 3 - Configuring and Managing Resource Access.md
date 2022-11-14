@@ -185,4 +185,4 @@
 
 ## Publishing a Shared Folder
 1. Click Tools and click Active Directory Users and Computers
-2. 
+2. Create a new Shared Folder and 
