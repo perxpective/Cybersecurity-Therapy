@@ -195,6 +195,13 @@
 1. On the Domain Controller, login as Domain Administrator
 2. Run `mmc` and on the Run box and click OK
 3. Click File and click Add/Remove Snap-in
-4. 
+4. Click the **Group Policy Management Editor** and click Add
+5. In the Select Group Policy Object dialog box, click the Browse button
+6. In the Browse for a Group Policy Object dialog box, click **Default Domain Policy** and click OK
+7. Click Finish in the Select Group Policy Object dialog box
+8. Click OK in the Add or Remove Snap-ins dialog box
+9. On the left pane, click the right pointing arrow in front of Default Domain Policy to display items under it
+10. Click the right pointing arrow in front of the Computer Configuration
+11. Double click the Policies fo
 
 ![](https://i.imgur.com/wU5u9pl.png)
