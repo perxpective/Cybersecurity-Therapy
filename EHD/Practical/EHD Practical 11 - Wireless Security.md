@@ -59,4 +59,14 @@ ifconfig wlan0
 
 ## Monitoring Wireless Signals
 1. In order to monitor surrounding wireless networks, wireless card must be in "monitor" mode
-2. Type the following commands to 
+2. Type the following commands to bring the wireless card down and switch it to monitor mode and bring the card back up again:
+```
+ifconfig wlan0 down
+iwconfig wlan0 mode monitor
+ifconfig wlan0 up
+```
+3. Type `iwconfig` and check if the wireless card is in monitor mode
+4. Use Airodump to see the list of surrounding wireless networks. Note that the channel number on the top left hand corner is changing so the wireless card is hopping across channels scanning for different wireless networks
+![](https://i.imgur.com/i46lfQg.png)
+
+5. To stop using Airodump, press <kbd>Ctrl</kbd>+<kbd></kbd>
