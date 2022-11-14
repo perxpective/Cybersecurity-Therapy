@@ -138,4 +138,9 @@
 8. Access the shared folder and test if Staff1 can view but cannot make changes to the shared folder (Authenticated User has Read Share permissions only)
 
 ### Configuring a Shared Folder Using a Server Manager
-1. 
+1. Login to Windows Server 2012 R2 as a Domain Admin
+2. Open the Server Manager
+3. Click **Manage** near the top of the Server Manager window and click **Add Roles and Features**
+4. Ensure **Role-based or feature-based installation is installed** and click Next
+5. In the Select destination server window, ensure the server is selected and click Next
+6. 
