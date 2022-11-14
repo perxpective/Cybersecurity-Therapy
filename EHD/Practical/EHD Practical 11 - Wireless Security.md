@@ -154,4 +154,9 @@ aircrack-ng nobrdcst01-01.cap -w /usr/share/john/password.lst
 > If the client is already connected to the wireless network, attacker may try to send frames to de-authenticate the client and wait for the client to try to connect again in order to capture the WPA 4-way handshake
 
 1. Use `airodump-ng` to capture wireless frames of an access point using WPA-PSK and has at least one client connected to it
-2. While `airodump-ng` is running, in another terminal, 
+2. While `airodump-ng` is running, in another terminal, use `aireplay-ng` to send 5 de-authentication attacks (one de-authentication attack consists of 64 frames) to a client connected to the access point
+```
+aireplay-ng wlan0 --deauth 5 -a (bssid) -c (client mac)
+```
+
+> If de-authentication attack is successful, the wireless client to will try to connect to the access point again and the `airodump-ng` software can capture the WPA 4-way handshake
