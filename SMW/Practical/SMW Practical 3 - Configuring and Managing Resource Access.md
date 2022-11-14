@@ -222,4 +222,7 @@
 8. Click OK (x3)
 
 <u>Test the settings</u>
-1. As Mgr1 on Windows 10, access the shared folder created by User1 and create a new file called `mgr.txt`, entering some te
+1. As Mgr1 on Windows 10, access the shared folder created by User1 and create a new file called `mgr.txt`, entering some text in it
+2. Ensure the User1 only has read-only access to the text file 
+3. Set the audit option of `mgr.txt` to include both Success and Failure (requires administrative rights)
+4. As Staff1 on Windows 10, do a failed login by typing the wrong
