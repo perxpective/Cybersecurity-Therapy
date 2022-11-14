@@ -124,6 +124,18 @@ airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
 3. Note the MAC address of the client
 4. As the attacker, when the victim connects to the Access Point, the phrase "WPA handshake" should appear in `airodump-ng`
 5. Captured the 4-way WPA handshake frames of the victim
+6. Stop the capture and use Wireshark to open the cap file
 
 ![](https://i.imgur.com/S3jywlh.png)
 
+7. Look for the Beacon frame (filter by `wlan.fc.type_subtype==0x08`)
+8. Expand the frame and look for the SSID, the SSID field should be blank this time
+9. Look for the Probe response (filter by `wlan.fc.type_subtype==0x05`)
+
+> This is the probe response sent by the Access Point to the laptop/smartphone
+> Expand the Probe Frames - the SSID value can be found in the Probe Frames even if the Access Point is not broadcasting the SSID
+> 
+
+10. Look for Authentication frames (filter by `wlan.fc.type_subtype==0x0B)
+11. Expand the Authentication frame and look for the
+12. 
