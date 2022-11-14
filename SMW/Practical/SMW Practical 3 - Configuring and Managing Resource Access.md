@@ -234,3 +234,4 @@
 10. Find again and type "Staff1" to look for logged Audit Failure event describing his failed login
 
 ## PowerShell for Log Tracing
+xx
