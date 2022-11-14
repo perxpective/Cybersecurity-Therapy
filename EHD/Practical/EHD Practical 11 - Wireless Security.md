@@ -58,3 +58,5 @@ ifconfig wlan0
 - Disconnect from the wireless network
 
 ## Monitoring Wireless Signals
+1. In order to monitor surrounding wireless networks, wireless card must be in "monitor" mode
+2. Type the following commands to 
