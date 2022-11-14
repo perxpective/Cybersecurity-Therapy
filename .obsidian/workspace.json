@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md"
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +147,15 @@
   },
   "active": "e3c320a4462569af",
   "lastOpenFiles": [
+    "SMW/Tutorials/SMW Tutorial 2.md",
+    "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SC/SC Topic 3 -  XSS.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "SMW/Tutorials/SMW Tutorial 2.md",
     "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Theory/EHD Topic 10 - Metasploit.md",
-    "EHD/Theory/EHD Topic 11 - Wireless Security.md"
+    "EHD/Theory/EHD Topic 10 - Metasploit.md"
   ]
 }
