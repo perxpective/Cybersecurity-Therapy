@@ -78,3 +78,5 @@ iwconfig wlan0 channel 11
 8. Run Wireshark again to see wireless frames captured on this channel
 
 ## Capturing Wireless Frames using Airodump
+> To capture wireless frames and possibly crack encryption keys, the attacker usually requires a victim to connect to the wireless network. You can a laptop or smartphone to act as the victim to connect to the wireless network while the Kali system captures the wireless frames
+
