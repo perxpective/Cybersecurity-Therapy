@@ -202,6 +202,11 @@
 8. Click OK in the Add or Remove Snap-ins dialog box
 9. On the left pane, click the right pointing arrow in front of Default Domain Policy to display items under it
 10. Click the right pointing arrow in front of the Computer Configuration
-11. Double click the Policies fo
+11. Double-click the Policies folder > Windows Settings > Local Policies > Audit Policy in the left pane
+12. In the middle pane, double-click **Audit directory service access**
+13. Click **Define these policy settings** and click Success and Failure to audit successful completion of an action and failure of an action
+14. In the middle pane, double-click **Audit object success** and click **Define these policy settings**
+15. Click Success and Failure and click OK
+16. Close Console1 MMC window and provide a name of the console e.g. Default Domain Policies and click 
 
 ![](https://i.imgur.com/wU5u9pl.png)
