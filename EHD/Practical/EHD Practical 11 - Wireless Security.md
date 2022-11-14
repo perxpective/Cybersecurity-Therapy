@@ -111,3 +111,6 @@ airodump-ng wlan0 -w capture01 -c (channel) --bssid (bssid)
 ```
 airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
 ```
+4. After a while, press <kbd>Ctrl</kbd>+<kbd>C</kbd> to stop the capture
+5. Use Wireshark to open the `nobrdcst01-01.cap` file
+6. Look for the Beacon frame (filter by `wlan.fc.type_subtype==0x08`)
