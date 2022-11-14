@@ -133,7 +133,7 @@
 3. Share out the folder and let DomainMgrs group members have Read and Write permissions and Authenticated Users have Read permissions to the shared folder
 4. Click the Share button to complete the creation of the Shared folder
 5. On Windows 10, login as Mgr1 and access the shared folder
-6. Test if Mggr1 can view, create and modify the files in the shared folder (Mgr1 has co-owner share permissions)
+6. Test if Mgr1 can view, create and modify the files in the shared folder (Mgr1 has co-owner share permissions)
 7. On Windows 10, login as Staff1
 8. Access the shared folder and test if Staff1 can view but cannot make changes to the shared folder (Authenticated User has Read Share permissions only)
 
@@ -185,4 +185,8 @@
 
 ## Publishing a Shared Folder
 1. Click Tools and click Active Directory Users and Computers
-2. Create a new Shared Folder and 
+2. Create a new Shared Folder
+3. Enter the network path to the share: `\\servername\Users\Administrator\Documents\DocumentationXX`
+4. Click OK
+5. Notice that the shared folder is one of the objects listed in the right pane within the Users or OU folder
+6. On Windows 10, under the Network Node of the File Explorer, locate the sharted 
