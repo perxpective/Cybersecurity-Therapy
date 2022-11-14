@@ -173,4 +173,11 @@
 30. In the Advanced Security Settings for the folder window, if the Everyone group is shown, click it and click Remove
 31. Click the Permissions tab and click **Server Operators** > **Edit**
 32. In the Permission Entry for the folder window, ensure that Full Control is selected for the Allow type and click OK
-33. Click OK in teh 
+33. Click OK in the Advanced Security Settings for the folder window
+34. In the New Share Wizard window, click Next
+35. In the specify folder management properties window, check the boxes for the User Files and Application Files
+36. Click Next
+37. In the Apply a quota to a folder or volume window, click Next
+38. In the Confirm selections window, review choices and click **Create**
+39. Click Close in the View results window
+40. In the Server Manager, verify that 
