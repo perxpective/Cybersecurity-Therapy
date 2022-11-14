@@ -148,4 +148,10 @@ airodump-ng wlan0 -w nobrdcst01 -c (channel) --bssid (bssid)
 ```
 aircrack-ng nobrdcst01-01.cap -w /usr/share/john/password.lst
 ```
-3. 
+3. Another wordlist, `rockyou.txt` in `/usr/share/wordlists` contains about 14 million possible words that can be used in the `aircrack` command
+
+## De-Authenticating Wireless Clients
+> If the client is already connected to the wireless network, attacker may try to send frames to de-authenticate the client and wait for the client to try to connect again in order to capture the WPA 4-way handshake
+
+1. Use `airodump-ng` to capture wireless frames of an access point using WPA-PSK and has at least one client connected to it
+2. While `airodump-ng` is running, in another terminal, 
