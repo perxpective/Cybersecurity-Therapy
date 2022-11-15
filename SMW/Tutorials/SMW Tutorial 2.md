@@ -52,4 +52,6 @@
 	- Can be one, two, three, or four
 - **What is the effect of running `cipher /W:C:`?**
 	- The command overwrites deleted data found in the C: Drive
-- **What are the security implications of running the command `cipher /C:C`**
+- **What are the security implications of running the command `cipher /W:C:`?**
+	- Prevention of any potential adversaries to retrieve confidential data from a disk of a decommissioned or ownership transferred system
+	- Prevention of any potential adversaries to retrieve confidential data after the EFS encryption operations is applied at the C: Drive
