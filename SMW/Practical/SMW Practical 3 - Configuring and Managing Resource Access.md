@@ -91,7 +91,7 @@
 8. Switch to the Windows Server 2012 R2  and login as Domain Admin
 9. Create a file called `testDeny.txt` at `C:\Users\Public\TestXX` folder
 10. Assign the full control permission of `testDeny.txt` to DLMgrs
-11. Assign full read control permission of `testDeny.txt` to DLStaff
+11. Assign the read control permission of `testDeny.txt` to DLStaff
 12. Switch the login to newManager at the Windows Server 2012 R2 
 13. Test if newManager can update the `testDeny.txt` file
 14. As newManager, add Deny Read permissions to DLStaff group for the `testDeny.txt`
