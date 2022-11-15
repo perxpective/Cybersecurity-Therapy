@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,15 +159,15 @@
   },
   "active": "1b269bd15bde23ce",
   "lastOpenFiles": [
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SC/SC Topic 3 -  XSS.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md"
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
   ]
 }
