@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+                "file": "SMW/Tutorials/SMW Tutorial 2.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,12 +147,12 @@
   },
   "active": "2ca8338dc4b05cff",
   "lastOpenFiles": [
+    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "SC/SC Topic 3 -  XSS.md",
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "Others/Advanced Math 1/EP0601 Advanced Mathematics 1 Notes.md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
