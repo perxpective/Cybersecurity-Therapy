@@ -43,4 +43,13 @@
 
 - **Question 1 Answer:**
 	- 4 trees. The following 4 are the disjointed namespaces found in the Active Directory:
-		- kitty
+		- kitty.com
+		- kitty.com.sg
+		- kitty.org.sg
+		- kitty.org (consists of two domains: kitty.org and east.kitty.org)
+- **Question 2 Answer:**
+	- The number of schema is needed to determine the number of forests. Since the question does not give any information about the schema, the answer is therefore unknown
+	- Can be one, two, three, or four
+- **What is the effect of running `cipher /W:C:`?**
+	- The command overwrites deleted data found in the C: Drive
+- **What are the security implications of running the command `cipher /C:C`**
