@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "073456c7826dc15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b269bd15bde23ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +145,17 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "073456c7826dc15b",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
+    "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
+    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
-    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SPIM/SPIM Chapter 2 - Incident Response Framework.md",
-    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
-    "SC/SC Topic 3 -  XSS.md"
+    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md"
   ]
 }
