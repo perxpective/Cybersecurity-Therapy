@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Web Application).md",
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,12 +158,12 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "073456c7826dc15b",
+  "active": "1b269bd15bde23ce",
   "lastOpenFiles": [
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
