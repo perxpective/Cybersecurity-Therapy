@@ -18,4 +18,12 @@
 	- Windows Server DNS is the most compatible with the Active Directory
 		- Non-Microsoft servers can be used but they must be compatible with the Active Directory
 		- Microsoft-based DDNS provides additional information to help domain clients to locate DCs and GCs
-		- 
+
+> **Additional Notes:**
+> - DNS provides important operational network services to domain clients
+> - Misconfigured or compromised DNS can cause operational and security issues
+> - **Example:** Someone can intercept DNS registrations or queries and use them to impersonate users to plant for possible immediate or future attacks
+
+### Installing DNS Services
+- DNS is installed as a server role in Windows Server 2016
+
