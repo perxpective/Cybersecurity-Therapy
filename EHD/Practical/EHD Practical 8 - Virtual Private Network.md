@@ -29,5 +29,14 @@ secret key.txt
 dev tun
 remote Win10-Server-IP
 ifconfig 10.8.0.2 10.8.0.1
-secret ley.
+secret key.txt
 ```
+5. Save the file as `client.ovpn` in `C:\Program Files\OpenVPN\config`
+
+## Connecting to OpenVPN
+**On Win10 VM Server**
+1. On the bottom left corner, click the Windows icon and choose **All apps**
+2. Look for OpenVPN and run OpenVPN GUI
+3. Right-click on OpenVPN GUI icon and choose Connect
+4. If a Windows Firewall popup appears asking to allow OpenVPN to communicate on private networks, click "Allow Access" so that Windows Firewall allows connections to OpenVPN
+5. Run Windows Firewall with Advanced Security and click **Inbound Rules**; 
