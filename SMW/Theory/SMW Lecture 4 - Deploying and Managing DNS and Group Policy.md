@@ -28,6 +28,12 @@
 - DNS is installed as a server role in Windows Server 2016
 
 #### DNS Zones
+> - Common type of DNS query is resolving the IP address of host or domain name
+> - Based on information stored on the **forward lookup zone**
+> - In a scenario when the query is to resolve the host or domain name of a particular IP address, this type of query requires the information from the **reverse lookup zone**
+> - **Stub zone** is a special type of internal lookup
+> - Both reverse lookup and stub zones must be set up manually
+
 - DNS name resolution enabled through the use of tables of information that links computer names and IP addresses
 - Tables are associated with partitions in a DNS server known as **zones**
 	- Contains resource records
@@ -39,3 +45,9 @@
 - IPv6 record is called an IPv6 host address (AAAA) resource record
 - When DNS installed on a domain controller in a domain:
 	- Forward lookup zone automatically created for the domain with DNS server address record already entered
+
+| Resource Record        | Description                                                   |
+| ---------------------- | ------------------------------------------------------------- |
+| Host (A)               | Links computer or network host name to IP address             |
+| Canonical Name (CNAME) | Links alias to computer name,  sometimes called a common name |
+| Load sharing                       |                                                               |
