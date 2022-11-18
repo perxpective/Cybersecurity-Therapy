@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 3 -  XSS.md",
+                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 3 -  XSS.md"
+                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 3 -  XSS.md",
+                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +157,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "1b269bd15bde23ce",
+  "active": "c2d400463aa79003",
   "lastOpenFiles": [
+    "SC/SC Topic 3 -  XSS.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
@@ -166,7 +168,6 @@
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "EHD/Practical/EHD Cheat Sheet (Web Application).md"
+    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
   ]
 }
