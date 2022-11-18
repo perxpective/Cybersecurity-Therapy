@@ -23,16 +23,11 @@
             "id": "a4cfc965be43a4a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md",
+                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md"
+                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
               }
             }
           },
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md",
+                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +152,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "a4cfc965be43a4a8",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
@@ -167,7 +163,6 @@
     "SPIM/SPIM Chapter 3 - Log Management.md",
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
-    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
+    "EHD/Practical/EHD Practical 11 - Wireless Security.md"
   ]
 }
