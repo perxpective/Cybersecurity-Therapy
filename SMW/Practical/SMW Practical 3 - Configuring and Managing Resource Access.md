@@ -282,4 +282,9 @@ Get-ADComputer -Filter *
 8. Close the dialog box
 9. On Active Directory Users and Computers, right-click Mgr1 and select Properties
 10. Click the Profile tab
-11. Set profile path to `\\`
+11. Set profile path to `\\%DomainControllerName%\Profiles\%username%`
+12. Click OK
+13. To test the roaming profile, login to Windows 10 as Mgr1
+14. Make some changes to the desktop, change the wallpaper and log off
+15. On Windows Server 2016, login as Mgr1 and the desktop should be identical to that of the Windows 10 VM
+16. Browse to `C:\Profiles` at the Domain Controller and observe that the new file Mgr1.v6 has been created containing Mgr1's user roaming profile
