@@ -42,3 +42,14 @@ secret key.txt
 5. Run Windows Firewall with Advanced Security and click **Inbound Rules** to see the following rules added to allow connections to OpenVPN for Private profiles and block OpenVPN for Public profiles
 6. On Inbound Rules, disable the rule "File Sharing and Printer Sharing (SMB-In)" and enable the rule for Public profile
 7. When the Win10 client tries to access the shared folder, it will not be able to do so over default private connections but it has to go through OpenVPN connection
+
+**On Win10 VM Client**
+1. In the bottom left corner, click on the Windows icon and choose All apps. Look for OpenVPN and run OpenVPN GUI. An OpenVPN GUI icon will appear in the System tray of the Taskbar.
+2. Right-click on the OpenVPN GUI icon and choose Connect.
+3. If a Windows Firewall popup appears asking if you want to allow OpenVPN to communicate on private networks, click “Allow access” so that Windows Firewall will allow connections to the OpenVPN. (you can always make changes to the Windows Firewall later)
+
+**On Both Win10 VMs (Server and Client)**
+- When the connection is successful, the OpenVPN GUI icon in the system tray will turn green
+- Use `ipconfig` to see VPN IP address (either 10.8.0.1 or 10.8.0.2)
+
+## Capturing Network Packets Through VPN
