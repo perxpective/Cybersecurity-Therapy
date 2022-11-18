@@ -32,4 +32,10 @@
 - Tables are associated with partitions in a DNS server known as **zones**
 	- Contains resource records
 - **Forward Lookup Zone**
-	- zzz
+	- Zone that links computer names to IP addresses
+	- Holds host name records called address records
+	- Most DNS queries handled based on resource records from this zone
+- In IPv4, host record is called a host address (A) resource record
+- IPv6 record is called an IPv6 host address (AAAA) resource record
+- When DNS installed on a domain controller in a domain:
+	- Forward lookup zone automatically created for the domain with DNS server address record already entered
