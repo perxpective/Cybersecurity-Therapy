@@ -253,3 +253,4 @@ get-eventlog -logname application | where-object {$ .source -eq "vmtools"}
 
 ## PowerShell for Domain Enumeration
 1. On Windows 10, login as Mgr1
+2. Search and open 
