@@ -272,3 +272,14 @@ Get-ADComputer -Filter *
 ```
 
 ## Set Roaming Profiles
+1. On the Domain Controller, login as a Domain Administrator
+2. Create a folder `C:\Profiles`
+3. Right-click on Profiles and choose Properties
+4. Select Share tab and click **Advanced Sharing**
+5. Under Advanced Sharing, check the box "Share this folder"
+6. Click on Permissions > Add
+7. Add Authenticated Users and give them the Share Permission of Full Control then click OK
+8. Close the dialog box
+9. On Active Directory Users and Computers, right-click Mgr1 and select Properties
+10. Click the Profile tab
+11. Set profile path to `\\`
