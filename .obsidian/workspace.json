@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
+                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +157,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "c2d400463aa79003",
+  "active": "1b269bd15bde23ce",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SPIM/SPIM Chapter 3 - Log Management.md",
@@ -168,7 +168,6 @@
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md"
+    "EHD/Practical/EHD Cheat Sheet (Web Application).md"
   ]
 }
