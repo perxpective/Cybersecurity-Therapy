@@ -16,9 +16,9 @@ $(“#myDiv”).html(‘Welcome, ’ + name + ‘! You are ’ + age +
 ‘ years old!’);
 
 /* html computes to
-	 <div id=“myDiv”>
-		  Welcome, username! You are 22 years old!
-	 <div>
+	<div id=“myDiv”>
+	Welcome, username! You are 22 years old!
+	<div>
 */
 ```
 
