@@ -28,4 +28,8 @@
 - DNS is installed as a server role in Windows Server 2016
 
 #### DNS Zones
-- DNS name res
+- DNS name resolution enabled through the use of tables of information that links computer names and IP addresses
+- Tables are associated with partitions in a DNS server known as **zones**
+	- Contains resource records
+- **Forward Lookup Zone**
+	- zzz

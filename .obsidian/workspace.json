@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40bece8188e4cc32",
+        "id": "a29d1e39d35831a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c2d400463aa79003",
+            "id": "94064dfa1d63916d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,10 +145,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "c2d400463aa79003",
+  "active": "94064dfa1d63916d",
   "lastOpenFiles": [
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
