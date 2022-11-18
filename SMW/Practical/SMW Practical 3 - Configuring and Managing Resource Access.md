@@ -253,4 +253,22 @@ get-eventlog -logname application | where-object {$ .source -eq "vmtools"}
 
 ## PowerShell for Domain Enumeration
 1. On Windows 10, login as Mgr1
-2. Search and open 
+2. Search and open a PowerShell ISH sessoin
+3. Create a domain object with the following command:
+```
+$myObj = [System.DirectoryServices.ActiveDirectory.Domain]
+```
+4. Execute the `GetCurrentDomain()` method to retrieve the domain information
+```
+$myObj::GetCurrentDomain()
+```
+5. Execute the following command to retrieve a list of all domain accounts
+```
+Get-ADUser -Filter *
+```
+6. Execute the following command to retrieve a list of all domain computer objects
+```
+Get-ADComputer -Filter *
+```
+
+## Set Roaming Profiles
