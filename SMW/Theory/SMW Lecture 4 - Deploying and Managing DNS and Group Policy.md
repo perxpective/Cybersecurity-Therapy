@@ -46,8 +46,10 @@
 - When DNS installed on a domain controller in a domain:
 	- Forward lookup zone automatically created for the domain with DNS server address record already entered
 
-| Resource Record        | Description                                                   |
-| ---------------------- | ------------------------------------------------------------- |
-| Host (A)               | Links computer or network host name to IP address             |
-| Canonical Name (CNAME) | Links alias to computer name,  sometimes called a common name |
-| Load sharing                       |                                                               |
+| Resource Record        | Description                                                                                                                         |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Host (A)               | Links computer or network host name to IP address                                                                                   |
+| Canonical Name (CNAME) | Links alias to computer name,  sometimes called a common name                                                                       |
+| Load sharing           | Spreads load of DNS lookup requests among multiple DNS servers to provide faster resolution for clients and better network response |
+| Mail Exchanger (MX)    | Provides IP address for SMTP servers that can accept email for users in a domain                                                    |
+| Name Server (NS)       | Provides information in response to queries about secondary DNS servers for authr and off-site primary servers                                                                                                                                    |
