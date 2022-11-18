@@ -234,3 +234,22 @@
 10. Find again and type "Staff1" to look for logged Audit Failure event describing his failed login
 
 ## PowerShell for Log Tracing
+- See a brief description for the `get-eventlog` cmdlet
+```
+get-help get-eventlog
+```
+- See a more detailed help screen
+```
+get-help get-eventlog -full
+```
+- View available event logs
+```
+get-eventlog -list
+```
+- List the events in the Application log coming from "VMTools"
+```
+get-eventlog -logname application | where-object {$ .source -eq "vmtools"}
+```
+
+## PowerShell for Domain Enumeration
+1. On Windows 10, login as Mgr1

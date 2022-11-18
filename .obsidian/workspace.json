@@ -23,11 +23,16 @@
             "id": "a4cfc965be43a4a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -93,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
               }
             }
           },
@@ -128,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,10 +158,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "93e015461cbc414f",
+  "active": "a4cfc965be43a4a8",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+    "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
