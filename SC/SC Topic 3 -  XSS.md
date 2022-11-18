@@ -16,9 +16,9 @@ $(“#myDiv”).html(‘Welcome, ’ + name + ‘! You are ’ + age +
 ‘ years old!’);
 
 /* html computes to
-	<div id=“myDiv”>
+<div id=“myDiv”>
 	Welcome, username! You are 22 years old!
-	<div>
+<div>
 */
 ```
 
@@ -31,13 +31,12 @@ $(“#myDiv”).html("Welcome, " + name + "! You are " + age +
 " years old!");
 
 /* html computes to
-     <div id=“myDiv”>
-          Welcome, username! You are 22
-               <script>alert(“xss”);</script>
-          years old!
-     <div>
+<div id=“myDiv”>
+	Welcome, username! You are 22
+	<script>alert(“xss”);</script>
+	years old!
+<div>
 */
-
 ```
 
 ## Non Persistent XSS
@@ -53,8 +52,8 @@ app.get('/example1', (req, res, next) => {
 });
 
 /* html content
-     <h1>Example 1</h1>
-     <p>Hello my name is <%- name %></p>
+<h1>Example 1</h1>
+<p>Hello my name is <%- name %></p>
 */
 ```
 
@@ -68,8 +67,8 @@ app.get('/example1', (req, res, next) => {
 });
 
 /* 
-	<h1>Example 1</h1>
-	<p>Hello my name is WeiLiang<script>alert(‘test’);</script></p>
+<h1>Example 1</h1>
+<p>Hello my name is WeiLiang<script>alert(‘test’);</script></p>
 */
 ```
 
@@ -81,8 +80,8 @@ var name = url.searchParams.get('name');
 document.getElementById(‘name’).innerHTML = name;
 
 /* this is similar to the original example
-	<h1>Example 2</h1>
-	<p>Hello, my name is <span id="name">anonymous</span>!</p>
+<h1>Example 2</h1>
+<p>Hello, my name is <span id="name">anonymous</span>!</p>
 */
 
 app.get('/example2', (req, res, next) => {
@@ -100,8 +99,8 @@ var name = url.searchParams.get('name');
 document.getElementById(‘name’).innerHTML = name;
 
 /* 
-     <h1>Example 2</h1>
-     <p>Hello my name is <b>WeiLiang</b>!</p>
+<h1>Example 2</h1>
+<p>Hello my name is <b>WeiLiang</b>!</p>
 */
 ```
 
@@ -118,9 +117,9 @@ app.get('/example3', (req, res, next) => {
 });
 
 /* 
-	<h1>Example 3</h1>
-	<p>I really adore the beautiful skies.</p>
-	<p>Read more at <a href="<%- content %>">here</a>.</p>
+<h1>Example 3</h1>
+<p>I really adore the beautiful skies.</p>
+<p>Read more at <a href="<%- content %>">here</a>.</p>
 */
 ```
 
@@ -137,8 +136,8 @@ app.get('/example4', (req, res, next) => {
 });
 
 /* almost exactly the same as example 1
-	<h1>Example 4</h1>
-	<p>Hello my name is <%= name %></p>
+<h1>Example 4</h1>
+<p>Hello my name is <%= name %></p>
 */
 ```
 
@@ -152,8 +151,8 @@ app.get('/example4', (req, res, next) => {
 });
 
 /* 
-	<h1>Example 1</h1>
-	<p>Hello my name is WeiLiang<script>alert(‘test’);</script></p>
+<h1>Example 1</h1>
+<p>Hello my name is WeiLiang<script>alert(‘test’);</script></p>
 */
 ```
 
@@ -188,8 +187,8 @@ app.get('/example1', (req, res, next) => {
 });
 
 /* 
-	<td><%- data[i].name %></td>
-	<td><%- data[i].email %></td>
+<td><%- data[i].name %></td>
+<td><%- data[i].email %></td>
 */
 
 let name = req.query.name;
