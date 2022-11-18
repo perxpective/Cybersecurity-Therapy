@@ -53,3 +53,11 @@ secret key.txt
 - Use `ipconfig` to see VPN IP address (either 10.8.0.1 or 10.8.0.2)
 
 ## Capturing Network Packets Through VPN
+**On Win10 VM Server**
+- Run Wireshark and start capturing packets on the Ethernet interface
+
+**On Win10 Client**
+- Access the shared folder on the VPN Server using `\\10.8.0.1\shared`
+
+**On Win10 Server**
+1. Stop the Wireshark capture and view the encrypted packet contents
