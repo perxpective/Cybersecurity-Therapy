@@ -46,10 +46,18 @@
 - When DNS installed on a domain controller in a domain:
 	- Forward lookup zone automatically created for the domain with DNS server address record already entered
 
-| Resource Record        | Description                                                                                                                         |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Host (A)               | Links computer or network host name to IP address                                                                                   |
-| Canonical Name (CNAME) | Links alias to computer name,  sometimes called a common name                                                                       |
-| Load sharing           | Spreads load of DNS lookup requests among multiple DNS servers to provide faster resolution for clients and better network response |
-| Mail Exchanger (MX)    | Provides IP address for SMTP servers that can accept email for users in a domain                                                    |
-| Name Server (NS)       | Provides information in response to queries about secondary DNS servers for authr and off-site primary servers                                                                                                                                    |
+| Resource Record                                  | Description                                                                                                                                                |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Host (A)                                         | Links computer or network host name to IP address                                                                                                          |
+| Canonical Name (CNAME)                           | Links alias to computer name,  sometimes called a common name                                                                                              |
+| Load sharing                                     | Spreads load of DNS lookup requests among multiple DNS servers to provide faster resolution for clients and better network response                        |
+| Mail Exchanger (MX)                              | Provides IP address for SMTP servers that can accept email for users in a domain                                                                           |
+| Name Server (NS)                                 | Provides information in response to queries about secondary DNS servers for authoritative server and off-site primary servers not authoritative for domain |
+| Pointer Record (PTR)                             | Associates IP address to computer or network host name                                                                                                     |
+| Service Locator (SRV)                            | Associates particular TCP/IP service to server along with domain of server and its protocol                                                                |
+| Start of Authority (SOA)                         | First record in a zone and also indicates if server is authoritative for current zone                                                                      |
+| Windows Internet Naming Service (WINS)           | Forwards lookup request for NetBIOS name to WINS server when host name cannot be found in DNS                                                              |
+| Windows Internet Naming Service Reverse (WINS-R) | Forwards reverse lookup request to WINS server                                                                                                             |
+
+### Using DNS Dynamic Update Protocol
+- Microsoft DNS is also kno
