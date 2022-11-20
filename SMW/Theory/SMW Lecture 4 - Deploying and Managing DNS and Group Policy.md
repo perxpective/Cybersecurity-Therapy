@@ -73,9 +73,9 @@
 ### DNS Replication
 **Primary DNS Server:**
 - Main administrative server for a zone and thus also the authoritative server for that zone
-
 **Secondary DNS Server:**
-- Contains copy of primary DNS server
+- Contains copy of primary DNS server zone database but not used for administration
+- Obtains copy of zone database through a zone transfer over the network
 
 <u>Vital services performed by secondary DNS servers:</u>
 - Make sure that there is always a copy of primary DNS server's data
@@ -92,3 +92,10 @@
 > - Secondary DNS servers unable to fully replace functions of primary DNS
 > - Only authorized DNS can request zone data transfer from master
 > - Replication process also protects transfer data using both authentication and encryption schemes
+
+### DNS Query
+- Client request local DNS for a name to IP address resolution
+- <u>Local DNS gives an immediate answer when:</u>
+	- The authoritative server for the particular domain
+	- Local DNS has the required information from its cache
+- <u>When DNS does not have the answer:</u>
