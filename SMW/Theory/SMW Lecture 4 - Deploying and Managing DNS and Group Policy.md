@@ -71,10 +71,11 @@
 	- Saves administrators time since they no longer have to manually register each new workstation or each time new IP lease is issued
 
 ### DNS Replication
-| Primary DNS Server                                      | Secondary DNS Server                                                                    |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Main administrative and authoritative server for a zone | Contains a copy of primary DNS server zone database and but not used for administration |
-|                                                         | Obtains copy of zone database via zone transfer over the network                        |
+**Primary DNS Server:**
+- Main administrative server for a zone and thus also the authoritative server for that zone
+
+**Secondary DNS Server:**
+- Contains copy of primary DNS server
 
 <u>Vital services performed by secondary DNS servers:</u>
 - Make sure that there is always a copy of primary DNS server's data
@@ -90,4 +91,4 @@
 > - Zone data updates can only be taken place at the primary DNS
 > - Secondary DNS servers unable to fully replace functions of primary DNS
 > - Only authorized DNS can request zone data transfer from master
-> - Replication pro
+> - Replication process also protects transfer data using both authentication and encryption schemes
