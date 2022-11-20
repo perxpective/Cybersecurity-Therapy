@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +147,7 @@
   },
   "active": "94064dfa1d63916d",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
@@ -154,7 +156,6 @@
     "EHD/Practical/EHD Practical 7 - Intrusion Detection Systems.md",
     "SPIM/SPIM Chapter 3 - Log Management.md",
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
-    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md",
-    "EHD/Practical/EHD Practical 11 - Wireless Security.md"
+    "SPIM/SPIM Chapter 1 - Introduction to Incident Management.md"
   ]
 }
