@@ -76,3 +76,18 @@
 | Main administrative and authoritative server for a zone | Contains a copy of primary DNS server zone database and but not used for administration |
 |                                                         | Obtains copy of zone database via zone transfer over the network                        |
 
+<u>Vital services performed by secondary DNS servers:</u>
+- Make sure that there is always a copy of primary DNS server's data
+- Enable DNS load balancing among primary DNS server and secondary servers
+- Let secondary DNS face and answer to queries from the public network
+- Reduce congestion in one part of the network
+
+**If using Active Directory and have two or more DCs:**
+- Set up Microsoft DNS services on at least two of the DCs
+
+> **Notes:**
+> - Unlike DC Replication, DNS Replication is not working in multi-master mode
+> - Zone data updates can only be taken place at the primary DNS
+> - Secondary DNS servers unable to fully replace functions of primary DNS
+> - Only authorized DNS can request zone data transfer from master
+> - Replication pro
