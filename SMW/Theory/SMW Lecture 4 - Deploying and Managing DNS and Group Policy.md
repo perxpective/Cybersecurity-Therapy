@@ -71,3 +71,6 @@
 	- Saves administrators time since they no longer have to manually register each new workstation or each time new IP lease is issued
 
 ### DNS Replication
+| Primary DNS Server                                      | Secondary DNS Server |
+| ------------------------------------------------------- | -------------------- |
+| Main administrative and authoritative server for a zone | Contains a copy of primary DNS se                     |
