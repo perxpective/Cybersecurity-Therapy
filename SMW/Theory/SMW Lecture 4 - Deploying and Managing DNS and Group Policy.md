@@ -153,3 +153,5 @@
 - Create two or more DNS servers to take advantage of load balancing, multi-master relationships (with AD-integrated zones) and fault tolerance
 - Designate one DNS server as a forwarder to reduce traffic
 - Number of DNS servers set up can be related to analysis or an organisation
+- If there are multiple servers used for one application, use round robin to distribute the load
+	- Only applicable for namespace with cluster setup
