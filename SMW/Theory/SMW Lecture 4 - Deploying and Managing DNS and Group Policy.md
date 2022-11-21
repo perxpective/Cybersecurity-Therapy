@@ -144,4 +144,12 @@
 | Potential to enable customizable DNS service within an enterprise e.g. DNS filtering and logging |                                                                                      |
 
 ## Creating DNS Implementation
-### Best 
+### Best Practice Recommendations
+- Implement Windows Server 2016 DNS servers instead of other versions of DNS and use Active Directory
+- Resource records and zones that can be set up for IPv4 can also be set up for IPv6
+- Consider using namespaces to represent natural organisational boundaries
+- Make sure DNS servers on private network are well secured in terms of Windows Server 2016 security options
+- Plan to locate DNS server across most site links
+- Create two or more DNS servers to take advantage of load balancing, multi-master relationships (with AD-integrated zones) and fault tolerance
+- Designate one DNS server as a forwarder to reduce traffic
+- Number of DNS servers set up can be related to analysis or an organisation
