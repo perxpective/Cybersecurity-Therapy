@@ -122,4 +122,15 @@
 	- Server that originally forwarded the request attempts to resolve via other ways
 	- Called **nonexclusive forwarding**
 - Windows Server 202126 supports use of forwarder and root hints
-	- But root hints traffic may be 
+	- But root hints traffic may be blocked by higher level ISP for security measure
+
+![](https://i.imgur.com/xsDVH19.png)
+
+- DNS server can function as a caching server
+>- **Caching server** used to provide fast queries as results of each query are stored in RAM
+
+- DNS server without zones is a server that is caching-only
+	- Caching-only DNS server queries primary or secondary DNS server and caches results to provide fast response for the next identical query
+	- Used to reduce the number of secondary server and reduce extra network traffic
+- **Limitation of using caching servers:**
+	- Takes time for each one to build up a comprehensive set o
