@@ -177,4 +177,6 @@
 - **DNS Server Problems:**
 	- <u>DNS server is not responding with correct information to DNS queries from clients</u>
 		- Check manually added DNS host address records for accuracy
-		- If errors
+		- If errors are related to one client, check the DNS client computer to ensure that it is working correctly including that the NIC and its driver are working correctly
+	- <u>Users can contact DNS server but receive a permission denied message when trying to read DNS records</u>
+		- Ensure that users have permission to read DNS records, open the DNS Manager, right-click the domain in the tree, click Properties
