@@ -99,4 +99,4 @@
 	- The authoritative server for the particular domain
 	- Local DNS has the required information from its cache
 - <u>When DNS does not have the answer:</u>
-	- 
+	- Looks up IP address of corresponding authoritative 
