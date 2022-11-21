@@ -155,3 +155,4 @@
 - Number of DNS servers set up can be related to analysis or an organisation
 - If there are multiple servers used for one application, use round robin to distribute the load
 	- Only applicable for namespace with cluster setup
+- If a branch location with a **read-only domain controller (RODC)** needs local DNS services because there are many users, make the 
