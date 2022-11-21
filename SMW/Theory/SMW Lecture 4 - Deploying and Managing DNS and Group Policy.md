@@ -133,4 +133,15 @@
 	- Caching-only DNS server queries primary or secondary DNS server and caches results to provide fast response for the next identical query
 	- Used to reduce the number of secondary server and reduce extra network traffic
 - **Limitation of using caching servers:**
-	- Takes time for each one to build up a comprehensive set o
+	- Takes time for each one to build up a comprehensive set of resolved names to IP addresses
+- It is sometimes necessary to flush DNS server cache
+
+### Forwarders vs Root Hints
+| Forwarders                                                                                       | Root Hints                                                                           |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Faster (recursive query)                                                                         | Slower due to interactive queries                                                    |
+| Local DNS has no way to ensure security configuration of external forwarder                      | More reliable (13 root hints support by more than 200 actual load-balancing servers) |
+| Potential to enable customizable DNS service within an enterprise e.g. DNS filtering and logging |                                                                                      |
+
+## Creating DNS Implementation
+### Best 
