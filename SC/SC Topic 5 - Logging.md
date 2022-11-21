@@ -73,3 +73,21 @@ morgan.token("myToken", (req, res) => {
 	return ...
 })
 ```
+- Applying the custom token:
+```js
+app.use(morgan(":myToken :method :url :date"))
+```
+
+## Log File Rotation
+- Log file can grow to a very large size for applications hosted on the cloud
+- Need to create multiple log files (e.g. one per day) depending on the needs of an application
+- Use the `rotating-file-stream` module
+```
+npm install rotating-file-stream --save
+```
+```js
+var rfs = require("rotating-file-stream")
+var appLogStream = rfs.createStream('access.log', {
+	interval: "1d"
+})
+```
