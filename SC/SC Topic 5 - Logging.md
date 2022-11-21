@@ -57,3 +57,19 @@ morgan(format, options)
 | dev      | Color-coded log format by request status         |
 | short    | Shorter than default format                      |
 | tiny     | Even shorter, just response time and a few items |
+
+- Pre-defined log formats with Morgan:
+```js
+var morgan = require('morgan')
+app.use(morgan("combined"))
+```
+- Using pre-defined tokens:
+```js
+app.use(morgan(':method :url :date'))
+```
+- Creating custom tokens
+```js
+morgan.token("myToken", (req, res) => {
+	return ...
+})
+```
