@@ -112,5 +112,14 @@
 	- Name server records to identify authoritative servers
 	- Record for name servers that are authoritative
 - One common use for a stub zone is help quickly resolve computer names between two different namespaces
-- **Zone Tra**
-- 
+- **Zone Transfer Privilege**
+	- Local DNS requires to have zone transfer privilege granted from the target DNS that owns the Forward Zone
+	- Cannot set up stub zone for `google.com` unless local DNS has required privilege granted from authoritative DNS of `google.com`
+
+### Additional DNS Server Roles
+- Common to designate one DNS server to forward name resolution requests to specific remote DNS server
+- DNS forwarding can be set up if DNS server receiving the forwarded request cannot resolve the name
+	- Server that originally forwarded the request attempts to resolve via other ways
+	- Called **nonexclusive forwarding**
+- Windows Server 202126 supports use of forwarder and root hints
+	- But root hints traffic may be 
