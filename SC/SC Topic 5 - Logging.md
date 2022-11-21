@@ -23,4 +23,23 @@
 ```
 npm install morgan --save
 ```
-- Impoert
+- Import the Morgan library:
+```js
+var morgan = require("morgan")
+```
+- API:
+```js
+morgan(format, options)
+```
+
+### Pre-Defined Tokens
+| Token          | Value                                                          |
+| -------------- | -------------------------------------------------------------- |
+| :date          | Current date and time in UTC                                   |
+| :http-version  | HTTP version of request                                        |
+| :method        | HTTP method of request                                         |
+| :referrer      | Referrer header of request                                     |
+| :remote-addr   | Remote IP address of request                                   |
+| :remote-user   | User authenticated as part of basic authentication for request |
+| :req\[header\] | Given header of the request                                    |
+| :req               |                                                                |
