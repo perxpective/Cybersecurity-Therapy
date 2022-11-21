@@ -155,4 +155,14 @@
 - Number of DNS servers set up can be related to analysis or an organisation
 - If there are multiple servers used for one application, use round robin to distribute the load
 	- Only applicable for namespace with cluster setup
-- If a branch location with a **read-only domain controller (RODC)** needs local DNS services because there are many users, make the 
+- If a branch location with a **read-only domain controller (RODC)** needs local DNS services because there are many users, make the RODC a secondary DNS server and not a primary DNS server
+
+> **Security Benefits of RDOC**
+> - Unidirectional replication (compromised RODC will not spread malicious updates)
+> - Not caching any passwords on a RDOC
+
+## DNS Enhancement in Windows Server 2016
+- DNS group policies for:
+	- Filtering malicious IP address and redirecting malicious clients to a dead end rather than to the computer they want to reach
+	- Redirecting clients to specific data sources or servers according to time of the day
+	- Managing cli
