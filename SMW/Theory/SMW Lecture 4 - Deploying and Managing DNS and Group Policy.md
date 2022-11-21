@@ -176,4 +176,4 @@
 	- Check for the most recent log errors relating to DNS
 - **DNS Server Problems:**
 	- <u>DNS server is not responding with correct information to DNS queries from clients</u>
-		- Check manually added DNS 
+		- Check manually added DNS host address records for accuracy
