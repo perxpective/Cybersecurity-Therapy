@@ -725,7 +725,7 @@ grant alter table to UnauthorizedUser
 ## WebGoat (Injection Flaws) - SQL Injection (Advanced)
 ### SQL Injection with UNION
 > **Note while working with UNION**
-> - Number of columns selected in each statement must be the same
+> 		- Number of columns selected in each statement must be the same
 > - Datatype of first column in first SELECT statement must match datatype of first column in the second SELECT statement
 
 1. Select SQL injection (advanced) in WebGoat
