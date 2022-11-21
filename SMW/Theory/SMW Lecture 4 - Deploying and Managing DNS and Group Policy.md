@@ -179,4 +179,8 @@
 		- Check manually added DNS host address records for accuracy
 		- If errors are related to one client, check the DNS client computer to ensure that it is working correctly including that the NIC and its driver are working correctly
 	- <u>Users can contact DNS server but receive a permission denied message when trying to read DNS records</u>
-		- Ensure that users have permission to read DNS records, open the DNS Manager, right-click the domain in the tree, click Properties
+		- Ensure that users have permission to read DNS records, open the DNS Manager, right-click the domain in the tree, click Properties > Security tab and ensure that the Everyone group and other general user groups has *Allow* checked for Read permission
+	- <u>Users cannot access the DNS server</u>
+		- Check the DNS server's connection to the network to ensure that it is live on the network
+	- <u>Users can access the DNS server, but DNS record information is not being processed</u>
+		- Ensure that DNS Server and DNS Client services are started and set to start automatically when the server is booted
