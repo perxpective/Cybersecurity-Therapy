@@ -174,7 +174,6 @@
 - Steps to take to troubleshoot DNS problems
 	- Restart the DNS server and DNS client services
 	- Check for the most recent log errors relating to DNS
-
-| DNS Server Problem                                                                | Solutions |
-| --------------------------------------------------------------------------------- | --------- |
-| DNS server is not responding with correct information to DNS queries from clients | Ensure that dynamic DNS enabled and configured properly<br>Check manually added DNS host address records for accuracy          |
+- **DNS Server Problems:**
+	- <u>DNS server is not responding with correct information to DNS queries from clients</u>
+		- Check manually added DNS 
