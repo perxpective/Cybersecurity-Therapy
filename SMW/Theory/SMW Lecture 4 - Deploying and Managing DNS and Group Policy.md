@@ -184,3 +184,5 @@
 		- Check the DNS server's connection to the network to ensure that it is live on the network
 	- <u>Users can access the DNS server, but DNS record information is not being processed</u>
 		- Ensure that DNS Server and DNS Client services are started and set to start automatically when the server is booted
+	- <u>Installed an update to DNS server but DNS response to client is experiencing errors</u>
+		- Reload the DNS server database, open the DNS Manager, click the domain in the tree, click the Action menu and click Reload to reload the database
