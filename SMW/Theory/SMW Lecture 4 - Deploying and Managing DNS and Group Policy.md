@@ -99,4 +99,18 @@
 	- The authoritative server for the particular domain
 	- Local DNS has the required information from its cache
 - <u>When DNS does not have the answer:</u>
-	- Looks up IP address of corresponding authoritative 
+	- Looks up IP address of corresponding authoritative server from one of the root servers (root server addresses are built-in to DNS installation)
+	- Involves multiple rounds of inquiries
+	- Local DNS acts as client to visit multiple authoritative DNS servers to get the final server
+	- Also known as **Iterative Lookup**
+	- Once the actual authoritative server is identified, local DNS contacts the remote DNS directly and gets required information
+
+### Stub Zone
+- Bare necessities for DNS functions
+- Copies of the following
+	- SOA record zone
+	- Name server records to identify authoritative servers
+	- Record for name servers that are authoritative
+- One common use for a stub zone is help quickly resolve computer names between two different namespaces
+- **Zone Tra**
+- 
