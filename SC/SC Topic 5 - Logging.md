@@ -88,6 +88,9 @@ npm install rotating-file-stream --save
 ```js
 var rfs = require("rotating-file-stream")
 var appLogStream = rfs.createStream('access.log', {
-	interval: "1d"
+	interval: "1d",
+	path: path.join(__dirname, 'log')
 })
+
+app.use(morgan("combined", { stream: appLogStream }))
 ```
