@@ -165,4 +165,16 @@
 - DNS group policies for:
 	- Filtering malicious IP address and redirecting malicious clients to a dead end rather than to the computer they want to reach
 	- Redirecting clients to specific data sources or servers according to time of the day
-	- Managing cli
+	- Managing client access to account for high traffic situations
+	- Directing clients to best source for specific application
+- Ability for DNS to work with client computers that have more than one NIC
+- New PowerShell cmdlets for configuring DNS
+
+## Troubleshooting DNS
+- Steps to take to troubleshoot DNS problems
+	- Restart the DNS server and DNS client services
+	- Check for the most recent log errors relating to DNS
+
+| DNS Server Problem                                                                | Solutions |
+| --------------------------------------------------------------------------------- | --------- |
+| DNS server is not responding with correct information to DNS queries from clients | Ensure that dynamic DNS enabled and configured properly<br>Check manually added DNS host address records for accuracy          |
