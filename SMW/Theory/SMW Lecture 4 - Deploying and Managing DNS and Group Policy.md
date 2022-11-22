@@ -216,3 +216,11 @@
 	- May disable all these by default and use Group Policies to enable them prior to a routine MBSA scan for the entire network or subnet
 
 ## Microsoft Security Compliance Manager
+- Utility to enable automation deployment and monitoring baseline compliance
+- **Key Feature and Benefits:**
+	- Download security baselines from Microsoft
+	- Compare and customise security baselines
+	- Export baselines in formats like XLS and/or Group Policy Object (GPOs)
+
+## Security Features in Windows Server 2016
+- Windows Server 2016 was created to emph
