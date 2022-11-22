@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 2.md",
+                "file": "SC/SC Topic 5 - Logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242,
-    "collapsed": true
+    "width": 217.50260543823242
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "file": "SC/SC Topic 5 - Logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
+                "file": "SC/SC Topic 5 - Logging.md"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "file": "SC/SC Topic 5 - Logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,12 +156,12 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "07d354c0570239ea",
+  "active": "2248f04ea1f9cf70",
   "lastOpenFiles": [
-    "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
-    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+    "SMW/Tutorials/SMW Tutorial 3.md",
+    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 3 -  XSS.md",
