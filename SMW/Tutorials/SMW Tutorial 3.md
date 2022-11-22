@@ -12,4 +12,6 @@
 - What is DNS reverse lookup?
 - By default, not all the hosts are having their reverse lookup (PTR) entries set up at the DNS zone. Name a reason why we may want to setup PTR entries for some of the hosts
 - Please compare the iterative lookup and recursive lookup in term of efficiency, and possible security implications
-- List three best practices to tighten security of a
+- List three best practices to tighten security of a DNS service in an Active Directory network
+- List two functions of SCM
+- Briefly describe three possible ways for a Windows Server 2016 DNS to resolve the name address queries for its clients
