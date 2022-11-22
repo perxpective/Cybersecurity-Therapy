@@ -223,4 +223,14 @@
 	- Export baselines in formats like XLS and/or Group Policy Object (GPOs)
 
 ## Security Features in Windows Server 2016
-- Windows Server 2016 was created to emph
+- Windows Server 2016 was created to emphasize security:
+	- Reduced attack surface of the kernel through Server Core and Nano Server
+	- Expanded and evolving Group Policies
+	- Windows Firewall
+	- Windows Defender
+	- Security Templates and Security Configuration and Analysis tools
+	- User Account Control
+	- BitLocker Drive Encryption
+- Server Core or Nano Server can be a good solution for a server that handles critical network operations e.g. DNS and DHCP
+	- Also can be a good solution for a web or other server in a DMZ of a network
+	- Can also offer better performance and lead to fewer problems
