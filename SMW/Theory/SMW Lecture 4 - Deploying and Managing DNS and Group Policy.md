@@ -234,3 +234,11 @@
 - Server Core or Nano Server can be a good solution for a server that handles critical network operations e.g. DNS and DHCP
 	- Also can be a good solution for a web or other server in a DMZ of a network
 	- Can also offer better performance and lead to fewer problems
+
+> **Demilitarised Zone (DMZ)** - Portion of a network that is in between two networks e.g. between private network and Internet
+> - Computers in the DMZ have fewer security defences via routers and firewalls
+
+- Group policy is a way to bring consistent security and other management to Windows Server 2016 and to clients connecting to a server
+- Settings are merged in Windows Firewall and IPSec for consistency
+
+> **Windows Defender** - Software that 
