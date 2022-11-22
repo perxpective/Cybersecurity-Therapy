@@ -202,4 +202,12 @@
 > **MBSA** - tool used to scan Windows-based computers for common security holes
 
 - Compares a computer's settings against Microsoft's released patches and listed vulnerabilities
-- Runs on Windows 2013, Window
+- Runs on Windows Server 2013, Windows Server 2018, Windows Server 2012 R2 and Windows Server 2016
+- Most current and last version of MBSA is 2.3
+- MBSA provides streamlined method to identify missing security updates and common security configurations
+- Microsoft Security Compliance Toolkit (SCT)
+	- New set of tools for Windows 10 and Windows Server 2019
+- MBSA checks the following desktop application parameters:
+	- Internet Explorer security zone settings per local user
+	- Outlook security zone settings per local user
+	- 
