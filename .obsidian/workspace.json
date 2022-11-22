@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +157,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "2248f04ea1f9cf70",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
+    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SC/SC Topic 5 - Logging.md",
@@ -168,7 +168,6 @@
     "EHD/Theory/EHD Topic 6 - Web Application Security.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-    "EHD/Practical/EHD Practical 8a - pfSense Firewall with OpenVPN.md"
+    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
   ]
 }
