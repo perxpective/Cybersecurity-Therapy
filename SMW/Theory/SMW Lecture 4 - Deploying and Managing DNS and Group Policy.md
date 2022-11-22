@@ -249,3 +249,9 @@
 	- Designed to keep the user running in the standard user mode as a way to:
 		- More fully insulate the kernel
 		- Keep operating system and desktop files stabilized
+	- Another element of UAC is the Administrator Approval Mode
+		- Prevents malware or intruder from acquiring control through a backdoor without administrator's knowledge
+- **BitLocker Drive Encryption**
+	- Prevents an intruder from bypassing ACL file and folder protections
+
+## Introduction to Group Policy
