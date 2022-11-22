@@ -210,4 +210,9 @@
 - MBSA checks the following desktop application parameters:
 	- Internet Explorer security zone settings per local user
 	- Outlook security zone settings per local user
-	- 
+	- Office products security zone settings per local user
+- MBSA tool to be run on multiple machines or remotely, the following must be enabled:
+	- Server Service, Remote Registry Service, File and Print Sharing
+	- May disable all these by default and use Group Policies to enable them prior to a routine MBSA scan for the entire network or subnet
+
+## Microsoft Security Compliance Manager
