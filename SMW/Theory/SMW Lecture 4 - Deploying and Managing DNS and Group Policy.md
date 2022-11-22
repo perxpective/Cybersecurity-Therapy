@@ -241,4 +241,7 @@
 - Group policy is a way to bring consistent security and other management to Windows Server 2016 and to clients connecting to a server
 - Settings are merged in Windows Firewall and IPSec for consistency
 
-> **Windows Defender** - Software that 
+> **Windows Defender** - Software that scans for viruses, spyware and malware
+> - Windows Server 2016 is the first Windows Server OS to include Windows Defender
+
+- Security Templates and Security Configuration and Analysisi 
