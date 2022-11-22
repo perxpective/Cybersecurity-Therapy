@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,8 @@
   },
   "active": "07d354c0570239ea",
   "lastOpenFiles": [
-    "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
+    "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
