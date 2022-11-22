@@ -255,3 +255,12 @@
 	- Prevents an intruder from bypassing ACL file and folder protections
 
 ## Introduction to Group Policy
+> Group Policy in Windows Server 2016 enables users to standardize working environment of clients and servers by settings policies in the Active Directory
+
+- **Defining characteristics of Group Policy:**
+	- Group Policy can be set for a site, domain, OU or local computer
+	- Group Policy cannot be set for non-OU folder containers
+	- Group Policy settings are stored in Group Policy Objects
+	- GPOs can be local and nonlocal
+	- Group Policy can be set up to affect user accounts and computers
+	- When Group Policy sii
