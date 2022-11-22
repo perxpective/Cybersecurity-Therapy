@@ -188,4 +188,12 @@
 		- Reload the DNS server database, open the DNS Manager, click the domain in the tree, click the Action menu and click Reload to reload the database
 
 ## DNS Threats
-- Enterprise Administrators should watch out for the following possible DNS related threats
+- Enterprise Administrators should watch out for the following possible DNS related threats:
+	- **DDoS with DNS Amplification Attack**
+		- Bogus queries are sent to a DNS to trigger it to send high volume of replies to target victim
+	- **Cache Poisoning**
+		- DNS Cache / Stub Zone / Forwarder is comprised, causing DNS to return incorrect IP addresses, diverting traffic to attacker's computer
+	- **Registrar Hijacking**
+		- Also known as **domain hijacking**
+		- Act of changing the registration of a domain without permission of its original registrant
+		- Can be done in several ways generally by exploiting a vulnerability in the domain name registration system or through social engineering
