@@ -188,4 +188,4 @@
 		- Reload the DNS server database, open the DNS Manager, click the domain in the tree, click the Action menu and click Reload to reload the database
 
 ## DNS Threats
-- Enterprise Administrators shall watch out for the following possible DNS related threats
+- Enterprise Administrators should watch out for the following possible DNS related threats
