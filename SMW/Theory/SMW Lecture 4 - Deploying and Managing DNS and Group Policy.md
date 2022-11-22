@@ -197,3 +197,9 @@
 		- Also known as **domain hijacking**
 		- Act of changing the registration of a domain without permission of its original registrant
 		- Can be done in several ways generally by exploiting a vulnerability in the domain name registration system or through social engineering
+
+## Using Microsoft Baseline Security Analyser
+> **MBSA** - tool used to scan Windows-based computers for common security holes
+
+- Compares a computer's settings against Microsoft's released patches and listed vulnerabilities
+- Runs on Windows 2013, Window
