@@ -244,4 +244,8 @@
 > **Windows Defender** - Software that scans for viruses, spyware and malware
 > - Windows Server 2016 is the first Windows Server OS to include Windows Defender
 
-- Security Templates and Security Configuration and Analysisi 
+- Security Templates and Security Configuration and Analysis tools that enables users to configure server-wide security
+- **User Account Control (UAC)**
+	- Designed to keep the user running in the standard user mode as a way to:
+		- More fully insulate the kernel
+		- Keep operating system and desktop files stabilized
