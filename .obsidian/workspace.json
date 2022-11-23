@@ -23,12 +23,8 @@
             "id": "26f82aa4bf50fda3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +149,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "26f82aa4bf50fda3",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
+    "SC/SC Topic 4 - SQL Injection.md",
+    "SC/MSTw.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SC/SC Topic 5 - Logging.md",
@@ -166,8 +160,6 @@
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "EHD/Practical/EHD Practical 6 - Web Application Security.md",
-    "EHD/Theory/EHD Topic 6 - Web Application Security.md",
-    "EHD/Practical/EHD Practical 11 - Wireless Security.md"
+    "EHD/Practical/EHD Practical 6 - Web Application Security.md"
   ]
 }
