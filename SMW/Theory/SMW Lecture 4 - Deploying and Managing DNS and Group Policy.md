@@ -264,3 +264,20 @@
 	- GPOs can be local and nonlocal
 	- Group Policy can be set up to affect user accounts and computers
 	- When Group Policy is updated, old policies are removed or updated for all clients
+
+![](https://i.imgur.com/KJEQWCp.png)
+
+- Computer Configuration settings apply to computers
+![](https://i.imgur.com/j3HUbVW.png)
+
+- User Configuration settings applies to users
+![](https://i.imgur.com/1zvE7Cu.png)
+
+- Security policies are subset of individual policies
+	- Within a larger group policy for a site, domain, OU or local computer
+- Security policies include the following:
+	- Account Policies
+	- Audit Policy
+	- User Rights
+	- Security Options
+	- IP Security Policies
