@@ -263,4 +263,4 @@
 	- Group Policy settings are stored in Group Policy Objects
 	- GPOs can be local and nonlocal
 	- Group Policy can be set up to affect user accounts and computers
-	- When Group Policy sii
+	- When Group Policy is updated, old policies are removed or updated for all clients
