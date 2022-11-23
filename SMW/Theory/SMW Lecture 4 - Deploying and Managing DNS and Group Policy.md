@@ -281,3 +281,13 @@
 	- User Rights
 	- Security Options
 	- IP Security Policies
+
+### Account Policies
+- Security measures set up in a Group Policy that applies to all accounts or to all accounts in a container when Active Directory is installed
+- Account policy options that users can configure affects **three main areas:**
+	- Password security
+	- Account lockout
+	- Kerberos security
+
+#### Password Security
+- One option is to set a password expiration period requiring users to change passwords at regular intervals
