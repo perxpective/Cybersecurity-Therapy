@@ -23,8 +23,12 @@
             "id": "26f82aa4bf50fda3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
+              }
             }
           },
           {
@@ -126,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,10 +157,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "93e015461cbc414f",
+  "active": "26f82aa4bf50fda3",
   "lastOpenFiles": [
-    "SC/SC Topic 4 - SQL Injection.md",
     "SC/MSTw.md",
+    "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SC/SC Topic 5 - Logging.md",
