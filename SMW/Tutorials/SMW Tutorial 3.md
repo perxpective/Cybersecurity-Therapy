@@ -70,3 +70,7 @@ Based on the given information, determine the effective permissions of the three
 4. Read/write + delete
 5. Full Control
 6. No access
+
+> **Note:**
+> - NTFS permissions apply when shared folder accessed locally
+> - When shared folder is access remotely, take the more restrictive permission of the NTFS and Share permissions
