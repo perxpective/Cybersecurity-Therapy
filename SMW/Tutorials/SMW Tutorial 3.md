@@ -31,4 +31,20 @@ The following 2 tables describe the security grouping relationship of three user
 | Manager    | Staff     |
 
 There is a member server `doc.smw.com` which hosts a shared folder
-Below are the sharing permissions configuratiion
+Below are the sharing permissions configurations and settings of the particular shared folder being hosted on `doc.smw.com`
+
+**\\\\doc.smw.com\\bulletin**
+| Group/User | Permissions |
+| ---------- | ----------- |
+| Manager    | Change      |
+| Staff      | Read        |
+| Intern     | Deny Read   |
+
+The following are the NTFS permissions configurations of the local folder that associate with the bulletin shared folder
+
+**D:\\staff_notice** shared as **\\\\doc.smw.com\\bulletin**
+| Group/User | Permissions                                  |
+| ---------- | -------------------------------------------- |
+| Manager    | Read & Execute, List Directory Content, Read |
+| IT Support | Full Control                                 |
+| Intern     | Read & Execute, List Dire                                             |
