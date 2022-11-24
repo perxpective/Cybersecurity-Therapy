@@ -12,8 +12,9 @@
 - **Continuing on the previous question, if file X is under the folder `d:\data` and this folder has been shared as `\\memsrv1\netShare`, the shared folder permission settings only allow security group, G3 to have read-only access to it. Mary is also a member of G3. What will be the effective access right of Mary for the file X when she accesses it via the network?**
 	- Mary will have read only access to file X
 - **What is DNS reverse lookup?**
-	- 
+	- A querying technique of DNS to determine domain name associated with the IP address
 - **By default, not all the hosts are having their reverse lookup (PTR) entries set up at the DNS zone. Name a reason why we may want to setup PTR entries for some of the hosts**
+	- A PTR associates IP address to a computer or network host name
 - **Please compare the iterative lookup and recursive lookup in term of efficiency, and possible security implications**
 - **List three best practices to tighten security of a DNS service in an Active Directory network**
 - **List two functions of SCM**
