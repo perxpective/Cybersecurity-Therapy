@@ -23,7 +23,7 @@ The following 2 tables describe the security grouping relationship of three user
 | ----- | ------------------- |
 | Bob   | Manager             |
 | Cathy | IT Support, Manager |
-| Devin | Intern, IP          |
+| Devin | Intern, IT Support          |
 
 | Group      | Member of |
 | ---------- | --------- |
@@ -64,4 +64,7 @@ Based on the given information, determine the effective permissions of the three
 | Devin | Remote Access              | (vi)                                                                                                   |
 
 **Answers:**
-1. 
+1. Read only
+2. Read only
+3. Full control
+4. 
