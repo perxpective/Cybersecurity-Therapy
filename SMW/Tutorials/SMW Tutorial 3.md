@@ -47,4 +47,16 @@ The following are the NTFS permissions configurations of the local folder that a
 | ---------- | -------------------------------------------- |
 | Manager    | Read & Execute, List Directory Content, Read |
 | IT Support | Full Control                                 |
-| Intern     | Read & Execute, List Dire                                             |
+| Intern     | Read & Execute, List Directory Content, Read |
+
+Based on the given information, determine the effective permissions of the three given accounts for the files located in D:\\staff_notice folder. You may show your answer by filling out the missing elements from the following table: (8 marks)
+
+| User  | Local login/Network Access | Effective Permissions on Existing Files                                                            |
+| ----- | -------------------------- | -------------------------------------------------------------------------------------------------- |
+| ---   | Local Access/Remote Access | Any of the following permissions:<br>No Access<br>Read Only<br>Read/Write + Delete<br>Full Control |
+| Bob   | Local Access               | (i)                                                                                                |
+| Bob   | Remote Access              | (ii)                                                                                               |
+| Cathy | Local Access               | (iii)                                                                                              |
+| Cathy | Remote Access              | (iv)                                                                                               |
+| Devin | Local Access               | (v)                                                                                                |
+|       |                            |                                                                                                    |
