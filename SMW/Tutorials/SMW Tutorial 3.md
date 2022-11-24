@@ -67,4 +67,6 @@ Based on the given information, determine the effective permissions of the three
 1. Read only
 2. Read only
 3. Full control
-4. 
+4. Read/write + delete
+5. Full Control
+6. No access
