@@ -14,7 +14,7 @@
 - **What is DNS reverse lookup?**
 	- A querying technique of DNS to determine domain name associated with the IP address
 - **By default, not all the hosts are having their reverse lookup (PTR) entries set up at the DNS zone. Name a reason why we may want to setup PTR entries for some of the hosts**
-	- A PTR associates IP address to a computer or network host name and hence can be used to verify that the sender matches the IP address it claims to be using, preventing any possibilities of DNS poisoning
+	- A PTR associates IP address to a computer or network host name and hence can be used to verify that the sender matches the IP address it claims to be using, eliminating any possibilities of DNS poisoning
 - **Please compare the iterative lookup and recursive lookup in term of efficiency, and possible security implications**
 - **List three best practices to tighten security of a DNS service in an Active Directory network**
 - **List two functions of SCM**
