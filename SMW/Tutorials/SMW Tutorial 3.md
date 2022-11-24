@@ -15,3 +15,20 @@
 - List three best practices to tighten security of a DNS service in an Active Directory network
 - List two functions of SCM
 - Briefly describe three possible ways for a Windows Server 2016 DNS to resolve the name address queries for its clients
+
+## Past Year MST Questions
+The following 2 tables describe the security grouping relationship of three user accounts within the SMW domain:
+
+| User  | Member of           |
+| ----- | ------------------- |
+| Bob   | Manager             |
+| Cathy | IT Support, Manager |
+| Devin | Intern, IP          |
+
+| Group      | Member of |
+| ---------- | --------- |
+| IT Support | Staff     |
+| Manager    | Staff     |
+
+There is a member server `doc.smw.com` which hosts a shared folder
+Below are the sharing permissions configuratiion
