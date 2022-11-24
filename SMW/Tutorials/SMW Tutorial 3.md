@@ -64,10 +64,10 @@ Based on the given information, determine the effective permissions of the three
 | Devin | Remote Access              | (vi)                                                                                                   |
 
 **Answers:**
-1. Read only
-2. Read only
-3. Full control
-4. Read/write + delete
+1. Read only (NTFS permissions for Manager)
+2. Read only (Take NTFS permissions for Manager)
+3. Full control (Take IT Support NTFS permissions)
+4. Read/write + delete ()
 5. Full Control
 6. No access
 
