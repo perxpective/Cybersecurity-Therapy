@@ -34,6 +34,7 @@ There is a member server `doc.smw.com` which hosts a shared folder
 Below are the sharing permissions configurations and settings of the particular shared folder being hosted on `doc.smw.com`
 
 **\\\\doc.smw.com\\bulletin**
+
 | Group/User | Permissions |
 | ---------- | ----------- |
 | Manager    | Change      |
@@ -43,6 +44,7 @@ Below are the sharing permissions configurations and settings of the particular 
 The following are the NTFS permissions configurations of the local folder that associate with the bulletin shared folder
 
 **D:\\staff_notice** shared as **\\\\doc.smw.com\\bulletin**
+
 | Group/User | Permissions                                  |
 | ---------- | -------------------------------------------- |
 | Manager    | Read & Execute, List Directory Content, Read |
@@ -59,4 +61,7 @@ Based on the given information, determine the effective permissions of the three
 | Cathy | Local Access               | (iii)                                                                                              |
 | Cathy | Remote Access              | (iv)                                                                                               |
 | Devin | Local Access               | (v)                                                                                                |
-|       |                            |                                                                                                    |
+| Devin | Remote Access              | (vi)                                                                                                   |
+
+**Answers:**
+1. 
