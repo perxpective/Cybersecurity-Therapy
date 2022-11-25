@@ -84,4 +84,7 @@ Based on the given information, determine the effective permissions of the three
 - **List four possible permissions of a shared folder**
 	- Owner, Read, Change, Full Control
 - **Briefly explain the two essential configurations to enable the audit failure check on a specific file in a domain member server**
-	- Audit configurations to be enabled 
+	- Audit configurations to be enabled for <u>Audit Object Access</u> and set to Failure via the Group Policy Object
+	- Define the audit settings of specific file via advanced security settings and include the following: principle, audit type, and permissions
+- **List two differences between resolving a DNS query by a stub zone lookup annd a forwarder lookup**
+	- Response time of usngi
