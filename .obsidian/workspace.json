@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "file": "SMW/Tutorials/SMW Tutorial 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+                "file": "SMW/Tutorials/SMW Tutorial 3.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,17 +181,17 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "d9b24f9bac743c51",
+  "active": "26f82aa4bf50fda3",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-    "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
-    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
+    "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
-    "SC/SC Topic 3 -  XSS.md",
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+    "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
-    "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
+    "EHD/Practical/EHD Practical 10 - Metasploit.md",
+    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+    "EHD/Practical/EHD Practical 11 - Wireless Security.md"
   ]
 }

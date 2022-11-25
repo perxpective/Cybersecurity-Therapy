@@ -17,8 +17,7 @@
 6. Type `nbtstat -a Win10-IP`
 
 ### OpenVAS
-> OpenVAS  is an open source vulnerability assessment software like Nessus
-
+> OpenVAS is an open source vulnerability assessment software like Nessus
 1. Power on OpenVAS image
 2. At the login screen, note the IP address of the OpenVAS image
 3. On web browser on another VM, browser to the OpenVAS IP and add exception for the security certificate

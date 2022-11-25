@@ -79,3 +79,9 @@ Based on the given information, determine the effective permissions of the three
 > **Note:**
 > - NTFS permissions apply when shared folder accessed locally
 > - When shared folder is access remotely, take the more restrictive permission of the NTFS and Share permissions
+
+## Nano Test Questions and Answers
+- **List four possible permissions of a shared folder**
+	- Owner, Read, Change, Full Control
+- **Briefly explain the two essential configurations to enable the audit failure check on a specific file in a domain member server**
+	- Audit configurations to be enabled 
