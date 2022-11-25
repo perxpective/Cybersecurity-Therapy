@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
+                "file": "SMW/Tutorials/SMW Tutorial 3.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,13 +168,13 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "cc108bdd258d8de1",
+  "active": "26f82aa4bf50fda3",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SC/SC Topic 3 -  XSS.md",
