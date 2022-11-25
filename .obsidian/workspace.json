@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9b24f9bac743c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md"
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +181,7 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "26f82aa4bf50fda3",
+  "active": "d9b24f9bac743c51",
   "lastOpenFiles": [
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
