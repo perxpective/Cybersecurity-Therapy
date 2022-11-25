@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242,
-    "collapsed": true
+    "width": 217.50260543823242
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md"
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md"
               }
             }
           },
@@ -134,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "file": "EHD/Practical/EHD Practical 11 - Wireless Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +156,7 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "c16f3f45b0d4e84e",
+  "active": "26f82aa4bf50fda3",
   "lastOpenFiles": [
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
