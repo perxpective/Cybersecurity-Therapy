@@ -86,5 +86,7 @@ Based on the given information, determine the effective permissions of the three
 - **Briefly explain the two essential configurations to enable the audit failure check on a specific file in a domain member server**
 	- Audit configurations to be enabled for <u>Audit Object Access</u> and set to Failure via the Group Policy Object
 	- Define the audit settings of specific file via advanced security settings and include the following: principle, audit type, and permissions
-- **List two differences between resolving a DNS query by a stub zone lookup annd a forwarder lookup**
-	- Response time of usngi
+- **List two differences between resolving a DNS query by a stub zone lookup and a forwarder lookup**
+	- Response time of using a forwarder is generally faster than the stub zone
+	- Stub zone bypass the Root Hints and TLD and goes directly to authoritative DNS of the target FQDN for the resolution - minimizes the risk of being a victim of cache poisoning
+	- Setting up a forwarder is generally easier than setting up a stub zone since the stub zone requires the zone transfer access from the targeted domain DNS
