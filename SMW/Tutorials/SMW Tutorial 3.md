@@ -71,7 +71,7 @@ Based on the given information, determine the effective permissions of the three
 **Answers:**
 1. Read only (Take NTFS permissions for Manager)
 2. Read only (Take NTFS permissions for Manager)
-3. Full control (Take IT Support NTFS permissions)
+3. Full control (Take NTFS permissions for IT Support)
 4. Read/write + delete (Take Shared permissions for Manager)
 5. Full Control (Take NTFS permissions for IT Support)
 6. No access (Take Shared permissions for Intern)
