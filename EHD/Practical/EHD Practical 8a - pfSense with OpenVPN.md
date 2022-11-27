@@ -58,4 +58,13 @@
 12. Click on "Create new Certificate"
 13. For Interface, check that it is set to WAN
 14. For Description, type "OpenVPN for Staff"
-15. 
+15. For Tunnel Network, use "192.168.7.0/24"
+
+> This is the private network that will be set up when the remote user connects to the VPN server
+> 
+
+16. For Local Network, type in the subnet of the Internal Network
+17. For the rest of the fields, configure the type of encryption used
+18. Click Next
+19. Next, configure the firewall rules for the VPN server
+20. Check 
