@@ -92,4 +92,9 @@
 
 ![](https://i.imgur.com/KbwiRJD.png)
 
-7. 
+7. Under "Create Certificate for User", for Descriptive Name, type any username
+8. Check that Certificate Authority is OpenVPN_CA
+9. Click Save
+
+## Install OpenVPN Client Export Package
+**On InternalClient1 VM**
