@@ -121,4 +121,14 @@
 4. Login as user `lim` and the password set previously
 5. When connection is successful, the OpenVPN GUI icon in the System Tray will turn green
 6. Use `ifconfig` to see VPN IP address
-7. When 
+7. Ping the InternalClient1 (it should be successful)
+8. Access the shared foler `\\172.25.8.101\reports` on InternalClient1
+9. The connection should be successful
+10. View the `report1` file on the share folder from InternalClient1
+
+> **Possible Configuration Errors**
+> - When configuring the VPN server, the Tunnel or Local Network is not set properly. In the pfSense Web Configurator, go to VPN menu and click OpenVPN. Edit the OpenVPN for Staff VPN Server andd check the Tunnel and Local Network settings
+> - The date and time of the Win10 VPN client is wrong, check if the date and time is correct
+
+**On InternalClient1 VM**
+1. On the pfSense Web COnf
