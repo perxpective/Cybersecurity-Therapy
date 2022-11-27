@@ -87,4 +87,9 @@
 2. Click on the green Add button to add a new user
 3. For username, type the username of the InternalClient1
 4. Enter and confirm your password used in InternalClient1
-5. For Full Name, 
+5. For Full Name, type any username
+6. Check the box to "Click to create a user certificate"
+
+![](https://i.imgur.com/KbwiRJD.png)
+
+7. 
