@@ -67,4 +67,17 @@
 17. For the rest of the fields, configure the type of encryption used
 18. Click Next
 19. Next, configure the firewall rules for the VPN server
-20. Check 
+20. Check the two boxes for the Firewall Rule and OpenVPN to allow remote clients to connect to VPN server and access the Internal Network
+
+![](https://i.imgur.com/OC78fzx.png)
+
+21. Click Next and Finish
+22. Check that the Firewall rules have been created
+23. From the Firewall menu, click on Rules and click on the WAN tab
+24. Check that a new WAN rule has been added for the OpenVPN Server
+25. Under Firewall Rules, click on the OpenVPN tab and check that a new OpenVPN rule has been added
+
+
+## Setting Up the User and User Certificate
+**On InternetClient1 VM**
+1. In the pfSense Web Configurator
