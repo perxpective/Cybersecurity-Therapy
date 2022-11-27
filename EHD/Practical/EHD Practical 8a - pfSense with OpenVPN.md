@@ -80,4 +80,11 @@
 
 ## Setting Up the User and User Certificate
 **On InternetClient1 VM**
-1. In the pfSense Web Configurator
+1. In the pfSense Web Configurator, go to the System menu and click User Manager
+
+![](https://i.imgur.com/CONEqbJ.png)
+
+2. Click on the green Add button to add a new user
+3. For username, type the username of the InternalClient1
+4. Enter and confirm your password used in InternalClient1
+5. For Full Name, 
