@@ -98,4 +98,16 @@
 
 ## Install OpenVPN Client Export Package
 **On InternalClient1 VM**
-1. On the pfSense Web Confi
+1. On the pfSense Web Configurator, go to the System menu and click Package Manager
+2. Go to the VPN menu and select OpenVPN
+3. Click on the Client Export tab
+4. Check that the Remote Access Server is the OpenVPN server
+5. Scroll down to the OpenVPN clients section
+6. Click on "Current Windows Installer" and save the OpenVPN client certificate installation to any folder on InternalClient1
+
+> This OpenVPN Client installation file contains the OpenVPN for client software, the connection configuration for the OpenVPN server and the user certificate
+
+7. The OpenVPN client installation for the user from InternalClient1 to the Win10 VM
+
+**On Win10 VM**
+1. Double
