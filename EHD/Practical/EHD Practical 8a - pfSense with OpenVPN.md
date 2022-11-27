@@ -110,4 +110,15 @@
 7. The OpenVPN client installation for the user from InternalClient1 to the Win10 VM
 
 **On Win10 VM**
-1. Double
+1. Double-click on the OpenVPN client file to install it with default options
+2. If there is a message about installing TAP-Windows, click Install
+
+## Connecting to InternalNetwork through OpenVPN
+**On Win10 VM**
+1. On the left-hand corner, click on the Windows icon and choose All apps
+2. Look for OpenVPN and run the OpenVPN GUI
+3. Right-click on the OpenVPN GUI and choose Connect
+4. Login as user `lim` and the password set previously
+5. When connection is successful, the OpenVPN GUI icon in the System Tray will turn green
+6. Use `ifconfig` to see VPN IP address
+7. When 
