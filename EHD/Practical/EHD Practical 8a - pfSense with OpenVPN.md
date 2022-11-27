@@ -26,3 +26,14 @@
 
 ## Adding a WAN Rule to Allow Incoming ICMP Packets
 **On InternalClient1 VM**
+1. Browse to the pfSense Web Configurator and click Rules on the Firewall menu
+2. Click on the WAN tab
+3. At the bottom of the page, click on the green button that will add a rule to the end of the list
+4. Under Edit Firewall Rules, for Protocol, select ICMP and for ICMP Subtypes, select "any"
+
+![](https://i.imgur.com/nukzy5H.png)
+
+5. Under Extra Options, for Description, enter "Allow ICMP"
+6. Scroll to the bottom and click Save and Apply Changes
+
+## 
