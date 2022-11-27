@@ -43,4 +43,19 @@
 ![](https://i.imgur.com/HpL9pvn.png)
 
 2. Click on the Wizards tab
-3. For the 
+3. For the Authentication Backend Type, Type of Server, use the default "Local User Access"
+4. Set up a Certificate Authority that will be used to generate certificates for the VPN Server and Users
+5. For Descriptive Name, use `OpenVPN_CA`
+6. For Country Code, type "SG"
+7. For State and Province, type "Singapore"
+8. For City, type "Singapore"
+9. For Organisation, type any organisation name
+10. Click "Add new CA"
+
+![](https://i.imgur.com/LjhUfM8.png)
+
+11. For Descriptive Name, type "OpenVPN_Server" and leave the default values for the rest of the fields
+12. Click on "Create new Certificate"
+13. For Interface, check that it is set to WAN
+14. For Description, type "OpenVPN for Staff"
+15. 
