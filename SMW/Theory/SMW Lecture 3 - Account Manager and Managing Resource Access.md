@@ -91,7 +91,7 @@
 | Used to enable access to resources on a standalone server or in Active Directory | Used for email or telephone lists to provide quick, mass distribution of information |
 | The resources access permission is simply implementing via group membership                                                                                 |                                                                                      |
 
-#### Properties of Groups
+### Properties of Groups
 - Properties of specific groups can be configured
 	- Through Local Users and Groups tool for local groups or;
 	- In the Active Directory Users and Computers tool for domain groups
@@ -101,7 +101,7 @@
 	- Member Of
 	- Managed By
 
-#### Organizational Units (OU) vs Security Groups
+### Organizational Units (OU) vs Security Groups
 - Group Policies applied to OUs (e.g. password changes)
 - Delegation of authority are also applied to OUs
 - Security groups are used to assign file and folder permissions, shared folder permissions and any type of resources permissions
