@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8a - PfSense.md",
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8a - PfSense.md",
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8a - PfSense.md"
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8a - PfSense.md",
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
