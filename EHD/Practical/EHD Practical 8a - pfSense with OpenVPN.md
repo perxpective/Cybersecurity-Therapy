@@ -36,4 +36,11 @@
 5. Under Extra Options, for Description, enter "Allow ICMP"
 6. Scroll to the bottom and click Save and Apply Changes
 
-## 
+## Setting Up the OpenVPN Server on the pfSense Firewall
+**On InternalClient1 VM**
+1. Browse to the pfSense Web Configurator and click OpenVPN
+
+![](https://i.imgur.com/HpL9pvn.png)
+
+2. Click on the Wizards tab
+3. For the 
