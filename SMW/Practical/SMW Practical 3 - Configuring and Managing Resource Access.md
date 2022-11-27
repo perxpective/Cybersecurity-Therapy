@@ -212,7 +212,7 @@
 ![](https://i.imgur.com/wU5u9pl.png)
 
 <u>To configure auditing for Documentation folder</u>
-1. From the  File Explorer window, right-click the Documentation folder and click Properties
+1. From the File Explorer window, right-click the Documentation folder and click Properties
 2. Click the Security tab and click the **Advanced** button
 3. Click the **Auditing** tab and click Add
 4. Click **Select a principal** at the top of the Auditing Entry window
@@ -253,7 +253,7 @@ get-eventlog -logname application | where-object {$ .source -eq "vmtools"}
 
 ## PowerShell for Domain Enumeration
 1. On Windows 10, login as Mgr1
-2. Search and open a PowerShell ISH sessoin
+2. Search and open a PowerShell ISH session
 3. Create a domain object with the following command:
 ```
 $myObj = [System.DirectoryServices.ActiveDirectory.Domain]
