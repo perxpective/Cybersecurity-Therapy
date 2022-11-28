@@ -28,5 +28,16 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 **(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server.**
 **(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries.**
 
-**(b) The Best Practices Analyzer (BPA) runs pre-designed tests/scans against a target Windows Server and generates a report on its findings. These tests are grouped by different categories.
-**
+(b) The Best Practices Analyzer (BPA) runs pre-designed tests/scans against a target Windows Server and generates a report on its findings. These tests are grouped by different categories. 
+
+**List four categories of these pre-designed tests.**
+
+**(c) Briefly describe the purposes of following two system utilities, `sfc` and `sigverif`**
+
+## Question 3
+This question is related to the "SMW Unlimited" Enterprise and its single forest Active Directory setup.
+
+(a) The following diagram depicts all existing domains in the Active Directory of "SMW Unlimited" Enterprise. The forest root domain is `smw.com`
+
+![](https://i.imgur.com/MbRneV1.png)
+
