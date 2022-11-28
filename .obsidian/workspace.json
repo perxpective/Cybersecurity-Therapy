@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md"
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +147,8 @@
   },
   "active": "56207f86458f08c6",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
+    "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Theory/EHD Topic 10 - Metasploit.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
     "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
