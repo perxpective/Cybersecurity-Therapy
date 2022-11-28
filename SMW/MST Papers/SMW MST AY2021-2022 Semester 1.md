@@ -15,25 +15,24 @@ Tommy proceeded to start the Windows 10 VM and had reviewed the network status o
 
 Tommy has encountered one issue: he is able to surf on the Internet using the Windows 10 client but he cannot let the Windows 10 join the domain `test.org`
 
-**i. What is the most probable cause of this issue?**
-- **AnswerL**
-**ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue.**
+**i. What is the most probable cause of this issue? (3 marks)**
+**ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue. (5 marks)**
 
-**(b) List two action items that are related to the commitment of Microsoft towards quality.**
+**(b) List two action items that are related to the commitment of Microsoft towards quality. (6 marks)**
 
-**(c) List five "security by default" examples we can find from a fresh deployed Primary Domain Controller Server (PDC).**
+**(c) List five "security by default" examples we can find from a fresh deployed Primary Domain Controller Server (PDC). (10 marks)**
 
 ## Question 2
 **(a)**
-**(i) Briefly describe the scavenging option of a DNS Server.**
-**(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server.**
-**(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries.**
+**(i) Briefly describe the scavenging option of a DNS Server. (3 marks)**
+**(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server. (6 marks)**
+**(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries. (3 marks)**
 
 (b) The Best Practices Analyzer (BPA) runs pre-designed tests/scans against a target Windows Server and generates a report on its findings. These tests are grouped by different categories. 
 
-**List four categories of these pre-designed tests.**
+**List four categories of these pre-designed tests. (8 marks)**
 
-**(c) Briefly describe the purposes of following two system utilities, `sfc` and `sigverif`**
+**(c) Briefly describe the purposes of following two system utilities, `sfc` and `sigverif` (6 marks)**
 
 ## Question 3
 This question is related to the "SMW Unlimited" Enterprise and its single forest Active Directory setup.
