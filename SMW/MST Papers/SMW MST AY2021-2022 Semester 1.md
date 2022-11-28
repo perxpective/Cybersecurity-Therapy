@@ -16,6 +16,7 @@ Tommy proceeded to start the Windows 10 VM and had reviewed the network status o
 Tommy has encountered one issue: he is able to surf on the Internet using the Windows 10 client but he cannot let the Windows 10 join the domain `test.org`
 
 **i. What is the most probable cause of this issue?**
+- **AnswerL**
 **ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue.**
 
 **(b) List two action items that are related to the commitment of Microsoft towards quality.**
@@ -78,4 +79,4 @@ Your task: Briefly describe and illustrate an updated security group configurati
 - A new share folder, SF5, has been created in `west.smw.org`
 - To optimize the configuration with the minimum number of security groups and permissions assignment
 
-Your answers has to be based on the "Account, Global, Domain Local, Permission" (AGDLP) 
+Your answers has to be based on the "Account, Global, Domain Local, Permission" (AGDLP) approach to meet the above conditions with the minimum number of security groups and permissions assignment
