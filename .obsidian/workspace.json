@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242,
-    "collapsed": true
+    "width": 217.50260543823242
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md"
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
               }
             }
           },
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Nmap).md",
+                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +146,8 @@
   },
   "active": "56207f86458f08c6",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
+    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 4 - Port Scanning.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Theory/EHD Topic 4 - Port Scanning.md",
@@ -155,8 +155,6 @@
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SMW/Tutorials/SMW Tutorial 2.md"
+    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
   ]
 }
