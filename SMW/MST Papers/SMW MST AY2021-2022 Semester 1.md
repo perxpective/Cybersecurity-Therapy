@@ -62,3 +62,9 @@ The following table provides additional information of the network shared folder
 | SF3                 | south.smw.org |
 | SF4                 | south.smw.com |
 
+The existing security group configurations and the "Shared Folder Permissions" are designed based on the following rules:
+- The configuration is based on AGDLP best practice
+- All managers to read, write and delete files from the shared folders that reside in the same tree where user accounts are defined
+- All managers to read files from the shared folders that reside in the active directory
+- All officers to read files from the shared folders that reside in the same tree where user accounts are defined
+- All officers to read, write and delete files from shared folders
