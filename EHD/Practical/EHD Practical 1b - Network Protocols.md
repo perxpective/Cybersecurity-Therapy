@@ -208,7 +208,7 @@ sudo dnschef -i KaliIP --fakedomains kali.org,kali.org.localdomain --fakeip Kali
 ## Ping Sweep
 
 **On Kali VM**
-Use `fping` command to ping range of IP addresses in Kali subent
+Use `fping` command to ping range of IP addresses in Kali subnet
 
 ```linux
 fping --alive --quiet –g 192.168.10.1 192.168.10.254
