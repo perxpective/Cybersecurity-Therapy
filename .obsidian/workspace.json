@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,8 +144,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "56207f86458f08c6",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
@@ -154,7 +155,6 @@
     "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
-    "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
-    "SMW/Tutorials/SMW Tutorial 3.md"
+    "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
   ]
 }
