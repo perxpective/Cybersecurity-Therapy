@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md"
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
+                "file": "EHD/Practical/EHD Practical 10 - Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,6 +147,7 @@
   },
   "active": "56207f86458f08c6",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
     "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Theory/EHD Topic 9 - Operating System Vulnerabilities.md",
@@ -155,7 +156,6 @@
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
     "EHD/Theory/EHD Topic 4 - Port Scanning.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "EHD/Practical/EHD Practical 10 - Metasploit.md",
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
+    "EHD/Practical/EHD Practical 10 - Metasploit.md"
   ]
 }
