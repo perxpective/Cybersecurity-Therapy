@@ -16,4 +16,11 @@ Tommy proceeded to start the Windows 10 VM and had reviewed the network status o
 Tommy has encountered one issue: he is able to surf on the Internet using the Windows 10 client but he cannot let the Windows 10 join the domain `test.org`
 
 **i. What is the most probable cause of this issue?**
-**ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue**
+**ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue.**
+
+**(b) List two action items that are related to the commitment of Microsoft towards quality.**
+
+**(c) List **
+
+## Question 2
+
