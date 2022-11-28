@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -144,7 +145,7 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "93e015461cbc414f",
+  "active": "56207f86458f08c6",
   "lastOpenFiles": [
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",

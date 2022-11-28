@@ -40,4 +40,17 @@ This question is related to the "SMW Unlimited" Enterprise and its single forest
 (a) The following diagram depicts all existing domains in the Active Directory of "SMW Unlimited" Enterprise. The forest root domain is `smw.com`
 
 ![](https://i.imgur.com/MbRneV1.png)
+**How many trees is/are defined in the smw.com Active Directory? List the members of the tree(s).**
 
+(b) The following table depicts the management levels of six user accounts: Emily, Alice, James, Paul, Bob and Kirk in the "SMW Unlimited" Active Directory
+
+| User Accounts       | Management Level |
+| ------------------- | ---------------- |
+| emily@south.smw.org | Manager          |
+| alice@south.smw.com | Officer          |
+| james@south.smw.com | Officer          |
+| paul@west.smw.org   | Officer          |
+| bob@smw.com         | Intern           |
+| kirk@west.smw.com   | Intern                 |
+
+The following table provides 
