@@ -16,4 +16,5 @@ Tommy proceeded to start the Windows 10 VM and had reviewed the network status o
 Tommy has encountered one issue: he is able to surf on the Internet using the Windows 10 client but he cannot let the Windows 10 join the domain `test.org`
 
 **i. What is the most probable cause of this issue?**
-- One of the causes is the misconfiguration of the DHCP server where the DHCP server is unable to assign an IP address, default gateway and DNS servers to the virtual machine
+- One of the causes is the misconfiguration of the DHCP server where the DHCP server is unable to assign an IP address, default gateway and DNS servers to the virtual machine.
+- Another cause is due to the Automatic 
