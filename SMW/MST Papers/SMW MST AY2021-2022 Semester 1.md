@@ -40,7 +40,7 @@ This question is related to the "SMW Unlimited" Enterprise and its single forest
 (a) The following diagram depicts all existing domains in the Active Directory of "SMW Unlimited" Enterprise. The forest root domain is `smw.com`
 
 ![](https://i.imgur.com/MbRneV1.png)
-**How many trees is/are defined in the smw.com Active Directory? List the members of the tree(s).**
+**How many trees is/are defined in the smw.com Active Directory? List the members of the tree(s). (5 marks)**
 
 (b) The following table depicts the management levels of six user accounts: Emily, Alice, James, Paul, Bob and Kirk in the "SMW Unlimited" Active Directory
 
@@ -78,4 +78,4 @@ Your task: Briefly describe and illustrate an updated security group configurati
 - A new share folder, SF5, has been created in `west.smw.org`
 - To optimize the configuration with the minimum number of security groups and permissions assignment
 
-Your answers has to be based on the "Account, Global, Domain Local, Permission" (AGDLP) approach to meet the above conditions with the minimum number of security groups and permissions assignment
+Your answers has to be based on the "Account, Global, Domain Local, Permission" (AGDLP) approach to meet the above conditions with the minimum number of security groups and permissions assignment. (15 marks)
