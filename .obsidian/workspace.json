@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242,
-    "collapsed": true
+    "width": 217.50260543823242
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -147,6 +146,8 @@
   },
   "active": "56207f86458f08c6",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 10 - Metasploit.md",
+    "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Practical/EHD Practical 8 - Virtual Private Network.md",
     "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
@@ -154,8 +155,6 @@
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Practical 4 - Port Scanning.md",
     "EHD/Practical/EHD Practical 1b - Network Protocols.md",
-    "EHD/Theory/EHD Topic 4 - Port Scanning.md",
-    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "EHD/Practical/EHD Practical 10 - Metasploit.md"
+    "EHD/Theory/EHD Topic 4 - Port Scanning.md"
   ]
 }
