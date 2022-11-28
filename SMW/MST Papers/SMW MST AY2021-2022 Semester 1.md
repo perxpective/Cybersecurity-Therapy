@@ -53,4 +53,12 @@ This question is related to the "SMW Unlimited" Enterprise and its single forest
 | bob@smw.com         | Intern           |
 | kirk@west.smw.com   | Intern                 |
 
-The following table provides 
+The following table provides additional information of the network shared folders defined in this Active Directory. There are a total of three domains listed. Each of the domains has one or two network shared folder configured.
+
+| Shared Folder Names | Domain        |
+| ------------------- | ------------- |
+| SF1                 | south.smw.org |
+| SF2                 | smw.com       |
+| SF3                 | south.smw.org |
+| SF4                 | south.smw.com |
+
