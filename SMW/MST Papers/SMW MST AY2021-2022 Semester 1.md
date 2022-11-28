@@ -20,7 +20,13 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 
 **(b) List two action items that are related to the commitment of Microsoft towards quality.**
 
-**(c) List **
+**(c) List five "security by default" examples we can find from a fresh deployed Primary Domain Controller Server (PDC).**
 
 ## Question 2
+**(a)**
+**(i) Briefly describe the scavenging option of a DNS Server.**
+**(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server.**
+**(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries.**
 
+**(b) The Best Practices Analyzer (BPA) runs pre-designed tests/scans against a target Windows Server and generates a report on its findings. These tests are grouped by different categories.
+**
