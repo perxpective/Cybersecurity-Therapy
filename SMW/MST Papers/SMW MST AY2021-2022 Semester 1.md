@@ -67,4 +67,15 @@ The existing security group configurations and the "Shared Folder Permissions" a
 - All managers to read, write and delete files from the shared folders that reside in the same tree where user accounts are defined
 - All managers to read files from the shared folders that reside in the active directory
 - All officers to read files from the shared folders that reside in the same tree where user accounts are defined
-- All officers to read, write and delete files from shared folders
+- All officers to read, write and delete files from shared folders that reside in the same domain where user accounts are defined
+- All interns to read files from the shared folders that reside in the same domain where the user accounts are defined
+
+The configuration is illustrated in the following diagram for your reference:
+
+![](https://i.imgur.com/TatmLOc.png)
+
+Your task: Briefly describe and illustrate an updated security group configurations to reflect the following two changes and requirements made to the existing rules:
+- A new share folder, SF5, has been created in `west.smw.org`
+- To optimize the configuration with the minimum number of security groups and permissions assignment
+
+Your answers has to be based on the "Account, Global, Domain Local, Permission" (AGDLP) 
