@@ -7,6 +7,11 @@
 
 After completing the setup of the Windows Server 2016 to have the ADDS, DNS and DHCP services, it has been verified it that the server is functioning properly.  Its TCP/IP settings is illustrated as the following:
 
-![](https://i.imgur.com/nQCTWlI.png)
+![300](https://i.imgur.com/nQCTWlI.png)
 
-Tommy proceeded to start the Windows 10 VM and had reviewed the network status of the Windows 10 and it has shown the following network connection de
+Tommy proceeded to start the Windows 10 VM and had reviewed the network status of the Windows 10 and it has shown the following network connection details:
+
+![300](https://i.imgur.com/yyY96Ns.png)
+
+
+
