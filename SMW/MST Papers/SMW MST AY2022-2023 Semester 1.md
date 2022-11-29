@@ -84,3 +84,27 @@ This question is related to the "NFT Unlimited" Enterprise and its single forest
 	- nft.net
 
 **(b) The following table depicts the management levels of six user accounts, Albert, Bob, Carlo, David, Esther and Fred in the "NFT unlimited" Active Directory.**
+
+| User Accounts        | Management Level |
+| -------------------- | ---------------- |
+| albert@nft.org       | Manager          |
+| bob@crypto.nft.org   | Manager          |
+| carlo@art.nft.org    | Officer          |
+| david@crypto.nft.org | Officer          |
+| esther@art.nft.org   | Intern           |
+| fred@nft.org         | Intern           |
+
+The following table provides additional information of the network shared folders defined in this active directory. There are a total of three domains listed. Each of the domains has one or two network shared folders configured.
+
+| Shared Folder Names | Domain         |
+| ------------------- | -------------- |
+| SF1, SF2            | nft.nft        |
+| SF3                 | art.nft.org    |
+| SF4                 | crypto.nft.org |
+
+Your task: Briefly describe and illustrate the security group configurations and the appropriate “Shared Folder Permissions”, which allow:
+• All managers to read files from the shared folders that reside in the nft.net domain.
+• All managers to change files from the shared folders that reside in the same domain.
+- All officers and managers to read files from the shared folders that reside in the same tree where the user accounts are defined.
+- All interns to read files from the shared folders that reside in the same domain where the user accounts are defined.
+Your answer has to be based on the “Account, Global, Domain Local, Permission” (AGDLP) approach to meet the above five access conditions with the minimum number of security groups and permission assignment.
