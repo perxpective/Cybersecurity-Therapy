@@ -76,4 +76,11 @@ This question is related to the "NFT Unlimited" Enterprise and its single forest
 - nft.org
 - art.nft.org
 
-**(ii) **
+**(ii) Identify the number of trees and list out its/their members accordingly (3 marks)**
+- <u>2 trees</u>
+	- nft.org (with two members)
+		- crypto.nft.org
+		- art.nft.org
+	- nft.net
+
+**(b) The following table depicts the management levels of six user accounts, Albert, Bob, Carlo, David, Esther and Fred in the "NFT unlimited" Active Directory.**
