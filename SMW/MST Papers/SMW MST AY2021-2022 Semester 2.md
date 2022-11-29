@@ -13,4 +13,19 @@ Toby proceeded to setup the Server B VM. Initially, the Server B VM is using dyn
 
 ![](https://i.imgur.com/ZrL2cEQ.png)
 
-Your task: Suggest a set of reasonable
+Your task: Suggest a set of reasonable TCP/IP (IPv4) settings for Toby to configure the Server B in order to let Server B to join in to the `smw.org` domain. (6 marks)
+
+Please fill out your answers in the following table:
+
+| Network Connection Details | Answer |
+| -------------------------- | ------ |
+| IP Address                 |        |
+| Network Mask               |        |
+| Default Gateway            |        |
+| Preferred DNS Server       |        |
+
+**(b) List three action items that are related to the commitment of Microsoft towards isolation and resilience. (9 marks)**
+
+## Question 2 
+(a)
+**(i) Briefly describe the complete workflow of how a local DNS resolves a forward loopup**
