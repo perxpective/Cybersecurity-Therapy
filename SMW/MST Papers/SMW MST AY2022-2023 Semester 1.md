@@ -9,11 +9,11 @@ After completing the setup of the Windows Server 2016 system to have the ADDS an
 
 ![](https://i.imgur.com/TtEN7wK.png)
  
- **(i) Briefly describe the required steps/procedures for Tony to install and authorise DHCP server in Server A**
+ **(i) Briefly describe the required steps/procedures for Tony to install and authorise DHCP server in Server A. (6 marks)**
  - Add roles to install the DHCP service role 
  - Authorise DHCP with user account that belongs to Domain Admin
 
-**(ii) Suggest a set of reasonable scope configurations for Tony for the newly installed DHCP server.**
+**(ii) Suggest a set of reasonable scope configurations for Tony for the newly installed DHCP server. (10 marks)**
 
 Please fill out your answers in the following table:
 
@@ -25,3 +25,4 @@ Please fill out your answers in the following table:
 | DNS Servers            | 192.168.30.33                |
 | DNS Domains Name       | test.org                     |
 
+**(b) List three common best practices, which can improve the security of the domain based notebooks for frequently outstation staff (6 marks)**
