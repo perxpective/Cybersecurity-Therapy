@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cab88e7326396562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
+                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md"
+                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
+                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +170,17 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "5cc0d3834294ce89",
+  "active": "cab88e7326396562",
   "lastOpenFiles": [
+    "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
+    "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
-    "EHD/Practical/EHD Practical 10 - Metasploit.md",
-    "EHD/Theory/EHD Topic 10 - Metasploit.md"
+    "EHD/Practical/EHD Practical 10 - Metasploit.md"
   ]
 }
