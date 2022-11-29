@@ -46,8 +46,11 @@ Any three:
 (a) A question related to the Windows DNS Server configuration has been posted to a technical forum: "I recently started at a company and they have the DNS service configured in a strange way. None of the DNS servers has defined any root hints server. Can you tell me why the DNS service can still work without using any root hints server?"
 
 **(i) Please provide a reasonable answer to this question. (3 marks)**
-Local DNS sevrers must be using 
+Local DNS servers must be using forwarder only Local DNS implementation
 
 **(ii) Describe the workflow of how a Local DNS resolves a forward lookup enquiry without using the root hints server. (5 marks)**
-- Forwarder 
-- 
+- Return response immediately if answer for query stored inside cache of local DNS
+- Forward client query to designated forwarder DNS query
+
+(b) 
+**(i) Briefly explain how often and/or when the administrator should use the Best Practices Analyzer (BPA) to analyse the server configuration. (6 marks)**
