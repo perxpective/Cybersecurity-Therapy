@@ -17,10 +17,10 @@ After completing the setup of the Windows Server 2016 system to have the ADDS an
 
 Please fill out your answers in the following table:
 
-| Scope Name             | Default |
-| ---------------------- | ------- |
-| IP Address Range       |         |
-| Excluded Address Range |         |
-| Router                 |         |
-| DNS Servers            |         |
-| DNS Domains Name       |         |
+| Scope Name             | Default                      |
+| ---------------------- | ---------------------------- |
+| IP Address Range       | 192.168.30.80-192.168.30.110 |
+| Excluded Address Range |                              |
+| Router                 | 192.168.30.2                 |
+| DNS Servers            | 192.168.30.33                |
+| DNS Domains Name       |                              |
