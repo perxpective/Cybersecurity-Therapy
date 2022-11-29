@@ -23,4 +23,5 @@ Please fill out your answers in the following table:
 | Excluded Address Range |                              |
 | Router                 | 192.168.30.2                 |
 | DNS Servers            | 192.168.30.33                |
-| DNS Domains Name       |                              |
+| DNS Domains Name       | test.org                     |
+
