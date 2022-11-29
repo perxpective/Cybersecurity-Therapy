@@ -38,3 +38,11 @@ Any three:
 - Ensure physical security of the notebook
 
 **(c) List three foundational principles of the Microsoft "Trusted Cloud" initiative (6 marks)**
+- Security
+- Privacy
+- Compliance (or Transparency)
+
+## Question 2
+(a) A question related to the Windows DNS Server configuration has been posted to a technical forum: "I recently started at a company and they have the DNS service configured in a strange way. None of the DNS servers has defined any root hints server. Can you tell me why the DNS service can still work without using any root hints server?"
+
+**(i) Please provide a reasonable answer to this question. (3 marks)**
