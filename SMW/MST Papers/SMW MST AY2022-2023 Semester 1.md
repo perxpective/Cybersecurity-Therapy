@@ -60,4 +60,11 @@ Any three:
 - Microsoft may send BPA scanning rules occasionally and hence it is important to keep the rules update  
 
 **(ii) Identify two limitations when applying the Best Practices Analyser in a Domain-based network to harden the security of all the domain computers. (6 marks)**
-- 
+- BPA only provides scanning server servers but does not help fix the issues that have been identified
+- Only scans for server configurations
+- BPA only works for Microsoft based solutions and not for third party solutions
+
+## Question 3
+This question is related to the "NFT Unlimited" Enterprise and its single forest Active Directory setup.
+
+(a) T
