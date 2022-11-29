@@ -40,4 +40,4 @@ Please fill out your answers in the following table:
 ## Question 3
 This question is related to the "SMW Unlimited" enterprise and its single forest Active Directory setup.
 
-(a)
+(a) The following diagram depicts all existing domains in a single forest Active Directory of "Gaia Limit"
