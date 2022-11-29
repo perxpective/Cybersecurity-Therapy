@@ -26,3 +26,13 @@ Please fill out your answers in the following table:
 | DNS Domains Name       | test.org                     |
 
 **(b) List three common best practices, which can improve the security of the domain based notebooks for frequently outstation staff (6 marks)**
+- Enable Windows Defender
+- Update Windows software regularly
+- Enable Bitlocker
+- Limit login locally access right to relevant personnel
+- Change local login password every 90 days
+- Enable firewall
+- Disable USB device connection
+- 
+
+**(c) List three foundational principles of the Microsoft "Trusted Cloud" initiative (6 marks)**
