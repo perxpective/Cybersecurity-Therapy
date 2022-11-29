@@ -55,5 +55,9 @@ Any three:
 
 (b) 
 **(i) Briefly explain how often and/or when the administrator should use the Best Practices Analyzer (BPA) to analyse the server configuration. (6 marks)**
+- BPA should be run every time roles have been changed
 - Schedule BPA to run once every 3-6 months. This is to detect and cater unexpected configuration updates
-- Microsoft may send BPA scanning rules occasionally 
+- Microsoft may send BPA scanning rules occasionally and hence it is important to keep the rules update  
+
+**(ii) Identify two limitations when applying the Best Practices Analyser in a Domain-based network to harden the security of all the domain computers. (6 marks)**
+- 
