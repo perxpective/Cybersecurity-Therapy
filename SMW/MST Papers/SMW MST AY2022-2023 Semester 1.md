@@ -67,4 +67,13 @@ Any three:
 ## Question 3
 This question is related to the "NFT Unlimited" Enterprise and its single forest Active Directory setup.
 
-(a) T
+(a) The following diagram depicts all the existing domains in a single forest Active Directory of "NFT Limited" Enterprise. The forest root domain is `nft.net`
+
+![](https://i.imgur.com/WtCw4Pi.png)
+
+**(i) List out all domains that is/are having mutual trust relationship (by default) with crypto.nft.org domain. (3 marks)**
+- nft.net
+- nft.org
+- art.nft.org
+
+**(ii) **
