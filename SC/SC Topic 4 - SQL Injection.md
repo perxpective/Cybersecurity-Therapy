@@ -57,6 +57,11 @@ PRINT 'a' + CHAR(13) + 'b' -- carriage return
 ```
 
 **More attack scenarios:**
-- `delete from user where userid = '${userid}$'`
+- `delete from user where userid = '${userid}'`
 ```
+delete from user where userid = '' or 1=1;-- - '${userid}';
+```
+- `update user set age='${age}' where userid = '${userid}'`
+```
+update user set age='10', password='123';-- - '${age}' where userid='${userid}';
 ```
