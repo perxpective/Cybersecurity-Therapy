@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
+                "file": "SC/SC Topic 4 - SQL Injection.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +147,9 @@
   },
   "active": "d0352a399604b043",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
-    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
