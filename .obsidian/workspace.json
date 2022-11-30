@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SMW bridgehead",
+                "query": "tag:#SMW peer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md"
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,10 +144,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "d0352a399604b043",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
-    "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+    "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
