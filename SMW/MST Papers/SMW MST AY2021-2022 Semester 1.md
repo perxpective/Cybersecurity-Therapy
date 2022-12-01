@@ -97,3 +97,4 @@ Your task: Briefly describe and illustrate an updated security group configurati
 - To optimize the configuration with the minimum number of security groups and permissions assignment
 
 Your answers has to be based on the "Account, Global, Domain Local, Permission" (AGDLP) approach to meet the above conditions with the minimum number of security groups and permissions assignment. (15 marks)
+
