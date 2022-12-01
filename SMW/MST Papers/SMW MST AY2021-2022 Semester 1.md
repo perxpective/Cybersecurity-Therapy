@@ -42,11 +42,15 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 (b) The Best Practices Analyzer (BPA) runs pre-designed tests/scans against a target Windows Server and generates a report on its findings. These tests are grouped by different categories. 
 
 **List four categories of these pre-designed tests. (8 marks)**
-- Information
-- Warning
-- Error
+- Configuration
+- Security
+- Performance
+- Pre-deployment
+- Post-deployment
 
 **(c) Briefly describe the purposes of following two system utilities, `sfc` and `sigverif` (6 marks)**
+- `sfc` stands for the system file checker and is mainly used to scan system files for file integrity and can replace files as needed
+- `sigverif` verifies system and critical files and determines if they have a signature. It scans but does not overwrite inappropriate files
 
 ## Question 3
 This question is related to the "SMW Unlimited" Enterprise and its single forest Active Directory setup.
