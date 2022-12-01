@@ -19,6 +19,8 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 **ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue. (5 marks)**
 
 **(b) List two action items that are related to the commitment of Microsoft towards quality. (6 marks)**
+- The use of best practices in all phases of software developments
+- Thorough testing of software 
 
 **(c) List five "security by default" examples we can find from a fresh deployed Primary Domain Controller Server (PDC). (10 marks)**
 
