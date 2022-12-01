@@ -23,11 +23,16 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 - Thorough testing of software before releasing
 
 **(c) List five "security by default" examples we can find from a fresh deployed Primary Domain Controller Server (PDC). (10 marks)**
-- Only domain admins can access the 
+- Windows Firewall is enabled on the PDC
+- Remote Desktop is disabled
+- Windows Defender is enabled
+- Only domain admins can add or delete roles and tasks
+- Only domain admins can edit group policy objects
 
 ## Question 2
 **(a)**
 **(i) Briefly describe the scavenging option of a DNS Server. (3 marks)**
+- 
 **(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server. (6 marks)**
 **(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries. (3 marks)**
 
