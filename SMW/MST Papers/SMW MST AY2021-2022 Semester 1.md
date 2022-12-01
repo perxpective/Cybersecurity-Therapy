@@ -59,6 +59,12 @@ This question is related to the "SMW Unlimited" Enterprise and its single forest
 
 ![](https://i.imgur.com/MbRneV1.png)
 **How many trees is/are defined in the smw.com Active Directory? List the members of the tree(s). (5 marks)**
+- There are two trees
+- **smw.com**
+	- south.smw.com
+	- west.smw.com
+- **west.smw.org**
+- **south.smw.org**
 
 (b) The following table depicts the management levels of six user accounts: Emily, Alice, James, Paul, Bob and Kirk in the "SMW Unlimited" Active Directory
 
