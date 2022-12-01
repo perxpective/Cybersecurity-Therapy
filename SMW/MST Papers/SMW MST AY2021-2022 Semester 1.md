@@ -104,3 +104,6 @@ Your task: Briefly describe and illustrate an updated security group configurati
 
 Your answers has to be based on the "Account, Global, Domain Local, Permission" (AGDLP) approach to meet the above conditions with the minimum number of security groups and permissions assignment. (15 marks)
 
+![](https://i.imgur.com/3yVbmrn.png)
+
+There are 10 relationships between global and domain local groups
