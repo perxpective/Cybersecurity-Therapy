@@ -23,7 +23,7 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 - Thorough testing of software before releasing
 
 **(c) List five "security by default" examples we can find from a fresh deployed Primary Domain Controller Server (PDC). (10 marks)**
-- 
+- Only domain admins can access the 
 
 ## Question 2
 **(a)**
