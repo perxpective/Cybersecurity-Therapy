@@ -36,6 +36,7 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 **(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server. (6 marks)**
 
 **(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries. (3 marks)**
+- The possible time of using a forwarder may be faster as DNS cache will be applicable in the stub zone
 - 
 
 (b) The Best Practices Analyzer (BPA) runs pre-designed tests/scans against a target Windows Server and generates a report on its findings. These tests are grouped by different categories. 
