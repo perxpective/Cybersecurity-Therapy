@@ -32,8 +32,9 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 ## Question 2
 **(a)**
 **(i) Briefly describe the scavenging option of a DNS Server. (3 marks)**
-- 
+- Scavenging option of a DNS server allows users to remove unused DNS records from zone data in order to prevent the accumulation of unneeded records
 **(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server. (6 marks)**
+- 
 **(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries. (3 marks)**
 
 (b) The Best Practices Analyzer (BPA) runs pre-designed tests/scans against a target Windows Server and generates a report on its findings. These tests are grouped by different categories. 
