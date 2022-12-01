@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a4510e10ae0c9c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8aefeb5a9ac121a0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md"
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md"
               }
             }
           },
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
+                "file": "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +169,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "98ec30cb16176286",
+  "active": "a4510e10ae0c9c24",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
     "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
@@ -166,7 +180,6 @@
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
-    "SC/SC Topic 4 - SQL Injection.md"
+    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md"
   ]
 }
