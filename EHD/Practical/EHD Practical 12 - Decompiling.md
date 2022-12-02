@@ -41,4 +41,17 @@ gcc enternumber.c -o enternumber
 
 ## Installing Java JDK in Windows
 1. Run the Java JDK setup file and install it using default options
-2. Open the 
+2. Open the Programs files and open the Java folder
+3. The bin folders contains the programs `javac.exe` and `java.exe`
+
+> The program `javac` is used to compile Java programs
+> The program `java` is used to run compiled Java classes
+
+4. Right-click the Windows icon on the bottom left corner and choose System
+5. Click on Advanced System Settings
+6. Click on Environment Variables
+7. Under System variables, select Path and click Edit
+8. Append the following string to the variable value textbox so that Java JDK is in the path (do not overwrite the original values)
+```
+;C:\Program Files\Javaa\jdk.0.8.0
+```
