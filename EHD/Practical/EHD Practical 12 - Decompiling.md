@@ -175,5 +175,17 @@ jad CalculateArea.class
 **On Any Windows Systems**
 1. Download the Jad for Windows
 2. Browse to the following webpage for a sample Java applet (http://www.cs.rit.edu/~ncs/color/a_spaces.html)
-3. Applet may not be able to run due to web browser restriction
+3. Applet may not be able to run due to web browser restrictions
+4. View Source in the webpage
+5. Look for the `<applet></applet>` tags in the source
+6. The code attribute indicates the name of the class file and the codebase attribute indicates the directory where the class file can be found
 
+![](https://i.imgur.com/0ooAmJQ.png)
+
+7. As the `F.class` is located in the current directory, change the URL in the web browser to the following: http://www.cs.rit.edu/~ncs/color/F.class
+8. Download the `F.class`
+9. Run the `jad.exe` in a Command Prompt to decompile the Java applet
+```
+jad F.class
+```
+10. 
