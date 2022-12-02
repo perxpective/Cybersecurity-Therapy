@@ -53,5 +53,25 @@ gcc enternumber.c -o enternumber
 7. Under System variables, select Path and click Edit
 8. Append the following string to the variable value textbox so that Java JDK is in the path (do not overwrite the original values)
 ```
-;C:\Program Files\Javaa\jdk.0.8.0
+;C:\Program Files\Javaa\jdk1.0.8.0_271\bin
+```
+9. Now you can run `javac` and `java` without having to specify their full path names
+10. In a command prompt, check Java JDK version on the Windows VM 
+```
+javac -version
+```
+
+## Creating a Java and C Program on Windows and Running Them On Linux
+**On Win10 VM**
+1. Create the following program called `HelloWorld.java`
+```java
+class HelloWorld {
+	public static void main(String[] args) {
+		System.out.printIn("Hello World!");
+	}
+}
+```
+2. On Command Prompt, compile and run the program
+```
+javac 
 ```
