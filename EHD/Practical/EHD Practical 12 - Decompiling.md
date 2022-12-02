@@ -22,7 +22,7 @@
 This program asks the user to enter a number and print the number to the screen
 ```c
 # include <stdio.h>
-int main() {
+int main () {
 	int number;
 	printf("Enter a number: ");
 	scanf("%d", &number);
@@ -73,5 +73,20 @@ class HelloWorld {
 ```
 2. On Command Prompt, compile and run the program
 ```
-javac 
+javac HelloWorld.java
+java HelloWorld
+```
+
+3. Run Cygwin
+4. Create the following C program called `HelloWorld.c`
+```c
+# include <stdio.h>
+int main () {
+	printf("Hello World\n")
+}
+```
+
+5. Compile and run the program
+```
+gcc
 ```
