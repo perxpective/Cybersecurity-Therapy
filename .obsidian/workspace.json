@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md"
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "96f3c6b1246f00a2",
   "lastOpenFiles": [
+    "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
+    "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
+    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
+    "SMW/Practical/SMW Practical 1 - Introduction to SMW Lab Setup and Basic Windows Server 2016 Configurations.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 3 -  XSS.md",
-    "EHD/Practical/EHD Practical 11 - Wireless Security.md",
-    "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
-    "EHD/Practical/EHD Practical 10 - Metasploit.md",
-    "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
-    "EHD/Theory/EHD Topic 8 - Virtual Private Network.md"
+    "EHD/Practical/EHD Practical 11 - Wireless Security.md"
   ]
 }

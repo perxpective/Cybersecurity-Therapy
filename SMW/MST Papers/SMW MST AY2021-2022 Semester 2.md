@@ -17,12 +17,12 @@ Your task: Suggest a set of reasonable TCP/IP (IPv4) settings for Toby to config
 
 Please fill out your answers in the following table:
 
-| Network Connection Details | Answer |
-| -------------------------- | ------ |
-| IP Address                 |        |
-| Network Mask               |        |
-| Default Gateway            |        |
-| Preferred DNS Server       |        |
+| Network Connection Details | Answer        |
+| -------------------------- | ------------- |
+| IP Address                 | 192.168.30.35 |
+| Network Mask               | 255.255.255.0 |
+| Default Gateway            | 192.168.30.2  |
+| Preferred DNS Server       |               |
 
 **(b) List three action items that are related to the commitment of Microsoft towards isolation and resilience. (9 marks)**
 
