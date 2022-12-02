@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
+                "file": "SC/SC Topic 3 -  XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
+                "file": "SC/SC Topic 3 -  XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md"
+                "file": "SC/SC Topic 3 -  XSS.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
+                "file": "SC/SC Topic 3 -  XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,6 +196,7 @@
   },
   "active": "d5b56b390e5580f8",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
     "EHD/Theory/EHD Topic 8 - Virtual Private Network.md",
@@ -204,7 +205,6 @@
     "SC/SC Topic 4 - SQL Injection.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "EHD/Practical/EHD Practical 9 - OS Vulnerabilities.md",
-    "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md",
-    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md"
+    "EHD/Practical/EHD Practical 8a - pfSense with OpenVPN.md"
   ]
 }
