@@ -146,3 +146,17 @@ cp CalculateArea.class proguard-in
 ```
 tar -xvf proguard6.2.0.tar.gz
 ```
+4. Change directory to the `proguard/lib` directory
+5. Run the ProGuard GUI
+```
+java -jar proguardgui.jar
+```
+6. Click on the Input/Output button
+7. Click on the Add input and select the `proguard-in` directory 
+8. Click on the Add output and select the `proguard-out` directory
+9. Under the Library jars section, select the `/usr/lib/jvm/java-11-openjdk-amd64/lib/rt.jar` entry and click Remove
+10. Click on the Shrink button and uncheck the Shrinking option
+11. Click on Obfuscation button and check Overload aggressively
+12. Click on Information button and check Ignore warnings about possibly errorneous input
+13. Click on Process button and click Process to start obfuscating
+14. In a terminal, view the fi
