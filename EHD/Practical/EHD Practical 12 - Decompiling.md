@@ -109,4 +109,19 @@ sudo chmod 755 HelloWorld.exe
 **On Win10 VM**
 1. Download the Snowman Decompiler 
 2. Run `snowman.exe`
-3. On the left hand column, 
+3. On the left hand column, the HelloWorld program is disassembled into assembly code
+4. On the right hand column, the HelloWorld program is decompiled into C code
+
+## Decompiling the Java Class File with Jad
+**On Kali VM**
+1. Download Jad for Linux 
+2. Use Jad to decompile the Java class file `HelloWorld.class`
+```
+./jad HelloWorld.class
+```
+3. Use a text editor to view the generated `HelloWorld.jad`
+
+## Obfuscating a Java Program
+**On Kali VM**
+1. Create the following 2 directories (`proguard-in` and `proguard-out`)
+2. Download the sample Cal
