@@ -188,4 +188,4 @@ jad CalculateArea.class
 ```
 jad F.class
 ```
-10. 
+10. Use a text editor to open the `F.jad` file to see the decompiled Java code
