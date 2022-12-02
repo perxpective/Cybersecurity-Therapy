@@ -88,5 +88,25 @@ int main () {
 
 5. Compile and run the program
 ```
-gcc
+gcc HelloWorld.c -o HelloWorld
+./HelloWorld
 ```
+
+**On Kali VM**
+1. Copy the compiled `HelloWorld.class` file from the Win10 VM to the Kali VM
+2. Run the Java class file
+```
+java HelloWorld
+```
+3. Copy the compiled C program executable file from the Win10 VM to the Kali VM
+4. On Kali, run the C executable (you should get an error)
+```
+sudo chmod 755 HelloWorld.exe
+./HelloWorld.exe
+```
+
+## Decompiling the C Executable with Snowman Decompiler
+**On Win10 VM**
+1. Download the Snowman Decompiler 
+2. Run `snowman.exe`
+3. On the left hand column, 
