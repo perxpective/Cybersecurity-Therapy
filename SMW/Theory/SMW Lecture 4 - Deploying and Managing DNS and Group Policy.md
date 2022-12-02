@@ -17,7 +17,7 @@
 	- One of the requirements for using Active Directory is to have DNS servers set up for its domains
 	- Windows Server DNS is the most compatible with the Active Directory
 		- Non-Microsoft servers can be used but they must be compatible with the Active Directory
-		- Microsoft-based DDNS provides additional information to help domain clients to locate DCs and GCs
+		- Microsoft-based DNS provides additional information to help domain clients to locate DCs and GCs
 
 > **Additional Notes:**
 > - DNS provides important operational network services to domain clients
