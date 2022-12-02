@@ -159,4 +159,21 @@ java -jar proguardgui.jar
 11. Click on Obfuscation button and check Overload aggressively
 12. Click on Information button and check Ignore warnings about possibly errorneous input
 13. Click on Process button and click Process to start obfuscating
-14. In a terminal, view the fi
+14. In a terminal, view the file created in the `proguard-out` directory
+15. Change the directory to the `proguard-out` directory
+16. Try running the obfuscated `CalculateArea.class` and it should run the same way as before
+```
+java CalculateArea
+```
+17. Use Jad to decompile the class file
+```
+jad CalculateArea.class
+```
+18. View the decompiled file to see the generated source
+
+## Decompiling Java Applets
+**On Any Windows Systems**
+1. Download the Jad for Windows
+2. Browse to the following webpage for a sample Java applet (http://www.cs.rit.edu/~ncs/color/a_spaces.html)
+3. Applet may not be able to run due to web browser restriction
+
