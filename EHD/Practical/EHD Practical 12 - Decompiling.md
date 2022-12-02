@@ -124,4 +124,25 @@ sudo chmod 755 HelloWorld.exe
 ## Obfuscating a Java Program
 **On Kali VM**
 1. Create the following 2 directories (`proguard-in` and `proguard-out`)
-2. Download the sample Cal
+2. Download the sample `CalculateArea.class`
+3. Try running the `CalculateArea.class`
+```
+java CalculateArea
+```
+4. Use Jad to decompile the class file
+```
+./jad CalculateArea.class
+```
+5. View the decompiled file `CalculateArea,jad` to see the generated source
+
+### Using ProGuard to Obfuscate a Program
+1. Copy the `CalculateArea.class` to `proguard-in` directory
+```
+cp CalculateArea.class proguard-in
+```
+
+2. Download the ProGuard zip file
+3. Extract out the contents of the downloaded ProGuard file
+```
+tar -xvf proguard6.2.0.tar.gz
+```
