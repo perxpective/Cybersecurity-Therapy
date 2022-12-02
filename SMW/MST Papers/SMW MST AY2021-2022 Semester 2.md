@@ -22,9 +22,12 @@ Please fill out your answers in the following table:
 | IP Address                 | 192.168.30.35 |
 | Network Mask               | 255.255.255.0 |
 | Default Gateway            | 192.168.30.2  |
-| Preferred DNS Server       |               |
+| Preferred DNS Server       | 192.168.30.33 |
 
 **(b) List three action items that are related to the commitment of Microsoft towards isolation and resilience. (9 marks)**
+- Firewalls
+- Windows Defender
+- Object Level Access Control
 
 ## Question 2 
 (a)
