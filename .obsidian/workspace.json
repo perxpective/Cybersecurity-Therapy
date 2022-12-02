@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,10 +146,10 @@
   },
   "active": "96f3c6b1246f00a2",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 3 -  XSS.md",
-    "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "EHD/Practical/EHD Practical 11 - Wireless Security.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "EHD/Practical/EHD Practical 10 - Metasploit.md",
