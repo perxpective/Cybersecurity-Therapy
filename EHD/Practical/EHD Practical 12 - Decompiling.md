@@ -25,6 +25,20 @@ This program asks the user to enter a number and print the number to the screen
 int main() {
 	int number;
 	printf("Enter a number: ");
-	scanf("%d")
+	scanf("%d", &number);
+	printf("You have entered %d\n", number);
 }
 ```
+11. In the Cygwin terminal, run the following command to compile the C program into an executable called `enternumber`
+```
+gcc enternumber.c -o enternumber
+```
+12. Run `ls` to check that the file `enternumber.exe` has been created
+13. Run the executable to test it
+```
+./enternumber.exe
+```
+
+## Installing Java JDK in Windows
+1. Run the Java JDK setup file and install it using default options
+2. Open the 
