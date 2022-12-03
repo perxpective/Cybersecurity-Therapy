@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/DFI Revision Summary.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a36f135e67c5eeef",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,10 +175,10 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "9bd50bbb0bbf2ddb",
+  "active": "8c0eeec2ef12202e",
   "lastOpenFiles": [
-    "DFI/DFI Revision Summary.md",
     "SMW/MST Papers/SMW MST Summary.md",
+    "DFI/DFI Revision Summary.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
