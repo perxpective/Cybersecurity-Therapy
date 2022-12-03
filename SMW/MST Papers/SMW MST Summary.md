@@ -42,4 +42,10 @@
 	- Microsoft Defender SmartScreen
 	- Client Inspection Technologies
 		- MBSA
-		- 
+		- Microsoft Application Inspector
+		- Windows Update Agent
+
+#### Software Updates
+- **Explanation:**
+	- Software updates are a primary way of protecting against security vulnerabilities
+- **How often does Micros**
