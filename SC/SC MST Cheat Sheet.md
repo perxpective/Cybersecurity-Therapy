@@ -28,7 +28,7 @@ https://www.example.com/defaut.asp?profile=123&value=123&status=del
 ## XSS Filter Evasion
 - Basic XSS Test
 ```html
-<script>
-	<alert>""</alert>	
-</script>
+<script>alert("Hello World!")</script>
 ```
+
+- 
