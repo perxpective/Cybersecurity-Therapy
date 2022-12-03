@@ -17,5 +17,13 @@
 ### Tampering with URL Parameters
 - URLs can show parameters and values can be modified:
 ```
-https://www.example.com/
+# Original
+https://www.example.com/defaut.asp?profile=123&value=123
+
+# Modified (Statuses)
+https://www.example.com/defaut.asp?profile=123&value=123&status=read
+https://www.example.com/defaut.asp?profile=123&value=123&status=del
 ```
+
+## XSS Filter Evasion
+- Basic XSS 
