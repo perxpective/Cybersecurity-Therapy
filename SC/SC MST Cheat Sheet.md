@@ -31,4 +31,8 @@ https://www.example.com/defaut.asp?profile=123&value=123&status=del
 <script>alert("Hello World!")</script>
 ```
 
-- 
+### Image XSS Using JavaScript Directive
+- No quotes or semicolons
+```html
+<img src=javascript:alert('XSS');">
+```
