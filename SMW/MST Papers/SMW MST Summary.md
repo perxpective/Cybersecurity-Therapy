@@ -17,4 +17,17 @@
 	- Bad software design
 	- Bad implementation
 - **What are the requirements for safe computing?**
-	- 
+	- Changing the behaviour of management programmers and users
+	- Prioritization of secure computing
+	- Writing secure operating systems and applications
+	- Training users to always keep security in mind
+
+### Microsoft's Commitment to Security
+- **What are the areas of security Microsoft has invested in?**
+	- Isolation and Resiliency
+	- Software Updates
+	- Quality
+	- Access Control and Authentication
+
+#### Isolation and Resiliency
+- 
