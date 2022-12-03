@@ -30,4 +30,5 @@
 	- Access Control and Authentication
 
 #### Isolation and Resiliency
-- 
+- **Explanation:**
+	- Splitting a computer system into smaller pieces and ensure that each ppi
