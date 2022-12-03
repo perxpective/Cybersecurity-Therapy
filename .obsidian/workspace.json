@@ -20,12 +20,31 @@
             }
           },
           {
-            "id": "00cd2a972ef6cfcb",
+            "id": "308cacba384db634",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DFI/DFI Revision Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a36f135e67c5eeef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00cd2a972ef6cfcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
+                "file": "DFI/DFI Revision Summary.md"
               }
             }
           },
@@ -132,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "DFI/DFI Revision Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,12 +175,12 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "9bd50bbb0bbf2ddb",
+  "active": "308cacba384db634",
   "lastOpenFiles": [
-    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "DFI/DFI Revision Summary.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+    "DFI/DFI Revision Summary.md",
+    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SC/SC MST Cheat Sheet.md",
