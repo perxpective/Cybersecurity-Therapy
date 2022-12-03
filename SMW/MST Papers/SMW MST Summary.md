@@ -47,5 +47,13 @@
 
 #### Software Updates
 - **Explanation:**
-	- Software updates are a primary way of protecting against security vulnerabilities
-- **How often does Micros**
+	- Primary way of protecting against security vulnerabilities
+- **How often does Microsoft release software updates?**
+	- Monthly
+- **Examples of products related to software updates:**
+	- System Center Configuration Manager (SCCM)
+	- Windows Update Troubleshooter
+	- Windows Software Update Services (WSUS)
+
+#### Quality
+- **Explanation:**
