@@ -35,8 +35,8 @@ Please fill out your answers in the following table:
 
 **(ii) Briefly describe two possible security related advantages of blocking direct external DNS connections and deploying in-house customised forwarder for resolving DNS queries. (6 marks)**
 
-(b) Briefly describe two main functions for each of the following two system utilities:
-
+(b) 
+Briefly describe two main functions for each of the following two system utilities:
 **(i) Best Practices Analyzer (BPA)**
 **(ii) The Security Compliance Manager (SCM)**
 

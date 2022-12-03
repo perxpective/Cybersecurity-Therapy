@@ -31,4 +31,15 @@
 
 #### Isolation and Resiliency
 - **Explanation:**
-	- Splitting a computer system into smaller pieces and ensure that each ppi
+	- Splitting a computer system into smaller pieces and ensure that each piece is separated from the other ones
+	- This is so that if the system gets compromised, it cannot affect other entities in the system
+- **List action items related to commitment of Microsoft towards isolation and resiliency:**
+	- Firewalls 
+	- Object Level Access Control
+	- Exchange Edge Services
+	- Microsoft Defender Antivirus
+	- Smart Screening Technologies
+	- Microsoft Defender SmartScreen
+	- Client Inspection Technologies
+		- MBSA
+		- 
