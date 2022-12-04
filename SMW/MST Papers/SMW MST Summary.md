@@ -110,7 +110,10 @@
 	- Hyper-V Server 2016
 - **Name advantages of using Windows Server 2016 together with Windows Versions 7-10**
 	- Enhanced capabilities to recover from many types of <u>network communication problems</u>
-	- 
+	- Computer code for more efficient network communications
+	- More <u>network diagnostic capabilities</u>
+	- Computer code for better use of <u>network communication protocols</u>
+	- Continuous upgrades for Windows PowerShell commands and scripts  in both Windows Server 2016 and Windows 7-10
 
 ### General Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
@@ -120,3 +123,5 @@
 | Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs                                                                                                         |
 | Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
 | Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
+
+### Windows Server 2016 Features
