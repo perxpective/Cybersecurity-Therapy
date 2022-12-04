@@ -115,15 +115,6 @@
 	- Computer code for better use of <u>network communication protocols</u>
 	- Continuous upgrades for Windows PowerShell commands and scripts  in both Windows Server 2016 and Windows 7-10
 
-### General Terminology
-| Term                          | Definition                                                                                                                                                                                                 |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Client                        | A computer that accesses resources on another computer via a network                                                                                                                                       |
-| Workstation                   | A computer that has its own CPU and can be used as a standalone or network computer                                                                                                                        |
-| Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs                                                                                                         |
-| Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
-| Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
-
 ### Windows Server 2016 Features
 - **List some features of Windows Server 2016**
 	- Server Manager
@@ -137,4 +128,14 @@
 	- Multitasking and Multithreading
 	- Physical and Logical Processors
 	- Containers
-- **Explain the functions of the Server Manager**
+- **List the functions of the Server Manager**
+
+## Tables
+### General Terminology
+| Term                          | Definition                                                                                                                                                                                                 |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Client                        | A computer that accesses resources on another computer via a network                                                                                                                                       |
+| Workstation                   | A computer that has its own CPU and can be used as a standalone or network computer                                                                                                                        |
+| Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs                                                                                                         |
+| Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
+| Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
