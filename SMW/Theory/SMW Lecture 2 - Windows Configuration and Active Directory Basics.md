@@ -38,7 +38,7 @@
 ## Using the Best Practices Analyzer (BPA) for the Server Roles
 - It is important to determine that the best practices for the establishment of the role are followed
 - BPA can be used to determine if one or more roles are installed and configured to follow guidelines recommended by Microsoft
-- When problems are found, analysis of each role yields report with **three levels of severity:**
+- When problems are found, analysis of each role yields reports with **three levels of severity:**
 	- Information
 	- Warning
 	- Error

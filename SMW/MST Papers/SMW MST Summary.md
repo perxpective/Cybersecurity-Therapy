@@ -275,7 +275,13 @@
 
 ### Best Practices Analyzer (BPA)
 - **Objectives of using BPA**
-	- 
+	- Ensure that the best practices for the establishment of the roles are followed
+	- Determine if one or more roles are installed and configured to follow guidelines recommended by Microsoft
+- **Name three levels of severity of problems found by the BPA**
+	- Information
+	- Warning
+	- Error
+- **What are the **
 
 
 ---
