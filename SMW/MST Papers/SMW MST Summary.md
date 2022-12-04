@@ -73,4 +73,13 @@
 	- The development emphasis on security over features
 - **List the requirements of trustworthy computing**
 	- Computers need to be reliable
-	- Software that operaate
+	- Software that operates these machines must be equally reliable
+	- Service components need to be dependable
+- **List the means of achieving trustworthy computing**
+	- Security
+		- by design, default and deployment
+	- Privacy
+		- via fair information principles
+	- Availability, manageability and accuracy
+	- Usability, responsiveness and transparency
+- 
