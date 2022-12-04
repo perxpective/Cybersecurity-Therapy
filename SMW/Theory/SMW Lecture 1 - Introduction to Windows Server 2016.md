@@ -369,9 +369,9 @@
 **Server-Based Networking**
 - Centralizes the network administration on one or more servers
 
-| Peer-To-Peer                         | Server-Based with ADDS                              |
+| Peer-To-Peer                         | Server-Based with ADDS               |
 | ------------------------------------ | ------------------------------------ |
-| ![](https://i.imgur.com/Vm6pgAo.png) | ![](https://i.imgur.com/9pRGxIY.png) |
+| ![](https://i.imgur.com/Vm6pgAo.png) | ![](https://i.imgur.com/GQe4yN4.png) |
 
 > **Pointers 💡**
 > - Windows Network Model/Infrastructure is designed to be scalable

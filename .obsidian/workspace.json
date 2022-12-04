@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "910e1d8a309718a3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9bd50bbb0bbf2ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c0eeec2ef12202e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "a36f135e67c5eeef",
         "type": "tabs",
         "children": [
@@ -49,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc61a264f6a06c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md"
+                "file": "SMW/MST Papers/SMW MST Summary.md"
               }
             }
           },
@@ -151,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,17 +157,17 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "8c0eeec2ef12202e",
+  "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "DFI/DFI Revision Summary.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
-    "SC/SC MST Cheat Sheet.md",
-    "SC/SC Topic 3 -  XSS.md"
+    "SC/SC MST Cheat Sheet.md"
   ]
 }
