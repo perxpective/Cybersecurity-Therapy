@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a36f135e67c5eeef",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md"
+                "file": "SMW/MST Papers/SMW MST Summary.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,13 +174,13 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "b61229039527dccf",
+  "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
+    "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-    "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/Tutorials/SMW Tutorial 1.md",

@@ -273,6 +273,9 @@
 ---
 ## Lecture 2 - Windows Configuration and Active Directory Basics
 
+### Best Practices Analyzer (BPA)
+- **Objectives of using BPA**
+	- 
 
 
 ---
