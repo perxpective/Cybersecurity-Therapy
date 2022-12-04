@@ -117,7 +117,11 @@
 - **Windows Server 2016 Essentials Edition**
 	- **How many users does Essentials Edition support?**
 		- 25 users
-	- **How many connections are **
+	- **How many connections are allowed for file sharing through SMB?**
+		- 16.8 million connections
+	- **How many central processor sockets does Essentials Edition have?**
+		- 2 sockets
+	- **How many Remote Desktop Connections**
 - **List the features of the Standard Edition**
 	- File and print services
 	- Secure internet connectivity
