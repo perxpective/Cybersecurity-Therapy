@@ -280,7 +280,7 @@
 	- Dashboard offers more quick-start guidance for setting up one or more servers and establishing groupings used to manage specific kinds of servers
 	- Server Manager GUI has a new look  
 	- Has new features such as:
-		- Greater ability to add and manage remotes servers
+		- Greater ability to add and manage remote servers
 
 ### Security
 - When installing Windows Server 2016, essential level of security automatically implemented by default when <u>adding a feature</u> or <u>installing a Windows component</u>

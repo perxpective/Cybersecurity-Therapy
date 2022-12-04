@@ -155,6 +155,8 @@
 	- Multitasking and Multithreading
 	- Physical and Logical Processors
 	- Containers
+
+#### Server Manager
 - **List the functions of the Server Manager**
 	- Enables server administrators to manage critical configuration features from inside one tool
 	- View computer configuration information
@@ -166,7 +168,20 @@
 	- Change server roles and system properties
 - **List the advantages of the features of the Server Manager**
 	- Multiple servers are easier to manage from one place
-	- Dashboard 
+	- Dashboard offers more quick-start guidance for setting up one or more servers
+	- Local server option makes all of the local server properties available to manage
+	- Greater ability to add and manage remote server
+
+#### Security
+- **List default security features implemented in a Windows Server 2016**
+	- File and folder permissions
+	- Security policies
+	- Data encryption
+	- Event auditing
+	- Authentication methods
+	- Server management and monitoring tools
+
+#### E
 
 ## Table Summaries 
 ### General Terminology
