@@ -6,7 +6,7 @@
 ```toc
 ```
 
-## Chapter 1 - Introduction to Windows Server 2016
+## Lecture 1 - Introduction to Windows Server 2016
 ### Secure Computing
 - **Name the type of threats to Windows computers**
 	- Viruses
@@ -233,7 +233,15 @@
 	- Software applications can be stored and shared in a central location
 	- Important databases can be managed and secured from one computer
 	- All computers can be backed up more easily
-	- Server administrator can save time when installing software upgrades
+	- Server administrators save time when installing software upgrades
+
+### Windows Server 2016 Network Protocols
+- **Definition of TCP/IP**
+	- Stands for the Transmission Control Protocol/Internet Protocol
+	- Suite of protocols that support communication across LANs and the Internet
+- **Explain how is TCP/IP reliable**
+	- 
+
 
 ## Table Summaries 
 ### General Terminology
