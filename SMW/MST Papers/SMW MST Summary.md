@@ -191,7 +191,11 @@
 
 ### Windows Server Core
 - **Objectives of Windows Server Core**
-	- To function in a similar fashion to a traditional UNIX and Linux S
+	- To function in a similar fashion to a traditional UNIX and Linux server
+
+### Windows Nano Server
+- **Functions of Windows Nano Server**
+	- Serves as a platform to run the following
 
 ## Table Summaries 
 ### General Terminology
