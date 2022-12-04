@@ -128,7 +128,19 @@
 	- Faster cloning
 	- Migration of individual VMs
 	- VM information is stored in a new file format to protect it from being directly edited
-- **In what cases would the Datacentre Edition be **
+- **In what environments is the Datacentre Edition designed for?**
+	- <u>Environments with:</u>
+		- Mission-critical applications
+		- Very large databases
+		- Very large virtualisation requirements
+		- Cloud computing needs
+		- Information access requiring high availability
+- **How many computers does the Datacentre Edition offer support for clustering?**
+	- 64 computers
+- **In what areas are the Standard Edition and Datacentre Edition different in?**
+	- Virtualization
+	- Cloud computing
+	- Database han
 
 ### Windows Server 2016 Features
 - **List some features of Windows Server 2016**

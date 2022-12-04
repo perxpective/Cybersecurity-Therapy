@@ -202,7 +202,7 @@
 	- Information access requiring high availability
 - Offers support for clustering up to 64 computers
 
-**Areas of differences between Standard Edition and Datacenter Edition**
+**Areas of differences between Standard Edition and Datacentre Edition**
 	- Virtualization
 	- Cloud computing
 	- Database handling
