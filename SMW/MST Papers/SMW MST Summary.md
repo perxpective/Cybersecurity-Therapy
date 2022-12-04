@@ -69,4 +69,8 @@
 	- Public Key Infrastructure (PKI)
 	- Internet Protocol Security (IPSec)
 	- Active Directory Rights Management Services (ADRMS)
-- **Explain the Microsoft Trustworthy**
+- **Explain the Microsoft Trustworthy Computing Memo**
+	- The development emphasis on security over features
+- **List the requirements of trustworthy computing**
+	- Computers need to be reliable
+	- Software that operaate
