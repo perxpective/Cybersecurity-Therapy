@@ -373,6 +373,7 @@
 | ------------------------------------ | ------------------------------------ |
 | ![](https://i.imgur.com/Vm6pgAo.png) | ![](https://i.imgur.com/GQe4yN4.png) |
 
+
 > **Pointers 💡**
 > - Windows Network Model/Infrastructure is designed to be scalable
 > - Small office or organisations may use the P2P model to provide LAN based connectivity for simple file and print services.
