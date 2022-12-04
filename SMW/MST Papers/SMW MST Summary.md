@@ -217,6 +217,14 @@
 | Peer-to-Peer Networking                                                                                   | Server-Based Networking                                       |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | Focuses on spreading the network resource administration among server and non-server members of a network | Centralizes the network administration on one or more servers |
+| Effective for small networks                                                                              | Effective for larger networks                                 |
+
+- **What are the disadvantages of using peer-to-peer networking?**
+	- Management of network resources are decentralized
+	- Administration becomes more difficult as network grows larger in size
+	- Lack of security resources
+- **What are the advantages of using server-based networking over peer-to-peer networking?**
+	- Can 
 
 ## Table Summaries 
 ### General Terminology
