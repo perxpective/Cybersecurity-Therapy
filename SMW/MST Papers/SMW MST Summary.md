@@ -207,7 +207,16 @@
 	- Set up local and networking printing options
 	- Install, list and remove software applications
 	- View local computer information
-	- Maa
+	- Manage services and processes
+	- Lock a computer or log off
+	- Manage IIS web services
+
+### Planning a Windows Server 2016 Networking Model
+- **What is the difference between peer-to-peer networking and server-based networking?**
+
+| Peer-to-Peer Networking                                                                                   | Server-Based Networking                                       |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Focuses on spreading the network resource administration among server and non-server members of a network | Centralizes the network administration on one or more servers |
 
 ## Table Summaries 
 ### General Terminology
