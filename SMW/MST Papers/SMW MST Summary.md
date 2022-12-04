@@ -98,3 +98,15 @@
 		- specialised testing techniques
 		- threat modelling
 	- Write documentation with security in mind
+
+### Windows Server 2016 Editions
+- **What are the different Windows Server 2016 platforms developed by Microsoft?**
+	- Essentials Edition
+	- Standard Edition
+	- Datacentre Edition
+- **What are the additional platforms of the Windows Server 2016?**
+	- Multipoint Premium Server
+	- Storage Server 2016
+	- Hyper-V Server 2016
+
+
