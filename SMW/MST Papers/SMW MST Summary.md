@@ -115,12 +115,16 @@
 	- Computer code for better use of <u>network communication protocols</u>
 	- Continuous upgrades for Windows PowerShell commands and scripts  in both Windows Server 2016 and Windows 7-10
 - **What are the drawbacks to using Essential Edition?**
-	- It cannot join a domain
+	- It cannot join a domain other than migrating files and data from one server to another
+	- It provides most but not all server roles
+	- It does not roles for hosting virtual machines
+	- It cannot provide cloud services
 - **List the features of the Standard Edition**
 	- File and print services
 	- Secure internet connectivity
 	- Centralized management of users
 	- Centralized management of applications and network resources
+- **What improvements have been made to H**
 
 ### Windows Server 2016 Features
 - **List some features of Windows Server 2016**
