@@ -63,16 +63,8 @@
 	- Thorough testing of software before release
 
 #### Access Control and Authentication
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **What are some areas that Microsoft made changes to in order to improve access control and authentication?**
+	- Passwords
+	- Smart cards
+	- Public Key Infrastructure (PKI)
+	- Internet 
