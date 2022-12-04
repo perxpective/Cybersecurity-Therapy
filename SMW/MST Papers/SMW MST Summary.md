@@ -114,6 +114,15 @@
 	- More <u>network diagnostic capabilities</u>
 	- Computer code for better use of <u>network communication protocols</u>
 	- Continuous upgrades for Windows PowerShell commands and scripts  in both Windows Server 2016 and Windows 7-10
+- **Windows Server 2016 Essentials Edition**
+	- **How many users does Essentials Edition support?**
+		- 25 users
+	- **How many connections are **
+- **List the features of the Standard Edition**
+	- File and print services
+	- Secure internet connectivity
+	- Centralized management of users
+	- Centralized management of applications and network resources
 
 ### Windows Server 2016 Features
 - **List some features of Windows Server 2016**
@@ -128,9 +137,9 @@
 	- Multitasking and Multithreading
 	- Physical and Logical Processors
 	- Containers
-- **List the functions of the Server Manager**
+- **List the functions of the Server Manager*g
 
-## Tables
+## Table Summaries 
 ### General Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
