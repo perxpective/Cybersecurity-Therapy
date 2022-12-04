@@ -189,6 +189,10 @@
 	- Provide easier applications of IIS patches
 	- Makes it easier for network programmers to write network applications and configure applications for the web
 
+### Windows Server Core
+- **Objectives of Windows Server Core**
+	- To function in a similar fashion to a traditional UNIX and Linux S
+
 ## Table Summaries 
 ### General Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
