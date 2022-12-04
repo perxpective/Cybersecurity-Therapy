@@ -6,6 +6,7 @@
       {
         "id": "a8ebb21689994df0",
         "type": "tabs",
+        "dimension": 52.80059746079163,
         "children": [
           {
             "id": "cc61a264f6a06c2b",
@@ -14,6 +15,19 @@
               "type": "markdown",
               "state": {
                 "file": "SMW/MST Papers/SMW MST Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "dbd826c3d759a547"
+          },
+          {
+            "id": "068b8675839a0524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,12 +45,30 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "e81e578e237bf331",
+        "type": "tabs",
+        "dimension": 14.936519790888722,
+        "children": [
+          {
+            "id": "76b8ad22c9847431",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST Summary.md"
+              }
+            },
+            "group": "dbd826c3d759a547"
+          }
+        ]
       },
       {
         "id": "a36f135e67c5eeef",
         "type": "tabs",
+        "dimension": 32.26288274831964,
         "children": [
           {
             "id": "00cd2a972ef6cfcb",
@@ -116,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md"
+                "file": "SMW/MST Papers/SMW MST Summary.md"
               }
             }
           },
@@ -151,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,15 +207,15 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "b61229039527dccf",
+  "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
-    "SMW/MST Papers/SMW MST Summary.md",
-    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
+    "SMW/MST Papers/SMW MST Summary.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
+    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
+    "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "DFI/DFI Revision Summary.md"

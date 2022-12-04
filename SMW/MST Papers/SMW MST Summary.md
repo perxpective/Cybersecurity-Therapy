@@ -281,7 +281,7 @@
 	- Information
 	- Warning
 	- Error
-- **What are the **
+- **What are the categories/guidelines for the BPA**
 
 
 ---
