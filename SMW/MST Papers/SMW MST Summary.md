@@ -181,7 +181,11 @@
 	- Authentication methods
 	- Server management and monitoring tools
 
-#### E
+#### Enhanced Web Services
+- **What is the Microsoft Internet Information Services (IIS)?**
+	- Transforms Windows Server 2016 into a versatile web server
+- **What is the IIS designed for?**
+	- Has over 40 modules to enable IIS to have a lower attack
 
 ## Table Summaries 
 ### General Terminology
