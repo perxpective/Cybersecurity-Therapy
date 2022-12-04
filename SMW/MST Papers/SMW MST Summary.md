@@ -124,7 +124,11 @@
 	- Secure internet connectivity
 	- Centralized management of users
 	- Centralized management of applications and network resources
-- **What improvements have been made to H**
+- **What improvements have been made to Hyper-V?**
+	- Faster cloning
+	- Migration of individual VMs
+	- VM information is stored in a new file format to protect it from being directly edited
+- **In what cases would the Datacentre Edition be **
 
 ### Windows Server 2016 Features
 - **List some features of Windows Server 2016**
