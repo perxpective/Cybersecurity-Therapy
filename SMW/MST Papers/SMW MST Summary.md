@@ -67,4 +67,6 @@
 	- Passwords
 	- Smart cards
 	- Public Key Infrastructure (PKI)
-	- Internet 
+	- Internet Protocol Security (IPSec)
+	- Active Directory Rights Management Services (ADRMS)
+- **Explain the Microsoft Trustworthy**
