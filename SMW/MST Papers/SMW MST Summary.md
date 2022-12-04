@@ -69,6 +69,8 @@
 	- Public Key Infrastructure (PKI)
 	- Internet Protocol Security (IPSec)
 	- Active Directory Rights Management Services (ADRMS)
+
+### Trustworthy Computing
 - **Explain the Microsoft Trustworthy Computing Memo**
 	- The development emphasis on security over features
 - **List the requirements of trustworthy computing**
@@ -82,4 +84,11 @@
 		- via fair information principles
 	- Availability, manageability and accuracy
 	- Usability, responsiveness and transparency
-- 
+
+### Trusted Cloud
+- **List three fundamental principles in Microsoft's Trusted Cloud initiative **
+	- Security
+	- Privacy
+	- Compliance
+
+### Secure
