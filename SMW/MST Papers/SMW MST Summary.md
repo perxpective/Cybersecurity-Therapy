@@ -110,6 +110,3 @@
 	- Hyper-V Server 2016
 
 ### General Terminology
-- **Define Client**
-	- A computer that accesses resources on another computer via a network
-- **Define**
