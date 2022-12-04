@@ -125,3 +125,9 @@
 | Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
 
 ### Windows Server 2016 Features
+- **List some features of Windows Server 2016**
+	- Server Manager
+	- Security
+	- Clustering
+	- Enhanced Web Services
+	- Windows Server Core and Nano Server
