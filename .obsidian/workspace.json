@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "a8ebb21689994df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc61a264f6a06c2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "a36f135e67c5eeef",
         "type": "tabs",
         "children": [
@@ -18,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc61a264f6a06c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
