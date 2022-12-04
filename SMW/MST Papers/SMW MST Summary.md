@@ -195,7 +195,7 @@
 
 ### Windows Nano Server
 - **Functions of Windows Nano Server**
-	- Serves as a platform to run the following
+	- Serves as a platform to run DNS, DHCP, application servers, web servers and databases or file servers
 
 ## Table Summaries 
 ### General Terminology
@@ -206,6 +206,8 @@
 | Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs                                                                                                         |
 | Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
 | Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
+
+**Windows Server 2016 Essentials Edition**
 
 | Specifications                                                           | Value        |
 | ------------------------------------------------------------------------ | ------------ |
