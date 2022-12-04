@@ -91,4 +91,10 @@
 	- Privacy
 	- Compliance
 
-### Secure
+### Secure Code
+- **What are some steps taken by Microsoft to implement and maintain security?**
+	- Provide training to Windows engineers on
+		- writing secure code
+		- specialised testing techniques
+		- threat modelling
+	- Write documentation with security in mind
