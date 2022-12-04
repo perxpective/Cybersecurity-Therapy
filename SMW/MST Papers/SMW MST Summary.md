@@ -224,7 +224,16 @@
 	- Administration becomes more difficult as network grows larger in size
 	- Lack of security resources
 - **What are the advantages of using server-based networking over peer-to-peer networking?**
-	- It is able to handle hundreds of users at once 
+	- It is able to handle hundreds of users at once
+	- Users are only required to log on once to gain access to network resources
+	- Stronger security
+	- All members can share computer files in the network
+	- Printers and other resources can be shared
+	- All members can email other office members through an email server
+	- Software applications can be stored and shared in a central location
+	- Important databases can be managed and secured from one computer
+	- All computers can be backed up more easily
+	- Server administrator can save time when installing software upgrades
 
 ## Table Summaries 
 ### General Terminology
