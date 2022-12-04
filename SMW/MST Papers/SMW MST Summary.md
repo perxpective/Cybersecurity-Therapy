@@ -236,12 +236,21 @@
 	- Server administrators save time when installing software upgrades
 
 ### Windows Server 2016 Network Protocols
+#### Transmission Control Protocol (TCP)
 - **Definition of TCP/IP**
 	- Stands for the Transmission Control Protocol/Internet Protocol
 	- Suite of protocols that support communication across LANs and the Internet
 - **Explain how is TCP/IP reliable**
-	- 
+	- It controls data flow to ensure end-to-end delivery of data
+	- Windows is constantly adjusted to account for existing network traffic
+	- It is a connection-oriented communication that ensures that packets are delivered in the right sequence and their contents are accurate
 
+#### Address Resolution Protocol
+- **Explain what is the Address Resolution Protocol (ARP)**
+	- It is a protocol that acquires the physical addresses of a computer's network interface card (NIC)
+- **What command is used to show the contents of ARP cache?**
+	- `arp -a`
+- 
 
 ## Table Summaries 
 ### General Terminology
