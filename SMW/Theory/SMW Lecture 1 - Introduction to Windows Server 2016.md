@@ -338,7 +338,7 @@
 	- Set up local and networking printing options
 	- Install, list and remove software applications
 	- View information about local computer including user accounts
-	- Manage services and progresses
+	- Manage services and processes
 	- Lock a computer or log off
 	- Manage IIS web services
 - PowerShell offers over 130 command-line tools called `cmdlets`

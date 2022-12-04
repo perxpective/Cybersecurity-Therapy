@@ -197,6 +197,18 @@
 - **Functions of Windows Nano Server**
 	- Serves as a platform to run DNS, DHCP, application servers, web servers and databases or file servers
 
+#### Windows PowerShell
+- **Explanation:**
+	- Command-line interface that offers a shell for executing commands and scripts
+- **What tasks can PowerShell be used to perform?**
+	- Work with files and folders
+	- Manage disk storage
+	- Manage network tasks
+	- Set up local and networking printing options
+	- Install, list and remove software applications
+	- View local computer information
+	- Maa
+
 ## Table Summaries 
 ### General Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
