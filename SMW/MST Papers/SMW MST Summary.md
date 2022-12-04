@@ -250,7 +250,18 @@
 	- It is a protocol that acquires the physical addresses of a computer's network interface card (NIC)
 - **What command is used to show the contents of ARP cache?**
 	- `arp -a`
-- 
+
+#### Automated Address Configuration
+##### Automatic Private IP Addressing (APIPA)
+- **Explanation:**
+	- Configuration used to automatically configure TCP/IP settings for a computer without a DHCP server
+- **Who is APIPA suitable for?**
+	- Small organisations with only one network segment and do not need access to another network or Internet
+
+##### Dynamic Addressing Through a DHCP Server
+- **Where is DHCP service commonly used in?**
+	- Medium-sized and large networks
+- ****
 
 ## Table Summaries 
 ### General Terminology
