@@ -207,7 +207,7 @@
 	- Cloud computing
 	- Database handling
 
-> Datacenter Edition does not come with **database software**
+> Datacentre Edition does not come with **database software**
 > - Designed to provide OS resources to accommodate large database applications
 
 ## Using Windows Server 2016 with Client Systems

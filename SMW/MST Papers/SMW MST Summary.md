@@ -140,7 +140,7 @@
 - **In what areas are the Standard Edition and Datacentre Edition different in?**
 	- Virtualization
 	- Cloud computing
-	- Database han
+	- Database handling
 
 ### Windows Server 2016 Features
 - **List some features of Windows Server 2016**
@@ -155,7 +155,15 @@
 	- Multitasking and Multithreading
 	- Physical and Logical Processors
 	- Containers
-- **List the functions of the Server Manager*g
+- **List the functions of the Server Manager**
+	- Enables server administrators to manage critical configuration features from inside one tool
+	- View computer configuration information
+	- Change server roles and system properties
+	- Configure networking and remote desktop
+	- Add or remove features
+	- Run diagnostics
+	- Manage storage and backups
+	- Change server roles and system properties
 
 ## Table Summaries 
 ### General Terminology
