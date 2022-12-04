@@ -121,7 +121,7 @@
 		- 16.8 million connections
 	- **How many central processor sockets does Essentials Edition have?**
 		- 2 sockets
-	- **How many Remote Desktop Connections**
+	- **How many Remote Desktop Connections does Essentials **
 - **List the features of the Standard Edition**
 	- File and print services
 	- Secure internet connectivity
