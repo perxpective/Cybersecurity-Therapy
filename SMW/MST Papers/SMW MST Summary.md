@@ -6,6 +6,7 @@
 ```toc
 ```
 
+---
 ## Lecture 1 - Introduction to Windows Server 2016
 ### Secure Computing
 - **Name the type of threats to Windows computers**
@@ -261,8 +262,20 @@
 ##### Dynamic Addressing Through a DHCP Server
 - **Where is DHCP service commonly used in?**
 	- Medium-sized and large networks
-- ****
+- **What other settings can a DHCP server assign?**
+	- Subnet mask
+	- Default gateway
+	- DNS server
+	- Other IP settings
+- **Reason for using a DHCP server**
+	- To save large amounts of administrative effort  
 
+---
+## Lecture 2 - Windows Configuration and Active Directory Basics
+
+
+
+---
 ## Table Summaries 
 ### General Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
