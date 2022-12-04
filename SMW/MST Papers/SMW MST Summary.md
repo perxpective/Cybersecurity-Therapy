@@ -164,6 +164,9 @@
 	- Run diagnostics
 	- Manage storage and backups
 	- Change server roles and system properties
+- **List the advantages of the features of the Server Manager**
+	- Multiple servers are easier to manage from one place
+	- Dashboard 
 
 ## Table Summaries 
 ### General Terminology
