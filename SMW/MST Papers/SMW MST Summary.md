@@ -131,3 +131,10 @@
 	- Clustering
 	- Enhanced Web Services
 	- Windows Server Core and Nano Server
+	- Windows PowerShell
+	- Virtualization
+	- Reliability
+	- Multitasking and Multithreading
+	- Physical and Logical Processors
+	- Containers
+- **Explain the functions of the Server Manager**
