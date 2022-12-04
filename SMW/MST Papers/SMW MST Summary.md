@@ -114,14 +114,8 @@
 	- More <u>network diagnostic capabilities</u>
 	- Computer code for better use of <u>network communication protocols</u>
 	- Continuous upgrades for Windows PowerShell commands and scripts  in both Windows Server 2016 and Windows 7-10
-- **Windows Server 2016 Essentials Edition**
-	- **How many users does Essentials Edition support?**
-		- 25 users
-	- **How many connections are allowed for file sharing through SMB?**
-		- 16.8 million connections
-	- **How many central processor sockets does Essentials Edition have?**
-		- 2 sockets
-	- **How many Remote Desktop Connections does Essentials **
+- **What are the drawbacks to using Essential Edition?**
+	- It cannot join a domain
 - **List the features of the Standard Edition**
 	- File and print services
 	- Secure internet connectivity
@@ -152,3 +146,11 @@
 | Total Cost of Ownership (TCO) | The full cost of owning a network including hardware, software, maintenance and user support costs                                                                                                         |
 | Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
 | Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
+
+| Specifications                                                           | Value        |
+| ------------------------------------------------------------------------ | ------------ |
+| Number of users                                                          | 25           |
+| Connections for file sharing through Server Message Block (SMB) services | 16.8 million |
+| Number of central processor sockets                                      | 2            |
+| Number of Remote Desktop Connections                                     | 50           |
+| Number of Routing and Remote Access Connections                          | 50             |
