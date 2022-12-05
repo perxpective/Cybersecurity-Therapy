@@ -538,10 +538,11 @@
 		- When it is the authoritative server for the particular domain
 		- It has the required information from its cache
 	- **What happens when DNS does not have the answer?**
-		- It per
-		- It looks up the IP address of the corresponding authoritative server from one of the root servers
-		- It involves multiple rounds of inquiries
-		- The local DNS acts as the client to visit multiple authoritative DNS servers to get the final server
+		- It performs <u>iterative lookup</u>
+			- It looks up the IP address of the corresponding authoritative server from one of the root servers
+			- It involves multiple rounds of inquiries
+			- The local DNS acts as the client to visit multiple authoritative DNS servers to get the final server
+			- Once the actual authoritative server is identified, the local DNS contacts the remote DNS directly and get the required information
 
 ---
 ## Table Summaries 
