@@ -573,7 +573,11 @@
 | Potential to enable customizable DNS service within an enterprise e.g. DNS filtering and logging |                                                                                      |
 
 ### Creating DNS Implementation
-- **What are the best practices recommendations for **
+- **What are the best practices recommendations for DNS implementation?**
+	- Implement Windows Server 2016 instead of other DNS versions and use Active Directory
+	- Resource records and zones that can be set up for IPv4 can also be set up for IPv6
+	- Use namespaces to represent natural organisational boundaries
+	- Create two or more DNS servers to t
 
 
 
