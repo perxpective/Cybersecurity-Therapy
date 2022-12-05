@@ -459,7 +459,7 @@
 	- Domain controller is designated to have the role of exchanging replication information
 
 ### Active Directory Guidelines
-
+- **What are some guidelines to take note of when **
 
 ### Multi-Master Replication
 - **Definition:**
