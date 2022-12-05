@@ -430,7 +430,14 @@
 	- It refers to the domain-specific functions supported by Windows Server operating systems on domain controllers
 
 #### Organisational Units (OU)
-- 
+- **Definition**
+	- A group of related objects in a domain that can be administered using the same group policies
+- **Reasons for using OUs**
+	- OUs help achieve more flexibility in managing resources linked to a business unit, department or division
+- **What are concerns to keep in mind when creating OUs?**
+	- Limit OUs to 10 levels or less
+	- It is more efficient to set up OUs horizontally than vertically
+	- Creation of OUs require more processing resources as each request through an OU requires more CPU time
 
 ### Multi-Master Replication
 - **Definition:**

@@ -325,7 +325,7 @@
 	- Windows Server 2016 Domain Functional Level
 
 ### Organisational Unit (OU)
-- Offers a way to achieve more flexibility  in managing the resources associated with a business unit, department or division
+- Offers a way to achieve more flexibility in managing the resources associated with a business unit, department or division
 - A grouping of related objects within a domain
 	- Allows grouping of objects that can be administered using the same group policies
 - OUs can be nested within OUs
