@@ -611,6 +611,17 @@
 - **What are the key features and benefits of the SCM?**
 	- Download security baselines from Microsoft
 	- Compare and customise security baselines
+	- Export baselines in formats like XLS or GPOs
+
+### Security Features in Windows Server 2016
+- **Examples of security features:**
+	- Server Core and Nano Server to reduce attack surface of kernel
+	- Expanded and evolving group policies
+	- Windows Firewall
+	- Windows Defender
+	- User Account Control
+	- BitLocker Drive Encryption
+- 
 
 ---
 ## Table Summaries 
