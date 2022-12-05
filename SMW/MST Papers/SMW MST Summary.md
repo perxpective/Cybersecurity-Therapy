@@ -577,7 +577,15 @@
 	- Implement Windows Server 2016 instead of other DNS versions and use Active Directory
 	- Resource records and zones that can be set up for IPv4 can also be set up for IPv6
 	- Use namespaces to represent natural organisational boundaries
-	- Create two or more DNS servers to t
+	- Create two or more DNS servers for load balancing, multi-master relationships and fault tolerance
+	- Designate one DNS server as a forwarder to reduce traffic
+	- Number of DNS servers set up can be related to analysis of an organisation
+- **What are the security benefits of a read-only domain controller?**
+	- It allows for unidirectional replication so that the compromised read-only domain controller will not spread malicious updates
+	- It does not cache any passwords
+
+### DNS Enhancements on Windows Server 2016
+
 
 
 

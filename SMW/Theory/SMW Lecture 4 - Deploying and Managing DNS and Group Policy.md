@@ -153,12 +153,12 @@
 - Plan to locate DNS server across most site links
 - Create two or more DNS servers to take advantage of load balancing, multi-master relationships (with AD-integrated zones) and fault tolerance
 - Designate one DNS server as a forwarder to reduce traffic
-- Number of DNS servers set up can be related to analysis or an organisation
+- Number of DNS servers set up can be related to analysis of an organisation
 - If there are multiple servers used for one application, use round robin to distribute the load
 	- Only applicable for namespace with cluster setup
 - If a branch location with a **read-only domain controller (RODC)** needs local DNS services because there are many users, make the RODC a secondary DNS server and not a primary DNS server
 
-> **Security Benefits of RDOC**
+> **Security Benefits of RODC**
 > - Unidirectional replication (compromised RODC will not spread malicious updates)
 > - Not caching any passwords on a RDOC
 
