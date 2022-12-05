@@ -621,7 +621,9 @@
 	- Windows Defender
 	- User Account Control
 	- BitLocker Drive Encryption
-- 
+- **Definition of a Demilitarised Zone (DMZ)**
+	- A portion of a network that is in between two networks (usually a private network and the Internet)
+- **Definition of Windows Def**
 
 ---
 ## Table Summaries 
