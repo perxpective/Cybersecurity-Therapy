@@ -75,9 +75,9 @@
 - **Explain the Microsoft Trustworthy Computing Memo**
 	- The development **emphasis** on <u>security</u> over <u>features</u>
 - **List the requirements of trustworthy computing**
-	- Computers need to be reliable
-	- Software that operates these machines must be equally reliable
-	- Service components need to be dependable
+	- Computers need to be <u>reliable</u>
+	- Software that operates these machines must be <u>equally reliable</u>
+	- Service components need to be <u>dependable</u>
 - **List the means of achieving trustworthy computing**
 	- **Security**
 		- by design, default and deployment
@@ -87,7 +87,7 @@
 	- Usability, responsiveness and transparency
 
 ### Trusted Cloud
-- **List three fundamental principles in Microsoft's Trusted Cloud initiative **
+- **List three fundamental principles in Microsoft's Trusted Cloud initiative**
 	- Security
 	- Privacy
 	- Compliance
