@@ -371,7 +371,14 @@
 - **Definition:**
 	- Stores information about every object within a forest
 	- By default, the first domain controller to be configured in a forest becomes the global catalog server
-- **What are the functions of a global catalog server?**
+- **What are the benefits of a global catalog server?**
+	- Stores a full replica of all objects within its own domain and partial replica of each object within every domain in the forest but with a small number of attributes
+	- Enables forest-wide searches of data
+- **What are the functions of a global catalog?**
+	- Acts as central storage of key object information in a forest with multiple domains
+	- Provides access to all resources in a domain
+	- Proves replication of key Active Directory elements
+	- Keeps a copy of most used attributes for each object for quick access
 	- 
 
 ### Multi-Master Replication

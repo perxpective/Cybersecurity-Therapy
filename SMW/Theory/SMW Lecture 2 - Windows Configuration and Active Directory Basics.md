@@ -217,7 +217,7 @@
 	- Enables forest-wide searches of data
 - **Purposes:**
 	- Serving as the central storehouse of key object information in a forest with multiple domains
-	- Providing lookup and access to all resource in all domains
+	- Providing lookup and access to all resources in all domains
 	- Providing replication key Active Directory elements
 	- Keeping a copy of most used attributes for each object for quick access
 	- By default the first DC in the forest is automatically designated as the global catalog server
