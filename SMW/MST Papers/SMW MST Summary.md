@@ -623,7 +623,15 @@
 	- BitLocker Drive Encryption
 - **Definition of a Demilitarised Zone (DMZ)**
 	- A portion of a network that is in between two networks (usually a private network and the Internet)
-- **Definition of Windows Def**
+- **Definition of Windows Defender**
+	- Software that scans for viruses, spyware and malware 
+- **User Account Control (UAC)**
+	- **Design Objectives**
+		- To keep the user running in the standard user mode to fully insulate the kernel and keep operating system and desktop files stabilized
+	- **What is the Administrator Approval Mode in the UAC?**
+		- It prevents malware or intruders from acquiring control via a backdoor without the administrator's knowledge
+- **Explanation of BitLocker Drive Encryption**
+	- Prevents an intruder from bypassing ACL file and folder protections
 
 ---
 ## Table Summaries 
