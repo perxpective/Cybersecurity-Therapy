@@ -600,8 +600,17 @@
 - **Functions of MBSA**
 	- Compares computer settings against Microsoft's released patches and listed vulnerabilities
 	- Provides streamlined methods to identify missing security updates and common security configurations
-- **Which of the following **
+- **Which of the following must be enabled for MBSA to run on multiple machines or remotely?**
+	- Server Service
+	- Remote Registry Service
+	- File and Print Sharing
 
+### Microsoft Security Compliance Manager
+- **Explanation**
+	- Utility to enable automation deployment and monitoring baseline compliance
+- **What are the key features and benefits of the SCM?**
+	- Download security baselines from Microsoft
+	- Compare and customise security baselines
 
 ---
 ## Table Summaries 
