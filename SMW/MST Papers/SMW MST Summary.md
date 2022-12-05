@@ -272,7 +272,6 @@
 
 ---
 ## Lecture 2 - Windows Configuration and Active Directory Basics
-
 ### Best Practices Analyzer (BPA)
 - **Objectives of using BPA**
 	- Ensure that the best practices for the establishment of the roles are followed
@@ -497,7 +496,9 @@
 	- If information on one domain controller changes, it is replicated to all other domain controllers
 
 ## Lecture 4 - Deploying and Managing DNS and Group Policy
-
+### Domain Name System
+- **Definition**
+	- TCP/IP application protocol that enables a DNS server to r
 
 ---
 ## Table Summaries 
