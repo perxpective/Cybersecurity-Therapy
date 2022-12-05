@@ -18,10 +18,10 @@
 	- Bad software design
 	- Bad implementation
 - **What are the requirements for safe computing?**
-	- Changing the behaviour of management programmers and users
-	- Prioritization of secure computing
+	- <u>Changing the behaviour</u> of management programmers and users
+	- <u>Prioritization</u> of secure computing
 	- Writing secure operating systems and applications
-	- Training users to always keep security in mind
+	- <u>Training users</u> to always keep security in mind
 
 ### Microsoft's Commitment to Security
 - **What are the areas of security Microsoft has invested in?**
@@ -32,7 +32,7 @@
 
 #### Isolation and Resiliency
 - **Explanation:**
-	- Splitting a computer system into smaller pieces and ensure that each piece is separated from the other ones
+	- <u>Splitting a computer system into smaller pieces</u> and ensure that each piece is <u>separated from the other ones</u>
 	- This is so that if the system gets compromised, it cannot affect other entities in the system
 - **List action items related to commitment of Microsoft towards isolation and resiliency:**
 	- Firewalls 
@@ -48,7 +48,7 @@
 
 #### Software Updates
 - **Explanation:**
-	- Primary way of protecting against security vulnerabilities
+	- Primary way of <u>protecting against security vulnerabilities</u>
 - **How often does Microsoft release software updates?**
 	- Monthly
 - **Examples of products related to software updates:**
@@ -60,8 +60,8 @@
 - **What are some examples related to Microsoft's commitment towards quality?:**
 	- The use of quality <u>standards</u> and <u>processes</u>
 	- The use of <u>best practices</u> in all phases of <u>software development</u>
-	- The development of new internal tools that automatically checks code for common errors
-	- Thorough testing of software before release
+	- The <u>development of new internal tools</u> that automatically checks code for common errors
+	- <u>Thorough testing</u> of software before release
 
 #### Access Control and Authentication
 - **What are some areas that Microsoft made changes to in order to improve access control and authentication?**
