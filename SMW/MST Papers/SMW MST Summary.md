@@ -503,7 +503,11 @@
 	- There is a possibility for the refusal for connection from hosts without reverse lookup records
 
 ### DNS Zones
-- 
+- **Definition**
+	- Tables associated with partitions in a DNS server
+- **Forward Lookup Zone**
+	- **Explanation**
+		- The z
 
 ---
 ## Table Summaries 
