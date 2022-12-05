@@ -402,7 +402,10 @@
 - **Definition**
 	- Group of one or more Active Directory trees in a common relationship
 - **What are the characteristics of a forest?**
-	- Trees can use a disjointed namep
+	- Trees can use a disjointed namespace
+	- All trees use the same schema
+	- All trees use the same global catalog
+	- Two-way transitive trust are automatically configured between domains within a single forest
 
 ### Multi-Master Replication
 - **Definition:**
