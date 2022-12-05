@@ -385,7 +385,24 @@
 	- A logical area on a network that contains directory services and named objects
 - **What are the two types of namespaces?**
 	- Contiguous namespaces where the child object contains the name of the parent object
-	- Disjointed namespaces where the child object does not resemble the name of t
+	- Disjointed namespaces where the child object does not resemble the name of the parent object
+
+### Active Directory Structure
+- **What is the logical structure of the Active Directory?**
+	- Forest
+	- Trees
+	- Domains
+	- Organisational Units (OU)
+	- Site Objects
+- **What is the physical structure of the Active Directory?**
+	- Domain Controllers
+	- Sites (Physical Networks)
+
+#### Forest
+- **Definition**
+	- Group of one or more Active Directory trees in a common relationship
+- **What are the characteristics of a forest?**
+	- Trees can use a disjointed namep
 
 ### Multi-Master Replication
 - **Definition:**
