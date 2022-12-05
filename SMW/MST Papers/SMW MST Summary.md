@@ -307,7 +307,12 @@
 	- Recover a malfunctioning system due to corrupted system files
 
 ### Verifying System and Critical Files
-
+- **Functions of `sigverif`:**
+	- It verifies system and critical files to determine if they have a signature
+	- Does not overwrite inappropriate files
+- **Where are results of the scan written to?**
+	- They are written to a log file called `sigverif.txt`
+- **What happens if the tool finds a file without a s**
 
 ---
 ## Table Summaries 
