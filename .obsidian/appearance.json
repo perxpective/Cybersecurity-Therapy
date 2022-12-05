@@ -2,7 +2,7 @@
   "interfaceFontFamily": "Segoe UI Emoji,SF Pro Display,Inter",
   "textFontFamily": "Segoe UI,Segoe UI Emoji,SF Pro Display,Inter",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "",
+  "cssTheme": "Gitsidian",
   "baseFontSize": 17,
   "theme": "moonstone",
   "translucency": false,
