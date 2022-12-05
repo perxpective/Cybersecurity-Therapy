@@ -439,6 +439,14 @@
 	- It is more efficient to set up OUs horizontally than vertically
 	- Creation of OUs require more processing resources as each request through an OU requires more CPU time
 
+#### Sites
+- **Definition**
+	- TCP/IP based concept within the Active Directory linked to IP subnets
+- **What are the functions of sites?**
+	- It reflects one or more interconnected subnets
+	- It reflects the physical aspect of a network
+	- It is used in domain controller replication
+	- It enables a client to access the domain controller
 ### Multi-Master Replication
 - **Definition:**
 	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
