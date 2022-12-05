@@ -496,9 +496,11 @@
 	- If information on one domain controller changes, it is replicated to all other domain controllers
 
 ## Lecture 4 - Deploying and Managing DNS and Group Policy
-### Domain Name System
+### Implementing Microsoft DNS
 - **Definition**
-	- TCP/IP application protocol that enables a DNS server to r
+	- TCP/IP application protocol that enables a DNS server to resolve forward and reverse lookups
+- **What are the security implications of DNS?**
+	- There is a possibility for the refusal for connection from hosts without reverse lookup records
 
 ---
 ## Table Summaries 
