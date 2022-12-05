@@ -357,7 +357,10 @@
 	- A container that holds information about all network resources grouped within it
 	- A logical group that shares the same Active Directory
 
-####
+#### Schema
+- **Definition:**
+	- Defines the objects and attributes that can be stored in the Active Directory
+- **What are the object classes stored in the Active Directory?**
 
 ### Multi-Master Replication
 - **Definition:**
