@@ -534,6 +534,14 @@
 ### DNS Query
 - **How does it work?**
 	- Client requests the local DNS for a name to IP address resolution
+	- **When does the local DNS give an immediate answer?**
+		- When it is the authoritative server for the particular domain
+		- It has the required information from its cache
+	- **What happens when DNS does not have the answer?**
+		- It per
+		- It looks up the IP address of the corresponding authoritative server from one of the root servers
+		- It involves multiple rounds of inquiries
+		- The local DNS acts as the client to visit multiple authoritative DNS servers to get the final server
 
 ---
 ## Table Summaries 
