@@ -353,7 +353,11 @@
 - **Definition of Domain Controllers**
 	- Servers that have ADDS server roles installed
 	- Contains writable copies of information in the Active Directory
-- 
+- **Definition of Domain**
+	- A container that holds information about all network resources grouped within it
+	- A logical group that shares the same Active Directory
+
+### Multi-Master Replication
 
 
 
