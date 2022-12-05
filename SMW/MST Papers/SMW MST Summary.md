@@ -459,7 +459,12 @@
 	- Domain controller is designated to have the role of exchanging replication information
 
 ### Active Directory Guidelines
-- **What are some guidelines to take note of when **
+- **What are some guidelines to take note of when setting up an Active Directory**
+	- Keep the Active Directory <u>as simple as possible</u>
+	- Plan its structure before implementing it
+	- Implement the least number of domains as possible
+	- Use OUs to reflect the organisation's structure
+	- Do not build a 
 
 ### Multi-Master Replication
 - **Definition:**
