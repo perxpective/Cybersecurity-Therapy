@@ -73,6 +73,7 @@
 ### DNS Replication
 **Primary DNS Server:**
 - Main administrative server for a zone and thus also the authoritative server for that zone
+
 **Secondary DNS Server:**
 - Contains copy of primary DNS server zone database but not used for administration
 - Obtains copy of zone database through a zone transfer over the network

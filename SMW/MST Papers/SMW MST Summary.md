@@ -507,7 +507,8 @@
 	- Tables associated with partitions in a DNS server
 - **Forward Lookup Zone**
 	- **Explanation**
-		- The z
+		- The zone that links computer names to IP addresses and holds address records
+	- 
 
 ---
 ## Table Summaries 
