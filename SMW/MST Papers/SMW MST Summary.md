@@ -335,6 +335,22 @@
 	- Only make changes to the Registry as a last resort
 	- Regularly back up Registry as part of backing up the Windows Server 2016 `Windows` folder
 	- Never copy the Registry from one Windows system to a registry of a different system
+- **What is the easiest way to create a backup in the Registry?**
+	- Setting a restore point by using `cmdlet` in the PowerShell
+- **What should be done if a registry is damaged after working on it?**
+	- Return to the restore point created just before working on the Registry
+
+### Active Directory Basics
+- **Definition of an Active Directory:**
+	- Directory service that stores information about all network resources
+	- <u>Examples of information:</u>
+		- Servers
+		- Printers
+		- User Accounts
+		- Groups
+		- Security Policies
+		- Emails
+	- 
 ---
 ## Table Summaries 
 
