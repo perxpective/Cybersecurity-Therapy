@@ -292,7 +292,10 @@
 	- Login as a Domain Administrator (account that is authorized to access the domain controller)
 	- Open the Server Manager
 	- Click the local server on the left pane
-	- On the right pane, scroll to the  
+	- On the right pane, scroll to the BPA
+	- Click the down arrow for Tasks
+	- Click Start BPA Scan and wait for the scan to be completed
+	- Read the results of the scan outputted
 
 
 ---
