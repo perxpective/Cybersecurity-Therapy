@@ -367,6 +367,13 @@
 - **Caveat:**
 	- The replication between domain controllers require involved parties to have an identical Active Directory schema
 
+#### Global Catalog
+- **Definition:**
+	- Stores information about every object within a forest
+	- By default, the first domain controller to be configured in a forest becomes the global catalog server
+- **What are the functions of a global catalog server?**
+	- 
+
 ### Multi-Master Replication
 - **Definition:**
 	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
