@@ -447,6 +447,13 @@
 	- It reflects the physical aspect of a network
 	- It is used in domain controller replication
 	- It enables a client to access the domain controller
+- **What are some reasons to define a site?**
+	- It enables a client to access network servers using the most efficient physical route
+	- Domain Controller replication is the most efficient when Active Directory has information about the locations of which domain controllers
+- **What are the benefits of creating a site?**
+	- Sites can set up redundant paths between domain con
+
+
 ### Multi-Master Replication
 - **Definition:**
 	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
