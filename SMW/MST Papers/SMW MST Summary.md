@@ -525,7 +525,10 @@
 - **Definition of Secondary DNS Server**
 	- The server that contains a copy of the primary DNS server zone database but cannot be used for administration
 	- It obtains a copy of the zone database through a zone transfer over the network
-- **What are the important **
+- **What are the important services that the secondary DNS server perform?**
+	- It ensures that there is always a copy of a primary DNS server's data
+	- It enables DNS load balancing among primary DNS and secondary servers
+	- It allows 
 
 ---
 ## Table Summaries 
