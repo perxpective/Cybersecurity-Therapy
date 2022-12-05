@@ -531,6 +531,10 @@
 	- It faces and answers to queries from the public network
 	- It reduces congestion in one part of the network
 
+### DNS Query
+- **How does it work?**
+	- Client requests the local DNS for a name to IP address resolution
+
 ---
 ## Table Summaries 
 ### General Terminology
