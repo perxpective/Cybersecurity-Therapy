@@ -528,7 +528,8 @@
 - **What are the important services that the secondary DNS server perform?**
 	- It ensures that there is always a copy of a primary DNS server's data
 	- It enables DNS load balancing among primary DNS and secondary servers
-	- It allows 
+	- It faces and answers to queries from the public network
+	- It reduces congestion in one part of the network
 
 ---
 ## Table Summaries 
