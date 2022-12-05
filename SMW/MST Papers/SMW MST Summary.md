@@ -312,8 +312,18 @@
 	- Does not overwrite inappropriate files
 - **Where are results of the scan written to?**
 	- They are written to a log file called `sigverif.txt`
-- **What happens if the tool finds a file without a s**
+- **What happens if the tool finds a file without a signature that needs to be replaced?**
+	- The file can be replaced when users are off the system
 
+### Windows Server 2016 Registry
+- **Definition of a registry:**
+	- A complex database containing all information the operating system needs about the entire server
+	- It acts as the <u>coordinating centre</u> for a specific server
+- **What kind of data is contained in the Registry?**
+	- Hardware component information
+	- Windows Server 2016 services information
+	- User profile data
+	- Windows Server 201
 ---
 ## Table Summaries 
 
