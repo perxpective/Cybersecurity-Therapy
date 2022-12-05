@@ -220,7 +220,7 @@
 	- Providing lookup and access to all resources in all domains
 	- Providing replication key Active Directory elements
 	- Keeping a copy of most used attributes for each object for quick access
-	- By default the first DC in the forest is automatically designated as the global catalog server
+	- By default, the first DC in the forest is automatically designated as the global catalog server
 		- There is an option of configuring another DC to be a global catalog server as well as designating multiple DCs as global catalog servers
 
 #### Namespace
