@@ -477,7 +477,7 @@
 	- Configures audit policy
 - **Components in SCW**
 	- GUI Interactive Wizard
-	- Database
+	- Database (Security Configuration Database)
 	- Command-Line Tool called `scwcmd`
 
 ### Multi-Master Replication
