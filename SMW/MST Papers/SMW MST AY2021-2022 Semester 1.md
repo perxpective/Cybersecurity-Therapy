@@ -32,10 +32,12 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 ## Question 2
 **(a)**
 **(i) Briefly describe the scavenging option of a DNS Server. (3 marks)**
-- Scavenging option of a DNS server allows users to remove unused DNS records from zone data in order to prevent the accumulation of unneeded records
+- Scavenging option of a DNS server allows users to remove unused DNS records from zone data
 
 **(ii) Briefly describe one pro and one con of enabling the scavenging option for a DNS Server. (6 marks)**
-- 
+- One pro is that it prevents the accumulation of unneeded records
+- However, one con is that it Active Directory replication will increase
+
 **(iii) Briefly describe one advantage of using stub zone over forwarder for resolving DNS queries. (3 marks)**
 - The possible time of using a forwarder may be faster as DNS cache will be applicable in the stub zone
 
