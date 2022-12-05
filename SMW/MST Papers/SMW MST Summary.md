@@ -323,7 +323,18 @@
 	- Hardware component information
 	- Windows Server 2016 services information
 	- User profile data
-	- Windows Server 201
+	- Windows Server 2016 group policy information
+	- Last current and last known setup used to boot the computer
+	- Configuration information
+	- Software licensing information
+	- Server Manager configurations
+- **What command is used to launch the registry editor?**
+	- `regedit`
+- **What are some precautions to take note of when working with the Registry?**
+	- Establish specific group of admins who have permissions to access and modify the Registry
+	- Only make changes to the Registry as a last resort
+	- Regularly back up Registry as part of backing up the Windows Server 2016 `Windows` folder
+	- Never copy the Registry from one Windows system to a registry of a different system
 ---
 ## Table Summaries 
 
