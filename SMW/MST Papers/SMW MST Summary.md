@@ -479,6 +479,9 @@
 	- GUI Interactive Wizard
 	- Database (Security Configuration Database)
 	- Command-Line Tool called `scwcmd`
+- **What are the differences between SCW and BPA?**
+	- SCW scans for roles in the servers and is able to adjust the security settings to match these roles
+	- 
 
 ### Multi-Master Replication
 - **Definition:**
