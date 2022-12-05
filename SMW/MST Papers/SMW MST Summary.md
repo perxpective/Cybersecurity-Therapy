@@ -508,7 +508,9 @@
 - **Forward Lookup Zone**
 	- **Explanation**
 		- The zone that links computer names to IP addresses and holds address records
-	- 
+- **Reverse Lookup Zone**
+	- **Explanation**
+		- 
 
 ---
 ## Table Summaries 
