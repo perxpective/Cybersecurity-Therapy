@@ -555,7 +555,8 @@
 	- It helps quickly resolve computer names between two different namespaces
 
 ### Additional DNS Server Roles
-- **When can DNS forwarding**
+- **When can DNS forwarding be set up?**
+	- 
 
 ---
 ## Table Summaries 
