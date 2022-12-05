@@ -554,6 +554,8 @@
 - **What is one use for a stub zone?**
 	- It helps quickly resolve computer names between two different namespaces
 
+### Additional DNS Server Roles
+- **When can DNS forwarding**
 
 ---
 ## Table Summaries 
