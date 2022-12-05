@@ -406,7 +406,13 @@
 	- All trees use the same schema
 	- All trees use the same global catalog
 	- Two-way transitive trust are automatically configured between domains within a single forest
+- **What is a domain functional level?**
+	- Refers to the Active Directory functions that are supported forest-wide
 
+#### Tree
+- **Definition**
+	- Group of one or more domains in a common relationship
+- **What are **
 ### Multi-Master Replication
 - **Definition:**
 	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
@@ -425,8 +431,7 @@
 | Domain                        | A group of network objects such as computers, servers and user accounts that provides for easier management<br> Computers and users in a domain can be managed to determine what resources they can access |
 | Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
 
-**Windows Server 2016 Essentials Edition**
-
+### Windows Server 2016 Essentials Edition
 | Specifications                                                           | Value        |
 | ------------------------------------------------------------------------ | ------------ |
 | Number of users                                                          | 25           |
