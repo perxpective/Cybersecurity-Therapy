@@ -587,8 +587,16 @@
 ### DNS Threats
 - **What are the type of threats that administrators should watch out for?**
 	- <u>DDoS with DNS Amplification Attack</u>
-		- Bogus queries are sent to trigger a DNS to send large volumes of replies to the target victim
-	- <u></u>
+		- Attack where bogus queries are sent to trigger a DNS to send large volumes of replies to the target victim
+	- <u>Cache Poisoning</u>
+		- Attack where the DNS cache/stub zone/forwarder is compromised, causing the DNS to return incorrect IP addresses and diverting traffic to the attacker's computer
+	- <u>Registrar Hijacking</u>
+		- The act of changing the registration of a domain without the permission of the original registrant
+		- It can be done generally by exploiting a vulnerability in the domain name registration system or via social engineering
+
+### Microsoft Baseline Security Analyzer (MBSA)
+- **Definition**
+	- A tool used to sca
 
 
 
