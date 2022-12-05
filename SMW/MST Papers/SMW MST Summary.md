@@ -596,7 +596,8 @@
 
 ### Microsoft Baseline Security Analyzer (MBSA)
 - **Definition**
-	- A tool used to sca
+	- A tool used to scan Windows-based computers for common security holes
+- 
 
 
 
