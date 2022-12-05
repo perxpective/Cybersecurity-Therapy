@@ -510,7 +510,10 @@
 		- The zone that links computer names to IP addresses and holds address records
 - **Reverse Lookup Zone**
 	- **Explanation**
-		- 
+		- The zone used to resolve IP addresses to network resource names
+
+### DNS Dynamic Update Protocol
+
 
 ---
 ## Table Summaries 
