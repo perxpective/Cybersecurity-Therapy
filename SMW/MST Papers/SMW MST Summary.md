@@ -598,9 +598,9 @@
 - **Definition**
 	- A tool used to scan Windows-based computers for common security holes
 - **Functions of MBSA**
-	- Compares computert 
-
-
+	- Compares computer settings against Microsoft's released patches and listed vulnerabilities
+	- Provides streamlined methods to identify missing security updates and common security configurations
+- **Which of the following **
 
 
 ---
