@@ -292,11 +292,12 @@
 	- Login as a Domain Administrator (account that is authorized to access the domain controller)
 	- Open the Server Manager
 	- Click the local server on the left pane
-	- On the right pane, scroll to the 
+	- On the right pane, scroll to the  
 
 
 ---
 ## Table Summaries 
+
 ### General Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
