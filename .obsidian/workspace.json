@@ -19,6 +19,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "752ee42bc8318664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DFI/DFI Revision Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -27,30 +39,6 @@
         "type": "tabs",
         "dimension": 50.933532486930545,
         "children": [
-          {
-            "id": "ace3398d67371178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abe7131f7c2195e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "00cd2a972ef6cfcb",
             "type": "leaf",
@@ -190,15 +178,15 @@
   },
   "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+    "DFI/DFI Revision Summary.md",
     "SMW/MST Papers/SMW MST Summary.md",
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SMW/Tutorials/SMW Tutorial 1.md",
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
+    "SMW/Tutorials/SMW Tutorial 1.md"
   ]
 }

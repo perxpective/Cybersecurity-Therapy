@@ -635,7 +635,9 @@
 
 ---
 ## Table Summaries 
+
 ### General Terminology
+
 | Term                          | Definition                                                                                                                                                                                                 |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Client                        | A computer that accesses resources on another computer via a network                                                                                                                                       |
@@ -645,6 +647,7 @@
 | Active Directory              | Database of computer, users, groups of users, shared printers, shared folders and other network resources                                                                                                                                                                                                           |
 
 ### Windows Server 2016 Essentials Edition
+
 | Specifications                                                           | Value        |
 | ------------------------------------------------------------------------ | ------------ |
 | Number of users                                                          | 25           |
