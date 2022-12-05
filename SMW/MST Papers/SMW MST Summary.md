@@ -361,6 +361,11 @@
 - **Definition:**
 	- Defines the objects and attributes that can be stored in the Active Directory
 - **What are the object classes stored in the Active Directory?**
+	- User accounts
+	- Computers
+	- Groups
+- **Caveat:**
+	- The replication between domain controllers require involved parties to have an identical Active Directory schema
 
 ### Multi-Master Replication
 - **Definition:**
