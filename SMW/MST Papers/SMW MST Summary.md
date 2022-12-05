@@ -357,7 +357,12 @@
 	- A container that holds information about all network resources grouped within it
 	- A logical group that shares the same Active Directory
 
+####
+
 ### Multi-Master Replication
+- **Definition:**
+	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
+	- If information on one domain controller changes, it is replicated to all other domain controllers
 
 
 
