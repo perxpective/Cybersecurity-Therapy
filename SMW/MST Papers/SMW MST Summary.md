@@ -553,7 +553,6 @@
 	- Records for authoritative nameservers
 - **What is one use for a stub zone?**
 	- It helps quickly resolve computer names between two different namespaces
-- **Define Zone Transfer Pri**
 
 
 ---
