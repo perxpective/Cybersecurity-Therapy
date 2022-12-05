@@ -6,7 +6,7 @@
       {
         "id": "a8ebb21689994df0",
         "type": "tabs",
-        "dimension": 52.80059746079163,
+        "dimension": 43.573264781491,
         "children": [
           {
             "id": "cc61a264f6a06c2b",
@@ -45,30 +45,13 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "e81e578e237bf331",
-        "type": "tabs",
-        "dimension": 14.936519790888722,
-        "children": [
-          {
-            "id": "76b8ad22c9847431",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
-              }
-            },
-            "group": "dbd826c3d759a547"
-          }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a36f135e67c5eeef",
         "type": "tabs",
-        "dimension": 32.26288274831964,
+        "dimension": 41.51670951156812,
         "children": [
           {
             "id": "00cd2a972ef6cfcb",
@@ -81,6 +64,24 @@
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "d960fd0b21edbd9d",
+        "type": "tabs",
+        "dimension": 14.910025706940875,
+        "children": [
+          {
+            "id": "76b8ad22c9847431",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST Summary.md"
+              }
+            },
+            "group": "dbd826c3d759a547"
           }
         ]
       }
@@ -132,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242
+    "width": 217.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md"
               }
             }
           },
@@ -183,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,13 +209,13 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "cc61a264f6a06c2b",
+  "active": "068b8675839a0524",
   "lastOpenFiles": [
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
-    "SMW/MST Papers/SMW MST Summary.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
+    "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
+    "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
