@@ -471,7 +471,14 @@
 - **Definition**
 	- A software program that adjusts security settings to match the roles of a Windows Server
 - **Functions of SCW**
-	- 
+	- Disables unnecessary services and software
+	- Closes network communication ports and resources not in use
+	- Examines shared files and folders to manage network access through access protocols
+	- Configures audit policy
+- **Components in SCW**
+	- GUI Interactive Wizard
+	- Database
+	- Command-Line Tool called `scwcmd`
 
 ### Multi-Master Replication
 - **Definition:**
