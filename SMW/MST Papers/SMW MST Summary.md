@@ -417,6 +417,8 @@
 	- Domains can be in a hierarchy
 	- Two-way trust relationships exist between parent and child domains
 	- All domains in a single tree use the same schema for all types of common objects
+
+
 ### Multi-Master Replication
 - **Definition:**
 	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
