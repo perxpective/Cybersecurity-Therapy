@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SC/SC MST Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.50260543823242,
-    "collapsed": true
+    "width": 217.50260543823242
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SC/SC MST Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
+                "file": "SC/SC MST Cheat Sheet.md"
               }
             }
           },
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SC/SC MST Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +166,8 @@
   },
   "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/MST Papers/SMW MST Summary.md",
+    "SMW/Theory/SMW Lecture 2 - Windows Configuration and Active Directory Basics.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",

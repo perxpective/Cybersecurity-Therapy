@@ -451,7 +451,14 @@
 	- It enables a client to access network servers using the most efficient physical route
 	- Domain Controller replication is the most efficient when Active Directory has information about the locations of which domain controllers
 - **What are the benefits of creating a site?**
-	- Sites can set up redundant paths between domain con
+	- Sites can set up redundant paths between domain controllers
+	- These paths can be used for replication
+
+#### Bridgehead Server
+- **Definition**
+	- Domain controller is designated to have the role of exchanging replication information
+
+### Active Directory Guidelines
 
 
 ### Multi-Master Replication
