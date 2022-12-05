@@ -19,33 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8160b009edbe9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3544b1aa13691d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 5 - Logging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a36f135e67c5eeef",
@@ -154,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 5 - Logging.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 5 - Logging.md"
+                "file": "SMW/MST Papers/SMW MST Summary.md"
               }
             }
           },
@@ -189,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 5 - Logging.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +188,9 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "e3544b1aa13691d6",
+  "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
+    "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/MST Papers/SMW MST Summary.md",
@@ -223,7 +199,6 @@
     "SMW/Theory/SMW Lecture 1 - Introduction to Windows Server 2016.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
-    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md",
-    "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md"
+    "SMW/Practical/SMW Practical 2 - Introduction to the Best Practices Analyser (BPA) and Active Directory Basics.md"
   ]
 }

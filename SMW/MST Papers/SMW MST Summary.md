@@ -584,7 +584,11 @@
 	- It allows for unidirectional replication so that the compromised read-only domain controller will not spread malicious updates
 	- It does not cache any passwords
 
-### DNS Enhancements on Windows Server 2016
+### DNS Threats
+- **What are the type of threats that administrators should watch out for?**
+	- <u>DDoS with DNS Amplification Attack</u>
+		- Bogus queries are sent to trigger a DNS to send large volumes of replies to the target victim
+	- <u></u>
 
 
 
