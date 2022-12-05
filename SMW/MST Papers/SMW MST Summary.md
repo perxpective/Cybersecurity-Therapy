@@ -556,7 +556,12 @@
 
 ### Additional DNS Server Roles
 - **When can DNS forwarding be set up?**
-	- 
+	- When the DNS server receiving the forwarded request cannot resolve the name 
+- **What is a caching server?**
+	- It is used to provide fast queries as results of each query are stored in RAM
+- **What are the benefits to using caching servers?**
+	- Caching-only DNS servers query primary or secondary DNS servers and caches results to provide fast responses for the next identical query
+	- It reduces the number of secondary servers and extra network traffic
 
 ---
 ## Table Summaries 

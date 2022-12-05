@@ -122,7 +122,7 @@
 - DNS forwarding can be set up if DNS server receiving the forwarded request cannot resolve the name
 	- Server that originally forwarded the request attempts to resolve via other ways
 	- Called **nonexclusive forwarding**
-- Windows Server 202126 supports use of forwarder and root hints
+- Windows Server 2016 supports use of forwarder and root hints
 	- But root hints traffic may be blocked by higher level ISP for security measure
 
 ![](https://i.imgur.com/xsDVH19.png)
