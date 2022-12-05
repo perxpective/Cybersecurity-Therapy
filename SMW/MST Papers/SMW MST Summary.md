@@ -480,8 +480,9 @@
 	- Database (Security Configuration Database)
 	- Command-Line Tool called `scwcmd`
 - **What are the differences between SCW and BPA?**
-	- SCW scans for roles in the servers and is able to adjust the security settings to match these roles
-	- 
+	- SCW scans for roles in the servers and is able to adjust the security settings to match these roles, whereas the BPA only scans for roles that do not follow Microsoft's best practices and only provides recommendations on how to fix them
+	- SCW settings can be exported and applied to other servers while BPA does not have this function
+	- Scanning rules of BPA are updated regularly by Microsoft via software updates while rules of SCW are fixe
 
 ### Multi-Master Replication
 - **Definition:**
