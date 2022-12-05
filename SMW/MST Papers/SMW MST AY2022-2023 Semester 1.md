@@ -108,4 +108,4 @@ Your task: Briefly describe and illustrate the security group configurations and
 - All officers and managers to read files from the shared folders that reside in the same tree where the user accounts are defined.
 - All interns to read files from the shared folders that reside in the same domain where the user accounts are defined.
 
-Your answer has to be based on the “Account, Global, Domain Local, Permission” (AGDLP) approach to meet the above five access conditions with the minimum number of security groups and permission assignment. (16 marks)
+**Your answer has to be based on the “Account, Global, Domain Local, Permission” (AGDLP) approach to meet the above five access conditions with the minimum number of security groups and permission assignment. (16 marks)**
