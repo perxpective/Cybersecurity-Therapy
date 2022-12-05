@@ -10,6 +10,7 @@ After completing the setup of the Windows Server 2016 system to have the ADDS an
 ![](https://i.imgur.com/TtEN7wK.png)
  
  **(i) Briefly describe the required steps/procedures for Tony to install and authorise DHCP server in Server A. (6 marks)**
+ - Open the Server Manager on Server A
  - Add roles to install the DHCP service role 
  - Authorise DHCP with user account that belongs to Domain Admin
 
