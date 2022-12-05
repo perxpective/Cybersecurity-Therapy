@@ -65,7 +65,7 @@
 > **Dynamic DNS** - Modern form of DNS that enables client computers and DHCP servers to automatically register IP addresses
 
 - **DNS Dynamic Update Protocol**
-	- Enables information in DNS server to be  automatically  updated in coordination with DHCP
+	- Enables information in DNS server to be automatically updated in coordination with DHCP
 - After configuring DNS:
 	- Ensure that is configured to secure the DNS dynamic update protocol
 	- Saves administrators time since they no longer have to manually register each new workstation or each time new IP lease is issued

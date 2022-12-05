@@ -513,6 +513,11 @@
 		- The zone used to resolve IP addresses to network resource names
 
 ### DNS Dynamic Update Protocol
+- **Definition**
+	- Protocol that enables information in DNS servers to be automatically updated in coordination with DHCP
+- **Dynamic DNS**
+	- **Explanation**
+		- Modern form of DNS that enables client computers and DHCP servers to automatically register IP addresses
 
 
 ---
