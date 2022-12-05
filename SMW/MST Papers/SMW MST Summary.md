@@ -469,7 +469,8 @@
 
 ### Security Configuration Wizard
 - **Definition**
-	- 
+	- A software program that adjusts security settings to match the roles of a Windows Server
+- **Functions of SCW**
 
 ### Multi-Master Replication
 - **Definition:**
