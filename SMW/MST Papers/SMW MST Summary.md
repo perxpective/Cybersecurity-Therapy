@@ -547,6 +547,14 @@
 ### Stub Zone
 - **Definition**
 	- A copy of the DNS zone that contains only resource records that identify DNS servers for that zone
+- **What information does the stub zone copy?**
+	- SOA record zone
+	- Nameserver records to identify authoritative servers
+	- Records for authoritative nameservers
+- **What is one use for a stub zone?**
+	- It helps quickly resolve computer names between two different namespaces
+- **Define Zone Transfer Pri**
+
 
 ---
 ## Table Summaries 
