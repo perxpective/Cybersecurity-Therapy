@@ -297,6 +297,17 @@
 	- Click Start BPA Scan and wait for the scan to be completed
 	- Read the results of the scan outputted
 
+### System File Checker
+- **Command for the System File Checker** - `sfc`
+- **What are the functions of the System File Checker?**
+	- It scans system files for integrity
+- **What are the best use cases for the system file checker?**
+	- Checking a new system based on new installation media or baseline
+	- Verify integrity of possible compromised system
+	- Recover a malfunctioning system due to corrupted system files
+
+### Verifying System and Critical Files
+
 
 ---
 ## Table Summaries 

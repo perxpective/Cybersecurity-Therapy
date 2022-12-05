@@ -69,7 +69,7 @@
 - **Best Use Cases:**
 	- Initial checking on a new system based on a new installation media or baseline
 	- To verify the integrity of a possible compromised system
-	- To recover a malfunction system due to corrupted system files
+	- To recover a malfunctioned system due to corrupted system files
 
 ### Using Sigverif to Verify System and Critical Files
 - `Sigverif` verifies system and critical files to determine if they have a signature
