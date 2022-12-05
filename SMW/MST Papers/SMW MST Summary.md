@@ -406,7 +406,7 @@
 	- All trees use the same schema
 	- All trees use the same global catalog
 	- Two-way transitive trust are automatically configured between domains within a single forest
-- **What is a domain functional level?**
+- **What is a forest functional level?**
 	- Refers to the Active Directory functions that are supported forest-wide
 
 #### Tree
@@ -418,6 +418,11 @@
 	- Two-way trust relationships exist between parent and child domains
 	- All domains in a single tree use the same schema for all types of common objects
 
+#### Domain
+- **Definition**
+	- A logical partition within an Active Directory forest
+	- A grouping of objects that typically exist as a primary container within the Active Directory forest
+- **What are the characteristics **
 
 ### Multi-Master Replication
 - **Definition:**
