@@ -496,7 +496,8 @@
 	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
 	- If information on one domain controller changes, it is replicated to all other domain controllers
 
-## Chapter 3 - 
+## Lecture 4 - Deploying and Managing DNS and Group Policy
+
 
 ---
 ## Table Summaries 
