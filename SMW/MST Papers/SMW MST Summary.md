@@ -282,6 +282,12 @@
 	- Warning
 	- Error
 - **What are the categories/guidelines for the BPA**
+	- Configuration
+	- Security
+	- Pre-deployment
+	- Post-deployment
+	- Performance
+	- BPA Pre-requisites
 
 
 ---
