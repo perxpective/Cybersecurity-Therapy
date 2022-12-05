@@ -341,7 +341,7 @@
 	- Return to the restore point created just before working on the Registry
 
 ### Active Directory Basics
-- **Definition of an Active Directory:**
+- **Definition of an Active Directory**
 	- Directory service that stores information about all network resources
 	- <u>Examples of information:</u>
 		- Servers
@@ -350,10 +350,15 @@
 		- Groups
 		- Security Policies
 		- Emails
-	- 
+- **Definition of Domain Controllers**
+	- Servers that have ADDS server roles installed
+	- Contains writable copies of information in the Active Directory
+- 
+
+
+
 ---
 ## Table Summaries 
-
 ### General Terminology
 | Term                          | Definition                                                                                                                                                                                                 |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
