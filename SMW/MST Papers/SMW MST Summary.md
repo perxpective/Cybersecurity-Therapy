@@ -20,7 +20,7 @@
 - **What are the requirements for safe computing?**
 	- <u>Changing the behaviour</u> of management programmers and users
 	- <u>Prioritization</u> of secure computing
-	- Writing secure operating systems and applications
+	- Writing <u>secure operating systems and applications</u>
 	- <u>Training users</u> to always keep security in mind
 
 ### Microsoft's Commitment to Security
@@ -41,7 +41,7 @@
 	- Microsoft Defender Antivirus
 	- Smart Screening Technologies
 	- Microsoft Defender SmartScreen
-	- Client Inspection Technologies
+	- <u>Client Inspection Technologies</u>
 		- MBSA
 		- Microsoft Application Inspector
 		- Windows Update Agent
