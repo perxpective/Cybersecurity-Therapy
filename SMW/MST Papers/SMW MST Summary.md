@@ -482,14 +482,21 @@
 - **What are the differences between SCW and BPA?**
 	- SCW scans for roles in the servers and is able to adjust the security settings to match these roles, whereas the BPA only scans for roles that do not follow Microsoft's best practices and only provides recommendations on how to fix them
 	- SCW settings can be exported and applied to other servers while BPA does not have this function
-	- Scanning rules of BPA are updated regularly by Microsoft via software updates while rules of SCW are fixe
+	- Scanning rules of BPA are updated regularly by Microsoft via software updates while rules of SCW are fixed
+- **Name command-line options for `scwcmd`**
+	- `analyze`
+	- `configure`
+	- `register`
+	- `rollback`
+	- `transform`
+	- `view`
 
 ### Multi-Master Replication
 - **Definition:**
 	- Method of database replication which allows data to be stored by a group of computers and updated by any member of a group
 	- If information on one domain controller changes, it is replicated to all other domain controllers
 
-
+## Chapter 3 - 
 
 ---
 ## Table Summaries 
