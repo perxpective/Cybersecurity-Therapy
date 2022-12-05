@@ -288,6 +288,11 @@
 	- Post-deployment
 	- Performance
 	- BPA Pre-requisites
+- **Describe the steps taken to use the BPA**
+	- Login as a Domain Administrator (account that is authorized to access the domain controller)
+	- Open the Server Manager
+	- Click the local server on the left pane
+	- On the right pane, scroll to the 
 
 
 ---
