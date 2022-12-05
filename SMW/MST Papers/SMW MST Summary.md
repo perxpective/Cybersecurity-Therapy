@@ -464,7 +464,12 @@
 	- Plan its structure before implementing it
 	- Implement the least number of domains as possible
 	- Use OUs to reflect the organisation's structure
-	- Do not build a 
+	- Do not build an Active Directory with more than 10 levels of OUs
+	- Use sites in situations where there are multiple IP subnets and geographical locations to improve logon and domain controller performance
+
+### Security Configuration Wizard
+- **Definition**
+	- 
 
 ### Multi-Master Replication
 - **Definition:**
