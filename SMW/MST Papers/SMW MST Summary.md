@@ -502,6 +502,9 @@
 - **What are the security implications of DNS?**
 	- There is a possibility for the refusal for connection from hosts without reverse lookup records
 
+### DNS Zones
+
+
 ---
 ## Table Summaries 
 ### General Terminology
