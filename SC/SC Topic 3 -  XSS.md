@@ -45,6 +45,7 @@ $(“#myDiv”).html("Welcome, " + name + "! You are " + age +
 > - Returned as part of the response from HTML that server sends
 
 <u>Example 1</u>
+
 **Normal Code**
 ```js
 app.get('/example1', (req, res, next) => {
@@ -73,6 +74,7 @@ app.get('/example1', (req, res, next) => {
 ```
 
 <u>Example 2</u>
+
 **Normal Code**
 ```js
 var url = new URL(window.location.href);
@@ -105,6 +107,7 @@ document.getElementById(‘name’).innerHTML = name;
 ```
 
 <u>Example 3</u>
+
 **Normal Code**
 ```js
 app.get('/example3', (req, res, next) => {
@@ -129,6 +132,7 @@ http://localhost:3000/example3?name=WeiLiang%3Cscript%3Ealert(%27test%27);%3C/sc
 ```
 
 <u>Example 4</u>
+
 **Normal Code**
 ```js
 app.get('/example4', (req, res, next) => {
@@ -174,6 +178,7 @@ app.get('/example4', (req, res, next) => {
 > - Returned as part of the response from HTML that server sends
 
 <u>Example 5</u>
+
 **Normal Code**
 ```js
 app.get('/example1', (req, res, next) => {
