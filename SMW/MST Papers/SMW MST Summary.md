@@ -123,8 +123,7 @@
 - **List the features of the Standard Edition**
 	- File and print services
 	- Secure internet connectivity
-	- Centralized management of users
-	- Centralized management of applications and network resources
+	- Centralized management of users, applications and network resources
 - **What improvements have been made to Hyper-V?**
 	- Faster cloning
 	- Migration of individual VMs
