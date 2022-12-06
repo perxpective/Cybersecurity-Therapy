@@ -23,11 +23,11 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 - Thorough testing of software before releasing
 
 **(c) List five "security by default" examples we can find from a fresh deployed Primary Domain Controller Server (PDC). (10 marks)**
-- Windows Firewall is enabled on the PDC
-- Remote Desktop is disabled
-- Windows Defender is enabled
-- Only domain admins can add or delete roles and tasks
-- Only domain admins can edit group policy objects
+- File and folder permissions
+- Security policies
+- Event auditing
+- Data encryption
+- Server management and monitoring tools
 
 ## Question 2
 **(a)**
