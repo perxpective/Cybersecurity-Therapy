@@ -34,11 +34,16 @@ Please fill out your answers in the following table:
 **(i) Briefly describe the complete workflow of how a local DNS resolves a forward lookup enquiry using the Root Hints (iterative lookup) approach. (8 marks)**
 
 **(ii) Briefly describe two possible security related advantages of blocking direct external DNS connections and deploying an in-house customised forwarder for resolving DNS queries. (6 marks)**
+- Enables customizable DNS service within an enterprise such as DNS filtering and logging
+- It is generally faster due to its use of recursive queries
 
 (b) 
 Briefly describe two main functions for each of the following two system utilities:
 **(i) Best Practices Analyzer (BPA)**
+- It scans the server for any issues in the establishment of the roles to ensure that the best practices stipulated by Microsoft are followed and provides recommendations on how to resolve them
+
 **(ii) The Security Compliance Manager (SCM)**
+- It enables automation deployment and baseline compliance monitoring
 
 ## Question 3
 This question is related to the "SMW Unlimited" enterprise and its single forest Active Directory setup.
