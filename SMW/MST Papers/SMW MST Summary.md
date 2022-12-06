@@ -110,12 +110,12 @@
 	- Storage Server 2016
 	- Hyper-V Server 2016
 - **Name advantages of using Windows Server 2016 together with Windows Versions 7-10**
-	- Enhanced capabilities to recover from many types of <u>network communication problems</u>
-	- Computer code for more efficient network communications
+	- Enhanced capabilities to **recover** from many types of <u>network communication problems</u>
+	- Computer code for more <u>efficient network communications</u>
 	- More <u>network diagnostic capabilities</u>
 	- Computer code for better use of <u>network communication protocols</u>
-	- Continuous upgrades for Windows PowerShell commands and scripts in both Windows Server 2016 and Windows 7-10
-- **What are the drawbacks to using Essential Edition?**
+	- <u></u>Continuous upgrades for Windows PowerShell commands and scripts in both Windows Server 2016 and Windows 7-10
+- **What are the drawbacks to using Essentials Edition?**
 	- It cannot join a domain other than migrating files and data from one server to another
 	- It provides most but not all server roles
 	- It does not have roles for hosting virtual machines
