@@ -83,8 +83,8 @@
 		- by design, default and deployment
 	- **Privacy**
 		- via fair information principles
-	- Availability, manageability and accuracy
-	- Usability, responsiveness and transparency
+	- Availability, manageability and accuracy (AMA)
+	- Usability, responsiveness and transparency (URT)
 
 ### Trusted Cloud
 - **List three fundamental principles in Microsoft's Trusted Cloud initiative**
@@ -220,26 +220,26 @@
 | Effective for small networks                                                                              | Effective for larger networks                                 |
 
 - **What are the disadvantages of using peer-to-peer networking?**
-	- Management of network resources are decentralized
-	- Administration becomes more difficult as network grows larger in size
-	- Lack of security resources
+	- Management of network resources are <u>decentralized</u>
+	- Administration becomes <u>more difficult</u> as network grows larger in size
+	- <u>Lack of security resources</u>
 - **What are the advantages of using server-based networking over peer-to-peer networking?**
-	- It is able to handle hundreds of users at once
-	- Users are only required to log on once to gain access to network resources
-	- Stronger security
+	- It is able to <u>handle hundreds of users at once</u>
+	- Users are only required to <u>log on once</u> to gain access to network resources
+	- <u>Stronger security</u>
 	- All members can share computer files in the network
-	- Printers and other resources can be shared
-	- All members can email other office members through an email server
-	- Software applications can be stored and shared in a central location
-	- Important databases can be managed and secured from one computer
-	- All computers can be backed up more easily
-	- Server administrators save time when installing software upgrades
+	- Printers and other resources can be <u>shared</u>
+	- All members can email other office members through an <u>email server</u>
+	- Software applications can be <u>stored and shared in a central location</u>
+	- Important databases can be <u>managed and secured from one computer</u>
+	- All computers can be <u>backed up more easily</u>
+	- Server administrators <u>save time when installing software upgrades</u>
 
 ### Windows Server 2016 Network Protocols
 #### Transmission Control Protocol (TCP)
 - **Definition of TCP/IP**
-	- Stands for the Transmission Control Protocol/Internet Protocol
-	- Suite of protocols that support communication across LANs and the Internet
+	- Stands for the <u>Transmission Control Protocol/Internet Protocol</u>
+	- Suite of protocols that support communication across <u>LANs and the Internet</u>
 - **Explain how is TCP/IP reliable**
 	- It controls data flow to ensure end-to-end delivery of data
 	- Windows is constantly adjusted to account for existing network traffic
