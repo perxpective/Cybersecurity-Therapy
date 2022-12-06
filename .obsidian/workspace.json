@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
+                "file": "SC/SC MST Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
+                "file": "SC/SC MST Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md"
+                "file": "SC/SC MST Cheat Sheet.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
+                "file": "SC/SC MST Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,7 @@
   },
   "active": "ae433e8e37a634b4",
   "lastOpenFiles": [
+    "SC/SC Topic 4 - SQL Injection.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "DFI/DFI Revision Summary.md",
@@ -166,7 +167,6 @@
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SC/SC Topic 5 - Logging.md",
-    "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/Tutorials/SMW Tutorial 3.md"
   ]

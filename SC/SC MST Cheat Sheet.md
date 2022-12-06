@@ -94,3 +94,5 @@ https://www.example.com/defaut.asp?profile=123&value=123&status=del
 ```html
 <IMG SRC=" &#14; javascript:alert('XSS');">
 ```
+
+### XSS Payload Lists
