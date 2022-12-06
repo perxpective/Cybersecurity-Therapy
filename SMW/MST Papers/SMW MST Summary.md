@@ -607,7 +607,7 @@
 
 ### Microsoft Security Compliance Manager
 - **Explanation**
-	- Utility to enable automation deployment and monitoring baseline compliance
+	- Utility to enable <u>automation deployment</u> and <u>monitoring baseline compliance</u>
 - **What are the key features and benefits of the SCM?**
 	- Download security baselines from Microsoft
 	- Compare and customise security baselines
