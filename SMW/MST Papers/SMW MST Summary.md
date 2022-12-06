@@ -329,9 +329,9 @@
 - **What command is used to launch the registry editor?**
 	- `regedit`
 - **What are some precautions to take note of when working with the Registry?**
-	- Establish specific group of admins who have permissions to access and modify the Registry
-	- Only make changes to the Registry as a last resort
-	- Regularly back up Registry as part of backing up the Windows Server 2016 `Windows` folder
+	- Establish <u>specific group of admins</u> who have permissions to <u>access and modify the Registry</u>
+	- Only make changes to the Registry <u>as a last resort</u>
+	- <u>Regularly back up Registry</u> as part of backing up the Windows Server 2016 `Windows` folder
 	- Never copy the Registry from one Windows system to a registry of a different system
 - **What is the easiest way to create a backup in the Registry?**
 	- Setting a restore point by using `cmdlet` in the PowerShell
