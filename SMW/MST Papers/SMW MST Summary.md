@@ -185,7 +185,7 @@
 - **What is the Microsoft Internet Information Services (IIS)?**
 	- Transforms Windows Server 2016 into a versatile web server
 - **What is the IIS designed for?**
-	- Has over 40 modules to enable IIS to have a lower attack surface
+	- It has over 40 modules to enable IIS to have a lower attack surface
 	- Provide easier applications of IIS patches
 	- Makes it easier for network programmers to write network applications and configure applications for the web
 
