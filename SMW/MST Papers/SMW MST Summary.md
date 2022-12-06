@@ -241,9 +241,9 @@
 	- Stands for the <u>Transmission Control Protocol/Internet Protocol</u>
 	- Suite of protocols that support communication across <u>LANs and the Internet</u>
 - **Explain how is TCP/IP reliable**
-	- It controls data flow to ensure end-to-end delivery of data
+	- It <u>controls data flow</u> to ensure <u>end-to-end delivery of data</u>
 	- Windows is constantly adjusted to account for existing network traffic
-	- It is a connection-oriented communication that ensures that packets are delivered in the right sequence and their contents are accurate
+	- It is a <u>connection-oriented communication</u> that ensures that packets are delivered in the <u>right sequence</u> and their contents are <u>accurate</u>
 
 #### Address Resolution Protocol
 - **Explain what is the Address Resolution Protocol (ARP)**
@@ -254,13 +254,13 @@
 #### Automated Address Configuration
 ##### Automatic Private IP Addressing (APIPA)
 - **Explanation:**
-	- Configuration used to automatically configure TCP/IP settings for a computer without a DHCP server
+	- Configuration used to automatically configure TCP/IP settings for a computer <u>without a DHCP server</u>
 - **Who is APIPA suitable for?**
-	- Small organisations with only one network segment and do not need access to another network or Internet
+	- **Small organisations** with only <u>one network segment</u> and do not need access to another network or Internet
 
 ##### Dynamic Addressing Through a DHCP Server
 - **Where is DHCP service commonly used in?**
-	- Medium-sized and large networks
+	- *Medium-sized* and *large* networks
 - **What other settings can a DHCP server assign?**
 	- Subnet mask
 	- Default gateway
