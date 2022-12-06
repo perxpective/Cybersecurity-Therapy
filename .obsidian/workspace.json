@@ -44,49 +44,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c288649f39b85ee2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "867f9a3313b446f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74acccd4db0d81db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75fc5a8845a8c938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
