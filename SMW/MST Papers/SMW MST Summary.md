@@ -332,11 +332,11 @@
 	- Establish <u>specific group of admins</u> who have permissions to <u>access and modify the Registry</u>
 	- Only make changes to the Registry <u>as a last resort</u>
 	- <u>Regularly back up Registry</u> as part of backing up the Windows Server 2016 `Windows` folder
-	- Never copy the Registry from one Windows system to a registry of a different system
+	- <u>Never copy the Registry</u> from one Windows system to a registry of a different system
 - **What is the easiest way to create a backup in the Registry?**
-	- Setting a restore point by using `cmdlet` in the PowerShell
+	- <u>Setting a restore point</u> by using `cmdlet` in the PowerShell
 - **What should be done if a registry is damaged after working on it?**
-	- Return to the restore point created just before working on the Registry
+	- <u>Return to the restore point</u> created just before working on the Registry
 
 ### Active Directory Basics
 - **Definition of an Active Directory**
