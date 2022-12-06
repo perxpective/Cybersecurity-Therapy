@@ -57,7 +57,7 @@
 	- Windows Software Update Services (WSUS)
 
 #### Quality
-- **What are some examples related to Microsoft's commitment towards quality?:**
+- **What are some examples related to Microsoft's commitment towards quality?**
 	- The use of quality <u>standards</u> and <u>processes</u>
 	- The use of <u>best practices</u> in all phases of <u>software development</u>
 	- The <u>development of new internal tools</u> that automatically checks code for common errors
