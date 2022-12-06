@@ -298,15 +298,15 @@
 ### System File Checker
 - **Command for the System File Checker** - `sfc`
 - **What are the functions of the System File Checker?**
-	- It scans system files for integrity
+	- It scans system files for <u>integrity</u>
 - **What are the best use cases for the system file checker?**
-	- Checking a new system based on new installation media or baseline
-	- Verify integrity of possible compromised system
-	- Recover a malfunctioning system due to corrupted system files
+	- Checking a new system based on <u>new installation media or baseline</u>
+	- <u>Verify integrity </u>of possible compromised system
+	- <u>Recover a malfunctioning system</u> due to corrupted system files
 
 ### Verifying System and Critical Files
 - **Functions of `sigverif`:**
-	- It verifies system and critical files to determine if they have a signature
+	- It <u>verifies system and critical files</u> to determine if they have a signature
 	- Does not overwrite inappropriate files
 - **Where are results of the scan written to?**
 	- They are written to a log file called `sigverif.txt`
@@ -315,7 +315,7 @@
 
 ### Windows Server 2016 Registry
 - **Definition of a registry:**
-	- A complex database containing all information the operating system needs about the entire server
+	- A *complex database* containing all information the operating system needs about the entire server
 	- It acts as the <u>coordinating centre</u> for a specific server
 - **What kind of data is contained in the Registry?**
 	- Hardware component information
