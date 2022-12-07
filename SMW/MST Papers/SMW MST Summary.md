@@ -422,7 +422,7 @@
 	- A grouping of objects that typically exists as a primary container within the Active Directory forest
 - **What are the basic functions of a domain?**
 	- It provides an Active Directory partition to house objects that have a common relationship in terms of management and security
-	- It establishes a set of information to be replicated from one domain controller to another
+	- It establishes a set of information to be <u>replicated from one domain controller to another</u>
 	- It expedites management of a set of objects
 - **What are domain functional levels?**
 	- It refers to the domain-specific functions supported by Windows Server operating systems on domain controllers
