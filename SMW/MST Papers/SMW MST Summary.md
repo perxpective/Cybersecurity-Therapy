@@ -19,7 +19,7 @@
 	- Bad implementation
 - **What are the requirements for safe computing?**
 	- <u>Changing the behaviour</u> of management programmers and users
-	- <u>Prioritization</u> of secure computing
+	- <u>Prioritization</u> of *secure computing*
 	- Writing <u>secure operating systems and applications</u>
 	- <u>Training users</u> to always keep security in mind
 
