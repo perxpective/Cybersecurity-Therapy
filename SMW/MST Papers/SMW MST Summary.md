@@ -459,11 +459,11 @@
 ### Active Directory Guidelines
 - **What are some guidelines to take note of when setting up an Active Directory**
 	- Keep the Active Directory <u>as simple as possible</u>
-	- Plan its structure before implementing it
-	- Implement the least number of domains as possible
-	- Use OUs to reflect the organisation's structure
-	- Do not build an Active Directory with more than 10 levels of OUs
-	- Use sites in situations where there are multiple IP subnets and geographical locations to improve logon and domain controller performance
+	- <u>Plan its structure</u> before implementing it
+	- Implement the <u>least number of domains as possible</u>
+	- Use OUs to <u>reflect the organisation's structure</u>
+	- Do not build an Active Directory with <u>more than 10 levels of OUs</u>
+	- Use sites in situations where there are <u>multiple IP subnets and geographical locations </u>to improve <u>logon</u> and <u>domain controller performance</u>
 
 ### Security Configuration Wizard
 - **Definition**
