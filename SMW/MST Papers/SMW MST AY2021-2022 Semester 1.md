@@ -16,8 +16,11 @@ Tommy proceeded to start the Windows 10 VM and had reviewed the network status o
 Tommy has encountered one issue: he is able to surf on the Internet using the Windows 10 client but he cannot let the Windows 10 join the domain `test.org`
 
 **i. What is the most probable cause of this issue? (3 marks)**
-- It is most likely the DHCP service in the virtual machine 
+- It is most likely the DHCP service in Tommy's hypervisor has not been disabled, and thus the Windows 10 client is only connected to that DHCP service
 **ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue. (5 marks)**
+- On the virtual machine editor of Tommy's hypervisor, disable the local DHCP service
+- The Windows 10 client should be able to see the change in Internet connection
+- If the client detects the DHCP service in its network range as it should pop up on the right side of the screen, click the "yes"
 
 **(b) List two action items that are related to the commitment of Microsoft towards quality. (6 marks)**
 - The use of best practices in all phases of software developments
