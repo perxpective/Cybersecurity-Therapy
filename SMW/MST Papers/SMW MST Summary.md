@@ -565,11 +565,11 @@
 	- It takes time for each caching server to build up a comprehensive set of resolved names to IP addresses
 
 #### Differences Between Forwarders and Root Hints
-| Forwarders                                                                                       | Root Hints                                                                           |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Faster (recursive query)                                                                         | Slower due to interactive queries                                                    |
-| Local DNS has no way to ensure security configuration of external forwarder                      | More reliable (13 root hints support by more than 200 actual load-balancing servers) |
-| Potential to enable customizable DNS service within an enterprise e.g. DNS filtering and logging |                                                                                      |
+| Forwarders                                                                                       | Root Hints                                                                             |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| Faster (recursive query)                                                                         | Slower due to interactive queries                                                      |
+| Local DNS has no way to ensure security configuration of external forwarder                      | More reliable (13 root hints supported by more than 200 actual load-balancing servers) |
+| Potential to enable customizable DNS service within an enterprise e.g. DNS filtering and logging |                                                                                        |
 
 ### Creating DNS Implementation
 - **What are the best practices recommendations for DNS implementation?**
