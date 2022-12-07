@@ -162,7 +162,7 @@
 	- View computer configuration information
 	- Change server roles and system properties
 	- Configure networking and remote desktop
-	- Add or remove features
+	- Add or remove roles and features
 	- Run diagnostics
 	- Manage storage and backups
 	- Change server roles and system properties
