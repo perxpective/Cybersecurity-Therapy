@@ -580,8 +580,8 @@
 	- Designate one DNS server as a forwarder to reduce traffic
 	- Number of DNS servers set up can be related to analysis of an organisation
 - **What are the security benefits of a read-only domain controller?**
-	- It allows for unidirectional replication so that the compromised read-only domain controller will not spread malicious updates
-	- It does not cache any passwords
+	- It allows for<u> unidirectional replication</u> so that the compromised read-only domain controller will not spread malicious updates
+	- It does not <u>cache any passwords</u>
 
 ### DNS Threats
 - **What are the type of threats that administrators should watch out for?**
