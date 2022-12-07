@@ -506,10 +506,10 @@
 	- Tables associated with partitions in a DNS server
 - **Forward Lookup Zone**
 	- **Explanation**
-		- The zone that links computer names to IP addresses and holds address records
+		- The zone that links <u>computer names to IP addresses</u> and <u>holds address records</u>
 - **Reverse Lookup Zone**
 	- **Explanation**
-		- The zone used to resolve IP addresses to network resource names
+		- The zone used to <u>resolve IP addresses to network resource names</u>
 
 ### DNS Dynamic Update Protocol
 - **Definition**
