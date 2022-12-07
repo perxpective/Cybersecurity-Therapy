@@ -597,8 +597,8 @@
 - **Definition**
 	- A tool used to scan Windows-based computers for common security holes
 - **Functions of MBSA**
-	- <u>Compares computer settings</u> against <u>Microsoft's released patches</u> and <u>listed vulnerabilities</u>
-	- Provides streamlined methods to identify missing security updates and common security configurations
+	- <u>Compares computer settings</u> against <u>Microsoft's released patches and listed vulnerabilities</u>
+	- Provides streamlined methods to <u>identify missing security updates</u> and <u>common security configurations</u>
 - **Which of the following must be enabled for MBSA to run on multiple machines or remotely?**
 	- Server Service
 	- Remote Registry Service
