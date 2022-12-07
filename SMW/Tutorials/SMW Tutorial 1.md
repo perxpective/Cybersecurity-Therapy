@@ -30,9 +30,6 @@
 	- Security, Privacy and Compliance
 - **Name two differences between the Windows Server 2016 Standard Edition and Data Centre Edition.**
 	- Virtualisation, cloud computing and database handling
-	- Essential:
-		- Designed for a maximum of 25 users and limits remote desktop connections to only 50
-		- Cannot join a domain but and does not provide role for hosting virtual machines
 	- Datacentre:
 		- Designed for mission-critical applications or organisations with large databases
 		- Large virtualisation requirements compared to Essential

@@ -197,7 +197,7 @@
 - **Functions of Windows Nano Server**
 	- Serves as a platform to run DNS, DHCP, application servers, web servers and databases or file servers
 
-#### Windows PowerShell
+### Windows PowerShell
 - **Explanation:**
 	- Command-line interface that offers a shell for executing commands and scripts
 - **What tasks can PowerShell be used to perform?**
