@@ -20,7 +20,7 @@ Tommy has encountered one issue: he is able to surf on the Internet using the Wi
 **ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue. (5 marks)**
 - On the virtual machine editor of Tommy's hypervisor, disable the local DHCP service
 - The Windows 10 client should be able to see the change in Internet connection
-- If the client detects the DHCP service in its network range as it should pop up on the right side of the screen, click the "yes"
+- If the client detects the DHCP service (the displayed domain name) in its network range as it should pop up on the right side of the screen, click the "Yes" button to connect to the DHCP server
 
 **(b) List two action items that are related to the commitment of Microsoft towards quality. (6 marks)**
 - The use of best practices in all phases of software developments
