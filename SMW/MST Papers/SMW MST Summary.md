@@ -53,7 +53,7 @@
 	- Monthly
 - **Examples of products related to software updates:**
 	- System Center Configuration Manager (SCCM)
-	- Windows Update Troubleshooter
+	- Windows Update Troubleshooter (WUT)
 	- Windows Software Update Services (WSUS)
 
 #### Quality
@@ -597,7 +597,7 @@
 - **Definition**
 	- A tool used to scan Windows-based computers for common security holes
 - **Functions of MBSA**
-	- Compares computer settings against Microsoft's released patches and listed vulnerabilities
+	- <u>Compares computer settings</u> against <u>Microsoft's released patches</u> and <u>listed vulnerabilities</u>
 	- Provides streamlined methods to identify missing security updates and common security configurations
 - **Which of the following must be enabled for MBSA to run on multiple machines or remotely?**
 	- Server Service
