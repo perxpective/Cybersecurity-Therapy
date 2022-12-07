@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "00dbfd8d11fca0bd",
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md"
+                "file": "SMW/MST Papers/SMW MST Summary.md"
               }
             }
           },
@@ -189,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
+                "file": "SMW/MST Papers/SMW MST Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,13 +212,13 @@
     "width": 139.3560333251953,
     "collapsed": true
   },
-  "active": "483715fb6c775856",
+  "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
-    "SMW/MST Papers/SMW MST Summary.md",
-    "SMW/Tutorials/SMW Tutorial 2.md",
-    "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
+    "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
+    "SMW/MST Papers/SMW MST Summary.md",
+    "SMW/Tutorials/SMW Tutorial 1.md",
     "SC/SC MST Cheat Sheet.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
