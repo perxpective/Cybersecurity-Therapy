@@ -18,6 +18,42 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22781baad9555152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Tutorials/SMW Tutorial 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b01b94091de14267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Tutorials/SMW Tutorial 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "972dbd0b302456e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -146,15 +182,15 @@
   },
   "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
+    "SMW/Tutorials/SMW Tutorial 1.md",
+    "SMW/Tutorials/SMW Tutorial 3.md",
+    "SMW/Tutorials/SMW Tutorial 2.md",
+    "SMW/MST Papers/SMW MST Summary.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SC/SC MST Cheat Sheet.md",
-    "SMW/Tutorials/SMW Tutorial 3.md",
-    "SMW/MST Papers/SMW MST Summary.md",
     "SC/SC Topic 3 -  XSS.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "SC/SC Topic 4 - SQL Injection.md",
-    "DFI/DFI Revision Summary.md"
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
   ]
 }
