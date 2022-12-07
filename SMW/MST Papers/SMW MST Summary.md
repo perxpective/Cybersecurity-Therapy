@@ -419,7 +419,7 @@
 #### Domain
 - **Definition**
 	- A logical partition within an Active Directory forest
-	- A grouping of objects that typically exist as a primary container within the Active Directory forest
+	- A grouping of objects that typically exists as a primary container within the Active Directory forest
 - **What are the basic functions of a domain?**
 	- It provides an Active Directory partition to house objects that have a common relationship in terms of management and security
 	- It establishes a set of information to be replicated from one domain controller to another
