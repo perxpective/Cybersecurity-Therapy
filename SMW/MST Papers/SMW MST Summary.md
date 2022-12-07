@@ -367,20 +367,20 @@
 
 #### Global Catalog
 - **Definition:**
-	- Stores information about every object within a forest
+	- Stores information about <u>every object within a forest</u>
 	- By default, the first domain controller to be configured in a forest becomes the global catalog server
 - **What are the benefits of a global catalog server?**
-	- Stores a full replica of all objects within its own domain and partial replica of each object within every domain in the forest but with a small number of attributes
+	- Stores a <u>full replica of all objects</u> within its own domain and <u>partial replica of each object within every domain in the forest</u> but with a small number of attributes
 	- Enables forest-wide searches of data
 - **What are the functions of a global catalog?**
-	- Acts as central storage of key object information in a forest with multiple domains
-	- Provides access to all resources in a domain
-	- Proves replication of key Active Directory elements
-	- Keeps a copy of most used attributes for each object for quick access
+	- Acts as <u>central storage</u> of key object information in a forest with multiple domains
+	- <u>Provides access</u> to all resources in a domain
+	- <u>Proves replication</u> of key Active Directory elements
+	- Keeps a copy of <u>most used attributes</u> for each object for quick access
 
 #### Namespace
 - **Definition:**
-	- A logical area on a network that contains <u>directory services</u> and named objects
+	- A logical area on a network that contains <u>directory services</u> and <u>named objects</u>
 - **What are the two types of namespaces?**
 	- Contiguous namespaces where the child object contains the name of the parent object
 	- Disjointed namespaces where the child object does not resemble the name of the parent object
