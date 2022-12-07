@@ -608,9 +608,9 @@
 - **Explanation**
 	- Utility to enable <u>automation deployment</u> and <u>monitoring baseline compliance</u>
 - **What are the key features and benefits of the SCM?**
-	- Download security baselines from Microsoft
-	- Compare and customise security baselines
-	- Export baselines in formats like XLS or GPOs
+	- <u>Download security baselines</u> from Microsoft
+	- <u>Compare</u> and <u>customise</u> security baselines
+	- <u>Export baselines</u> in formats like XLS or GPOs
 
 ### Security Features in Windows Server 2016
 - **Examples of security features:**
