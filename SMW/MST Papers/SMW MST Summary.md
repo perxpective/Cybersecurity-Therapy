@@ -380,7 +380,7 @@
 
 #### Namespace
 - **Definition:**
-	- A logical area on a network that contains directory services and named objects
+	- A logical area on a network that contains <u>directory services</u> and named objects
 - **What are the two types of namespaces?**
 	- Contiguous namespaces where the child object contains the name of the parent object
 	- Disjointed namespaces where the child object does not resemble the name of the parent object
