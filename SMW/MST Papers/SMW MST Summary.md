@@ -134,7 +134,7 @@
 		- Very large databases
 		- Very large virtualisation requirements
 		- Cloud computing needs
-		- Information access requiring high availability
+		- Information access requiring *high availability*
 - **How many computers does the Datacentre Edition offer support for clustering?**
 	- 64 computers
 - **In what areas are the Standard Edition and Datacentre Edition different in?**
