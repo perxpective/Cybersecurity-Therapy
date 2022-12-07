@@ -16,6 +16,7 @@ Tommy proceeded to start the Windows 10 VM and had reviewed the network status o
 Tommy has encountered one issue: he is able to surf on the Internet using the Windows 10 client but he cannot let the Windows 10 join the domain `test.org`
 
 **i. What is the most probable cause of this issue? (3 marks)**
+- It is most likely the DHCP service in the virtual machine 
 **ii. Briefly describe one possible solution with the step-by-step instructions to rectify this issue. (5 marks)**
 
 **(b) List two action items that are related to the commitment of Microsoft towards quality. (6 marks)**
