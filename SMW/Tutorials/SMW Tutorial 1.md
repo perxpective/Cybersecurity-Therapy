@@ -49,7 +49,7 @@
 	- If the requirements are not met, the goals of Trustworthy computing would be impossible to achieve. To meet the requirement, there must be reliable hardware, reliable software and dependable service component
 - **List the minimum server roles for a Primary Domain Controller.**
 	- ADDS and DNS
-- **List the minimum requirement for a windows client to join to a Domain within the same LAN**
+- **List the minimum requirement for a Windows client to join to a Domain within the same LAN**
 	- Ability to ping the domain with the domain name
 	- User logs into the Windows client with an account with local admin rights
 	- User has a domain user account that has rights to allow the workstation to join to the domain
