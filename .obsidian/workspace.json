@@ -6,7 +6,7 @@
       {
         "id": "a8ebb21689994df0",
         "type": "tabs",
-        "dimension": 81.99261992619927,
+        "dimension": 81.99261992619925,
         "children": [
           {
             "id": "cc61a264f6a06c2b",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SPIM/SPIM Chapter 3 - Log Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
+                "file": "SPIM/SPIM Chapter 3 - Log Management.md"
               }
             },
             "group": "4c0861efa9111f72"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SPIM/SPIM Chapter 3 - Log Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md"
+                "file": "SPIM/SPIM Chapter 3 - Log Management.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "file": "SPIM/SPIM Chapter 3 - Log Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +226,8 @@
   },
   "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
-    "SMW/MST Papers/Untitled.md",
     "SMW/MST Papers/SMW MST Summary.md",
+    "SMW/MST Papers/Untitled.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
