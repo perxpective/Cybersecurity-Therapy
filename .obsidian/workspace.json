@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SPIM Chapter 3 - Log Management.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 3 - Log Management.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             },
             "group": "4c0861efa9111f72"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SPIM Chapter 3 - Log Management.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SPIM Chapter 3 - Log Management.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SPIM Chapter 3 - Log Management.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,15 +226,15 @@
   },
   "active": "cc61a264f6a06c2b",
   "lastOpenFiles": [
+    "SMW/Tutorials/SMW Tutorial 3.md",
+    "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
+    "SPIM/SPIM Chapter 3 - Log Management.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/MST Papers/Untitled.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
-    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SMW/Tutorials/SMW Tutorial 3.md",
-    "SC/SC MST Cheat Sheet.md"
+    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md"
   ]
 }
