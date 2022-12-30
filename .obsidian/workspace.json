@@ -6,7 +6,6 @@
       {
         "id": "a8ebb21689994df0",
         "type": "tabs",
-        "dimension": 81.99261992619925,
         "children": [
           {
             "id": "cc61a264f6a06c2b",
@@ -18,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "4c0861efa9111f72"
+            }
           },
           {
             "id": "22781baad9555152",
@@ -80,24 +78,6 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "00dbfd8d11fca0bd",
-        "type": "tabs",
-        "dimension": 18.00738007380074,
-        "children": [
-          {
-            "id": "1a46fc45b16c653f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
-              }
-            },
-            "group": "4c0861efa9111f72"
           }
         ]
       }
@@ -166,7 +146,7 @@
               "type": "backlink",
               "state": {
                 "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
@@ -221,10 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 139.3560333251953,
-    "collapsed": true
+    "width": 139.3560333251953
   },
-  "active": "cc61a264f6a06c2b",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "af50f44cd2b112d7",
   "lastOpenFiles": [
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
