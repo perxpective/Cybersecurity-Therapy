@@ -298,4 +298,18 @@
 	- Maximum password age
 	- Minimum password length
 	- Passwords must meet complexity requirements
-	- Store passwords using
+	- Store passwords using reversible encryption
+
+#### Account Lockout
+> The operating system can employ account lockout to bar access to an account including the true account owner after a number of unsuccessful tries
+
+- Lockout can be set to release after a specific period of time (or by intervention from the server administrator)
+- Common policy is to have lockout go into effect after 5-10 unsuccessful logon attempts
+	- Administrators can set lockout to release after a designated time
+- Account lockout parameters
+	- Account lockout duration
+	- Account lockout threshold
+	- Reset account lockout count after
+
+> **Additional Notes:**
+> 
