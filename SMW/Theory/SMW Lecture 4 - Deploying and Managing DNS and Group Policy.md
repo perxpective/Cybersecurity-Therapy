@@ -326,3 +326,7 @@
 	- When Active Directory is installed, the account policies enable Kerberos
 	- When Active Directory is not installed, the default authentication is through Windows NT LAN Manager Version 2 (NTLMv2)
 - **Options for configuring Kerberos**
+	- Enforce user logon restrictions
+	- Maximum lifetime for service ticket
+	- Maximum lifetime for user ticket
+	- Maximum tolerance for computer clock synchronisation
