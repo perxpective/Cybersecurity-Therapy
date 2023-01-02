@@ -320,4 +320,8 @@
 - Involves the use of tickets that are exchanged between client who requests logon and network service access and the server or Active Directory that grants access
 - When Active Directory is used, each DC is key distribution centre
 - Once a user is authenticated, the Kerberos ticket-granting service grants a permanent ticket to that computer
-- Service ticket
+- Service ticket is good for duration of the logon session
+- **Enhancements on Windows Server 2016 and Windows 10**
+	- Use of AES encryption
+	- When Active Directory is installed, the account policies enable Kerberos
+	- When Active Directory is not instal
