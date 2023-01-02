@@ -292,3 +292,10 @@
 
 #### Password Security
 - One option is to set a password expiration period requiring users to change passwords at regular intervals
+- Some organisations require all passwords to have a minimum length
+- **Specific password security options:**
+	- Enforce password history
+	- Maximum password age
+	- Minimum password length
+	- Passwords must meet complexity requirements
+	- Store passwords using
