@@ -342,3 +342,9 @@
 	- Privilege use
 	- Process tracking
 	- System events
+
+### Configuring User Rights
+- User rights enable an account or group to perform predefined tasks
+- The most basic right is the ability to access a server
+	- More advanced rights give privileges to create accounts and manage server functions
+- 
