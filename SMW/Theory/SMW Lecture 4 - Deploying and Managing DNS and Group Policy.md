@@ -312,4 +312,10 @@
 	- Reset account lockout count after
 
 > **Additional Notes:**
-> 
+> - Account lockout is useful to prevent brute force attacks or password cracking
+> - But it may create opportunities for Denial of Service attacks
+> - Example: an attacker can logon to all user accounts with the wrong passwords to trigger a massive denial of login attempts to the system
+
+#### Kerberos Security
+- Involves the use of tickets that are exchanged between client who requests logon and network service access and the server or Active Directory that grants access
+- When Active Directory is used, each DC us a k
