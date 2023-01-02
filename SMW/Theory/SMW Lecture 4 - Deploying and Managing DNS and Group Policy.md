@@ -324,4 +324,5 @@
 - **Enhancements on Windows Server 2016 and Windows 10**
 	- Use of AES encryption
 	- When Active Directory is installed, the account policies enable Kerberos
-	- When Active Directory is not instal
+	- When Active Directory is not installed, the default authentication is through Windows NT LAN Manager Version 2 (NTLMv2)
+- **Options for configuring Kerberos**
