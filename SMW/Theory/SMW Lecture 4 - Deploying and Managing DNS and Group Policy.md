@@ -330,3 +330,15 @@
 	- Maximum lifetime for service ticket
 	- Maximum lifetime for user ticket
 	- Maximum tolerance for computer clock synchronisation
+
+### Audit Policies
+- **Examples of events that organisations can audit:**
+	- Account logon
+	- Account management
+	- Directory service access
+	- Logon events at local computers
+	- Object access
+	- Policy changes
+	- Privilege use
+	- Process tracking
+	- System events
