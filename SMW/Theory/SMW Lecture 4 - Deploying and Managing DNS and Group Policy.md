@@ -318,4 +318,6 @@
 
 #### Kerberos Security
 - Involves the use of tickets that are exchanged between client who requests logon and network service access and the server or Active Directory that grants access
-- When Active Directory is used, each DC us a k
+- When Active Directory is used, each DC is key distribution centre
+- Once a user is authenticated, the Kerberos ticket-granting service grants a permanent ticket to that computer
+- Service ticket
