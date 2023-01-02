@@ -11,8 +11,12 @@
             "id": "47967f6163054f8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
+              }
             }
           },
           {
@@ -113,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,16 +153,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93e015461cbc414f",
+  "active": "47967f6163054f8f",
   "lastOpenFiles": [
     "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
+    "SPIM/SPIM Chapter 3 - Log Management.md",
     "SMW/Tutorials/SMW Tutorial 1.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
-    "SPIM/SPIM Chapter 3 - Log Management.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/MST Papers/Untitled.md"
   ]
