@@ -12,6 +12,14 @@
 - Escape all string output to the page
 	- Any HTML special character will be HTML encoded and interpreted by the browser literally rather than as HTML
 
-## Validation Regular Expressions
+## Regular Expression Validation
 - Applications often require text processing for features like word searches, email validation or XML document integrity
+- Regex is built-in and supported within JS
+
+### Wildcard Characters
+- `*` - match 0 or more occurrences
+- `?` - match 0 or 1 occurrence
+- `+` - match 1 or more occurrence 
+- `{x}` - match exactly `x` times
+- `{x,y}` - match between x(inclusive) to y(inclusive) occurrences
 - 
