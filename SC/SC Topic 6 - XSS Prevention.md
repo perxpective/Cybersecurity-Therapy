@@ -22,4 +22,10 @@
 - `+` - match 1 or more occurrence 
 - `{x}` - match exactly `x` times
 - `{x,y}` - match between x(inclusive) to y(inclusive) occurrences
-- 
+- `[123x]` - match a single instance of any character in the brackets
+- `[0,9]` - shorthand for `[0123456789]` often used with `[A-Z]`
+- `[^0-9]` - match a single character except those specified in brackets
+
+### Useful Predefined Classes
+- `.` - any character
+- `\d`
