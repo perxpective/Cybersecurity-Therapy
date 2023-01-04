@@ -80,4 +80,17 @@ if (pattern.test(userinput)) {
 ```
 npm install validator --save
 ```
-- Common functions to help validate emails, credit cards
+- Common functions to help validate emails, credit cards, URLs that are already defined in the library
+- Can be used like an API
+
+```js
+var validator = require("validator")
+function validateRegistration(req, res ,next) {
+	var username = req.body.username
+	var email = req.body.email
+	var role = req.body.role
+	var password = req.body.password
+
+	if (validator.isAlphanumeric(username) && validator.isEmail(email) && (role == 'user' || role == 'admin') && validator.isAlphanumeric(password) && password.length > 7)
+}
+```
