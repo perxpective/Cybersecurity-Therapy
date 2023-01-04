@@ -61,4 +61,23 @@ if (pattern.test(userinput)) {
 
 # at least one character and at least one lowercase alphabet
 ```
-j
+## Other Regular Expression Examples
+- To check if a target string is a digit type:
+```
+\d + OR [0-9]+
+```
+- To check if target string is just composed of alphabets:
+```
+[a-zA-Z]+
+```
+- To check if target string is alphanumeric type:
+```
+[a-zA-Z0-9]+
+```
+
+## External Library for Validation
+- [Node Validator library](https://www.npmjs.com/package/validator)
+```
+npm install validator --save
+```
+- Common functions to help validate emails, credit cards
