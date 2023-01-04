@@ -46,4 +46,19 @@
 > Example:
 > - (\[13\]x)|(\[ab\]3) pattern will match 1x, 3x, a3, b3
 
-## Simple Email vali
+## Simple Email Validation
+```js
+var userinput = 'abc@gmail.com';
+pattern = new RegExp('^.+@.+\.[a-z]+$')
+if (pattern.test(userinput)) {
+	console.logg("Input is correct!")
+} else {
+	console.log("Input does not match pattern!")
+}
+```
+```
+.+@.+\.[a-z]+
+
+# at least one character and at least one lowercase alphabet
+```
+j
