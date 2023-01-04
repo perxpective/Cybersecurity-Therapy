@@ -102,3 +102,16 @@ module.exports.validateRegistration = validateRegistration
 ```
 
 - Apply the middleware function 
+```js
+app.post('/api/user', validate.validateRegistration, (req, res) => {
+	...
+})
+```
+## Escaping Data
+- Characters such as <, >, &, ', ", / should be converted to the corresponding HTML entities so that they will not be interpreted as code like JavaScript in XSS attacks
+```js
+var validator = require('validator')
+var input = "<script>alert('JS XSS!')</script>"
+var sanitizedOutput = validator.escape(input)
+```
+- 
