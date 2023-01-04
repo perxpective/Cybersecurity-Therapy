@@ -34,4 +34,16 @@
 | `\s`       | Whitespace character             |
 | `\S`       | Non-whitespace character \[^/s\] |
 | `\w`       | Word character \[a-zA-Z_0-9\]    |
-| `\W`       | Non-word character \[]                                 |
+| `\W`       | Non-word character \[^\\w\]                                 |
+
+### Logical Operators
+| Expression | Meaning                |
+| ---------- | ---------------------- |
+| XY         | X followed by Y        |
+| X \| Y     | Either X or Y          |
+| (X)        | X as a capturing group |
+
+> Example:
+> - (\[13\]x)|(\[ab\]3) pattern will match 1x, 3x, a3, b3
+
+## Simple Email vali
