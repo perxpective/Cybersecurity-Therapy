@@ -27,5 +27,11 @@
 - `[^0-9]` - match a single character except those specified in brackets
 
 ### Useful Predefined Classes
-- `.` - any character
-- `\d`
+| Expression | Character                        |
+| ---------- | -------------------------------- |
+| `.`        | Digit \[0-9\]                    |
+| `\d`       | Non-digit \[^0-9\]               |
+| `\s`       | Whitespace character             |
+| `\S`       | Non-whitespace character \[^/s\] |
+| `\w`       | Word character \[a-zA-Z_0-9\]    |
+| `\W`       | Non-word character \[]                                 |
