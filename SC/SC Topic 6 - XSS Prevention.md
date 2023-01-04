@@ -91,6 +91,14 @@ function validateRegistration(req, res ,next) {
 	var role = req.body.role
 	var password = req.body.password
 
-	if (validator.isAlphanumeric(username) && validator.isEmail(email) && (role == 'user' || role == 'admin') && validator.isAlphanumeric(password) && password.length > 7)
+	if (validator.isAlphanumeric(username) && validator.isEmail(email) && (role == 'user' || role == 'admin') && validator.isAlphanumeric(password) && password.length > 7) {
+		next()
+	} else {
+		res.send(`{"Message":"Validation Failed"}`)
+	}
 }
+
+module.exports.validateRegistration = validateRegistration
 ```
+
+- Apply the middleware function 
