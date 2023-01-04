@@ -114,4 +114,11 @@ var validator = require('validator')
 var input = "<script>alert('JS XSS!')</script>"
 var sanitizedOutput = validator.escape(input)
 ```
-- 
+## Removing Line Breaks, Tabs and Extra White Space
+- Validator has `stripLow()` function that removes ASCII control characters which are normally invisible in HTML
+
+```js
+var validator = require('validator')
+var input = "Hi there! \r\n Welcome to Secure Coding"
+var sanitizedOutput = validator.stripLow(input)
+```
