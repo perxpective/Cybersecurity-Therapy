@@ -19,3 +19,16 @@
 	- Comprises of many configuration tools
 	- Microsoft System Centre Configuration Manager
 		- including software deployment management
+
+### Microsoft Update and Automatic Updates
+- For consumers and small businesses with fewer than **50 computers**
+- Updates can be installed with minimal or no user interaction
+- Uses internet connection to search for downloads from Microsoft's update website
+- Does not need to understand the technical details of the security update
+- Microsoft cautions that users should ensure they do not have applications that can be affected by the updates
+- **Price:** free for licensed users
+
+### Windows Server Update Services (WSUS)
+- For medium or large businesses
+- Administrators can manage update settings and control the distribution of updates
+- Administrators can test updates on selected computer
