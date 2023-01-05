@@ -350,4 +350,31 @@
 - Two general categories of rights:
 	- **Privileges** - Generally relate to the ability to manage server or Active Directory functions
 	- **Logon rights** - Related to how accounts, computers and services are accessed
-- Examples of privileges:
+- <u>Examples of privileges:</u>
+	- Add workstations to domain
+	- Back up files and directories
+	- Change system time
+	- Create permanent shared objects
+	- Generate security audits
+	- Load and unload device drivers
+	- Perform volume maintenance tasks
+	- Shut down the system
+- <u>Examples of logon rights:</u>
+	- Access this computer from the network
+	- Allow logon locally
+	- Allow logon through Remote Desktop Services
+	- Deny access to this computer from the network
+	- Deny logon as a service
+	- Deny logon locally
+	- Deny logon through Remote Desktop Services
+
+### Configuring Security Options
+- Accounts
+- Audit
+- DCOM
+- Devices
+- Domain Controller
+- Interactive logon
+- Microsoft Network Client
+- Network Access
+- Network Security
