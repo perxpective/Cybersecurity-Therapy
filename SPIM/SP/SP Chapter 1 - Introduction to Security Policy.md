@@ -33,4 +33,13 @@
 
 ### COSO Cube
 - Assist with the implementation of the ERM process
-- Each of these components 
+- Each of these components are considered at multiple levels of the organisation rather than a single function, unit or department
+
+![](https://i.imgur.com/hDxvlAE.png)
+
+| What It Is                                                                                                    | What It Is Not |
+| ------------------------------------------------------------------------------------------------------------- | -------------- |
+| A comprehensive and systematic approach to a more proactive and holistic risk assessment                      |                |
+| Provides a common lexicon of risk terminology and provides direction and guidance for implementing ERM        |                |
+| Requires that organisations examine their complete portfolio of risks and consider how those risk interrelate |                |
+| Requires that management develops an appropriate risk mitigation approach in a manner that is consistent with the organisation's strategy and risk appetite                                                                                                              |                |
