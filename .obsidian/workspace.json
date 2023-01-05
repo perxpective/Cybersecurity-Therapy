@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md"
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +175,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93e015461cbc414f",
+  "active": "ce0430d1a99b5ad8",
   "lastOpenFiles": [
+    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SPIM/IM/IM Chapter 3 - Log Management.md",
     "SPIM/IM/IM Chapter 2 - Incident Response Framework.md",
@@ -185,7 +186,6 @@
     "README.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 6 - XSS Prevention.md",
-    "SMW/Tutorials/SMW Tutorial 3.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
+    "SMW/Tutorials/SMW Tutorial 3.md"
   ]
 }
