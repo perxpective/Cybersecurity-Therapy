@@ -37,9 +37,10 @@
 
 ![](https://i.imgur.com/hDxvlAE.png)
 
-| What It Is                                                                                                    | What It Is Not |
-| ------------------------------------------------------------------------------------------------------------- | -------------- |
-| A comprehensive and systematic approach to a more proactive and holistic risk assessment                      |                |
-| Provides a common lexicon of risk terminology and provides direction and guidance for implementing ERM        |                |
-| Requires that organisations examine their complete portfolio of risks and consider how those risk interrelate |                |
-| Requires that management develops an appropriate risk mitigation approach in a manner that is consistent with the organisation's strategy and risk appetite                                                                                                              |                |
+| What It Is                                                                                                                                                  | What It Is Not                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| A comprehensive and systematic approach to a more proactive and holistic risk assessment                                                                    | A silver bullet to prevent risks from occurring                                     |
+| Provides a common lexicon of risk terminology and provides direction and guidance for implementing ERM                                                      | Methodology or checklist of items that need to be completed that guarantees results |
+| Requires that organisations examine their complete portfolio of risks and consider how those risk interrelate                                               | The only way an organisation can take a more proactive approach to managing risks   |
+| Requires that management develops an appropriate risk mitigation approach in a manner that is consistent with the organisation's strategy and risk appetite |                                                                                     |
+
