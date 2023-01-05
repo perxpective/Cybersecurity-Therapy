@@ -378,3 +378,16 @@
 - Microsoft Network Client
 - Network Access
 - Network Security
+- Recovery Console
+- Shutdowwn
+- System Cryptography
+- System Objects
+- System Settings
+- User Account Control
+
+### Policy Application Order and Troubleshooting
+- Policies can be applied at the domain level or at the OU level
+- Any settings that do not conflict with other settings will not be applied
+- Important to understand the order in which the settings in the group policy should be configured
+- Usual order which group policies are applied is:
+	- 
