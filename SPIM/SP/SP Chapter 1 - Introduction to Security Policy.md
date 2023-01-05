@@ -24,4 +24,6 @@
 - Business Continuity
 - Security Monitoring and Improvement
 
-## Governance,
+## Governance, Risk and Compliance
+> A structured way to align IT with business goals while managing risks and meeting all industry and government regulations
+
