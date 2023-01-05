@@ -412,4 +412,7 @@
 
 ## Resultant Set of Policy
 - Used to make the implementation and troubleshooting of group policies simpler for administrator
-- Queries the existing policies that are in place and then provide re
+- Queries the existing policies that are in place and then provide reports and the results of policy changes
+- RSoP supports two modes: **planning** and **logging**
+- Available within GMPC and Command Line interface
+- `gpresult` is a command to be run on the workstation to check its current accepted and active GPOs
