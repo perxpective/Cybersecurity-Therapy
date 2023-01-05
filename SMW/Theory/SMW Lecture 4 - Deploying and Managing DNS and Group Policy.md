@@ -404,4 +404,12 @@
 	- to prevent from inheriting GPO
 - Enforced
 	- to force down to all child containers and win all the setting conflicts (take the highest precedence)
-	- 
+- If there are two policies at domain level to set different desktop wallpapers
+	- policy with the lowest link order number is applied last
+- <u>To avoid complexity in group policies:</u>
+	- Limit the number of GPOs
+	- Minimize the use of Block Inheritance and Enforced to avoid complexity
+
+## Resultant Set of Policy
+- Used to make the implementation and troubleshooting of group policies simpler for administrator
+- Queries the existing policies that are in place and then provide re
