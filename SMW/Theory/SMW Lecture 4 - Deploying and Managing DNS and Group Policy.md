@@ -350,3 +350,4 @@
 - Two general categories of rights:
 	- **Privileges** - Generally relate to the ability to manage server or Active Directory functions
 	- **Logon rights** - Related to how accounts, computers and services are accessed
+- Examples of privileges:
