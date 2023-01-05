@@ -11,4 +11,17 @@
 - Information Risk Assessment
 - Security Management
 - People Management
-- Informatio
+- Information Management
+- Physical Asset Management
+- System Development
+- Business Application Management
+- System Access
+- System Management
+- Network and Communications
+- Supply Chain Management
+- Technical Security Management
+- Threat and Incident Management
+- Business Continuity
+- Security Monitoring and Improvement
+
+## Governance,
