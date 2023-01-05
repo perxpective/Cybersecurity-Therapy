@@ -26,6 +26,11 @@
 
 ## Governance, Risk and Compliance
 > A structured way to align IT with business goals while managing risks and meeting all industry and government regulations
-
 - Compliance should never be the first consideration
 
+## Enterprise Risk Management (ERM) 
+- Top management recognise that cybersecurity issues can impact business operations
+
+### COSO Cube
+- Assist with the implementation of the ERM process
+- Each of these components 
