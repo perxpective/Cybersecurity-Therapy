@@ -390,4 +390,18 @@
 - Any settings that do not conflict with other settings will not be applied
 - Important to understand the order in which the settings in the group policy should be configured
 - Usual order which group policies are applied is:
+	- Local
+	- Site
+	- Domain
+	- OU
+- Settings that conflict will be applied based on the usual order of application
+- Last setting applied will become the effective setting
+- In Windows Server 2003 and previous versions, settings related to Account Policies can only be set at the domain level
+- From the Windows Server 2008, we can have different password policies and account lockout policies for different OUs
+
+**Policy Application Order**
+- Blocking group policy inheritance
+	- to prevent from inheriting GPO
+- Enforced
+	- to force down to all child containers and win all the setting conflicts (take the highest precedence)
 	- 
