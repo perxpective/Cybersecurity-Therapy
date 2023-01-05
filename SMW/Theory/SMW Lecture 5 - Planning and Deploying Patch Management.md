@@ -1,1 +1,2 @@
-# SMW Lecture 5 - Planning and Deployin 
+# SMW Lecture 5 - Planning and Deploying Patch Management
+
