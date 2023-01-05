@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ce0430d1a99b5ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4b4d62872ee28640",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md"
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md"
               }
             }
           },
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,13 +175,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47967f6163054f8f",
+  "active": "93e015461cbc414f",
   "lastOpenFiles": [
+    "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SPIM/IM/IM Chapter 3 - Log Management.md",
     "SPIM/IM/IM Chapter 2 - Incident Response Framework.md",
     "SPIM/IM/IM Chapter 1 - Introduction to Incident Management.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
-    "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
     "README.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 6 - XSS Prevention.md",
