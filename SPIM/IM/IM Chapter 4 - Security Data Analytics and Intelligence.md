@@ -1,4 +1,4 @@
-# **SPIM Chapter 4 - Security Data Analytics and Intelligence**
+# IM Chapter 4 - Security Data Analytics and Intelligence
 
 ###### tags: #SPIM 
 

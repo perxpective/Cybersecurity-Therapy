@@ -1,4 +1,4 @@
-# SPIM Chapter 2 - Incident Response Framework
+# IM Chapter 2 - Incident Response Framework
 
 ###### tags: #SPIM 
 

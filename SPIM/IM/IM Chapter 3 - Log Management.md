@@ -1,4 +1,4 @@
-# SPIM Chapter 3 - Log Management
+# IM Chapter 3 - Log Management
 
 ###### tags: #SPIM 
 

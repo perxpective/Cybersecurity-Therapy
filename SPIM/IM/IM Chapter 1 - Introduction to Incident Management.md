@@ -1,4 +1,4 @@
-# SPIM Chapter 1 - Introduction to Incident Management
+# IM Chapter 1 - Introduction to Incident Management
 
 ###### tags: #SPIM
 

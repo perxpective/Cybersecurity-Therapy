@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 5 - Logging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b961b5b79bedc29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md"
+                "file": "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md"
               }
             }
           },
@@ -142,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,17 +162,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b961b5b79bedc29",
+  "active": "47967f6163054f8f",
   "lastOpenFiles": [
+    "SPIM/IM/IM Chapter 3 - Log Management.md",
+    "SPIM/IM/IM Chapter 2 - Incident Response Framework.md",
+    "SPIM/IM/IM Chapter 1 - Introduction to Incident Management.md",
+    "SMW/Tutorials/SMW Tutorial 2.md",
+    "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
+    "README.md",
     "SC/SC Topic 5 - Logging.md",
+    "SC/SC Topic 6 - XSS Prevention.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
-    "SPIM/SPIM Chapter 4 - Security Data Analytics and Intelligence.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "EHD/Theory/EHD Topic 11 - Wireless Security.md",
-    "EHD/Practical/EHD Practical 12 - Decompiling.md",
-    "SPIM/SPIM Chapter 3 - Log Management.md",
-    "SMW/Tutorials/SMW Tutorial 1.md",
-    "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-    "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md"
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
   ]
 }
