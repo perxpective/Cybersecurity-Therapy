@@ -31,4 +31,14 @@
 ### Windows Server Update Services (WSUS)
 - For medium or large businesses
 - Administrators can manage update settings and control the distribution of updates
-- Administrators can test updates on selected computer
+- Administrators can test updates on selected computers before deploying to the rest of the network
+- Updates can be downloaded once from the Microsoft Update website and stored on the local server to free up internet bandwidth
+- Does not support deployment of non-Microsoft updates
+- **Price:** free for licensed users
+
+### Microsoft Endpoint Manager
+- Supports management and distribution of Microsoft and non-Microsoft software updates and applications
+- Supports various types of endpoints on Windows and non-Windows platforms
+- Has advanced administrator control features
+- **Price:** charges apply
+
