@@ -80,4 +80,19 @@ ADD EAX, 0x02
 	- Points to the next instruction to be executed
 
 ## Registers
-- RIP, RAX
+- RIP, RAX refers to the 64-bit registers
+- EIP, EAX refers to 32-bit registers
+- IP, AX refers to 16-bit registers
+- AH and AL refer to the higher and lower parts of the AX register
+![](https://i.imgur.com/ymagI86.png)
+
+## Memory Segments
+- When a program is loaded into memory to be run, the memory is divided into the different segments:
+	- **Code Segment**
+		- Holds compiled program instructions in machine language
+	- **Data Segment**
+		- Global variables used by the program
+	- **Stack**
+		- Variables and arguments used by functions
+	- **Heap**
+		- For dynamic memory allocation
