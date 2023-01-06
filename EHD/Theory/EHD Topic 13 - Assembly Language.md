@@ -31,4 +31,8 @@
 	- Address 1 (byte 2)
 	- Address 2 (byte 1)
 	- Address 3 (byte 0)
-	- 
+
+## Assembly Language
+> The English version of machine code
+- Low level
+- Runs ver 
