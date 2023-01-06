@@ -16,4 +16,7 @@
 - All data is stored on the hard disk or memory as bytes
 - 1 byte = 8 bits
 - The word `hello` would be stored as 5 bytes (40 bits)
-- 
+
+### Little Endian vs Big Endian
+- Refers to how multi-byte numbers are stored
+- Little Endian 
