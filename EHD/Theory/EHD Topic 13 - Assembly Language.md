@@ -96,3 +96,17 @@ ADD EAX, 0x02
 		- Variables and arguments used by functions
 	- **Heap**
 		- For dynamic memory allocation
+
+## Opcodes and Operands
+- To write an assembly program, the opcodes of the processor needs to be known
+- Opcode is a machine language instruction that instructs the processor of the operation that needs to be performed
+- Operand is the value that is given to the opcode
+```
+MOV AX, 20h 
+```
+- Not all opcodes require operands
+- For example, the No Operation `NOP` command does not require any operands
+
+## Decompiling and Disassembling
+- **Decompiling**
+	- 
