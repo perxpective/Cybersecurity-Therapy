@@ -51,3 +51,14 @@
 ##  General Purpose Registers
 - **Extended Accumulator (EAX)**
 	- Used in arithmetic and I/O operations
+	- When CPU adds two numbers together, it will store the result in the EAX
+```
+ADD EAX, 0x02
+```
+- **Extended Base Register (EBX)**
+	- Usually points to a procedure or variable
+- **Extended Count Register (ECX)**
+	- Usually used in program loops
+- **Extended Data Register (EDX)**
+	- Similar to EAX, used in arithmetic and I/O operations
+	- 
