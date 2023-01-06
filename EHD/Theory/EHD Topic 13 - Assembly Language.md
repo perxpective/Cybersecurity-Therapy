@@ -61,4 +61,23 @@ ADD EAX, 0x02
 	- Usually used in program loops
 - **Extended Data Register (EDX)**
 	- Similar to EAX, used in arithmetic and I/O operations
-	- 
+
+## Segment Registers
+- Code Segment (CS)
+	- Holds the base location for the executable code in the process
+- Data Segment (DS)
+	- Holds the base location where variables are stored in the process
+- Stack Segment (SS)
+	- Holds the base location of the stack
+- Extra Segment (ES)
+	- Additional base location for variables
+
+## Index Registers
+- Extended Stack Pointer (ESP)
+	- Offset from the base location of stack to top of stack
+- Extended Base Pointer (EBP)
+- Extended Instruction Pointer (EIP)
+	- Points to the next instruction to be executed
+
+## Registers
+- RIP, RAX
