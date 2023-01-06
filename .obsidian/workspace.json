@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "file": "EHD/Theory/EHD Topic 11 - Wireless Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d255fb9cb98cefa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md"
               }
             }
           },
@@ -153,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +200,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e46f70970730d8f8",
+  "active": "d255fb9cb98cefa4",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 11 - Wireless Security.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
@@ -197,7 +211,6 @@
     "SPIM/IM/IM Chapter 1 - Introduction to Incident Management.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "README.md",
-    "SC/SC Topic 5 - Logging.md",
-    "SC/SC Topic 6 - XSS Prevention.md"
+    "SC/SC Topic 5 - Logging.md"
   ]
 }
