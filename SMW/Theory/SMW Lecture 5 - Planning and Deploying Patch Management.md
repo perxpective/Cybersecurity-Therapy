@@ -42,3 +42,7 @@
 - Has advanced administrator control features
 - **Price:** charges apply
 
+### Security Update Guide
+- Formally known as the Security Bulletin
+- Contains detailed guidance and information about the security update and the vulnerability
+- Supporting search and filter features to locate specific entries
