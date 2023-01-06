@@ -19,4 +19,9 @@
 
 ### Little Endian vs Big Endian
 - Refers to how multi-byte numbers are stored
-- Little Endian 
+- **Little Endian:**
+	- Smaller bytes in lower address
+	- Address 0
+	- Address 1
+	- Address 2
+	- Address 3
