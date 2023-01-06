@@ -21,7 +21,14 @@
 - Refers to how multi-byte numbers are stored
 - **Little Endian:**
 	- Smaller bytes in lower address
-	- Address 0
-	- Address 1
-	- Address 2
-	- Address 3
+	- Address 0 (byte 0)
+	- Address 1 (byte 1)
+	- Address 2 (byte 2)
+	- Address 3 (byte 3)
+- **Big Endian**
+	- Bigger bytes in lower address
+	- Address 0 (byte 3)
+	- Address 1 (byte 2)
+	- Address 2 (byte 1)
+	- Address 3 (byte 0)
+	- 
