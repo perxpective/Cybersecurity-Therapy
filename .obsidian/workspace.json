@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md"
+                "file": "SC/SC Topic 6 - XSS Prevention.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +156,10 @@
   },
   "active": "d255fb9cb98cefa4",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "EHD/Theory/EHD Topic 11 - Wireless Security.md",
-    "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SPIM/IM/IM Chapter 3 - Log Management.md",
     "SPIM/IM/IM Chapter 2 - Incident Response Framework.md",
