@@ -120,4 +120,3 @@ MOV AX, 20h
 ![](https://i.imgur.com/XQ83rMq.png)
 
 - List of DLLs can be found in `C:\\Windows\System32`
-- 
