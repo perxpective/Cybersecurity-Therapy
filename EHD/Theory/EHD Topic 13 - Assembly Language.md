@@ -109,4 +109,15 @@ MOV AX, 20h
 
 ## Decompiling and Disassembling
 - **Decompiling**
-	- 
+	- Attempts to generate the original source code from the executable program
+	- Not always successful
+- **Disassembling**
+	- Generates the assembled code from the executable program
+
+## Dynamic Link Library (DLL)
+> Files containing libraries of functions that can be used by other programs
+
+![](https://i.imgur.com/XQ83rMq.png)
+
+- List of DLLs can be found in `C:\\Windows\System32`
+- 
