@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md"
+                "file": "SC/SC Topic 4 - SQL Injection.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "SC/SC Topic 4 - SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,6 +156,7 @@
   },
   "active": "d255fb9cb98cefa4",
   "lastOpenFiles": [
+    "SC/SC Topic 6 - XSS Prevention.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
@@ -164,7 +165,6 @@
     "SPIM/IM/IM Chapter 3 - Log Management.md",
     "SPIM/IM/IM Chapter 2 - Incident Response Framework.md",
     "SPIM/IM/IM Chapter 1 - Introduction to Incident Management.md",
-    "SMW/Tutorials/SMW Tutorial 2.md",
-    "README.md"
+    "SMW/Tutorials/SMW Tutorial 2.md"
   ]
 }
