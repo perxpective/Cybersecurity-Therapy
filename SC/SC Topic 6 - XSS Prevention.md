@@ -51,7 +51,7 @@
 var userinput = 'abc@gmail.com';
 pattern = new RegExp('^.+@.+\.[a-z]+$')
 if (pattern.test(userinput)) {
-	console.logg("Input is correct!")
+	console.log("Input is correct!")
 } else {
 	console.log("Input does not match pattern!")
 }
