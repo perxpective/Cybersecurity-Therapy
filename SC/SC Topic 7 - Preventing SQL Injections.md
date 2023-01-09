@@ -50,3 +50,6 @@ conn.query(sql, [userid, role], (err, result) => {
 	- Perform input validation and whitelisting with regular expressions
 	- Datatype checks
 	- Escape inputs
+- **Database Configuration**
+	- Create accounts with strong passwords for database access
+	- Create accounts with least privileges on the data
