@@ -33,4 +33,13 @@ conn.query(sql, [userid: `${userid}`, role: `${role}`], (err, result) => {
 - Create more specific views with restricted access rather than normal queries
 - Restrict access to sensitive columns with stored procedures
 - Variables can also be declared in the stored procedure
-- Can embed multiple SQL statements and even implement if-else 
+- Can embed multiple SQL statements and even implement if-else or looping logic
+
+### Calling Stored Procedures in Node.js
+```js
+var sql = `call finduser(?, ?)`
+conn.query(sql, [userid, role], (err, result) => {
+	...
+})
+```
+
