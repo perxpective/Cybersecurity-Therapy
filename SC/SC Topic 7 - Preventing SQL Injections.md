@@ -29,4 +29,8 @@ conn.query(sql, [userid: `${userid}`, role: `${role}`], (err, result) => {
 ```
 
 ## Stored Procedures
-- Create more specific views with rest
+- A function or method that works like an interface to specific restricted parts of the database
+- Create more specific views with restricted access rather than normal queries
+- Restrict access to sensitive columns with stored procedures
+- Variables can also be declared in the stored procedure
+- Can embed multiple SQL statements and even implement if-else 
