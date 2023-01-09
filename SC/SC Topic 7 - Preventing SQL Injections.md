@@ -52,4 +52,5 @@ conn.query(sql, [userid, role], (err, result) => {
 	- Escape inputs
 - **Database Configuration**
 	- Create accounts with strong passwords for database access
-	- Create accounts with least privileges on the data
+	- Create accounts with least privileges on the database for the client applications allowing access to required data for performance of required tasks only
+	- Ensure connections between database and client application is encrypted
