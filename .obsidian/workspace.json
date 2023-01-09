@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md"
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +169,8 @@
   },
   "active": "3f5e5aa5e8c141f7",
   "lastOpenFiles": [
-    "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 6 - XSS Prevention.md",
+    "SC/SC Topic 4 - SQL Injection.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
