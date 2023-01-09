@@ -43,3 +43,10 @@ conn.query(sql, [userid, role], (err, result) => {
 })
 ```
 
+## Best Practices
+- Use placeholders in `mysql` node library to escape inputs
+- Use stored procedures
+- If it is not possible:
+	- Perform input validation and whitelisting with regular expressions
+	- Datatype checks
+	- Escape inputs
