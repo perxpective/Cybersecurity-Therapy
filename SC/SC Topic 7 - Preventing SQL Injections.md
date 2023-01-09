@@ -17,3 +17,16 @@ conn.query(sql, [userid, role], (err, result) => {
 	...
 })
 ```
+- Placeholders may also be provided as a key value pair in an array
+	- where the key is the column name and value is the value of the column
+- **Example:**
+```
+var sql = `select userid, email, username from user where ? and ?`
+
+conn.query(sql, [userid: `${userid}`, role: `${role}`], (err, result) => {
+	...
+})
+```
+
+## Stored Procedures
+- Create more specific views with rest
