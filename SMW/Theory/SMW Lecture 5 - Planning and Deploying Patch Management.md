@@ -92,4 +92,7 @@
 - **Synchronization Log Information**
 	- Time of the last and next scheduled synchronization
 	- Success and failure notification
-	- Update packages that have been don
+	- Update packages that have been downloaded or updates since the last or failed synchronization
+	- Whether synchronization was manual or automatic
+- **Approval Log**
+	- Keeps track of the content that has been approved or not approved
