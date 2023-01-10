@@ -82,4 +82,5 @@
 
 ## WSUS Operations
 ### Configuring the WSUS Server
-- WSUS server needs Internet access to Microsoft Update server to get inf
+- WSUS server needs Internet access to Microsoft Update server to get information about security updates **(synchronization)**
+- Initial synchronization may take awhile depending on the selection choices
