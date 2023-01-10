@@ -35,7 +35,11 @@
 - Updates can be downloaded once from the Microsoft Update website and stored on the local server to free up internet bandwidth
 - Does not support deployment of non-Microsoft updates
 - **Price:** free for licensed users
+- **Advantages:**
+	- Sysadmins can control the updates to be applied
+	- Clients can be configured to get updates from a local WSUS server instead of downloading them from Microsoft's site - red
 - **Limitation:**
+	- Does not support updates from Microsoft
 
 ### Microsoft Endpoint Manager
 - Supports management and distribution of Microsoft and non-Microsoft software updates and applications
@@ -47,3 +51,10 @@
 - Formally known as the Security Bulletin
 - Contains detailed guidance and information about the security update and the vulnerability
 - Supporting search and filter features to locate specific entries
+
+### Security Technical Security Notifications
+- A few free of charge notification services for sign-up users
+- <u>Security Update Email Alerts</u>
+	- provide new or major revision Microsoft product security content
+- <u>Security Advisories Alerts</u>
+	- helps administrators plan for the coming security updates
