@@ -108,4 +108,9 @@
 ![](https://i.imgur.com/NZdwE4s.png)
 
 ### WSUS Computer Groups
-- WSUS Clients c
+- WSUS Clients can be placed into computer groups
+- Sample usage: some clients can be put into a test computer group
+	- Administrator approve new security updates for the test group
+	- Computers in the test group apply the updates
+	- Administrators test the results before allowing other computers to apply the updates
+- Sample usage: servers with the same roles can be put into the same group
