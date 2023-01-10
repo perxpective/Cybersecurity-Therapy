@@ -67,5 +67,15 @@
 	- helps administrators plan for the coming security updates
 
 ## WSUS Server
-- Requires the following:
-	- assuming that WSUS clients are in sync with th
+- <u>Hardware Requirements:</u>
+	- assuming that WSUS clients are in sync with the server every 8 hours for rollup of 30,000 clients
+	- **Processor:** 1.4GHz, x64 (2GHz or faster is recommended)
+	- **Memory:** additional 2GB of RAM
+	- **Available disk space:** 40GB
+- <u>Software Requirements:</u>
+	- Must be running on IIS with a few other Windows components
+
+## WSUS Features
+- Administrators must approve updates before WSUS clients can install them
+- WSUS clients can be controlled by Group Policy to connect to WSUS server
+- WSUS server can maintain update status of all clients
