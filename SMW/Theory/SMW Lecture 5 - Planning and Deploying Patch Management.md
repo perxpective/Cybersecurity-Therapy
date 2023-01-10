@@ -96,3 +96,16 @@
 	- Whether synchronization was manual or automatic
 - **Approval Log**
 	- Keeps track of the content that has been approved or not approved
+
+### Content Synchronization
+- During synchronization, new security updates can be handled via two methods:
+	- Automatically approve new versions of previous approved updates
+	- Do not automatically approve new versions of approved updates
+- In a testing environment, the second options is better
+	- otherwise, testers may overlook and skip the testing of the new updates
+
+### WSUS Policy Options for Clients
+![](https://i.imgur.com/NZdwE4s.png)
+
+### WSUS Computer Groups
+- WSUS Clients c
