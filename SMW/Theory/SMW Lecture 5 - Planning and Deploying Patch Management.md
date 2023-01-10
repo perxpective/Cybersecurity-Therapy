@@ -149,3 +149,13 @@
 	- Cost of testing the updates
 	- Costs of deploying the updates
 	- Supports costs in case of any negative result after the update
+
+#### Severity Ratings
+| Rating    | Description                                                                                                                                                                   |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Critical  | Vulnerability whose exploitation could enable propagation of an Internet worm with little or no user action                                                                   |
+| Important | Vulnerability whose exploitation could result in compromise of confidentiality, integrity or availability of users' data or integrity or availability of processing resources |
+| Moderate  | Vulnerability whose exploitation is mitigated to significant degree by factors e.g. default configuration, auditing or difficulty of exploitation                             |
+| Low       | Vulnerability whose exploitation is extremely difficult or whose impact is minimal                                                                                            |
+
+### Miti
