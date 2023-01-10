@@ -137,4 +137,4 @@
 - Urgent updates are released immediately
 - There are several ways to receive information about updates from Microsoft:
 	- Email (Security Notification Service Comprehensive Edition)
-	- RSS 
+	- RSS (Comprehen)
