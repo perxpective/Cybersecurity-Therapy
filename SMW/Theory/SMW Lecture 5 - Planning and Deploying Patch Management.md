@@ -133,4 +133,8 @@
 	- Security updates and the corresponding security bulletin normally released on the second Tuesday and sometimes fourth of the month
 - <u>Exploit Wednesday</u>
 	- This term was coined as many exploitation events were seen shortly after the release of a patch
-- Since 2015, Microsoft release security updates to home PCs, tablets and phones as soon as they are ready while enterprise customers will sta
+- Since 2015, Microsoft release security updates to home PCs, tablets and phones as soon as they are ready while enterprise customers will stay on the monthly update cycle
+- Urgent updates are released immediately
+- There are several ways to receive information about updates from Microsoft:
+	- Email (Security Notification Service Comprehensive Edition)
+	- RSS 
