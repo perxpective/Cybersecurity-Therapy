@@ -79,3 +79,7 @@
 - Administrators must approve updates before WSUS clients can install them
 - WSUS clients can be controlled by Group Policy to connect to WSUS server
 - WSUS server can maintain update status of all clients
+
+## WSUS Operations
+### Configuring the WSUS Server
+- WSUS server needs Internet access to Microsoft Update server to get inf
