@@ -35,6 +35,7 @@
 - Updates can be downloaded once from the Microsoft Update website and stored on the local server to free up internet bandwidth
 - Does not support deployment of non-Microsoft updates
 - **Price:** free for licensed users
+- **Limitation:**
 
 ### Microsoft Endpoint Manager
 - Supports management and distribution of Microsoft and non-Microsoft software updates and applications
