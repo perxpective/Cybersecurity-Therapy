@@ -115,7 +115,7 @@
 	- Administrators test the results before allowing other computers to apply the updates
 - Sample usage: servers with the same roles can be put into the same group
 	- They can receive relevant updates at the same time
-
+	
 ## Patch Management
 ![](https://i.imgur.com/KqPPgqW.png)
 
@@ -127,3 +127,10 @@
 - Monitor Systems
 
 ### Receive Microsoft Security Release Communications
+- Microsoft sends out a notification if there is an issue affecting customers' security
+- If security changes are needed, security update is released
+- <u>Patch Tuesday</u>
+	- Security updates and the corresponding security bulletin normally released on the second Tuesday and sometimes fourth of the month
+- <u>Exploit Wednesday</u>
+	- This term was coined as many exploitation events were seen shortly after the release of a patch
+- Since 2015, Microsoft release security updates to home PCs, tablets and phones as soon as they are ready while enterprise customers will sta
