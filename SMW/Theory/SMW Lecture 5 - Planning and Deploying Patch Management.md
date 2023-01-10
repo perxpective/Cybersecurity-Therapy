@@ -37,9 +37,16 @@
 - **Price:** free for licensed users
 - **Advantages:**
 	- Sysadmins can control the updates to be applied
-	- Clients can be configured to get updates from a local WSUS server instead of downloading them from Microsoft's site - red
+	- Clients can be configured to get updates from a local WSUS server instead of downloading them from Microsoft's site - reduces network traffic
+	- Means to provide updates to computers that do not have Internet access
 - **Limitation:**
 	- Does not support updates from Microsoft
+
+![](https://i.imgur.com/fTVRSVE.png)
+
+> - Diagram depicts how a local WSUS server obtains Windows Update files
+> - Gets them from the common Microsoft Update Services server from the Internet
+> - Local WSUS server acts as an agent to maintain a curated update repository to provide enterprise level control to distribute these updates accordingly
 
 ### Microsoft Endpoint Manager
 - Supports management and distribution of Microsoft and non-Microsoft software updates and applications
@@ -58,3 +65,7 @@
 	- provide new or major revision Microsoft product security content
 - <u>Security Advisories Alerts</u>
 	- helps administrators plan for the coming security updates
+
+## WSUS Server
+- Requires the following:
+	- assuming that WSUS clients are in sync with th
