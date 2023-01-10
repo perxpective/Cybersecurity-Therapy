@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md"
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,6 +169,8 @@
   },
   "active": "787904fe10df2f2c",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 12 - Decompiling.md",
+    "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
@@ -177,8 +178,6 @@
     "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "EHD/Theory/EHD Topic 11 - Wireless Security.md",
-    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
-    "SPIM/IM/IM Chapter 3 - Log Management.md",
-    "SPIM/IM/IM Chapter 2 - Incident Response Framework.md"
+    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md"
   ]
 }
