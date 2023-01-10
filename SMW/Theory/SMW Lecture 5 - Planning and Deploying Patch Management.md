@@ -114,3 +114,16 @@
 	- Computers in the test group apply the updates
 	- Administrators test the results before allowing other computers to apply the updates
 - Sample usage: servers with the same roles can be put into the same group
+	- They can receive relevant updates at the same time
+
+## Patch Management
+![](https://i.imgur.com/KqPPgqW.png)
+
+### Managing Updates Through Stages
+- Receive Microsoft Security Release Communications
+- Evaluate Risk
+- Evaluate Mitigation
+- Deploy Updates
+- Monitor Systems
+
+### Receive Microsoft Security Release Communications
