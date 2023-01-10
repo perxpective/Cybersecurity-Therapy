@@ -137,4 +137,15 @@
 - Urgent updates are released immediately
 - There are several ways to receive information about updates from Microsoft:
 	- Email (Security Notification Service Comprehensive Edition)
-	- RSS (Comprehen)
+	- RSS (Comprehensive Alerts)
+	- Twitter
+	- Security Update Portal
+
+### Evaluate Risk
+- <u>Questions administrators should ask:</u>
+	- Does the vulnerability apply to the organisation?
+	- Does the vulnerability represent a risk high to the organisation
+- Deployment of a security update has a cost:
+	- Cost of testing the updates
+	- Costs of deploying the updates
+	- Supports costs in case of any negative result after the update
