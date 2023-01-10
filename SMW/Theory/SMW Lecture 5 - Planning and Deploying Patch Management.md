@@ -84,3 +84,12 @@
 ### Configuring the WSUS Server
 - WSUS server needs Internet access to Microsoft Update server to get information about security updates **(synchronization)**
 - Initial synchronization may take awhile depending on the selection choices
+
+### Performing Software Update Services
+- WSUS has two logs for tracking events
+	- Synchronization
+	- Approval
+- **Synchronization Log Information**
+	- Time of the last and next scheduled synchronization
+	- Success and failure notification
+	- Update packages that have been don
