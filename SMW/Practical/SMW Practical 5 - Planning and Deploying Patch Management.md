@@ -12,4 +12,7 @@
 3. Apply the same approach from previous labs to let this server join the domain
 
 ## Setting Up the WSUS Client Configuration
-1. Create a Group Policy for the Windows Server 2012 R2
+1. On the domain controller, use Active Directory Users and Computers and verify if there is an OU called "MemberServerOU" and create one if needed
+2. Move Windows Server 2012 R2 to the MemberServerOU
+3. Run Group Policy Management Console (GPMC) and right-click on the OU and select Create a GPO
+4. 
