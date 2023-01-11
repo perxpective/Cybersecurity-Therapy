@@ -158,4 +158,4 @@
 | Moderate  | Vulnerability whose exploitation is mitigated to significant degree by factors e.g. default configuration, auditing or difficulty of exploitation                             |
 | Low       | Vulnerability whose exploitation is extremely difficult or whose impact is minimal                                                                                            |
 
-### Miti
+### Evaluate Mitigation
