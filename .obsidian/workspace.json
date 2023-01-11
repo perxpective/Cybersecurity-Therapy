@@ -171,6 +171,7 @@
   "active": "f35b72740ab6fbac",
   "lastOpenFiles": [
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
+    "SMW/Practical/SMW Practical 5 - Planning and Deploying Patch Management.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "SC/SC Topic 6 - XSS Prevention.md",
@@ -178,7 +179,6 @@
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SPIM/IM/IM Chapter 4 - Security Data Analytics and Intelligence.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "EHD/Theory/EHD Topic 11 - Wireless Security.md"
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
   ]
 }
