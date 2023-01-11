@@ -6,3 +6,4 @@
 ```toc
 ```
 
+## Preparing a Standalone Server with Windows Server Updates Services (WSUS) Role
