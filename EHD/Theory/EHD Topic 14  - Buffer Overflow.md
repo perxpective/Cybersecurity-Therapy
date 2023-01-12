@@ -49,4 +49,8 @@ number = new int;
 - Stacks are based on a Last-In-First-Out concept
 - Data is pushed onto the top of the stack
 - Data is popped from the top of the stack
+- When a program is run, the first function to run is often called the "main" or "entry point"
+- When a function is running, it stores its local variables in the stack
+- The stack will grow and shrink and as function are called and returned
+- When a program is run, the Instruction Pointer (EIP) holds the address of the next instruction to be run
 - 
