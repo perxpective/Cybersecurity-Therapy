@@ -175,4 +175,18 @@ main () {
 - A debugger can help - more in Topic 15
 
 ## Heap Overflows
-- Storage is dynamically allocated and freed durin prog
+- Storage is dynamically allocated and freed during program execution
+- Interspersed blocks of allocated and free memory
+
+![](https://i.imgur.com/RtHCHvv.png)
+
+- When overflow occurs, memory blocks are corrupted and results can be unpredictable
+
+![](https://i.imgur.com/cLJfcDC.png)
+
+## Other Exploits
+- Can be used to update files that are not allowed to
+- e.g. Code Red Worm affecting IIS5
+	- used to deface websites running on IIS5
+	- Attempt to launch DoS against the White House
+- Escalate privilege over to a system

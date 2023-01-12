@@ -54,6 +54,7 @@
 	- When CPU adds two numbers together, it will store the result in the EAX
 ```
 ADD EAX, 0x02
+; ADD is the opcode
 ```
 - **Extended Base Register (EBX)**
 	- Usually points to a procedure or variable
