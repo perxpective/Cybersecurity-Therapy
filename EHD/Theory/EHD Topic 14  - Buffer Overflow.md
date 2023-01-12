@@ -21,3 +21,9 @@ void main() {
 ## Memory Structure
 - Typically organised into 3 areas:
 	- Code Segment
+	- Stack Segment
+	- Heap Segment
+- Heap and stack are dynamic
+
+![](https://i.imgur.com/u9kgsZX.png)
+
