@@ -163,3 +163,11 @@
 - For example, adjust the firewall policies or restrict a port only to a specific subnet instead of the whole network
 - Microsoft may provide some suggested mitigation or workarounds in their security advisories if the security update cannot be applied immediately
 - Such mitigations and workarounds are meant for short-term use and do not replace security updates
+
+### Deploy Updates
+There are six steps to deploy an update:
+- <u>Plan the deployment</u>
+	- Determine which updates need to be rolled out quickly and which ones can be subjected to a more thorough testing process
+	- Have a deployment schedule
+- <u>Determine whether the security update is available for download</u>
+	- If there is no security update available, Microsoft advises appropriate actions to take to protect the computer systems
