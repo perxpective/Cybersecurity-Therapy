@@ -211,4 +211,7 @@ There are six steps to deploy an update:
 ## Post-Deployment Review
 - Conducted after the deployment
 - Review includes the following steps:
-	- 
+	- Review organisation's performance during incident
+	- Discuss changes to service windows
+	- Assess the total incident damage and cost if there are any
+	- Update the existing baseline for your environment
