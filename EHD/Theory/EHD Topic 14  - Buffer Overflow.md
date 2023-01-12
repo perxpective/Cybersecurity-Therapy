@@ -77,3 +77,4 @@ void main {
 }
 ```
 - Before jumping to `callA`, the address of instruction "step 2" is stored somewhere so that the program will know where to return to 
+- The stack is used to hold the return address whenever a function/subroutine is encountered
