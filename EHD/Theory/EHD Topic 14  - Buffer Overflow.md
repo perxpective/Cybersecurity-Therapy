@@ -104,5 +104,10 @@ void DoHexDump(FILE*file) {
 	DumpHex(data, len);
 }
 ```
+- In this example, pushing 516 `a` characters will overwrite the return address
+- `a` = ASCII  value of 61
 
-## Stack Overflow III
+## Exploiting Stack Overflow
+- Strategy: change the return pointer such that it points to other user-supplied data on the stack
+- Could be a shellcode/opcode entered by an attacker
+- Could be loaded function already in stack
