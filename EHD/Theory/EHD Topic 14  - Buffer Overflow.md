@@ -6,4 +6,14 @@
 ```toc
 ```
 
-## 
+## What is Buffer Overflow
+- Buffer overflow accounts for a significant of exploits
+- Provides application with more data than it can hold
+
+```c
+void main() {
+	char buffer[5]
+	strcpy(buffer, "abcdefghijklmnopqrstuvwxyz");
+	return
+}
+```
