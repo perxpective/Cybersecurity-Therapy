@@ -222,4 +222,4 @@ There are six steps to deploy an update:
 - **Windows Update Catalog**
 	- Download specific update package from windows update catalog website
 - **Windows Update Troubleshooter**
-	- 
+	- Free tools from Microsoft which can fix most of the common Windows update errors
