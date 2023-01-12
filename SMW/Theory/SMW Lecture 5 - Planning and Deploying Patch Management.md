@@ -196,4 +196,14 @@ There are six steps to deploy an update:
 - <u>Rolling out the deployment</u>
 	- Carry out the deployment of the update to the computers that need it
 	- Compliant to the Standard Patch Deployment Timeline
-- 
+
+### Monitor Systems
+- Determine which systems successfully deployed the update and which systems did not
+- **Possible reasons why update was not successfully deployed**
+	- Computer is offline
+	- Computer is being rebuilt or reimaged
+	- Computer has insufficient disk space
+	- Computer is not communicating with the update server
+	- Required update client software is not running on the computer
+	- The computer missing some dependent software
+- Need to re
