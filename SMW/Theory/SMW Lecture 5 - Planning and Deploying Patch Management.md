@@ -179,3 +179,21 @@ There are six steps to deploy an update:
 		- Microsoft Update Catalog Service
 - <u>Create the update package</u>
 	- If security updates need to be customized
+- <u>Test the package</u>
+	- To ensure that business-critical systems will continue to run successfully after the security update has been deployed
+	- To ensure that package can be uninstalled or there is a way to rollback
+	- To ensure the system can be restarted properly
+	- To ensure that the update is effective
+- <u>Testing update</u>
+	- **Test Environment**
+		- Test lab with computers mirroring the actual environment
+		- Extra overhead incurred
+	- **Pilot Environment**
+		- Test on selected production computers
+		- Authentic
+		- Test the deployment plan
+		- Extra risk incurred
+- <u>Rolling out the deployment</u>
+	- Carry out the deployment of the update to the computers that need it
+	- Compliant to the Standard Patch Deployment Timeline
+- 
