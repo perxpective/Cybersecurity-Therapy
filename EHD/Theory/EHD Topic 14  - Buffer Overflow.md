@@ -53,4 +53,13 @@ number = new int;
 - When a function is running, it stores its local variables in the stack
 - The stack will grow and shrink and as function are called and returned
 - When a program is run, the Instruction Pointer (EIP) holds the address of the next instruction to be run
-- 
+
+```c
+void main {
+	printf("step 1\n");
+	printf("step 2\n");
+	printf("step 3\n");
+}
+```
+
+- After step 2 is printed, the EIP or RIP will point to the next instruction step 3
