@@ -48,13 +48,14 @@
 	- Segment Registers
 	- Index (Pointer) Registers
 
-##  General Purpose Registers
+###  General Purpose Registers
 - **Extended Accumulator (EAX)**
 	- Used in arithmetic and I/O operations
 	- When CPU adds two numbers together, it will store the result in the EAX
 ```
 ADD EAX, 0x02
 ; ADD is the opcode
+; 0x02 is the operand
 ```
 - **Extended Base Register (EBX)**
 	- Usually points to a procedure or variable
@@ -63,7 +64,7 @@ ADD EAX, 0x02
 - **Extended Data Register (EDX)**
 	- Similar to EAX, used in arithmetic and I/O operations
 
-## Segment Registers
+### Segment Registers
 - Code Segment (CS)
 	- Holds the base location for the executable code in the process
 - Data Segment (DS)
@@ -73,7 +74,7 @@ ADD EAX, 0x02
 - Extra Segment (ES)
 	- Additional base location for variables
 
-## Index Registers
+### Index Registers
 - Extended Stack Pointer (ESP)
 	- Offset from the base location of stack to top of stack
 - Extended Base Pointer (EBP)
