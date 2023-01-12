@@ -27,3 +27,14 @@ void main() {
 
 ![300](https://i.imgur.com/u9kgsZX.png)
 
+- Buffer overflow can occur in:
+	- <u>Stack</u>
+		- Memory in stack allocated for functions
+		- Stores local variables and return pointers
+	- <u>Heap</u>
+		- Memory in heap is for dynamically allocated memory
+
+```c
+int *number;
+number = new int;
+```
