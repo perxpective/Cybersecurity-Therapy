@@ -159,3 +159,7 @@
 | Low       | Vulnerability whose exploitation is extremely difficult or whose impact is minimal                                                                                            |
 
 ### Evaluate Mitigation
+- While administrators are evaluating security updates, some short-term security control can be applied
+- For example, adjust the firewall policies or restrict a port only to a specific subnet instead of the whole network
+- Microsoft may provide some suggested mitigation or workarounds in their security advisories if the security update cannot be applied immediately
+- Such mitigations and workarounds are meant for short-term use and do not replace security updates
