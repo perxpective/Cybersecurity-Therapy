@@ -128,3 +128,17 @@ eb 2a 5e 89 76 08 c6 46 07 00 c7 46 0c 00 00 00 00 b8 0b 00 00 00 89 f3 8d 4e 08
 - This data is called a **stack frame**
 	- Function arguments (pushed in reverse order)
 	- Return address (current EIP or RIP value)
+	- Base Pointer (EBP or RBP) 
+	- Memory space needed for local variables
+- In a typical program, multiple nested functions may be called
+- With each function call, the data associated with each function (return addresses, local variables) are pushed onto the stack frame
+- The RBP (EBP) and RSP (ESP) are updated with each function call
+
+![](https://i.imgur.com/Q1EL3Zb.png)
+
+## Understanding Stack Frame
+![](https://i.imgur.com/ZXKXrPg.png)
+
+- EBP (RBP) points to the base of stack
+- ESP (RSP) points to the top of stack
+- When calling the foo
