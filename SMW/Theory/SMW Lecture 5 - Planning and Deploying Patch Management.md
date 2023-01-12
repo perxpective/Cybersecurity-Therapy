@@ -206,4 +206,9 @@ There are six steps to deploy an update:
 	- Computer is not communicating with the update server
 	- Required update client software is not running on the computer
 	- The computer missing some dependent software
-- Need to re
+- Need to resolve the problem and get update applied
+
+## Post-Deployment Review
+- Conducted after the deployment
+- Review includes the following steps:
+	- 
