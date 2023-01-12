@@ -38,3 +38,11 @@ void main() {
 int *number;
 number = new int;
 ```
+
+## Stack Overflows
+- When function is called, program will store the return address in the stack
+- Attacker uses buffer overflow to overwrite parts of the memory with his own code
+- Attacker also uses the buffer overflow overwrite the return address in the stack to point to the code
+- Program will now run the attacker's code
+
+## Stack Usage (LIFO)
