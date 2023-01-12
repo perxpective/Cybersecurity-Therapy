@@ -157,10 +157,22 @@ eb 2a 5e 89 76 08 c6 46 07 00 c7 46 0c 00 00 00 00 b8 0b 00 00 00 89 f3 8d 4e 08
 #include <stdio.h>
 NeverExecute() {
 	printf("We'll never reach here\n");
-	exit(0)
+	exit(0);
 }
 
 GetInput() {
-	char buffer
+	char buffer[8];
+	gets(buffer);
+	puts(buffer);
+}
+
+main () {
+	GetInput();
 }
 ```
+- Objective: Use buffer overflow to execute the function `NeverExecute()`
+- Need to know the address of the function `NeverExecute()`
+- A debugger can help - more in Topic 15
+
+## Heap Overflows
+- Storage is dynamically allocated and freed durin prog
