@@ -141,4 +141,18 @@ eb 2a 5e 89 76 08 c6 46 07 00 c7 46 0c 00 00 00 00 b8 0b 00 00 00 89 f3 8d 4e 08
 
 - EBP (RBP) points to the base of stack
 - ESP (RSP) points to the top of stack
-- When calling the foo
+- When calling the `foobar` function:
+	- Any arguments for function are pushed to stack and ESP is moved
+	- Address of the next instruction `printf` is pushed to stack - this is the return address; ESP is moved
+	- Current value in EBP is saved too stack; ESP moved and EBP moved to the top of the stack to point to "new base"
+	- Any local variables in `foobar` are pushed to stack; ESP is moved
+
+- Local variables and function arguments are referenced from the EBP
+
+![](https://i.imgur.com/ONOBNcO.png)
+![](https://i.imgur.com/WVlRNs8.png)
+
+## Exploits
+```c
+#include 
+```
