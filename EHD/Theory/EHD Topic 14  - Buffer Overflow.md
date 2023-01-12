@@ -92,5 +92,9 @@ void main {
 ```c
 void DoHexDump(FILE*file) {
 	int len
+	unsigned char data[512];
+	FILE* fp = file;
+	
+	
 }
 ```
