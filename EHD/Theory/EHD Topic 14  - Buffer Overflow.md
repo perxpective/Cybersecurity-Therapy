@@ -94,7 +94,15 @@ void DoHexDump(FILE*file) {
 	int len
 	unsigned char data[512];
 	FILE* fp = file;
-	
-	
+
+	fseek(fp, 0 SEEK_END);
+	len = ftell(tp);
+	fseek(fp, 0, SEEK_END);
+	fread(data, 1, len, fp);
+	fclose(fp);
+
+	DumpHex(data, len);
 }
 ```
+
+## Stack Overflow III
