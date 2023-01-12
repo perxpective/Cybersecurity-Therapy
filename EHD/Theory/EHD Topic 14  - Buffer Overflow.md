@@ -127,4 +127,4 @@ eb 2a 5e 89 76 08 c6 46 07 00 c7 46 0c 00 00 00 00 b8 0b 00 00 00 89 f3 8d 4e 08
 - When a function is called, some data is pushed to the stack
 - This data is called a **stack frame**
 	- Function arguments (pushed in reverse order)
-	- Return address 
+	- Return address (current EIP or RIP value)
