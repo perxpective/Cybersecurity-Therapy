@@ -17,3 +17,7 @@ void main() {
 	return
 }
 ```
+
+## Memory Structure
+- Typically organised into 3 areas:
+	- Code Segment
