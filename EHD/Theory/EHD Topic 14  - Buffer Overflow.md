@@ -46,3 +46,7 @@ number = new int;
 - Program will now run the attacker's code
 
 ## Stack Usage (LIFO)
+- Stacks are based on a Last-In-First-Out concept
+- Data is pushed onto the top of the stack
+- Data is popped from the top of the stack
+- 
