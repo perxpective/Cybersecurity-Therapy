@@ -215,3 +215,11 @@ There are six steps to deploy an update:
 	- Discuss changes to service windows
 	- Assess the total incident damage and cost if there are any
 	- Update the existing baseline for your environment
+
+## Common Approaches to Fix Windows Update Errors
+- **Check disk storage**
+	- System may not have sufficient disk storage to support download and installation requirement
+- **Windows Update Catalog**
+	- Download specific update package from windows update catalog website
+- **Windows Update Troubleshooter**
+	- 
