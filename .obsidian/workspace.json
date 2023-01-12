@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f35b72740ab6fbac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Practical/SMW Practical 5 - Planning and Deploying Patch Management.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Practical/SMW Practical 5 - Planning and Deploying Patch Management.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Practical/SMW Practical 5 - Planning and Deploying Patch Management.md"
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
               }
             }
           },
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Practical/SMW Practical 5 - Planning and Deploying Patch Management.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f35b72740ab6fbac",
+  "active": "32627537d2b9f0f3",
   "lastOpenFiles": [
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/Practical/SMW Practical 5 - Planning and Deploying Patch Management.md",
