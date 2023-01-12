@@ -87,4 +87,10 @@ void main {
 - Overwriting the return address in the stack can be done through stack overflow
 - The hacker overflows a local variable in the stack until he reaches the return address
 - Hacker overflows the variables until it overwrites the return address
-- 
+
+## Data Stack
+```c
+void DoHexDump(FILE*file) {
+	int len
+}
+```
