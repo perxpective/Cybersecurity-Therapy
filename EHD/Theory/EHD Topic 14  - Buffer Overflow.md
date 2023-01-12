@@ -63,3 +63,17 @@ void main {
 ```
 
 - After step 2 is printed, the EIP or RIP will point to the next instruction step 3
+
+- When a function or subroutine is called, the EIP or RIP will point to the function/subroutine
+- After function/subroutine completes running, the program must know where to return to
+```c
+function callA() {
+	printf("in callA\n");
+}
+void main {
+	printf("step 1\n");
+	callA();
+	printf("step 2\n");
+}
+```
+- Before jumping to `callA`, the address of instruction "step 2" is stored somewhere so that the program will know where to return to 
