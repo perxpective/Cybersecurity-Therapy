@@ -39,7 +39,7 @@ int *number;
 number = new int;
 ```
 
-## Stack Overflows
+## Stack Overflow I
 - When function is called, program will store the return address in the stack
 - Attacker uses buffer overflow to overwrite parts of the memory with his own code
 - Attacker also uses the buffer overflow overwrite the return address in the stack to point to the code
@@ -78,3 +78,11 @@ void main {
 ```
 - Before jumping to `callA`, the address of instruction "step 2" is stored somewhere so that the program will know where to return to 
 - The stack is used to hold the return address whenever a function/subroutine is encountered
+- When function `callA` has completed, the return address will be popped from the stack and the execution continues
+
+## Stack Problem
+- The problem arise if the hacker manages to overwrite the return address in the stack with an address to his own malicious code
+
+## Stack Overflow II
+- Overwriting the return address in the stack can be done through stack overflow
+- The hacker overflows a local variable in the stack until he reaches the return address
