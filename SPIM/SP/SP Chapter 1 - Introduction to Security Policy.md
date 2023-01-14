@@ -99,4 +99,15 @@
 - Set of mechanisms by which an organisation's information system security objectives can be defined and attained
 - Information Security Policy Document - a document that states how an organisation plans to protect the organisation's assets
 - A formal belief and high-level statement or plan that embraces an organisation's beliefs, goals, objectives and acceptable procedures for specific subject area
-- Policy sets out an organisation's aims, principles and approach and specifies what i 
+- Policy sets out an organisation's aims, principles and approach and specifies what is required to be achieved or delivered without prescribing how it should be carried out
+- Policy requirements are usually expressed in simple single statement format or limited to short paragraphs comprising of a few statements
+
+
+### Policy Breakdown (Compliance Paradox)
+- Spirit of the Law vs Letter of the Law
+- When a situation occurs and the policy does not know how to deal with it or ends up with inefficiency and causing other problems
+
+### Non-Compliance
+- Not the same as policy breakdown/compliance paradox
+- Rule by exception
+- Revisit your policies if there are 
