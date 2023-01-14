@@ -96,4 +96,7 @@
 - Plan or course of action as a government, political group, business or other organisation intended to influence and determine decisions, actions and other matters
 
 ### Information Security Policy
-- Set of mechanisms by which an organisation's information systems 
+- Set of mechanisms by which an organisation's information system security objectives can be defined and attained
+- Information Security Policy Document - a document that states how an organisation plans to protect the organisation's assets
+- A formal belief and high-level statement or plan that embraces an organisation's beliefs, goals, objectives and acceptable procedures for specific subject area
+- Policy sets out an organisation's aims, principles and approach and specifies what i 
