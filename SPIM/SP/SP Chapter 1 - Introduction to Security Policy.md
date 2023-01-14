@@ -139,4 +139,15 @@
 ### Benefits of Policies
 - <u>Management's involvement</u>
 	- Development of policy includes ancillary benefit of making upper management aware of and involved in information security
-	- 
+- Exemplify organisation's commitment to security
+- Provide paper trail to prove due diligence
+- **5 Practical Benefits of Security Policies**
+	- Form a benchmark for progress measurement
+	- Ensure consistency
+	- Serve as a guide to information security
+	- Define acceptable use
+	- Give security staff the backing of management
+
+### Second Nature to Risk Management
+- Integrated documented management system needs to be an integral part of the organisation's day-to-day operations
+- When the management system becomes second nature within the business activities, minimises the frequency of dealing with surprises
