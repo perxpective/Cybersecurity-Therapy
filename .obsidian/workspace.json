@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24911e4c871a4df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md"
+                "file": "SMW/Tutorials/SMW Tutorial 3.md"
               }
             }
           },
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SMW/Tutorials/SMW Tutorial 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,8 +167,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32627537d2b9f0f3",
+  "active": "24911e4c871a4df6",
   "lastOpenFiles": [
+    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 11 - Wireless Security.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
@@ -165,7 +178,6 @@
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",
     "SMW/Practical/SMW Practical 5 - Planning and Deploying Patch Management.md",
     "SC/SC Topic 6 - XSS Prevention.md",
-    "SC/SC Topic 7 - Preventing SQL Injections.md",
-    "SC/SC Topic 4 - SQL Injection.md"
+    "SC/SC Topic 7 - Preventing SQL Injections.md"
   ]
 }

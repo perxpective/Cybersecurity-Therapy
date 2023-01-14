@@ -152,4 +152,21 @@
 - Integrated documented management system needs to be an integral part of the organisation's day-to-day operations
 - When the management system becomes second nature within the business activities, minimises the frequency of dealing with surprises
 
-### Inadequate Documentation
+### 4 Key Components of a Security Policy and Manual Framework
+#### Policy
+- What behaviour are we trying to govern?
+
+#### Standards
+- Specifies minimum requirements in a policy
+- What are the responsibilities that each individual must meet for compliance
+
+#### Guidelines
+- Suggestions for best ways to accomplish a task
+- Help to conform to a standard
+- What are the general requirements for individual or devices to be compliant with the policy
+
+#### Procedures
+- A method by which a policy is accomplished
+- Instruction to carry out a policy
+- Focus on actions and steps
+- What are the general technical requirements for individuals or devices to be compliant with the policy?
