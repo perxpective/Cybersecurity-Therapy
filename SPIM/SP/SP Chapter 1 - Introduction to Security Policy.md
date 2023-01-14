@@ -189,3 +189,20 @@
 	- But the full implications should be understood and the case carefully weighed before implementing any behaviour described with this label
 - May or Optional
 	- An item is truly optional
+
+## Policy Headers/Template
+- Owner
+	- Originating Owner, Issuer, Writer, Department including Contact Information
+	- Define Contacts and Authority Responsibilities
+	- Can be a person, department, or organisation
+- Date of Issue
+	- May contain original date of issuance, but the latest date of policy document must be clear
+	- Effective date of implementation
+- Version Number and Revision History
+- References
+- Glossary
+	- Define acronyms and technical terms that enable the reader to better understand the policy
+- Enforcement
+	- Identifies penalties for violating policy
+- Exception
+- 
