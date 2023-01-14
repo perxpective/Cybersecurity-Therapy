@@ -90,7 +90,10 @@
 > 	- Formal structure
 > 	- Can be in electronic format
 
-> - A **policy** is a course or principle of actions adopted or proposed by an organisation or individual
-> - A set of ideas or a plan of what to do in a particular situation that has been agreed to officially by a group of people, an organisation, a government or a political party
-> - Principles, rules and guidelines formulated or adopted by an organisation to reach its long-term goals and typically published in a booklet or other forms that is widely accessible
-> - Plan or course of action as a government, political group
+- A **policy** is a course or principle of actions adopted or proposed by an organisation or individual
+- A set of ideas or a plan of what to do in a particular situation that has been agreed to officially by a group of people, an organisation, a government or a political party
+- Principles, rules and guidelines formulated or adopted by an organisation to reach its long-term goals and typically published in a booklet or other forms that is widely accessible
+- Plan or course of action as a government, political group, business or other organisation intended to influence and determine decisions, actions and other matters
+
+### Information Security Policy
+- Set of mechanisms by which an organisation's information systems 
