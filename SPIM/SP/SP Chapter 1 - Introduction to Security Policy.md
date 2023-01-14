@@ -83,3 +83,12 @@
 	- Principles
 - 1-3 are beyond organisational control
 - 5-12 are not mandatory
+
+> - Focuses on why and what to do and doing the right things
+> 	- rather than how to do and doing things right
+> - Comes in the form of a document:
+> 	- Formal structure
+> 	- Can be in electronic format
+
+> - A **policy** is a course or principle of actions adopted or proposed by an organisation or individual
+> - A set of ideas or a plan of what to do in a particular situation that has been agreed to officially by a group of people, an organisation, a government or a policial par
