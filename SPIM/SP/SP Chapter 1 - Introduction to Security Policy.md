@@ -170,3 +170,13 @@
 - Instruction to carry out a policy
 - Focus on actions and steps
 - What are the general technical requirements for individuals or devices to be compliant with the policy?
+
+### Process vs Procedure
+| Process                                                                                                                                                   | Procedure                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Set of activities or tasks with defined outcomes, deliverables and evaluation criteria to fulfil the requirements of certain policy or part of it thereof | Sequence of small tasks or detailed steps taken to accomplish a certain process or a particular goal |
+
+## Requirement Levels Lexicon
+- Must, Required or Shall - absolute requirement of specification
+- Must not, Shall now - absolute prohibition of the specification
+- Should or Recommend 
