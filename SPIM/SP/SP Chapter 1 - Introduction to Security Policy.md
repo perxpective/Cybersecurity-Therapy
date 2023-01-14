@@ -128,4 +128,15 @@
 		- Do other things just to comply
 - **Concise and Easy to Understand**
 	- For maximum coverage or ability to comply
+	- If not, users may
+		- Misinterpret
+		- Not take the policy seriously
+- **Balance Security with Productivity**
+	- If not, users will
+		- Try to bypass or cheat
+		- Do other things just to comply
+
+### Benefits of Policies
+- <u>Management's involvement</u>
+	- Development of policy includes ancillary benefit of making upper management aware of and involved in information security
 	- 
