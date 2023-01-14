@@ -151,3 +151,5 @@
 ### Second Nature to Risk Management
 - Integrated documented management system needs to be an integral part of the organisation's day-to-day operations
 - When the management system becomes second nature within the business activities, minimises the frequency of dealing with surprises
+
+### Inadequate Documentation
