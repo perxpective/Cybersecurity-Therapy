@@ -118,4 +118,6 @@
 | Philosophy | Organisation's approach towards information security<br>Big umbrella under which all other security mechanisms should fall                                                          |
 | Strategy   | Plan or project plan of security philosophy detailing how the organisation intends to achieve the objectives that are laid out either implicitly or explicitly within the framework |
 | Policies   | Simply rules (do's and don'ts of information security within the framework of the philosophy)                                                                                       |
-| Practices  | The how of the organist                                                                                                                                                                                    |
+| Practices  | The how of the organisation's policy and a practical guide regarding what to do and how to do it                                                                                    |
+
+g
