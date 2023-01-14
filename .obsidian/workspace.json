@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 14  - Buffer Overflow.md"
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +157,9 @@
   },
   "active": "32627537d2b9f0f3",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 11 - Wireless Security.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
-    "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Practical/SMW Practical 3 - Configuring and Managing Resource Access.md",

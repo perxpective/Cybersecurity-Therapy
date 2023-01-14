@@ -44,3 +44,10 @@
 | Requires that organisations examine their complete portfolio of risks and consider how those risk interrelate                                               | The only way an organisation can take a more proactive approach to managing risks   |
 | Requires that management develops an appropriate risk mitigation approach in a manner that is consistent with the organisation's strategy and risk appetite |                                                                                     |
 
+## ISO 31000 - Risk Management
+- Provides a universally recognised paradigm for practitioners and companies employing risk management processes across different industries, subject matters and regions
+
+## Wicked Problem
+- A problem that is difficult to define and has other complicating characteristics that inhibit overarching insights and silver bullet solutions
+- Difficult or impossible to solve because of incomplete, contradictory and changing requirements that are often difficult to recognise
+- Complex interdependencies 
