@@ -110,4 +110,7 @@
 ### Non-Compliance
 - Not the same as policy breakdown/compliance paradox
 - Rule by exception
-- Revisit your policies if there are 
+- Revisit  policies if there are too many exceptions
+
+### Soft Comp
+- 
