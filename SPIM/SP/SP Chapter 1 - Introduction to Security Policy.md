@@ -120,4 +120,12 @@
 | Policies   | Simply rules (do's and don'ts of information security within the framework of the philosophy)                                                                                       |
 | Practices  | The how of the organisation's policy and a practical guide regarding what to do and how to do it                                                                                    |
 
-g
+### Important Attributes of a Policy
+- **Implementable and Enforceable**
+	- If not, users will
+		- Not take policies seriously
+		- Try to bypass or cheat
+		- Do other things just to comply
+- **Concise and Easy to Understand**
+	- For maximum coverage or ability to comply
+	- 
