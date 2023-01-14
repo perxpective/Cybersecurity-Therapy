@@ -177,6 +177,15 @@
 | Set of activities or tasks with defined outcomes, deliverables and evaluation criteria to fulfil the requirements of certain policy or part of it thereof | Sequence of small tasks or detailed steps taken to accomplish a certain process or a particular goal |
 
 ## Requirement Levels Lexicon
-- Must, Required or Shall - absolute requirement of specification
-- Must not, Shall now - absolute prohibition of the specification
+- Must, Required or Shall 
+	- Absolute requirement of specification
+- Must not, Shall now 
+	- Absolute prohibition of the specification
 - Should or Recommend 
+	- There may exist valid reasons in particular circumstances to ignore a particular it
+	- But the implications must be understood and carefully weighted before choosing a different course
+- Should Not or Not Recommended
+	- There may exist particular circumstances when the particular behaviour is acceptable or even useful
+	- But the full implications should be understood and the case carefully weighed before implementing any behaviour described with this label
+- May or Optional
+	- An item is truly optional
