@@ -213,4 +213,5 @@
 - Value of information and/or services, and organisation's commitment to information security
 - Designation of authority to information security officer and security-related personnel in the organisation is as appropriate
 - Principle of accountability states clearly that administrators and users will be held accountable for behaviour that impacts security of the organisation's cyberspace and/or information
-- Principle of individual responsibility of all system users for security of infor
+- Principle of individual responsibility of all system users for security of information resources
+- Organisation's approach to information security reviews
