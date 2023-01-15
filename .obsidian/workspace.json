@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md"
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BED/BED Chapter 7 - Authentication and Authorization.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +170,7 @@
   },
   "active": "24911e4c871a4df6",
   "lastOpenFiles": [
+    "BED/BED Chapter 7 - Authentication and Authorization.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
@@ -177,7 +179,6 @@
     "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 11 - Wireless Security.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
-    "EHD/Practical/EHD Practical 12 - Decompiling.md",
-    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
+    "EHD/Practical/EHD Practical 12 - Decompiling.md"
   ]
 }
