@@ -1,6 +1,6 @@
 # EHD Topic 14 - Buffer Overflow
 
-###### tags: #EHD 
+###### tags: #EHD #Theory 
 
 ## Table of Contents
 ```toc
