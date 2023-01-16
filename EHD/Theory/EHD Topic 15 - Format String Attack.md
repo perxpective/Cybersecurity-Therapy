@@ -41,9 +41,13 @@ int main(int argc, char *argv[])
 ```
 ./formatit %x.%x.%x.%x.%x.%x.%x.%x
 ```
-- Using Perl or Python can help
+- Using Perl or Python can help make this process easier
 ```
 ./formatit $(perl -e 'print("%x." x 8)')
 ./formatit $(python -c 'print("%x." * 8)')
 ```
-- 
+- Perl and Python can also print any character using its ASCII code by using `\xNN` where `NN` is the ASCII code of the character in hexadecimal
+```
+./formatit $(perl -e 'print("%x." x 4, "\x61\x62")')
+./formatit $(python -c 'print("%x." ** 4 + chr(0x61)')
+```
