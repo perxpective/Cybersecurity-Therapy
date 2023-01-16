@@ -51,3 +51,19 @@ int main(int argc, char *argv[])
 ./formatit $(perl -e 'print("%x." x 4, "\x61\x62")')
 ./formatit $(python -c 'print("%x." ** 4 + chr(0x61)')
 ```
+
+## Reading the Stack
+- If the stack looks like this:
+```
+18 44 f9 77 c2 44 f9 77 
+```
+- Then `formatit hello,%x,%x` would return the following:
+```
+# returns the first two words in the stack (little endian order is used)
+hello,77f94418,77f944c2
+```
+- Potentially, it can read the entire stack
+- Can find sensitive information such as passwords, keys which can also be found in the stack
+
+## Crashing the Application
+- If running
