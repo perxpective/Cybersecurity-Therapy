@@ -66,4 +66,16 @@ hello,77f94418,77f944c2
 - Can find sensitive information such as passwords, keys which can also be found in the stack
 
 ## Crashing the Application
-- If running
+- If running `formatit hello,%x,%x,%x`, it returns the following:
+```
+77f94418,77f944c2,0012fe10
+```
+- Application can be crashed by reading the memory content pointed to by the address in the stack
+```
+formatit %s%s%s
+```
+- This will attempt to read the memory pointed by `77f94418, 77f944c,0012fe10`
+- Application will crash as access to memory address to `0012fe10` is prohibited
+
+## Writing to Stack
+- `%n` writes the number of characters formatted by the `printf` function to the specified memory address
