@@ -79,3 +79,8 @@ formatit %s%s%s
 
 ## Writing to Stack
 - `%n` writes the number of characters formatted by the `printf` function to the specified memory address
+```
+formatit %x_%x_%n
+```
+- prints the following output: `80000_6f38c_` (only 12 characters or `0c` in hexadecimal)
+- The value of `0c` will be written to the address `0x7ffdf000`
