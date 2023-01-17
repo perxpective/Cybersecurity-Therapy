@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md"
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,10 +182,10 @@
   },
   "active": "d58288765e31169e",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "EHD/Theory/EHD Topic 10 - Metasploit.md",
-    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "EHD/Theory/EHD Topic 11 - Wireless Security.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
