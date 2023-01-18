@@ -42,4 +42,16 @@ Based on the following:
 	- **Phase 2**
 		- Determining the secret keying material
 		- To secure network communication
-		- Related to the Filter Action setting of the associate UP
+		- Related to the Filter Action setting of the associate IPSec rule
+
+## IP Security Implementation
+- When IPSec communication begins between two computers:
+	- Computers first negotiate using the IKE module and authenticate between the receiver and sender
+	- Extra hashing scheme will help ensure data integrity at packet header
+	- Data is encrypted with integrity check at the NIC of sending the computer as it is formatted into an IP packet
+- IPSec can provide security for all TCP/IP-based applications and communication protocols
+- IPSec Security Policy
+	- Established through the Group Policy in the Active Directory
+	- Can also be configured through the IP Security Policies MMC snap-in
+- <u>Windows Firewall Advanced Security Rule</u>
+	- IPSec s
