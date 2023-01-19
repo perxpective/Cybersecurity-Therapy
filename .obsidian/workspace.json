@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,11 +182,11 @@
   },
   "active": "a969aa6ad58ee71b",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
-    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
