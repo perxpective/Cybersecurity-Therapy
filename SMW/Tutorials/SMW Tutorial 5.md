@@ -29,6 +29,11 @@
 	- Secure communication between different networks e.g. corporate and partner's network to prevent unauthorized access and protect confidential data from being intercepted when sharing between company partners
 	- Secure communication between IoT devices e.g. industrial control systems and medical devices
 	- Secure communication between cloud and on-premises environments to prevent access to data stored in the cloud
-- ****
+- **Would you explain the following IPSec packet transformation?**
+	- Following IPSec packet transformation done through Authentication Header (AH) using Transport Mode
+	- In the original packet, it contains the original IP header, TCP/UDP and data
+	- After going through AH via Transport Mode, an Authentication Header is added between the original IP header and TCP/UDP
+	- This ensures that authentication of the current IPSec packet can read the data in plaintext
+	- Authenticated 
 
 ## Nano Test Questions and Answers
