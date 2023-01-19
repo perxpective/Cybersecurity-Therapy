@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2dcf64020bd8571",
+        "id": "17c920eb29ccc79d",
         "type": "tabs",
         "children": [
           {
-            "id": "d58288765e31169e",
+            "id": "d1ebc7fb47872df2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d8ae988e1f60845",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
+                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,11 +154,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d8ae988e1f60845",
+  "active": "d1ebc7fb47872df2",
   "lastOpenFiles": [
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
