@@ -14,8 +14,14 @@
 	- Enables administrators to manage server computers and workstation computers separately
 - **Would you briefly describe the relationship or difference between the following list of items?**
 	- <u>IKE authentication and AH authentication</u>
-		- 
+		- IKE authentication is used to establish a secure connection between two devices, such as a VPN (Virtual Private Network) client and server. It is used to authenticate the identity of the devices and to negotiate the security parameters for the connection. 
+		- AH authentication is a component of IPSec that provides integrity and authenticity verification for IP packets. It authenticates the origin of the packets, but does not encrypt the data.
 	- <u>IPSec filter and IPSec rule</u>
+		- An IPSec filter is a set of conditions that determine whether or not a packet should be secured using IPSec. A filter can be based on the source IP address, destination IP address, protocol, or other criteria. 
+		- An IPSec rule is a set of instructions that specify how a packet that matches an IPSec filter should be handled. A rule can be used to encrypt the packet, authenticate the packet, or both.
 	- <u>IPSec policies and group policies</u>
+		- An IPSec policy is a set of rules and filters that determine how IPSec should be used to secure network traffic. A group policy is a set of instructions that control how Windows machines in an Active Directory domain behave. 
+		- Group policies can be used to configure IPSec policies on Windows machines, so that they automatically use the desired level of security when communicating with other machines on the network.
+- **Would you describe and explain one possible but not recommended usage of IPSec?**
 
 ## Nano Test Questions and Answers
