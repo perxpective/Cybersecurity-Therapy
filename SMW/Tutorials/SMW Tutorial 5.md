@@ -24,6 +24,11 @@
 		- Group policies can be used to configure IPSec policies on Windows machines, so that they automatically use the desired level of security when communicating with other machines on the network.
 - **Would you describe and explain one possible but not recommended usage of IPSec?**
 - **Would you identify and explain a couple of scenarios that the IPSec implementation can be helpful in terms of tightening the network security?**
-	- Virtual Private 
+	- Virtual Private Networks (VPN) connections to secure connections from remote devices and a private network over the public internet
+		- By encrypting all traffic between the remote device and the private network, IPSec can prevent eavesdropping and protect sensitive data from being intercepted
+	- Secure communication between different networks e.g. corporate and partner's network to prevent unauthorized access and protect confidential data from being intercepted when sharing between company partners
+	- Secure communication between IoT devices e.g. industrial control systems and medical devices
+	- Secure communication between cloud and on-premises environments to prevent access to data stored in the cloud
+- ****
 
 ## Nano Test Questions and Answers
