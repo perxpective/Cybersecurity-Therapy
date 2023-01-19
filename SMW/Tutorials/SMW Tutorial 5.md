@@ -23,5 +23,6 @@
 		- An IPSec policy is a set of rules and filters that determine how IPSec should be used to secure network traffic. A group policy is a set of instructions that control how Windows machines in an Active Directory domain behave. 
 		- Group policies can be used to configure IPSec policies on Windows machines, so that they automatically use the desired level of security when communicating with other machines on the network.
 - **Would you describe and explain one possible but not recommended usage of IPSec?**
+	- 
 
 ## Nano Test Questions and Answers
