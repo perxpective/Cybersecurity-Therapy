@@ -54,4 +54,4 @@ Based on the following:
 	- Established through the Group Policy in the Active Directory
 	- Can also be configured through the IP Security Policies MMC snap-in
 - <u>Windows Firewall Advanced Security Rule</u>
-	- IPSec s
+	- Provides more IKE authentication options and AES encryption support
