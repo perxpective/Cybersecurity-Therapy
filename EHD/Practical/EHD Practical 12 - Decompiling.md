@@ -1,6 +1,6 @@
 # EHD Practical 12 - Decompiling
 
-###### tags:: #EHD 
+###### tags: #EHD 
 
 ## Table of Contents
 ```toc
