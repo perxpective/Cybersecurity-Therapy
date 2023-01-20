@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md"
+                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +181,9 @@
   },
   "active": "a969aa6ad58ee71b",
   "lastOpenFiles": [
+    "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
-    "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
