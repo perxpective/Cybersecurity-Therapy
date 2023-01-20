@@ -130,3 +130,13 @@ localStorage.removeItem("jwt_token")
 ```
 
 ## Session Management
+| JSON Web Tokens                           | Session Cookies                                    |
+| ----------------------------------------- | -------------------------------------------------- |
+| Client retains authentication information | Both server and client retains session information |
+| Immune to CSRF attacks                    | Vulnerable to CSRF attacks                         |
+| Difficult to invalidate current token     | Easy to destroy session                            |
+| Truly stateless REST endpoint             | REST endpoints state based                         |
+
+### CSRF Attacks
+- Allows an attacker to induce users to perform actions that they do not intend to perform on a web service they are already authenticated to
+- Make 
