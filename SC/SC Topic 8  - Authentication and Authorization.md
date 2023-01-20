@@ -18,10 +18,26 @@
 - Each of those segments are separate by a single period
 - All three segments are Base 64 encoded
 
+**Installation**
+```
+npm install --save jsonwebtoken
+```
+
 ### JWT Header
 - Comprises of the algorithm used and the token type
 ```json
 {"alg": "HS256", "typ":"JWT"}
 ```
 
-### JWT 
+### JWT Payload (JWT)
+- Contains the user defined information
+```json
+{"name":"lachelle"}
+```
+
+### JWT Signature
+- Cryptographically produced hash of the earlier segments
+
+## Writing Express Middleware
+```
+```
