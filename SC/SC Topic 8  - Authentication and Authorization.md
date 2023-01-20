@@ -158,8 +158,11 @@ Accept-Language: en
 - HTTPS uses TLS (Transport Layer Security) or SSL (Secure Sockets Layer) to cryptographically secure text
 
 ## Hashing vs Encryption
-| Hashing                                                       | Encryption |
-| ------------------------------------------------------------- | ---------- |
-| One way function where data is mapped to a fixed length value |            |
-| Primarily used for authenticaiton                             |            |
-|                                                               |            |
+| Hashing                                                                                                                  | Encryption                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| One way function where data is mapped to a fixed length value                                                            | Two-way function where information is scrambled such that it can be unscrambled later |
+| Primarily used for authentication                                                                                        |                                                                                       |
+| Salting is an additional step to add an additional value to the end of the password that changes the hash value produced |                                                                                       |
+
+### Password Hashing
+- Algorithm
