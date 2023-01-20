@@ -34,6 +34,5 @@
 	- In the original packet, it contains the original IP header, TCP/UDP and data
 	- After going through AH via Transport Mode, an Authentication Header is added between the original IP header and TCP/UDP
 	- This ensures that authentication of the current IPSec packet can read the data in plaintext
-	- Authenticated 
 
 ## Nano Test Questions and Answers
