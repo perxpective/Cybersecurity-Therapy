@@ -70,3 +70,55 @@ function verifyToken(req, res, next) {
 }
 ```
 
+### Restricted API Controller
+```js
+app.get('/users', verifyToken, (req, res) => {
+    if (!req.decodedToken.role !== 'admin')
+        return res.status(403)
+            .send({ message: 'you dont have sufficient permissions' });
+
+    // handle processing
+
+    res.status(200).send({ users });
+});
+```
+
+### Using Front-End JavaScript
+**Login HTML**
+```js
+var xhr = new XMLHttpRequest();
+xhr.open('POST', '/login', true);
+xhr.setRequestHeader('Content-Type’, ‘application/x-www-form-urlencoded’);
+
+xhr.onload = function () {
+    if (this.readyState === XMLHttpRequest.DONE) {
+        let response = JSON.parse(this.response);
+        let msg = document.getElementById('msg');
+
+        if (this.status === 200) {
+            localStorage.setItem('jwt_token', response.token);
+            msg.innerHTML = `You have logged in!`;
+        } else {
+            msg.innerHTML = `Error: ${response.message}`;
+        }
+    }
+};
+
+xhr.send(`username=${username}&password=${password}`);
+```
+
+**Viewing Restricted Content**
+```js
+let token = localStorage.getItem('jwt_token');var xhr = new XMLHttpRequest();
+xhr.open(‘GET', '/api/users', true);
+xhr.setRequestHeader(‘Authorization’, `Bearer ${jwt_token}`);
+
+xhr.onload = function () {
+    if (this.readyState === XMLHttpRequest.DONE) {
+        let response = JSON.parse(this.response);
+        // handle response
+    }
+};
+
+xhr.send();
+```
