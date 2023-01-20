@@ -194,6 +194,6 @@ mystr += mykey.final('hex');
 ```js
 var crypto = require('crypto');
 var mykey = crypto.createDecipher('aes-128-cbc', 'mypassword');
-var mystr = mykey.update(EncryptedString, 'hex', 'utf8')
-ystr += mykey.final('utf8');
+var mystr = mykey.update(EncryptedString, 'hex', 'utf8')
+mystr += mykey.final('utf8');
 ```
