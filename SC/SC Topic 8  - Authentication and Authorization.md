@@ -39,5 +39,14 @@ npm install --save jsonwebtoken
 - Cryptographically produced hash of the earlier segments
 
 ## Writing Express Middleware
-```
+### Login Controller
+```js
+app.post("/", (req, res) => {
+	let { username, password } = req.body
+	user.verifyLogin(username, password, (err, user) => {
+		if (err) return res.status(500).send({"message":"an error occurred"})
+		if (!user) return res.status(401).send({"message":"user not authenticated"})
+		jwt.sign(user, config.jwt.secret)
+	})
+})
 ```
