@@ -144,4 +144,22 @@ localStorage.removeItem("jwt_token")
 ![](https://i.imgur.com/NC0fu7G.png)
 
 ## JWT Theft and Hijacking
-- 
+- HTTP packets are a standard of communicating information
+- Information is sent in plaintext such that an attacker listening to network traffic may sniff out information
+
+```
+GET /hello.txt HTTP/1.1
+User-Agent: curl/7.63.0 libcurl/7.63.0 OpenSSL/1.1.l zlib/1.2.11
+Host: www.example.com
+Accept-Language: en
+```
+
+**Secure Channels**
+- HTTPS uses TLS (Transport Layer Security) or SSL (Secure Sockets Layer) to cryptographically secure text
+
+## Hashing vs Encryption
+| Hashing                                                       | Encryption |
+| ------------------------------------------------------------- | ---------- |
+| One way function where data is mapped to a fixed length value |            |
+| Primarily used for authenticaiton                             |            |
+|                                                               |            |
