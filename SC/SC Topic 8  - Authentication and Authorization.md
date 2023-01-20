@@ -165,4 +165,12 @@ Accept-Language: en
 | Salting is an additional step to add an additional value to the end of the password that changes the hash value produced |                                                                                       |
 
 ### Password Hashing
-- Algorithm
+- Algorithm Password Hashing
+	- Generate a long random string (salt)
+	- Append the salt to the password
+	- Hash the string from step 2 using a strong hash function
+	- Save the salt and the hash in the user's database record
+
+```js
+bcrypt.hash()
+```
