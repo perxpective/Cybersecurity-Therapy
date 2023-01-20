@@ -46,7 +46,27 @@ app.post("/", (req, res) => {
 	user.verifyLogin(username, password, (err, user) => {
 		if (err) return res.status(500).send({"message":"an error occurred"})
 		if (!user) return res.status(401).send({"message":"user not authenticated"})
-		jwt.sign(user, config.jwt.secret)
+		jwt.sign(user, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
+			if (err) return res.status(500).send({message: "an error occurred"})
+			res.status(200).send({token})
+		})
 	})
 })
 ```
+
+### Authentication Middleware
+```js
+function verifyToken(req, res, next) {
+	let auth = req.headers.authorization;
+    const authHeader = req.headers.authorization;
+    if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
+
+    const token = authHeader.replace('Bearer ', '');
+    jwt.verify(token, config.jwt.secret, { algorithms: ['HS256'] }, (err, decoded) => {
+	    if (err) return res.status(401).send({ message: 'not authenticated' });
+        req.decodedToken = decoded;
+        next();
+    });
+}
+```
+
