@@ -172,5 +172,28 @@ Accept-Language: en
 	- Save the salt and the hash in the user's database record
 
 ```js
-bcrypt.hash()
+bcrypt.hash(password, saltRounds, function(err, hash) {
+	...
+})
+
+bcrypt.compare(password, hashPassword, function(err, success) {
+	...
+})
+```
+
+## Crypto Library NodeJS
+- Encryption
+```js
+var crypto = require('crypto');
+var mykey = crypto.createCipher('aes-128-cbc', 'mypassword');
+var mystr = mykey.update(stringToEncrypt, 'utf8', 'hex')
+mystr += mykey.final('hex');
+```
+
+- Decryption
+```js
+var crypto = require('crypto');
+var mykey = crypto.createDecipher('aes-128-cbc', 'mypassword');
+var mystr = mykey.update(EncryptedString, 'hex', 'utf8')
+ystr += mykey.final('utf8');
 ```
