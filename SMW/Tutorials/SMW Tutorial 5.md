@@ -11,7 +11,7 @@
 	- Automatic synchronization: allows administrators to schedule a certain time or interval to perform update synchronizations
 	- Manual synchronization: allows administrators to manually synchronize updates at any point of time
 - **Briefly describe one advantage of defining computer groups in the WSUS management console**
-	- Enables administrators to manage server computers and workstation computers separately
+	- Enables administrators to manage server computers and workstation computers separately to specify updates
 - **Would you briefly describe the relationship or difference between the following list of items?**
 	- <u>IKE authentication and AH authentication</u>
 		- IKE authentication is used to establish a secure connection between two devices, such as a VPN (Virtual Private Network) client and server. It is used to authenticate the identity of the devices and to negotiate the security parameters for the connection. 
