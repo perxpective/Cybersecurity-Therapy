@@ -139,4 +139,9 @@ localStorage.removeItem("jwt_token")
 
 ### CSRF Attacks
 - Allows an attacker to induce users to perform actions that they do not intend to perform on a web service they are already authenticated to
-- Make 
+- Make use of automated sending session cookies by web browsers to bypass the same origin policy designed to prevent web servers from interfacing with one another
+
+![](https://i.imgur.com/NC0fu7G.png)
+
+## JWT Theft and Hijacking
+- 

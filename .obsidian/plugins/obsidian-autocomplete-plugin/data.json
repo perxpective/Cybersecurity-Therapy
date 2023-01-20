@@ -7,7 +7,7 @@
   "latexProvider": false,
   "flowProvider": true,
   "flowProviderScanCurrent": true,
-  "flowProviderTokenizeStrategy": "default",
+  "flowProviderTokenizeStrategy": "japanese",
   "flowWordSeparators": {
     "default": "~?!@#$%^&*()-=+[{]}|;:' \",.<>/",
     "arabic": "~?!@#$%^&*()-=+[{]}|;:' \",.<>/،؛",
