@@ -109,7 +109,8 @@ xhr.send(`username=${username}&password=${password}`);
 
 **Viewing Restricted Content**
 ```js
-let token = localStorage.getItem('jwt_token');var xhr = new XMLHttpRequest();
+let token = localStorage.getItem('jwt_token');
+var xhr = new XMLHttpRequest();
 xhr.open(‘GET', '/api/users', true);
 xhr.setRequestHeader(‘Authorization’, `Bearer ${jwt_token}`);
 
@@ -122,3 +123,10 @@ xhr.onload = function () {
 
 xhr.send();
 ```
+
+**Logging Out**
+```js
+localStorage.removeItem("jwt_token")
+```
+
+## Session Management
