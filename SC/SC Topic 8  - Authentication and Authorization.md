@@ -19,4 +19,9 @@
 - All three segments are Base 64 encoded
 
 ### JWT Header
-- 
+- Comprises of the algorithm used and the token type
+```json
+{"alg": "HS256", "typ":"JWT"}
+```
+
+### JWT 
