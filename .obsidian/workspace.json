@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md"
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,10 +168,10 @@
   },
   "active": "d1ebc7fb47872df2",
   "lastOpenFiles": [
-    "SMW/Tutorials/SMW Tutorial 3.md",
-    "SMW/Tutorials/SMW Tutorial 5.md",
-    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+    "SMW/Tutorials/SMW Tutorial 5.md",
+    "SMW/Tutorials/SMW Tutorial 3.md",
+    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
