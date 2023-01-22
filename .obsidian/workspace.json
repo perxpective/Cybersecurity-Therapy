@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 5 - Logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 5 - Logging.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md"
+                "file": "SC/SC Topic 5 - Logging.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 5 - Logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +181,8 @@
   },
   "active": "e3a29ab83e803b38",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
+    "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/I.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
