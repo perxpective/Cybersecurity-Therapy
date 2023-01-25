@@ -61,4 +61,3 @@ Based on the following:
 - Do not deploy IPSec if security it provides is not required
 - **Impacts of IPSec**
 	- Time needed to establish IPSec connection
-	- T
