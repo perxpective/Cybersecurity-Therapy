@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "SMW/Tutorials/SMW Tutorial 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 5 - Logging.md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -179,17 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "400077f6a239a89b",
+  "active": "e3a29ab83e803b38",
   "lastOpenFiles": [
+    "SC/SC Topic 5 - Logging.md",
+    "SC/SC Topic 7 - Preventing SQL Injections.md",
+    "SMW/Tutorials/SMW Tutorial 5.md",
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
-    "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
-    "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/I.md",
     "EHD/Practical/Vim Keymap.md",
-    "EHD/Practical/EHD Practical 10 - Metasploit.md",
-    "SMW/Tutorials/SMW Tutorial 5.md",
-    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
+    "EHD/Practical/EHD Practical 10 - Metasploit.md"
   ]
 }
