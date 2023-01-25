@@ -55,3 +55,10 @@ Based on the following:
 	- Can also be configured through the IP Security Policies MMC snap-in
 - <u>Windows Firewall Advanced Security Rule</u>
 	- Provides more IKE authentication options and AES encryption support
+
+## Weighing IPSec Trade-Offs
+- Deploying IPSec can affect network performance and compatibility with other services and applications
+- Do not deploy IPSec if security it provides is not required
+- **Impacts of IPSec**
+	- Time needed to establish IPSec connection
+	- T
