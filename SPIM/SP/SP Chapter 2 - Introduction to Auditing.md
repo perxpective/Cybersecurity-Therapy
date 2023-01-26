@@ -51,4 +51,4 @@
 - Feedback for improvement or finding and fixing any policy, service or asset
 - Risk Management and mitigation
 - Due intelligence
-- Business movin
+- Business forward planning, interim status report
