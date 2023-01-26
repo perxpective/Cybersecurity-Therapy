@@ -59,4 +59,19 @@
 | Independent appraisal function established within an organisation to examine and evaluate its activities as a service to the organisation | Objective is that in all material aspects, statements are a fair representation of the organisation            |
 | Financial Audits, Operational Audits, Fraud Audits, IT Audits, Compliance Audits                                                          | Compliance with SGX requirements, IRAS and ACRA requirements, IRAS and ROS requirements and Sarbanes Oxley Act |
 
-## 
+## Generally Accepted Auditing Standards
+**General Standards**
+- Auditor must have adequate technical training and proficiency
+- Auditor must have independence of mental attitude
+- Auditor must exercise due professional care in the performance of the audit and preparation of the report
+
+**Standards for Field Work**
+- Audit work must be adequately planned
+- Auditor must gain a sufficient understanding of the internal control structure
+- Auditor must obtain sufficient and competent evidence
+
+**Reporting Standards**
+- Auditor must state in the report where statements were prepared in accordance with generally accepted principles
+- Report must identify those circumstances in which generally accepted principles are not applied
+- Report must identify any items that do not have adequate informative disclosures
+- Report shall contain an expression of the auditor's opinion on the statements as a whole
