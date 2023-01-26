@@ -38,3 +38,9 @@
 - Identify where changes to business processes is required
 - To test the effectiveness and stability of the management system in achieving the stated business and quality objectives of the organisation
 
+> - Auditing is a management tool and a problem-solving process
+> - Auditor's function is to provide unbiased information to management for decision-making
+> - Audits must be carried out by staff with no direct responsibility in the area being audited
+
+## Ultimate Purpose of Auditing
+
