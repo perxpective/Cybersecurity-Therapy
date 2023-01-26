@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md"
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,12 +156,12 @@
   },
   "active": "3c40d035257f5c88",
   "lastOpenFiles": [
+    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+    "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
     "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/Vim Keymap.md",
-    "SPIM/SP/SP Chapter 2 - Introduction to Audit.md",
-    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
