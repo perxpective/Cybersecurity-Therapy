@@ -13,3 +13,21 @@
 ## Definition and Characteristics of Auditing
 > **Auditing** is a systematic process of objectively obtaining evaluation evidence regarding assertions about actions and events to ascertain the degree of correspondence between those assertions and establishing criteria and communicating the results to interested users
 
+<u>Six characteristics of auditing:</u>
+- Systematic
+- Objective
+- Evidence
+- Assertions and Criteria
+- Ascertain
+- Communicate
+
+<u>Five primary management assertions and correlated audit objectives and procedures:</u>
+- Existence or Occurrence
+- Completeness
+- Rights and Obligations
+- Valuation or Allocation
+- Presentation and Disclosure
+
+## Reasons For Audit
+- Management monitoring and evaluation technique providing feedback about the status of organisational processes important to the successes of a business or organisation
+
