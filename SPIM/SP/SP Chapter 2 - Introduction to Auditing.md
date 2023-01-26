@@ -11,3 +11,4 @@
 - Basis of reference of an audit is the policy
 
 ## Definition and Characteristics of Auditing
+> **Auditing** is a systematic process of objectively obtaining 
