@@ -43,4 +43,12 @@
 > - Audits must be carried out by staff with no direct responsibility in the area being audited
 
 ## Ultimate Purpose of Auditing
-
+- For the betterment of quality of business, organisation and assets
+	- Productivity
+	- Efficiency
+	- Integrity of processes, services and assets
+	- Ensuring credibility of the organisation, services, systems and information
+- Feedback for improvement or finding and fixing any policy, service or asset
+- Risk Management and mitigation
+- Due intelligence
+- Business movin
