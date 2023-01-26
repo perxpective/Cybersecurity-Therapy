@@ -35,5 +35,6 @@
 - Improve morale within an organisation
 - Determine how effectively the organisation is achieving its stated business and quality objectives
 - Gather and analyse information upon which to make factual judgements
-- Identify where changes to business
+- Identify where changes to business processes is required
+- To test the effectiveness and stability of the management system in achieving the stated business and quality objectives of the organisation
 
