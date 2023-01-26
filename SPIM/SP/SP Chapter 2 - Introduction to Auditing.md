@@ -30,4 +30,6 @@
 
 ## Reasons For Audit
 - Management monitoring and evaluation technique providing feedback about the status of organisational processes important to the successes of a business or organisation
+- Enable top management to obtain assurance and comfort that the company is in change of and adequately handling its management responsibilities
+- Improve existing business processes and activities
 
