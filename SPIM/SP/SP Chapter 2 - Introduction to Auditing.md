@@ -52,3 +52,11 @@
 - Risk Management and mitigation
 - Due intelligence
 - Business forward planning, interim status report
+
+## Types of Audit
+| Internal Audit                                                                                                                            | External Audit                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Independent appraisal function established within an organisation to examine and evaluate its activities as a service to the organisation | Objective is that in all material aspects, statements are a fair representation of the organisation            |
+| Financial Audits, Operational Audits, Fraud Audits, IT Audits, Compliance Audits                                                          | Compliance with SGX requirements, IRAS and ACRA requirements, IRAS and ROS requirements and Sarbanes Oxley Act |
+
+## 
