@@ -18,7 +18,27 @@
 - Long - 8 bytes
 
 ## Overflow in Unsigned Integer
-```
-size of num1 = 2 bytes
-size of good_num1 = 4 bytes
-```
+![](https://i.imgur.com/HMlFXoW.png)
+
+
+## 2's Complement System
+- Allows representation of negative numbers
+- **Example:**
+	- 2's complement of 4-bit binary
+	- 1110 -> 0001 (1's complement)
+	- 0001 + 1 = 0010 (2 in decimal)
+	- Hence 1110 = -2
+
+### Wraparound Effects
+| 2's complement | Decimal |
+| -------------- | ------- |
+| 0111           | 7       |
+| 0010           | 2       |
+| 0001           | 1       |
+| 0000           | 0       |
+| 1111           | -1      |
+| 1110           | -2      |
+| 1000           | -8      |
+
+![](https://i.imgur.com/xTUDQLO.png)
+
