@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d17cd89a9a1d7f63",
+        "id": "7e228028175302cb",
         "type": "tabs",
         "children": [
           {
-            "id": "400077f6a239a89b",
+            "id": "3c40d035257f5c88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40eeaa73b41d2e68",
+            "id": "148c8626a2b2ae91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "file": "EHD/Theory/EHD Topic 15 - Format String Attack.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3a29ab83e803b38",
+            "id": "ea296f01451a26ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md"
+                "file": "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Tutorials/SMW Tutorial 5.md",
+                "file": "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,17 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "400077f6a239a89b",
+  "active": "ea296f01451a26ea",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
+    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
+    "EHD/Practical/Vim Keymap.md",
+    "SPIM/SP/SP Chapter 2 - Introduction to Audit.md",
+    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-    "SC/SC Topic 5 - Logging.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
-    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
-    "EHD/Practical/EHD Practical 12 - Decompiling.md",
-    "SC/SC Topic 8  - Authentication and Authorization.md",
-    "SC/I.md",
-    "EHD/Practical/Vim Keymap.md",
-    "EHD/Practical/EHD Practical 10 - Metasploit.md"
+    "SC/SC Topic 5 - Logging.md",
+    "EHD/Practical/EHD Practical 12 - Decompiling.md"
   ]
 }
