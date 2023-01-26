@@ -75,3 +75,21 @@
 - Report must identify those circumstances in which generally accepted principles are not applied
 - Report must identify any items that do not have adequate informative disclosures
 - Report shall contain an expression of the auditor's opinion on the statements as a whole
+
+## IT Audit
+- Provide audit services where processes or data or both are embedded in technologies
+	- Subject to ethics, standards and guidelines
+	- Scope of IT audit coverage is increasing
+	- IT governance is becoming part of corporate governance
+
+**Two types of IT Audit**
+| General Audit                                                                    | Security Audit                                                                            |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Ensure proper and efficient use of IT resources in line with business objectives | To ensure IT has adequate and proper safeguards, practices and policies to minimise risks |
+| No wastage or misuse                                                             | Protection of assets, data, systems and services                                          |
+
+### Internal vs External Audit
+| Internal Audit                                        | External Audit                            |
+| ----------------------------------------------------- | ----------------------------------------- |
+| Done by one or more staff members of the organisation | Done by independent professional auditors |
+| Internal audit team imposes                                                      |                                           |
