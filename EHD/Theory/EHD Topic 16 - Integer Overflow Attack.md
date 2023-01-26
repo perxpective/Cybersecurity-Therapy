@@ -42,3 +42,8 @@
 
 ![](https://i.imgur.com/xTUDQLO.png)
 
+## Effects of Integer Overflow
+- May happen when performing arithmetic operations
+- Crashing of application (dividing by zero)
+- Escalation of privileges
+- Buying items from e-commerce websites for negative prices
