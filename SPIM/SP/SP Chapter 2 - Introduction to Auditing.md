@@ -89,7 +89,11 @@
 | No wastage or misuse                                                             | Protection of assets, data, systems and services                                          |
 
 ### Internal vs External Audit
-| Internal Audit                                        | External Audit                            |
-| ----------------------------------------------------- | ----------------------------------------- |
-| Done by one or more staff members of the organisation | Done by independent professional auditors |
-| Internal audit team imposes                                                      |                                           |
+| Internal Audit                                        | External Audit                                                                                                      |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Done by one or more staff members of the organisation | Done by independent professional auditors                                                                           |
+| Internal audit team imposes independence on self      | Independence defined by government, standard or industry                                                            |
+| Broad scope of audit                                  | Required by government for public-listed companies and large private companies above a certain annual revenue level |
+| Represents the interest of the organisation           | Represents the interest of outsiders                                                                                |
+| May be a preparation for external audit               | Standards, guidelines, certifications governed by national or industry authorities                                  |
+
