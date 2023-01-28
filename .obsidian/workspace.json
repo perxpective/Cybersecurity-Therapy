@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md"
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,12 +167,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "690eee9590cf8b4b",
+  "active": "3c40d035257f5c88",
   "lastOpenFiles": [
+    "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
     "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "EHD/Theory/EHD Topic 15 - Format String Attack.md",
-    "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/Vim Keymap.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
