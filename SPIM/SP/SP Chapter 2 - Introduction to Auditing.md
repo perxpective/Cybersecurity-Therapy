@@ -195,4 +195,25 @@
 - Integrity and ethical values of management
 - Structure of the organisation
 - Participation of the organisation's board of directors and audit committee
-- 
+- Management's philosophy and operating style
+- Procedures for delegating responsibility and authority
+- Management's methods for assessing performance
+- External influences
+- Organisation's policies and practices
+
+### Techniques Used to Understand a Control Environment
+- Understand the client's business and industry
+- Describe the possible activities or tool for each control
+- Study the organisation structure
+- Determine if the board and audit committee are actively involved
+- Assess the integrity of the organisation's management
+- Conditions conducive to management fraud
+
+### The IT Environment
+- There has always been a need for an effective internal control system
+- Design and oversight of that system has been typically been the responsibility of accountants
+- IT environment complicates the paper systems of the past:
+	- Concentration of data
+	- Expanded access and linkages
+	- Increase in malicious activities in system compared to paper
+	- Opportunity that ca
