@@ -108,4 +108,28 @@
 
 ### Audit Programme Objectives
 - Top management of should ensure that the audit programme objectives are established to direct the planning and conduct of audits and should ensure the audit programmes is implemented effectively
-- Audit programme objectives hosu
+- Audit programme objectives should be consistent with and support management system policy and objectives
+- **Examples**
+	- Contribute to the improvement of a management system and its performance
+	- Fulfil external requirements e.g. certification to management system standard
+	- Verify conformity with contractual requirements
+	- Obtain and maintain confidence in the capability of a supplier
+	- Determine the effectiveness of the management system
+	- Evaluate the compatibility and alignment of the management system objectives with the management
+	- System policy and the overall organisational objectives
+
+### Audit Programme Components
+- Objectives
+- Scope
+	- Incumbent Policy Documents and any other relevant documents
+	- Previous audit reports
+	- Statement of applicability
+	- Exceptions
+	- Standards
+	- Sampling (if any)
+- Plan
+- Logistics
+	- Meeting dates, time and with whom
+	- Facilities
+- Timing
+	- Start date, end date, 
