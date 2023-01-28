@@ -266,6 +266,27 @@
 
 ![](https://i.imgur.com/M34lSWu.png)
 
-- Independent Verification
+- **Independent Verification**
 	- Management can assess performance of individuals, integrity of the data in records
-- Transactional Authori
+- **Transactional Authorisation**
+	- Sales only to authorised customers
+- **Segregation of Duties**
+	- Principle: fraud requires collusion
+	- Four Eyes Principle
+	- Separate various steps in process
+	- Incompatible duties
+		- Authorization vs Processing
+		- Custody vs Recordkeeping
+- **Supervision**
+	- Serves as compensating control when lack of segregation of duties exists by necessity
+- **Accounting Records**
+- **Access Controls**
+	- Direct
+	- Indirect
+	- Disaster Recovery
+
+#### SOX
+- <u>Management Assessment of Internal Control</u>
+	- Management is responsible for establishing and maintaining internal control structure and procedures
+	- Must certify by report on the effectiveness of internal control each year, with other annual reports
+	- 
