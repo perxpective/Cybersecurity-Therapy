@@ -192,3 +192,7 @@
 	- Predictive Controls
 
 ### Elements of an Control Environment
+- Integrity and ethical values of management
+- Structure of the organisation
+- Participation of the organisation's board of directors and audit committee
+- 
