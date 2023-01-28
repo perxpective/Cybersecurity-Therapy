@@ -132,4 +132,25 @@
 	- Meeting dates, time and with whom
 	- Facilities
 - Timing
-	- Start date, end date, 
+	- Start date, end date, expected duration, milestones and interim meetings
+	- Visit to different sites (expected date, time and duration)
+	- Draft final report meeting
+	- Interim and final reports, presentations and expected dates
+
+### Audit Programme Planning
+- <u>Planning</u>
+	- Understanding client's internal control
+- <u>Obtaining Evidence</u>
+	- Test of controls
+	- Test of evidence (reports, records, processes)
+	- Substantive testing, using computer aided tools and analytical procedures
+- <u>Ascertaining reliability</u>
+	- Materiality
+- <u>Communicating results</u>
+	- Audit opinion
+	- Process of determining in advance what to do, when and how to do it and by whom
+	- Development of overall strategy
+	- Optimises transfer of knowledge from one audit exercise to another
+	- Must be written and documented for approval
+- **Purpose and Advantage**
+	- A
