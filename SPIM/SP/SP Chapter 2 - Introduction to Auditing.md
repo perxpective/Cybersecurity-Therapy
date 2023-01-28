@@ -255,4 +255,17 @@
 	- e.g. highlighting trends and identifying exceptions
 
 ### Controls
-- **Tt**
+- **Two Frameworks:**
+	- Committee of Sponsoring Organisations (COSO)
+	- Sarbanes-Oxley Act (SOX)
+
+#### COSO
+- Management perspective model for internal controls
+- Best deterrent to fraud is strong internal controls
+- Widely adopted
+
+![](https://i.imgur.com/M34lSWu.png)
+
+- Independent Verification
+	- Management can assess performance of individuals, integrity of the data in records
+- Transactional Authori
