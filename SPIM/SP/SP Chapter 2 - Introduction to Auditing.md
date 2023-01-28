@@ -289,4 +289,18 @@
 - <u>Management Assessment of Internal Control</u>
 	- Management is responsible for establishing and maintaining internal control structure and procedures
 	- Must certify by report on the effectiveness of internal control each year, with other annual reports
-	- 
+	- **Ultimate Objective:**
+		- Top management is responsible for proper financial control, practice and reporting
+- <u>Corporate Responsibility for Incident Reports</u>
+	- Financial executives must disclose deficiencies internal control and fraud
+- **Significance**
+	- The first law that holds top management responsible for the firm's operating integrity
+	- First law where top management can go to jail for serious non-compliance
+		- Chairman, CEO, CFO, COO, MD, ED, etc.
+		- Greatly increases compliance rate
+		- Greatly improve IT and security
+	- Other countries outside the US start to adopt parts, ideas or shades of it
+
+## Pinnacle of IT Governance
+- Responsibility of executives and board of directors
+- Consists of the leadership, organisational structures and processes that ensure that the or
