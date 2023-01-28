@@ -230,4 +230,29 @@
 	- <u>Types of Risks</u>
 		- Theft of Assets
 		- Modification of Assets
-			- including the
+			- including the corruption of information and/or information systems
+		- Destruction of Assets
+		- Disruption of IT Systems and/or Services
+
+## Risk Assessment
+- Changes in Environment
+- Changes in Personnel
+- Changes in Information Systems
+- New IT
+- Significant or Rapid Growth
+- New Products or Services
+- Organisational Restructuring 
+- Foreign Markets
+- New Accounting Principles
+
+### Monitoring
+- Separate procedures e.g. test of controls
+- Ongoing activities
+	- Embedded Audit Modules (EAMs)
+	- Continuous Online Auditing (COA)
+- Use of Management Reports
+- Summarising activities
+	- e.g. highlighting trends and identifying exceptions
+
+### Controls
+- **Tt**
