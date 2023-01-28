@@ -216,4 +216,18 @@
 	- Concentration of data
 	- Expanded access and linkages
 	- Increase in malicious activities in system compared to paper
-	- Opportunity that ca
+	- Opportunity that can cause management fraud (e.g. override)
+
+### Limitations of Controls
+- Honest Errors
+- Circumvention via Collusion
+- Management Override
+- Coping with Changing Conditions
+	- especially in companies with high growth
+- **Risks of Weak Controls**
+	- Intentional and Accidental
+	- Risks - potential threat to compromise use or value of organisational assets
+	- <u>Types of Risks</u>
+		- Theft of Assets
+		- Modification of Assets
+			- including the
