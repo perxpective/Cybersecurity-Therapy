@@ -172,6 +172,23 @@
 	- Developing audit approach or audit strategy
 
 ## Audit Risks
-| Risk       | Explanation |
-| ---------- | ----------- |
-| Audit Risk | Probability that the auditor will give an inappropriate opinion on the statements            |
+| Risk           | Explanation                                                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Audit Risk     | Probability that the auditor will give an inappropriate opinion on the statements<br> Audit exercise is flawed or failed                                         |
+| Control Risk   | Probability that the internal controls will fail to detect material misstatements<br>Control itself is flawed in the first place and thus compromising the audit |
+| Detection Risk | Probability that the audit procedures will fail to detect material misstatements                                                                                 |
+| Inherent Risk  | Risks that cannot be controlled (Material vs Immaterial)                                                                                                                                                                 |
+
+## Audit Controls
+- Policies, Practices and Procedures are designed to
+	- Safeguard assets
+	- Ensure accuracy and reliability
+	- Promote efficiency
+	- Measure compliance with policies
+- Type of controls
+	- Preventive Controls
+	- Detective Controls
+	- Corrective Controls
+	- Predictive Controls
+
+### Elements of an Control Environment
