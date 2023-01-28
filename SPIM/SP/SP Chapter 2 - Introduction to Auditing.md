@@ -153,4 +153,25 @@
 	- Optimises transfer of knowledge from one audit exercise to another
 	- Must be written and documented for approval
 - **Purpose and Advantage**
-	- A
+	- Adequate attention given to important areas of audit
+	- Identify potential problems
+	- Audit completed expeditiously and timely
+	- Utilise staff properly
+	- Determine audit procedures to use
+- **Audit Objectives**
+	- Central objective which an audit is to accomplish
+- **Audit Scope**
+	- Area to be covered
+	- Basis to conduct audit
+	- Acts as defence for auditor in case of misunderstanding or allegation of areas not covered
+- **Elements**
+	- Understanding auditee's organisation
+	- Determining audit objectives and scope
+	- Performing risk analysis
+	- Conducting an internal control and objective
+	- Developing audit approach or audit strategy
+
+## Audit Risks
+| Risk       | Explanation |
+| ---------- | ----------- |
+| Audit Risk | Probability that the auditor will give an inappropriate opinion on the statements            |
