@@ -97,3 +97,15 @@
 | Represents the interest of the organisation           | Represents the interest of outsiders                                                                                |
 | May be a preparation for external audit               | Standards, guidelines, certifications governed by national or industry authorities                                  |
 
+### Corollary and Operational Objectives
+- Establish accountability
+- Establish ownership, chain of command, chain of communication and chain of escalation
+- Ensure consistency of processes, policies and behaviour
+- Ensure adequate policies are in place and are working properly
+- Ensure operational integrity and consistency and proper treatment of assets
+- Ensure morale of stakeholders
+- Meet compliance
+
+### Audit Programme Objectives
+- Top management of should ensure that the audit programme objectives are established to direct the planning and conduct of audits and should ensure the audit programmes is implemented effectively
+- Audit programme objectives hosu
