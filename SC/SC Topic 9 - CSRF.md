@@ -85,4 +85,16 @@ verifySession: (req, res, next) => {
 }
 ```
 ## CSRF Attacks
-- Modifying product information in 
+- Modifying product information in the back-end
+- Changing password function
+- Deletion of data in the back-end
+
+> - For a CSRF attack to be possible, three key conditions must be in place:
+> 	- **Relevant Action**
+> 		- Action within the application that the attacker has a reason to induce
+> 		- e.g. privileged action or any action on user-specific data
+> 	- **Cookie-based Session Handling**
+> 		- Performing the action involves issuing one or more HTTP requests and the application relies on session cookies to identify user who has made the requests
+> 	- **No Unpredictable Request Parameters**
+> 		- Requests that perform the action do not contain any parameters whose values the attacker cannot determine or guess
+> 		- Example: when causing a u
