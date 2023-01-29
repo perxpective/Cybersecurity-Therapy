@@ -45,4 +45,24 @@ app.use(session({
 }))
 ```
 
-### Express 
+### Express MySQL Session
+- Module which uses MySQL to store users' session variables
+
+```
+npm install express-mysql-session
+```
+```js
+var mySQLStore = require("express-mysql-session")(session)
+var sessionStore = new MySQLStore({
+	/* session store options */,
+	dbconnect.getConnection() // use mysql db connection
+})
+```
+### Get/Set Session Values
+- Set or modify session values by calling `req.session.varname = value`
+- **Example:**
+```js
+// after logging in successfully, store user data
+req.session.role = role
+req.session.username = username
+```
