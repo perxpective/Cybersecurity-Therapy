@@ -100,4 +100,21 @@
 	- Performance Issues
 	- Key Management for Encryption
 - **Recommendations**
-	- Trade-off 
+	- Trade-off between security and performance
+	- Apply appropriate security strategy keeping performance and data flow in mind
+	- Separation of environment
+
+## Personal Data Protection
+- Personal Data Protection Act (PDPA) in Singapore
+- General Data Protection Regulation (GDPR) in Europe
+- **Problems**
+	- Huge amount of data about you can be stored on computer and easily searched
+	- Data can be lost, stolen or transferred to another country easily
+	- People need protection from careless or inaccurate processing of data about them
+
+### Personal Data
+| Data                                      | Description                                                                                                   |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Personally Identifiable Information (PII) | NIST: Any information about an individual that can be used to trace one's identity or linked to an individual |
+| Personal Data (PD)                        | GDPR: Any information relating to an identified or identifiable natural person                                |
+|                                           |                                                                                                               |
