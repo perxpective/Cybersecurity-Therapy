@@ -120,4 +120,9 @@ app.get("/CSRFGetToken", csrfProtection.function(req, res) {
 	console.log(req.csrfToken())
 	res.status(200).send(`{"csrfToken":"${req.csrfToken()}"}`)
 })
+
+app.post("/CSRFModifyData", csrfProtection.function(req, res) {
+	// write code to modify data accordingly
+	res.send("success!")
+})
 ```

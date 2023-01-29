@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
-                "mode": "source",
+                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
+                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md"
+                "file": "SC/SC Topic 7 - Preventing SQL Injections.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
+                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +167,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae387ebf9eb62147",
+  "active": "edb1d3b53fc662ef",
   "lastOpenFiles": [
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 9 - CSRF.md",
