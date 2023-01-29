@@ -121,14 +121,6 @@
             }
           },
           {
-            "id": "96ae23b7fb15ce2c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "f0286f947f982bbb",
             "type": "leaf",
             "state": {
@@ -150,8 +142,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "96ae23b7fb15ce2c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

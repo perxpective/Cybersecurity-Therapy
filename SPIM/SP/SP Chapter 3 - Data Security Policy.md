@@ -117,4 +117,19 @@
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | Personally Identifiable Information (PII) | NIST: Any information about an individual that can be used to trace one's identity or linked to an individual |
 | Personal Data (PD)                        | GDPR: Any information relating to an identified or identifiable natural person                                |
-|                                           |                                                                                                               |
+
+### PDPA
+- Ensures that organisations taking care of personal data understand their possession or their control
+- **Restrictions:**
+	- Collection or Use of Personal Data
+- **Components**
+	- Do Not Call (DNC) - Privacy
+	- Personal Data Protection
+- Data Management
+
+### Personal Data Protection Through Management and Governance
+- Appoint a Data Protection Officer (DPO)
+- Review Personal Data Inventory
+- Ensure Cybersecurity and Personal Data Protection Policies, Standards, Guidelines and Procedure
+- Communicate internally
+- Establish an Internal Audit P
