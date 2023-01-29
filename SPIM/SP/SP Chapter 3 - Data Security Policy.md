@@ -70,4 +70,34 @@
 - Encryption
 - Authentication
 - Access Control
-- Physical Protection
+- <u>Physical Protection</u>
+	- Network Segmentation
+	- Defence-In-Depth
+	- Physical Locking and Storage
+	- Disconnect from Internet
+- File and Database Accessing Monitoring
+- Data Leakage Prevention (DLP)
+- <u>Data Sanitization</u>
+	- Anonymisation
+	- Obfuscation
+	- Tokenisation
+	- Masking
+
+## Secure Deletion of Data
+- Low-level deletion/formatting
+- Degaussing
+- Physical Destruction
+- Crypto-Shredding (1-Way Encryption)
+
+## Challenges and Recommendations
+- **Business Challenges**
+	- Expensive
+	- Need more resources to manage (e.g. security administrators)
+	- Need additional hardware/software and processing capabilities
+- **Solution Challenges**
+	- Legacy Application Changes
+	- Application Integration
+	- Performance Issues
+	- Key Management for Encryption
+- **Recommendations**
+	- Trade-off 
