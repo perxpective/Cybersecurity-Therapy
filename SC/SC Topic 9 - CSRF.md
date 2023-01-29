@@ -66,3 +66,23 @@ var sessionStore = new MySQLStore({
 req.session.role = role
 req.session.username = username
 ```
+
+### Logging Out
+- Destroy the saved session values and clear the session once the use logouts to prevent session attacks
+- `req.session.destory()` clears the session for the relevant user and also initiate the removal of the session ID cookie at the client side
+
+### Checking User Roles
+- Middleware for checking if user has logged in with admin role:
+```js
+verifySession: (req, res, next) => {
+	var session = req.session
+	if (session.role) {
+		next()
+	} else {
+		res.status(403)
+		res.send(`{"message":"not authorized"}`)
+	}
+}
+```
+## CSRF Attacks
+- Modifying product information in 
