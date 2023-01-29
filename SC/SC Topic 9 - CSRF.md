@@ -89,12 +89,23 @@ verifySession: (req, res, next) => {
 - Changing password function
 - Deletion of data in the back-end
 
-> - For a CSRF attack to be possible, three key conditions must be in place:
-> 	- **Relevant Action**
-> 		- Action within the application that the attacker has a reason to induce
-> 		- e.g. privileged action or any action on user-specific data
-> 	- **Cookie-based Session Handling**
-> 		- Performing the action involves issuing one or more HTTP requests and the application relies on session cookies to identify user who has made the requests
-> 	- **No Unpredictable Request Parameters**
-> 		- Requests that perform the action do not contain any parameters whose values the attacker cannot determine or guess
-> 		- Example: when causing a u
+> For a CSRF attack to be possible, three key conditions must be in place:
+> - **Relevant Action**
+> 	- Action within the application that the attacker has a reason to induce
+> 	- e.g. privileged action or any action on user-specific data
+> - **Cookie-based Session Handling**
+> 	- Performing the action involves issuing one or more HTTP requests and the application relies on session cookies to identify user who has made the requests
+> - **No Unpredictable Request Parameters**
+> 	- Requests that perform the action do not contain any parameters whose values the attacker cannot determine or guess
+> 	- Example: when causing a user to change their password, function is not vulnerable if an attacker needs to know the value of the existing password
+
+### Preventions
+- Embed CSRF token in the form field
+	- a piece of data that is random, unique and attached to a form
+- Token should be unpredictable
+- Tied to the user's session
+- Strictly validated in every case before the relevant action is executed
+- Depending on the form, extra checks can be added to ensure it is the actual user authorized the request
+
+### Generating CSRF Tokens
+- CSRF token generated for GET requests and checking can be done for POST, PUT and DELETE
