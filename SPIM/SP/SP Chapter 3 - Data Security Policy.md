@@ -171,4 +171,9 @@
 
 ## Personal Data Protection Guidelines
 - Advisory in nature and do not constitute legal advice
-- Provide guidance on the manner in which the commission
+- Provide guidance on the manner in which the commission will interpret provisions of the PDPA
+- **Guidelines:**
+	- Main Advisory Guidelines
+	- Sector-Specific Advisory Guidelines
+	- Industry-Led Guidelines
+	- Others
