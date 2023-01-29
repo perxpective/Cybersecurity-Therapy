@@ -144,4 +144,31 @@
 - Social Engineering
 - Unauthorised access or misuse of personal data by employers or vendors
 - Loss of theft of electronic devices or portable storage devices containing personal data
-- 
+- Compromised network devices
+- Compromised POS systems
+- Not disposing oof electronic personal data properly
+- Unintended disclosure of personal data to another individual other than the intended recipient
+
+## PDPA - 9 Main Data Protection Obligations
+1. Consent
+2. Purpose Limitation
+3. Notification
+4. Access and Correction
+5. Accuracy
+6. Protection
+7. Retention Limitation
+8. Transfer Limitation
+9. Openness
+
+## Sensitive Personal Data
+- Racial or ethnic origin
+- Political opinions
+- Religious or philosophical beliefs
+- Trade-union membership
+- Health, sex life, sexual orientation
+- Genetic data
+- Biometric data
+
+## Personal Data Protection Guidelines
+- Advisory in nature and do not constitute legal advice
+- Provide guidance on the manner in which the commission
