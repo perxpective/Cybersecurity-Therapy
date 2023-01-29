@@ -24,5 +24,25 @@
 	- stores user information and binds data to sessions
 	- should be cleared when user logs out to prevent session fixation attacks
 
-### Session Management with Express
-- HTTP is stateless, hence in order to associate request to a user, you need to find a way to store user data between HTTP req
+### Express Session
+- HTTP is stateless, hence in order to associate request to a user, you need to find a way to store user data between HTTP requests
+- Sessions can solve this problem by assigning the client a session ID 
+- This makes all further requests using that ID
+- Information associated with the client is stored on the server lined to this ID
+
+**Installing Express Session**
+```
+npm install express-session
+```
+
+```js
+var session = require("express-session")
+app.use(session({
+	secret: "secret_key", // secret key
+	store: "sessionStore", // mysql store
+	saveUninitailized: false,
+	resave: false
+}))
+```
+
+### Express 
