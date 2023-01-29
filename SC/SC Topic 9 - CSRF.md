@@ -109,3 +109,15 @@ verifySession: (req, res, next) => {
 
 ### Generating CSRF Tokens
 - CSRF token generated for GET requests and checking can be done for POST, PUT and DELETE
+- Before data change operations can be executed, operations can be executed and GET request can be done to generate a random CSRF token
+- This random CSRF token is returned by the GET method and added as a hidden field to the webpage
+- When the POST/PUT/DELETE operation is called on the web server, token must be passed as a request value and is checked by the `csurf` middleware before it can be executed
+
+```js
+var csrf = require("csurf")
+var csrfProtection = csrf()
+app.get("/CSRFGetToken", csrfProtection.function(req, res) {
+	console.log(req.csrfToken())
+	res.status(200).send(`{"csrfToken":"${req.csrfToken()}"}`)
+})
+```
