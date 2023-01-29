@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edb1d3b53fc662ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md"
+                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md"
               }
             }
           },
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,17 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e64a2e3c675c929",
+  "active": "edb1d3b53fc662ef",
   "lastOpenFiles": [
-    "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
     "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+    "SPIM/IM/IM Chapter 3 - Log Management.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+    "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
     "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/Vim Keymap.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
-    "SMW/Tutorials/SMW Tutorial 5.md",
-    "SC/SC Topic 5 - Logging.md"
+    "SMW/Tutorials/SMW Tutorial 5.md"
   ]
 }
