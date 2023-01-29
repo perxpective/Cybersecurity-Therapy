@@ -303,4 +303,15 @@
 
 ## Pinnacle of IT Governance
 - Responsibility of executives and board of directors
-- Consists of the leadership, organisational structures and processes that ensure that the or
+- Consists of the leadership, organisational structures and processes that ensure that the enterprise's IT sustains and extends the organisation's strategies and objectives
+- **Forces Driving Governance:**
+	- Business and IT Alignment Return of Investment (ROI)
+	- Project Execution
+	- Security
+	- Compliance
+- **Governance Domains**
+	- Strategic Alignment
+	- Value Delivery
+	- Performance Measurement
+	- Resource Management
+	- Risk Management
