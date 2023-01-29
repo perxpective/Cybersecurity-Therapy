@@ -11,8 +11,12 @@
             "id": "3e64a2e3c675c929",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md"
+              }
             }
           },
           {
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
