@@ -132,4 +132,16 @@
 - Review Personal Data Inventory
 - Ensure Cybersecurity and Personal Data Protection Policies, Standards, Guidelines and Procedure
 - Communicate internally
-- Establish an Internal Audit P
+- Establish an Internal Audit Policy
+
+### External Auditor vs PDPA
+- If external auditor is processing personal data on behalf of and for the purposes of the company and this is done pursuant to a contract that is evidenced or made in writing, the external auditor may be a Data Intermediary for the purposes of PDPA that can benefit from the partial exclusion under Section 4(2) subject to fewer Data Protection obligations
+
+## Cybersecurity Threats to Electronic Personal Data
+- Hacking or other unauthorised access of databases
+- Physical attacks
+- Malware or hostile programs
+- Social Engineering
+- Unauthorised access or misuse of personal data by employers or vendors
+- Loss of theft of electronic devices or portable storage devices containing personal data
+- 
