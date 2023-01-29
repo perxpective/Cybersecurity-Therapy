@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md"
+                "file": "SC/SC Topic 6 - XSS Prevention.md"
               }
             }
           },
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,6 +170,7 @@
   },
   "active": "edb1d3b53fc662ef",
   "lastOpenFiles": [
+    "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 9 - CSRF.md",
     "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
@@ -177,7 +179,6 @@
     "SPIM/IM/IM Chapter 3 - Log Management.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "EHD/Theory/EHD Topic 16 - Integer Overflow Attack.md",
-    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
-    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md"
+    "EHD/Theory/EHD Topic 15 - Format String Attack.md"
   ]
 }
