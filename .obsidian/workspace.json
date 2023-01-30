@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
-                "mode": "preview",
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md"
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,15 +157,15 @@
   },
   "active": "65b49185c1480dff",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 12 - Decompiling.md",
+    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
+    "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
-    "SC/SC Topic 9 - CSRF.md",
-    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md",
-    "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
-    "SPIM/IM/IM Chapter 3 - Log Management.md"
+    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
   ]
 }
