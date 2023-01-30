@@ -69,5 +69,47 @@ IP 0001
 ![](https://i.imgur.com/GlYyOT4.png)
 
 
-## Buffer Overflow
-<u>On WinXP VM</u>
+## Buffer Overflow to Modify Variables
+**On WinXP VM**
+1. Here is the source code of `buffervalue.exe`
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#define BUFSIZE 16
+
+int main(int argc, char* argv[])
+{
+   char *buffer1 = (char *)malloc(BUFSIZE);
+   if(buffer1 == NULL)
+      return 0;
+   char *buffer2 = (char *)malloc(BUFSIZE);
+   
+   if(buffer2 == NULL)
+      return 0;
+
+   memset(buffer1, 'A', BUFSIZE-1);
+   buffer1[BUFSIZE-1] = '\0';
+   memset(buffer2, 'A', BUFSIZE-1);
+   buffer2[BUFSIZE-1] = '\0';
+   printf("buffer1 pointer = %p, buffer2 pointer = %p", buffer1, buffer2);
+   printf("\n\nValue in buffer1: %s", buffer1);
+   printf("\nValue in buffer2: %s", buffer2);
+   printf("\n\nEnter new value to be placed in buffer1 with gets(): ");
+   gets(buffer1);
+   printf("buffer1 pointer = %p, buffer2 pointer = %p", buffer1, buffer2);
+   printf("\n\nValue in buffer1: %s", buffer1);
+   printf("\nValue in buffer2: %s", buffer2);
+   printf("\n\nPress enter to (try) and free buffer1...");
+   getchar();
+   free(buffer1);
+   printf("\n\nPress enter to (try) and free buffer2...");
+   getchar();
+   free(buffer2);
+
+   return 0;
+}
+```
+
+<u>Questions</u>
+How many bytes separate the start buffer1 and buffer2
