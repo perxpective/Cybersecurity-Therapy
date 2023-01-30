@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md"
+                "file": "SC/SC Topic 6 - XSS Prevention.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +157,9 @@
   },
   "active": "65b49185c1480dff",
   "lastOpenFiles": [
+    "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 6 - XSS Prevention.md",
-    "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
