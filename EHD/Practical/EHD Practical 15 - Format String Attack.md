@@ -259,3 +259,26 @@ px4 @rbp-0x4
 ```
 r2 -d doublevalue
 ```
+
+2. In Radare2, run the following command to analyse the program and auto name functions
+```
+aaa
+```
+
+3. Put a breakpoint on the `doublevalue` function
+```
+db sym.doublevalue
+```
+
+4. Run the program until it reaches the breakpoint at the start of the `doublevalue` function
+```
+dc
+```
+
+5. View the assembly code of the `doublevalue` function
+```
+pdf
+```
+![](https://i.imgur.com/s5R6Mej.png)
+
+6. Run the 
