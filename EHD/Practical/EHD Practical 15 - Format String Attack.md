@@ -94,3 +94,32 @@ int main() {
 
 ## Using Format String Vulnerabilities to Change the Values of Local Variables
 1. Create the following C program `formatstr3.c`
+```c
+#include <stdio.h>
+
+int functionA(char *buffer, char *inputstring) {
+  printf("address of buffer %x\n",buffer);
+  printf("buffer %s\n", buffer);
+  printf(inputstring);
+  printf("\naddress of buffer %x\n",buffer);
+  printf("buffer %s\n", buffer);
+  return 0;
+}
+
+int main(int argc, char *argv[]) {
+  char buffer[10] = "Goodbye";
+  functionA(buffer, argv[1]);
+  return 0;
+}
+```
+
+2. Compile and run the program with the argument `Hello`
+```
+gcc -o formatstr3 formatstr3.c
+./formatstr3 Hello
+```
+
+3. You may get output like the following:
+```
+
+```
