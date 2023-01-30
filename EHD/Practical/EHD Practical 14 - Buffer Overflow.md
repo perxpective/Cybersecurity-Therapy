@@ -112,4 +112,4 @@ int main(int argc, char* argv[])
 ```
 
 <u>Questions</u>
-How many bytes separate the start buffer1 and buffer2
+- How many bytes separate the start buffer1 and buffer2
