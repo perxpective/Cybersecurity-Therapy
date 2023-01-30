@@ -328,4 +328,36 @@ objdump -d doublevalue
 
 ![](file:///C:/Users/ervin/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
 
-7. Use `objdump` to display the symbool table for the `double`
+7. Use `objdump` to display the symbol table for the `doublevalue` program
+```
+objdump -t doublevalue
+```
+
+8. Use the Rabin2 command to display strings from the data section of the `doublevalue` program
+```
+rabin2 -z doublevalue
+```
+
+9. The strings command will display strings from all the sections of the `doublevalue` program
+```
+strings doublevalue
+```
+
+## Using the Debugger to Bypass Authentication Checks or View Passwords
+**On Kali VM**
+1. Set executable permissions for `getcode`
+```
+chmod a+x getcode
+```
+
+2. Run the program `getcode`
+```
+./getcode
+```
+
+3. Use `objdump` too see the names of the functions inside `getcode`
+```
+objdump -t getcode
+```
+![](https://i.imgur.com/RQf7n9p.png)
+
