@@ -54,3 +54,38 @@ gcc -o formatstr1 formatstr1.c
 > The format parameter %n will write the number of characters that have been written by the function so far to the specified variable address
 
 **On Win10 VM**
+1. Create the following C program `formatstr2.c`
+```c
+int main() {
+	int count;
+	printf("12345%n\n", &count);
+	printf("Count: %d\n", count);
+	return 0;
+}
+```
+
+2. Compile and run the program without parameters. Count should have the value 5
+3. Edit the program to add the following two lines:
+```c
+int main() {
+	int count;
+	printf("12345%n\n", &count);
+	printf("Count: %d\n", count);
+	printf("12345 67890%n\n",&count);
+	printf("Count :%d\n", count);
+	return 0;
+}
+```
+
+4. Compile and run the program without parameters. The variable count should have the values 5 and 11
+5. Edit the program to remove `&count` from the third line
+```c
+int main() {
+	int count;
+	printf("12345%n\n", &count);
+	printf("Count: %d\n", count);
+	printf("12345 67890%n\n",&count);
+	printf("Count :%d\n", count);
+	return 0;
+}
+```
