@@ -221,4 +221,18 @@ aaa
 10. Type `db <address_function>`  to put a breakpoint at the address of the `printf` function
 11. Put a third breakpoint `db sym.doublevalue` at the start of the `doublevalue` function
 12. Type `dc` to run the program. It will stop at the breakpoints
-13. Type `pdf` to display the assembly code again. Address of the instruction of where the program has paused is highlighted and the ad
+13. Type `pdf` to display the assembly code again. Address of the instruction of where the program has paused is highlighted and the address where the letter "b" is located indicates where the breakpoints are
+
+![](https://i.imgur.com/N6ntrSK.png)
+
+14. Type `dr` to display the current contents of the register
+
+> Note that the RIP contains the address of the next instruction to run
+
+![](https://i.imgur.com/uTYktis.png)
+
+15. From the assembly code, we can guess that the variable `a` is called `[var_4h]` and it is at the address `rbp-0x4`
+16. Type the following command to print the current content of variable `a` in hexadecimal
+```
+px4 @
+```
