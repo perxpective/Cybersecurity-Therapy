@@ -11,12 +11,12 @@
 
 **On WinXP VM**
 1. Create the following assembly program `nop.asm`
-```assembly
+```
 dosseg
 .model small
 .stack
 .code
-main    proc
+main    proc
         nop
         mov   ax,34h   ; move the value 34 to ax
         nop
@@ -31,3 +31,21 @@ main    proc
 main    endp
 end     main
 ```
+
+2. On the command prompt, use Turbo Assembler to assemble the program
+```
+tasm nop.asm
+```
+
+3. If there are no errors, a `nop.obj` file should be created
+4. On the command prompt, use the Turbo Linker to link the object file
+```
+tlink nop.obj
+```
+
+5. If there are no errors, a `nop.exe` file should be created
+6. Use a hex editor to open the executable program. Look for the line that looks like the following. These bytes represent the compiled instructions in the program
+
+![](https://i.imgur.com/885fHdO.png)
+
+7. 
