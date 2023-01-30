@@ -361,3 +361,24 @@ objdump -t getcode
 ```
 ![](https://i.imgur.com/RQf7n9p.png)
 
+4. Run the following commands to debug `getcode`
+```
+r2 -d getcode
+aaa
+db sym.main
+dc
+pdf
+```
+![](https://i.imgur.com/lYQX7NG.png)
+
+5. Run the following command to continue executing till the `check_password` function
+```
+dcu 0x5588763fe290
+```
+
+6. Change the value of the IP so that it points to the address of the instruction that will call the `access_granted` function
+```
+dr rip = 0x5588763fe29e
+```
+
+7. Continue running the program. The program will go straight to the `access_granted` function, skipping the `check_password` function
