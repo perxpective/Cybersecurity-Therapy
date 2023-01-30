@@ -160,9 +160,20 @@ buffer
 10. To change the buffer to an exclamation mark, find its ASCII value 
 11. Count the number of characters that is printed out by the program line vulnerable to the format string attack `printf(inputstring)`
 ```
+# 29 characters are printed in this line
 address of buffer bfc8a902
 buffer Goodbye
 0.ffffc934.0.ffffcc30.401126.
 address of buffer bfc8a902
 buffer 
 ```
+
+12. Run the program with the same number of `%x` but add four more characters so that the line printed out will be 33 characters long
+13. The last `%n` will write the number of characters printed out to the address contained in the current word of the stack
+```
+./formatstr3 %x.%x.%x.%x.%x.1234%n
+```
+
+## Using Radare2 to Debug Programs
+**On Kali VM**
+1. Examine the C program called `doublevalue.c`
