@@ -213,4 +213,12 @@ aaa
 5. In Radare2, use the `?` key to display help and list of possible commands
 6. `p` key is used to print values - run `p?` to print values
 7. Use `s` to move to the main function
-8. Type `pdf` to print
+8. Type `pdf` to print disassembled functions
+
+![](https://i.imgur.com/tS62Wmk.png)
+
+9. Type `db main` to put a breakpoint at the start of the function
+10. Type `db <address_function>`  to put a breakpoint at the address of the `printf` function
+11. Put a third breakpoint `db sym.doublevalue` at the start of the `doublevalue` function
+12. Type `dc` to run the program. It will stop at the breakpoints
+13. Type `pdf` to display the assembly code again. Address of the instruction of where the program has paused is highlighted and the ad
