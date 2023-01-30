@@ -46,5 +46,11 @@ gcc -o formatstr1 formatstr1.c
 8. To see even more content from the stack, use a Perl or Python script to generate the format parameters
 ```
 ./formatstr1 $(perl -e 'print "%08x." x 40')
-./formatstr1 $()
+./formatstr1 $(python2.7 -c 'print("%08x" * 40)')
+./formatstr1 $(python3.6 -c 'print("%08x" * 40)')
 ```
+
+## Format Parameter %n
+> The format parameter %n will write the number of characters that have been written by the function so far to the specified variable address
+
+**On Win10 VM**
