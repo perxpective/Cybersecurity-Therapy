@@ -301,3 +301,31 @@ dr rip = 0x5619f085b141
 ## Using the Debugger to Change Memory Values
 **On Kali VM**
 1. Instead of putting a breakpoint, `dcu` can be used to continue running until the specified address or flag
+```
+dcu 0x55d946340169
+```
+
+2. Run the following command to write the hexadecimal value 07 to variable `a`
+```
+wx 07 @rbp-0x4
+```
+
+3. Run the following command to read the contents of variable `a`
+```
+px4 @rbp-0x4
+```
+![](https://i.imgur.com/gbNZ0gJ.png)
+
+4. Type `dc` to run the rest of the program
+
+> In addition to Radare2, `objdump` can also be used to get more information about a binary file
+
+5. Type `man objdump` to view the man page for the command
+6. Disassemble the `doublevalue` program
+```
+objdump -d doublevalue
+```
+
+![](file:///C:/Users/ervin/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+
+7. Use `objdump` to display the symbool table for the `double`
