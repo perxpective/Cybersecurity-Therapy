@@ -234,5 +234,16 @@ aaa
 15. From the assembly code, we can guess that the variable `a` is called `[var_4h]` and it is at the address `rbp-0x4`
 16. Type the following command to print the current content of variable `a` in hexadecimal
 ```
-px4 @
+px4 @rbp-0x4
 ```
+17. Type `dc` to continue running the program
+18. When it reaches the second breakpoint at the first `printf` instruction, it will pause
+19. Display the current content of the variable `a`. It has been initialised with the value of 4
+```
+px4 @rbp-0x4
+```
+
+![](https://i.imgur.com/BB2p267.png)
+
+20. Type `dc` to continue running. When it reaches the start of `doublevalue` function, it will hit the third breakpoint and pause
+21. Type `pdf`
