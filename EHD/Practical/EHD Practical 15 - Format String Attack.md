@@ -43,4 +43,6 @@ gcc -o formatstr1 formatstr1.c
 ./formatstr1 %08x.%08x.%08x.%08x
 ```
 
-8. To see even more content from the stack, 
+8. To see even more content from the stack, use a Perl or Python script to generate the format paramters
+```
+```
