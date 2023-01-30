@@ -45,7 +45,24 @@ tlink nop.obj
 
 5. If there are no errors, a `nop.exe` file should be created
 6. Use a hex editor to open the executable program. Look for the line that looks like the following. These bytes represent the compiled instructions in the program
-
 ![](https://i.imgur.com/885fHdO.png)
 
-7. 
+7. Use the debugger to load the program
+```
+debug <executable filename>
+```
+
+8. Trace through the program by entering `t` - note the address stored in the Instruction Pointer (IP)
+![](https://i.imgur.com/6OlGHPi.png)
+
+9. Trace through the first line of code "NOP"
+![](https://i.imgur.com/acLczLe.png)
+
+10. Set the value in the IP to offset address of instruction `mov ax,36h`
+```
+-r ip
+IP 0001
+:B
+```
+
+11. W
