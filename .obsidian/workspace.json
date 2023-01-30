@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -171,6 +172,7 @@
   "active": "2c74ea2fde7a6a81",
   "lastOpenFiles": [
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
+    "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 6 - XSS Prevention.md",
@@ -178,7 +180,6 @@
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
-    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
-    "BED/BED Chapter 8 - jQuery Front-End Calling NodeJS Express Back-End.md"
+    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md"
   ]
 }
