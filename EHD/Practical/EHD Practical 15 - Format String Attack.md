@@ -246,4 +246,16 @@ px4 @rbp-0x4
 ![](https://i.imgur.com/BB2p267.png)
 
 20. Type `dc` to continue running. When it reaches the start of `doublevalue` function, it will hit the third breakpoint and pause
-21. Type `pdf`
+21. Type `pdf` to display the assembly code of the `doublevalue` function
+
+![](https://i.imgur.com/xnYqpKf.png)
+
+22. Type `dc` to continue running the program till it ends
+23. Type `q` to exit Radare2
+
+## Using the Debugger to Change the Instruction Pointer Register
+**On Kali VM**
+1. Use Radare2 to debug the `doublevalue` program
+```
+r2 -d doublevalue
+```
