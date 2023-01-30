@@ -112,4 +112,20 @@ int main(int argc, char* argv[])
 ```
 
 <u>Questions</u>
-- How many bytes separate the start buffer1 and buffer2
+**How many bytes separate the start buffer1 and buffer2?**
+![](https://i.imgur.com/S7mY074.png)
+- Number of bytes separating buffer1 and buffer2 = 0x438 - 0x420 = 0x18 (24 bytes)
+
+**How to use buffer overflow to modify other variables in a program?**
+- If we input more than 24 characters in buffer1, the 25th character onwards will overflow into buffer2
+
+**How to prevent buffer overflow situation in the code?**
+- Control the size of user input
+
+## Using Buffer Overflow to Crack a Program
+- Source code of `login.exe`
+```c
+int authenticate() {
+	char terminator = ''
+}
+```
