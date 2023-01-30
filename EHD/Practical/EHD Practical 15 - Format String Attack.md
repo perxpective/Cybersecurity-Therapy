@@ -177,3 +177,40 @@ buffer
 ## Using Radare2 to Debug Programs
 **On Kali VM**
 1. Examine the C program called `doublevalue.c`
+```c
+#include <stdio.h>
+int doublevalue(int num) {
+  int c;
+  c = num * 2;
+  return(c);
+}
+
+void main() {
+  int a, b;
+  a = 4;
+  printf("The value of a is %d\n", a);
+  b = doublevalue(a);
+  printf("The value of b is %d\n", b);
+}
+```
+
+2. Compile the program and run the program to test it
+```
+gcc doublevalue doublevalue.c
+./doublevalue
+```
+
+3. Use Radare2 to debug the program
+```
+r2 -d doublevalue
+```
+
+4. Run the following command to analyse the program and auto name functions
+```
+aaa
+```
+
+5. In Radare2, use the `?` key to display help and list of possible commands
+6. `p` key is used to print values - run `p?` to print values
+7. Use `s` to move to the main function
+8. Type `pdf` to print
