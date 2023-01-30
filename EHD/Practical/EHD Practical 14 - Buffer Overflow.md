@@ -65,4 +65,9 @@ IP 0001
 :B
 ```
 
-11. W
+11. When tracing through the next line of code, the instruction `move ax,36` is executed
+![](https://i.imgur.com/GlYyOT4.png)
+
+
+## Buffer Overflow
+<u>On WinXP VM</u>
