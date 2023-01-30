@@ -126,6 +126,19 @@ int main(int argc, char* argv[])
 - Source code of `login.exe`
 ```c
 int authenticate() {
-	char terminator = ''
+	char terminator = '\0';
+	char authPass = 'F';
+
+	puts("Please enter your password: ");
+	gets(pw);
+	if(!strcmp(pw, "password"))
+		authPass = 'T';
+	return (authPass == 'T')
 }
 ```
+
+- Solution:
+	- Looking at the code, the `pw` buffer can be overflowed
+	- If we put enough Ts in `pw`, we can overwrite `authPass` with "T"
+	- If too many Ts are entered, the program will crash
+	- By trial and error, entering fifteen Ts will give the message "You have gained access!"
