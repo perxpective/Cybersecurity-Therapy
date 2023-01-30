@@ -281,4 +281,23 @@ pdf
 ```
 ![](https://i.imgur.com/s5R6Mej.png)
 
-6. Run the 
+6. Run the following command to run the next instruction and step over to the following instruction
+```
+dso
+```
+
+7. Run the instructions until the start of the `add eax, eax` instruction
+![](https://i.imgur.com/Nb2IKxf.png)
+
+8. Take note of the address after `add eax, eax`
+9. Run the following command to change the RIP register to skip the add instruction
+```
+dr rip = 0x5619f085b141
+```
+
+10. Type `dc` to run the rest of the program
+11. Type `q` to exit Radare2
+
+## Using the Debugger to Change Memory Values
+**On Kali VM**
+1. Instead of putting a breakpoint, `dcu` can be used to continue running until the specified address or flag
