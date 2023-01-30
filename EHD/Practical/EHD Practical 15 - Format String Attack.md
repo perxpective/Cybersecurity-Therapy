@@ -157,4 +157,12 @@ buffer
 ```
 
 9. We have changed the variable buffer to an empty string
-10. To change the buffer 
+10. To change the buffer to an exclamation mark, find its ASCII value 
+11. Count the number of characters that is printed out by the program line vulnerable to the format string attack `printf(inputstring)`
+```
+address of buffer bfc8a902
+buffer Goodbye
+0.ffffc934.0.ffffcc30.401126.
+address of buffer bfc8a902
+buffer 
+```
