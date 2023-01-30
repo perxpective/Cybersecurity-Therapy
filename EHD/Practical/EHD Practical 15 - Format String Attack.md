@@ -84,8 +84,13 @@ int main() {
 	int count;
 	printf("12345%n\n", &count);
 	printf("Count: %d\n", count);
-	printf("12345 67890%n\n",&count);
+	printf("12345 67890%n\n"); // remove &count
 	printf("Count :%d\n", count);
 	return 0;
 }
 ```
+
+6. Run the program without parameters. The program will attempt to write the number 11 into the address at the top of the stack. This may cause the program to crash
+
+## Using Format String Vulnerabilities to Change the Values of Local Variables
+1. Create the following C program `formatstr3.c`
