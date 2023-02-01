@@ -382,3 +382,11 @@ dr rip = 0x5588763fe29e
 ```
 
 7. Continue running the program. The program will go straight to the `access_granted` function, skipping the `check_password` function
+8. Rerun the `getcode` program
+9. Run the following command to view the disassembled code of the `check_password` function
+```
+pdf @sym.check_password
+```
+![](https://i.imgur.com/kw8C2Yj.png)
+
+10. Continue running the program and when asked for the password, enter "picture"
