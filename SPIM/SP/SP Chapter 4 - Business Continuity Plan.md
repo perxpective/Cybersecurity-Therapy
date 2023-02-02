@@ -173,4 +173,16 @@
 - **Classification of BFs and Systems**
 	- **Critical** - absolutely must be in place for any business process to continue at all
 	- **Essential** - must be in place to support day-to-day operations
-	- **Necessary** - contribute to the smooth operations and comf
+	- **Necessary** - contribute to the smooth operations and comfortable working conditions of employees
+	- Improve working conditions and help to enhance the organisation's performance
+- **Terminologies**
+	- **MTD**
+		- Maximum period of time given business process can be inoperative before the organisation's survival is at risk
+	- **MAO**
+		- Timeframe during which a recovery must become effective before an outage compromises ability of an organisation to achieve its business objectives 
+	- Recovery Time Objective (RTO)
+	- Maximum Allowable Downtime (MAD)
+	- **Continuity Requirements Analysis**
+		- MBCO
+		- Maximum Tolerable Data Loss (MTDL)
+		- Recovery Point Objective (RPO)
