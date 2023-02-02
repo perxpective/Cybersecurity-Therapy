@@ -283,4 +283,16 @@
 - BCP refers to plans about how a business should plan for continuing in case of a disaster
 - DR refers to how the IT elements should recover in case of a disaster
 - BCP allows a business to plan in advance what it needs to do to ensure that its key products and services continue to be delivered at a predefined level in case of a disaster
-- DR allow
+- DR allows a business to plan what needs to be done immediately after a disaster to recover from the event
+
+## DR Planning (DRP)
+- Process of developing advanced arrangements and procedure that enable an organisation to respond to a disaster and resume the critical business applications within a predetermined period of time
+- Minimise the amount of loss and repair the damaged facilities as soon as possible
+- Identifies:
+	- Actions before, during and after a disaster
+	- Disaster Recovery Team
+	- Priorities for restoring critical systems and applications
+
+## DR Plan
+- Document that describes how an organisation is to deal with potential disasters that will disrupt IT services
+- Defines the resources, actions, tasks and data required to manage the bu
