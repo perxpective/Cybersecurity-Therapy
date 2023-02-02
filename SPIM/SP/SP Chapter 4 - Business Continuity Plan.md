@@ -271,4 +271,12 @@
 	- Organisation should determine its requirements for information security and continuity oof information security management in adverse situation
 - <u>Implementing information security continuity</u>
 	- Organisation should establish, document, implement and maintain processes, procedures and controls to ensure the required level of continuity for information security during an adverse situation
-- 
+- <u>Verify, review and evaluate information security continuity</u>
+	- Organisation should verify established and implemented information security continuity controls at regular intervals in order to ensure that they are valid and effective during adverse situations
+
+## Business Continuity vs Disaster Recovery
+| Business Continuity                                                                                                                  | Disaster Recovery                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Capability of organisation to continue delivery of products or services at acceptable predefined levels following a disruptive event | Ability of ICT elements of an organisation to support its critical business functions to an acceptable level within a predetermined period of time following a disruption |
+
+- Immediate intervention taken by an or
