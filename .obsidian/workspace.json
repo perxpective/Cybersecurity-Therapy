@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65b49185c1480dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "387363bf2060a2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65b49185c1480dff",
+  "active": "387363bf2060a2d5",
   "lastOpenFiles": [
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
+    "SPIM/SP/Untitled.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
-    "SC/SC Topic 4 - SQL Injection.md",
-    "SC/SC Topic 7 - Preventing SQL Injections.md"
+    "SC/SC Topic 4 - SQL Injection.md"
   ]
 }
