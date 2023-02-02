@@ -279,4 +279,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Capability of organisation to continue delivery of products or services at acceptable predefined levels following a disruptive event | Ability of ICT elements of an organisation to support its critical business functions to an acceptable level within a predetermined period of time following a disruption |
 
-- Immediate intervention taken by an or
+- Immediate intervention taken by an organisation to minimise further losses brought on by a disaster and to begin the process of recovery, including activities and programmes designed to restore CBFs and return the organisation to an acceptable condition
+- BCP refers to plans about how a business should plan for continuing in case of a disaster
+- DR refers to how the IT elements should recover in case of a disaster
+- BCP allows a business to plan in advance what it needs to do to ensure that its key products and services continue to be delivered at a predefined level in case of a disaster
+- DR allow
