@@ -240,4 +240,14 @@
 - **Awareness**
 - **Training**
 	- Ongoing training
-	- Part of 
+	- Part of standard onboarding
+	- Part of corporate culture
+- **Importance of Testing BC Plan**
+	- Ensures that the plan works
+	- Personnel involved may change
+	- Environment (assets, systems, services, regulations, contractual agreements may change)
+		- New business department or product-line
+		- New software or IT services
+		- New building, equipment, production system
+		- Contractors and sub-contractors
+		- M&A
