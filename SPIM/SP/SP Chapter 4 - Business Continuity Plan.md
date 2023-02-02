@@ -160,11 +160,17 @@
 	- Choose information gathering methods (surveys, interviews, software tools)
 	- Select interviewees
 	- Customize questionnaire
-	- Analyse inforamtion
+	- Analyse information
 	- Identify time-critical business functions
 	- Assignment of MBCO and MTD
 	- Rank CBFs by MBCO and MTDs
 	- Report recovery options
 	- Obtain management approval
 - **Classifications of Systems**
-	- To examine and 
+	- To examine and prioritise functions and systems to be recovered or replicated
+	- **CBFs**
+		- Business activities and processes that must not be disrupted such that they impact the ability to protect the organisation's assets, meet organisational needs and satisfy regulations
+- **Classification of BFs and Systems**
+	- **Critical** - absolutely must be in place for any business process to continue at all
+	- **Essential** - must be in place to support day-to-day operations
+	- **Necessary** - contribute to the smooth operations and comf
