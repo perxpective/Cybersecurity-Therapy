@@ -60,4 +60,18 @@
 	- Good governance
 	- Nimble to IT and Information Security responses
 	- Up-to-date and well-tested public relations policies with key issues decided in advance
-	- Crisis 
+	- Crisis preparedness
+	- Human relations responses
+	- Investigative and forensic capability
+	- Ability to share information
+	- Legal responses
+
+## Three Components of Cyber Resiliency
+### Resilience
+- Capability of an organisation to continue its minimum BC objective (MBCO) if not immediately then very quickly when it has suffer from a disaster or crisis
+- The ability of an organisation to absorb the impact due to risk occurrence and to continue to operate in such a way as to achieve its MBCO
+- The ability of an organisation to resist being affected by an incident
+
+### MBCO
+- Minimum level of service and/or products that is acceptable to the organisation to achieve its business objectives during an incident, emergency or disaster
+- Set by the Executive Management of the organ
