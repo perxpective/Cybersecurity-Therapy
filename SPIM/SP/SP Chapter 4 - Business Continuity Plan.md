@@ -84,4 +84,15 @@
 > Crisis is a situation where organisations shift from routine to non-routine operations
 - Management is required to divert a proportion of their attention, time, energy and resources away from normal operations to managing this event.
 - Events or incidents may turn out to be non-issues and life goes on
-- An incident or issue may be resolved easily withou
+- An incident or issue may be resolved easily without escalation or leading to a problem or disaster
+- A problem can be declared a disaster if it failed to be resolved or meet certain requirements within a stated time limit
+- As an event escalates, additional resources and authorization will be deployed
+
+### Crisis/Event Levels
+| Level    | Description                                                                                                                                                                                                                      |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Event    | Occurrence or change of a particular set of circumstances                                                                                                                                                                        |
+| Incident | Occurrence by change or due to combination of unforeseen circumstances which if not handled in an appropriate manner can escalate into a disaster                                                                                |
+| Disaster | Sudden, unplanned calamitous event that causes great damage or serious loss to an organisation resulting in an organisation failing to provide Critical Business Functions (CBFs) for some pre-determined minimum period of time |
+
+- **Balancing the number oo**
