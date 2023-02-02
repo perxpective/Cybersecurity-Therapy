@@ -313,6 +313,16 @@
 10. Test
 
 ### DRP Audit
-- Audit Objective
+- <u>Audit Objective</u>
 	- Verify that the DR plan is adequate for dealing with disasters
-- Audit Pro
+- <u>Audit Procedures</u>
+	- Evaluate adequacy of backup sites and processes and resources
+	- Review list of critical systems and applications for completeness and currency
+	- Verify that procedures are in place for storing offsite copies of applications and data
+	- Check backups and copies currency
+	- Verify that Disaster Recovery Team knows its responsibilities
+	- Check frequency of testing the DR Plan
+- Major DR Controls Concerns
+	- Backups
+	- DR Team
+	- Testing the DR Plan regularly
