@@ -74,4 +74,5 @@
 
 ### MBCO
 - Minimum level of service and/or products that is acceptable to the organisation to achieve its business objectives during an incident, emergency or disaster
-- Set by the Executive Management of the organ
+- Set by the Executive Management of the organisation and can be influenced by current regulatory requirements or industry practices
+- The management specification of what this level should be from a policy 
