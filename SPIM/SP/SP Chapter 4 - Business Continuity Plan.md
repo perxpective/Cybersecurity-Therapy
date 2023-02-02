@@ -130,4 +130,14 @@
 - Comprises clearly of defined and documented procedures and information for use when a disaster occurs
 - Guide organisations to reduce, respond, recover, resume, restore and return to full recovery
 - Covers key personnel, resources, services and actions required to ensure CBFs can continue within planned levels of disruption
-- An ongoing process supported by senior management and fun
+- An ongoing process supported by senior management and funded to ensure that the necessary steps are taken to identify the impact of potential losses, maintain viable recovery strategies and plans and ensure the continuity of operations through personnel training, plan testing and maintenance
+- **Scope**
+	- All aspects of the organisation
+	- Networks, power, personnel
+	- Distributed operations
+
+### BC Management (BCM) and Lifecycle
+![](https://i.imgur.com/QUBa0ow.png)
+
+- An organisation-wide discipline and a holistic management process that identifies potential impacts to an organisation and impacts to business operations that those threats might cause
+- Provides a framework for building organisational resilience with the capability for an effective response that safeguards the interest of its key stakeholders, reputation, brand and value-creating ac
