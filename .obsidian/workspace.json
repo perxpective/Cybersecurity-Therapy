@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "899e830e21289759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -156,11 +168,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "387363bf2060a2d5",
+  "active": "899e830e21289759",
   "lastOpenFiles": [
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
-    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
     "SPIM/SP/Untitled.md",
+    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",

@@ -37,4 +37,18 @@
 	- Water damage
 	- Natural disaster
 	- Staff shortage
-- 
+- **Man-Made**
+	- War
+	- Criminal intent
+	- Accidental
+	- Cyber Attack
+- System Failure
+
+## Cyber Resiliency
+> Organisation's capability to withstand negative impacts due to known, predictable, unknown, unpredictable, uncertain and unexpected threats from activities in cyberspace
+
+### Beyond Risk Management
+- **Risk management** focuses on achieving security through management and control of known risks
+- Rapid evolution of opportunities and risks in cyberspace is outpacing this approach and it no longer provides the protection needed for an organisation to succeed
+- Organisations must extend risk management to include risk resiliency
+	- Enables organisations to manage, respo
