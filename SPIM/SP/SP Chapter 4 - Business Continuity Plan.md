@@ -202,3 +202,24 @@
 - Predefined
 - Recovery strategies based on MBCO and MTD
 - Driven by Business Requirements
+- Different Technical Strategies
+- Careful Cost-Benefit Analysis
+- Metrics and Decision Trees
+- Management Approved
+- <u>Strategies should address the recovery of:</u>
+	- Business functions and operations
+	- Facilities and supplies
+	- Network
+	- Data
+	- Users
+
+#### Plan, Design and Development
+- Detail Plan for Recovery
+	- Business and Service Recovery Plans
+	- Maintenance, Awareness and Training Planning
+- Plan Phases
+	- Initial Disaster Response
+	- Resume CBFs/Critical Operations
+	- Resume Non-Critical BFs/Operations
+	- Restoration
+	- Interaction with
