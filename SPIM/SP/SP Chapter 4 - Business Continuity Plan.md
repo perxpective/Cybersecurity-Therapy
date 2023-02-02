@@ -112,4 +112,19 @@
 ## BC Policy Strategy
 - Identifies potential impacts to BFs and/or assets
 - Create a framework for resilience and response capabilities
-- Safe
+- Safeguard interests of key stakeholders
+
+### BC Planning (BCP)
+- Process of developing prior arrangements and procedures that enable an organisation to response to an event in such a manner that CBFs can continue within planned levels of disruption
+- **Domains addressed:**
+	- Continuation of CBFs and critical processes when a high severity event destroys business services and/or data processing capabilities
+	- Preparation, Testing and Maintenance of specific actions to recover to normal processing
+- **Objectives**
+	- End result of BCP is the BC Plan
+	- Create a document, test and update the plan that will:
+		- Allow timely recovery of CBFs
+		- Minimise loss
+		- Meet legal, regulatory and contractual requirements
+
+### BC Plan
+- Comprises clearly of defined and documented procedures and infor
