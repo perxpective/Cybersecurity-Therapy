@@ -140,4 +140,23 @@
 ![](https://i.imgur.com/QUBa0ow.png)
 
 - An organisation-wide discipline and a holistic management process that identifies potential impacts to an organisation and impacts to business operations that those threats might cause
-- Provides a framework for building organisational resilience with the capability for an effective response that safeguards the interest of its key stakeholders, reputation, brand and value-creating ac
+- Provides a framework for building organisational resilience with the capability for an effective response that safeguards the interest of its key stakeholders, reputation, brand and value-creating activities
+
+### BCP Phases
+#### Project Management and Initiation
+- Get management support
+- Establish team (functional, technical, BC coordinator)
+- Create a work plan (scope, goals, methods, timeline)
+- Establish needs (risk analysis)
+- Initial report to Management
+- Obtain Management approval to proceed
+
+#### Business Impact Analysis (BIA)
+- **Goal**
+	- Obtain formal agreement with senior management on the MBCO, Maximum Tolerable downtime for each time-critical business function
+- Quantifies loss due to business outage (financial, extra cost of recovery, embarrassment)
+- Does not estimate the probability of the kinds of incidents, only quantifies the consequences
+- **Phases**
+	- Choose information gathering methods (surveys, interviews, software tools)
+	- Select interviewees
+	- Customize 
