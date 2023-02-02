@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
+                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c74ea2fde7a6a81",
+            "id": "387363bf2060a2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 15 - Format String Attack.md",
+                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Practical 15 - Format String Attack.md",
+                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Practical 15 - Format String Attack.md"
+                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md"
               }
             }
           },
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Practical 15 - Format String Attack.md",
+                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c74ea2fde7a6a81",
+  "active": "387363bf2060a2d5",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
+    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
+    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
-    "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
-    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md"
+    "SPIM/SP/SP Chapter 3 - Data Security Policy.md"
   ]
 }
