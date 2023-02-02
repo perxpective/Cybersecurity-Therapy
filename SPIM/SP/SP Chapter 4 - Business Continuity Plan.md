@@ -166,3 +166,5 @@
 	- Rank CBFs by MBCO and MTDs
 	- Report recovery options
 	- Obtain management approval
+- **Classifications of Systems**
+	- To examine and 
