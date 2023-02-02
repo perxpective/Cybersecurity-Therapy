@@ -159,4 +159,10 @@
 - **Phases**
 	- Choose information gathering methods (surveys, interviews, software tools)
 	- Select interviewees
-	- Customize 
+	- Customize questionnaire
+	- Analyse inforamtion
+	- Identify time-critical business functions
+	- Assignment of MBCO and MTD
+	- Rank CBFs by MBCO and MTDs
+	- Report recovery options
+	- Obtain management approval
