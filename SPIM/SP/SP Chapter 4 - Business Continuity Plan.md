@@ -214,12 +214,30 @@
 	- Users
 
 #### Plan, Design and Development
-- Detail Plan for Recovery
+- <u>Detail Plan for Recovery</u>
 	- Business and Service Recovery Plans
 	- Maintenance, Awareness and Training Planning
-- Plan Phases
+- <u>Plan Phases</u>
 	- Initial Disaster Response
 	- Resume CBFs/Critical Operations
 	- Resume Non-Critical BFs/Operations
 	- Restoration
-	- Interaction with
+	- Interaction with External Groups
+
+#### Testing, Maintenance, Awareness and Training
+- **Testing**
+	- Checklist
+	- Structure Walkthrough
+	- Simulation
+	- Parallel
+	- Full-Interruption
+- **Maintenance**
+	- Fix problems found in tests
+	- Implement change management
+	- Audit and address audit findings
+	- Annual review of plan
+	- Build plan into organisation
+- **Awareness**
+- **Training**
+	- Ongoing training
+	- Part of 
