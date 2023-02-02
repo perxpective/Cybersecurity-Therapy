@@ -51,4 +51,13 @@
 - **Risk management** focuses on achieving security through management and control of known risks
 - Rapid evolution of opportunities and risks in cyberspace is outpacing this approach and it no longer provides the protection needed for an organisation to succeed
 - Organisations must extend risk management to include risk resiliency
-	- Enables organisations to manage, respo
+	- Enables organisations to manage, response and withstand the impact of activity in cyberspace
+
+### Multi-Pronged Response Needed
+- Cyber resilience requires recognition that organisations must prepare now to deal with severe impacts from cyber threats that cannot be predicted or prevented
+- Requires high levels of partnering and collaboration, including external and internal collaborations
+- Requires that organisations have the agility to prevent, detect and respond quickly and effectively not just to incidents but also to the consequences of the incidents
+	- Good governance
+	- Nimble to IT and Information Security responses
+	- Up-to-date and well-tested public relations policies with key issues decided in advance
+	- Crisis 
