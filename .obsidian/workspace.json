@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md"
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +182,8 @@
   },
   "active": "4845bfb2d69b7100",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
