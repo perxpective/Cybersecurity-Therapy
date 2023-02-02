@@ -295,4 +295,24 @@
 
 ## DR Plan
 - Document that describes how an organisation is to deal with potential disasters that will disrupt IT services
-- Defines the resources, actions, tasks and data required to manage the bu
+- Defines the resources, actions, tasks and data required to manage the business recovery process in the event of a business interruption
+- Designed to assist in restoring the business process within the state DR goals
+- Clearly defined and documented plan which recovers from IT and telecommunications capabilities when a disaster occurs
+- Covers key personnel, resources, services and actions required to be carried out to ensure that IT systems for CBFs can continue within planned levels of disruption
+
+### DR Phases
+1. Critical Applications
+2. Create DR Team
+3. Site Backup
+4. Hardware Backup
+5. System Backup
+6. Application Software Backup
+7. Data Backup
+8. Supplies
+9. Documentation
+10. Test
+
+### DRP Audit
+- Audit Objective
+	- Verify that the DR plan is adequate for dealing with disasters
+- Audit Pro
