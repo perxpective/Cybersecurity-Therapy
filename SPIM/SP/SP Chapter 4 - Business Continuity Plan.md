@@ -127,4 +127,6 @@
 		- Meet legal, regulatory and contractual requirements
 
 ### BC Plan
-- Comprises clearly of defined and documented procedures and infor
+- Comprises clearly of defined and documented procedures and information for use when a disaster occurs
+- Guide organisations to reduce, respond, recover, resume, restore and return to full recovery
+- Covers key personnel, resources, services and actions required to ensure CBFs can continue within planned levels of disruption
