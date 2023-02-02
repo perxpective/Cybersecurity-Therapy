@@ -251,3 +251,24 @@
 		- New building, equipment, production system
 		- Contractors and sub-contractors
 		- M&A
+		- Public listing status
+
+## ISO 22301 BCMS
+1. Score and Applicability
+2. Terms and Definitions
+3. Overview of BCM
+4. BCM Policy
+5. BCM Programme Management
+6. Understanding the Organisation
+7. Determining BCM Strategies
+8. Developing and Implementing a BCM Response
+9. Exercising, Maintenance, Audit and Self-Assessment of BCM Culture
+10. Embedding BCM into the Organisations Culture
+
+## Information Security Continuity in BCM
+- Should be embedded in the organisation's BCMS
+- <u>Planning information security continuity</u>
+	- Organisation should determine its requirements for information security and continuity oof information security management in adverse situation
+- <u>Implementing information security continuity</u>
+	- Organisation should establish, document, implement and maintain processes, procedures and controls to ensure the required level of continuity for information security during an adverse situation
+- 
