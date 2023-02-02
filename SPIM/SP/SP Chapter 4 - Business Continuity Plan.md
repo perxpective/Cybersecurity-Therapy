@@ -183,8 +183,9 @@
 		- Maximum period of time that an organisation can tolerate disruption of CBFs before achievement of objectives is adversely affected
 	- **Recovery Time Objective (RTO)**
 		- Maximum acceptable length of time that can elapse before the lack of business function severely impacts the organisation
-	- Maximum Allowable Downtime (MAD)
-	- **Continuity Requirements Analysis**
+	- **Maximum Allowable Downtime (MAD)**
+		- Absolute maximum time that the system can be unavailable without direct or indirect ramifications to the organisation
+ - **Continuity Requirements Analysis**
 		- MBCO
 		- Maximum Tolerable Data Loss (MTDL)
 		- Recovery Point Objective (RPO)
