@@ -75,4 +75,13 @@
 ### MBCO
 - Minimum level of service and/or products that is acceptable to the organisation to achieve its business objectives during an incident, emergency or disaster
 - Set by the Executive Management of the organisation and can be influenced by current regulatory requirements or industry practices
-- The management specification of what this level should be from a policy 
+- The management specification of what this level should be from a policy perspective
+
+### BC
+- Capability of the organisation to continue delivery of products or services at acceptable predefined levels following a disruptive incident
+
+## Event/Crisis Level/Severity
+> Crisis is a situation where organisations shift from routine to non-routine operations
+- Management is required to divert a proportion of their attention, time, energy and resources away from normal operations to managing this event.
+- Events or incidents may turn out to be non-issues and life goes on
+- An incident or issue may be resolved easily withou
