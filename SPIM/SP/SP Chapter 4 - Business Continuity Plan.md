@@ -179,8 +179,10 @@
 	- **MTD**
 		- Maximum period of time given business process can be inoperative before the organisation's survival is at risk
 	- **MAO**
-		- Timeframe during which a recovery must become effective before an outage compromises ability of an organisation to achieve its business objectives 
-	- Recovery Time Objective (RTO)
+		- Timeframe during which a recovery must become effective before an outage compromises ability of an organisation to achieve its business objectives or survival
+		- Maximum period of time that an organisation can tolerate disruption of CBFs before achievement of objectives is adversely affected
+	- **Recovery Time Objective (RTO)**
+		- Maximum acceptable length of time that can elapse before the lack of business function severely impacts the organisation
 	- Maximum Allowable Downtime (MAD)
 	- **Continuity Requirements Analysis**
 		- MBCO
