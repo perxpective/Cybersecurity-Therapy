@@ -95,4 +95,21 @@
 | Incident | Occurrence by change or due to combination of unforeseen circumstances which if not handled in an appropriate manner can escalate into a disaster                                                                                |
 | Disaster | Sudden, unplanned calamitous event that causes great damage or serious loss to an organisation resulting in an organisation failing to provide Critical Business Functions (CBFs) for some pre-determined minimum period of time |
 
-- **Balancing the number oo**
+- **Balancing the number of crisis/events levels**
+	- Too many: cognitive overload in determining crisis/event level versus managing the incident
+	- Too little: inappropriate level of response to perceived incident
+
+### Crisis/Event Level Escalation
+- <u>Three Determining Factors of Crisis/Event Level</u>
+	- Business Functions (BFs) and/or assets affected
+	- Time
+	- Resources Needed
+- <u>Criteria for Crisis/Event Level Escalation</u>
+	- Criticality of and impact to the business function and asset
+	- Pre-defined time to fix
+	- Resources and/or authorization required to fix
+
+## BC Policy Strategy
+- Identifies potential impacts to BFs and/or assets
+- Create a framework for resilience and response capabilities
+- Safe
