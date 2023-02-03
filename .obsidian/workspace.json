@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,15 +182,15 @@
   },
   "active": "4845bfb2d69b7100",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 15 - Format String Attack.md",
+    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
-    "EHD/Practical/EHD Practical 15 - Format String Attack.md",
-    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
-    "SC/SC Topic 9 - CSRF.md",
-    "SC/SC Topic 6 - XSS Prevention.md"
+    "SC/SC Topic 9 - CSRF.md"
   ]
 }
