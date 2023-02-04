@@ -145,3 +145,11 @@ Based on the following:
 	- Request Security
 	- Require Security
 - Administrator may construct or customise specific filter actions
+- IPSec policies can be managed in two ways:
+	- Creating a new policy and define the set of rules for the policy, adding filter lists and filter actions as required
+	- First create the set of filter lists and filter actions and then create the policies and add rules that combine the filter lists with filter actions
+
+## Authentication Methods for IPSec
+- If the connection matches the filter IKE (Phase 1) will be invoked for intial authentication
+- <u>Available Authentication Methods:</u>
+	- Kerberos 
