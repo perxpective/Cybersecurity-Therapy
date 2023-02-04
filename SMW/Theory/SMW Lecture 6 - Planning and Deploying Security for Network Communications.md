@@ -81,4 +81,8 @@ Based on the following:
 		- Multicast and broadcast traffic is unsupported
 		- Network tools that need to inspect packet headers may not work
 
-### Solutions 
+### IPSec Security Solutions
+| Concern                                                                | Solution                                                                                                                                                                |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attacks using specific protocols or ports or Denial of Service attacks | Use IPSec traffic blocking, packet filtering or policy filter lists allowing only traffic from trusted sources over specified protocols to specific addresses and ports |
+|                                                                        |                                                                                                                                                                         |
