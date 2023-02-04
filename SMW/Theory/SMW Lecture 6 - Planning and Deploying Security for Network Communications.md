@@ -194,4 +194,3 @@ Based on the following:
 	- Symmetric key encryption
 	- Public key encryption
 - Lifetime settings determine when a new key is generate
-- 
