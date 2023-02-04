@@ -257,3 +257,19 @@ Based on the following:
 	- Create and apply an IPSec policy at the domain level to provide a baseline of IPSec protection
 	- Use the Export and Import policies commands in the IP Security Policy Management console to back up and restore the IPSec policy objects
 	- Be sure to adequately test the impact of the new IPSec policies before assigning them in the domain
+
+### Understanding Default IPSec Policies
+- **Client (Respond Only)**
+	- Secure communication only if the other computer requests for it
+- **Server (Request Security)**
+	- Accepts initial incoming communication that is unsecured
+	- Requests for communication to be secured
+	- Carry on with unsecured connection if client does not support
+- **Secure Server (Require Security)**
+	- Accept initial inbound communication that is unsecured
+	- Requires that all connections be secured
+
+### Understanding IPSec Policy Precedence
+- Possible to configure IPSec for multiple containers that will affect a computer
+- Only one IPSec policy can be assigned to one computer at a time
+- If there are multiple IPSec policies
