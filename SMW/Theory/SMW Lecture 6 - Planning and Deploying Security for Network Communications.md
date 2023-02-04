@@ -275,7 +275,12 @@ Based on the following:
 - If there are multiple IPSec policies assigned at different levels, the last one takes effect
 - Precedence sequence: local GPO, site, domain and OU
 - Default order can be overridden using Enforced or Block Policy Inheritance
-- When troubleshooting IPSec policies and their precedence:
+- <u>When troubleshooting IPSec policies and their precedence:</u>
 	- Only a single IPSec policy can be assigned at a specific level in Active Directory
 	- IPSec policy assigned to an OU takes precedence over a domain-level policy for members of that OU
-	- IPSec policies from different organisational units are never merge
+	- IPSec policies from different organisational units are never merged
+	- OU inherits policy of its parent OU unless the policy inheritance is explicitly blocked or separate policy is explicitly assigned to that OU
+	- Before assigning an IPSec policy to a GPO, verify that the group policy settings that are required for IPSec policy
+	- Use the Enforced and Block Policy Inheritance features carefully
+- <u>Procedure for deleting policy objects:</u>
+	- Unassign IPSec policy in the GPO
