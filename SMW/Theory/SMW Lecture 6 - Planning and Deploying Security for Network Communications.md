@@ -239,6 +239,18 @@ Based on the following:
 
 ## Deploying IPSec Policies
 - Can be deployed using the following:
-	- Local policy objects
+	- <u>Local policy objects</u>
 		- A way to enable IPSec for computers that are not members of a domain
-	- 
+	- <u>Group policy objects</u>
+		- IPSec policy is propagated to any computer accounts that are affected by the GPO
+	- <u>Command-line tools</u>
+		- `netsh` IPSec command in Windows Server 2003/2008
+- Starting from Windows Server 2016, IPSec configurations can be done via Windows Defender Firewall Advanced Security Settings (WFAS)
+
+### Using Group Policy Objects
+- <u>Factors to consider when selecting GPOs for IPSec policy assignments</u>
+	- Assignment precedence for IPSec policies from lowest to highest is local, site, domain and OU
+	- Persistent IPSec policy has the highest precedence of all although it is stored on the local computer
+		- Persistent IPSec policy is effective even other policies cannot be applied
+	- IPSec policies from different OUs are never merged
+	- For domain-based IPSec policy, limit the number of rules to 10 or less
