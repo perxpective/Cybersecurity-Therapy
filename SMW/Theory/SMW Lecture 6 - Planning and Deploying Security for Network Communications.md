@@ -81,7 +81,8 @@ Based on the following:
 		- Multicast and broadcast traffic is unsupported
 		- Network tools that need to inspect packet headers may not work
 
-### IPSec Security Solutions
+**IPSec Security Solutions**
+
 | Concern                                                                | Solution                                                                                                                                                                |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Attacks using specific protocols or ports or Denial of Service attacks | Use IPSec traffic blocking, packet filtering or policy filter lists allowing only traffic from trusted sources over specified protocols to specific addresses and ports |
@@ -89,6 +90,16 @@ Based on the following:
 | Identity spoofing                                                      | Use Kerberos, public key certificates or pre-shared key authentication to verify the identity of the computer                                                           |
 | Modification of data                                                   | Use cryptographic checksum that incorporates secret key to provide data integrity                                                                                       |
 
-### Proper Usage of IPSec
-- Packet filtering e.g. using IPSec with routing and Remote Access service to permit or block inbound or outbound traffic
-- Securing host-to-host traffic on spe
+- **Proper Usage of IPSec**
+	- Packet filtering e.g. using IPSec with routing and Remote Access service to permit or block inbound or outbound traffic
+	- Securing host-to-host traffic on specific paths
+	- Securing traffic to servers
+	- Combining L2TP and IPSec for securing VPN scenarios
+	- Incorporating site-to-site or gateway-to-gateway tunnelling
+
+> - In a simple networks structure, a single IPSec policy can be designed that may contain multiple rules
+> - In a large environment, many different IPSec policies may be designed
+
+- **Factors that increase the number of policies required:**
+	- Computer Roles
+	- Se
