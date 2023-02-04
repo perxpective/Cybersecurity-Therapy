@@ -66,4 +66,19 @@ Based on the following:
 	- Network inspection technologies used in routers, firewalls, intrusion detection systems (IDS) may not work on IPSec packets
 	- Application compatibility with other platforms
 	- Effect on Active Directory and domain controller connections
-	- 
+
+## Planning an IPSec Deployment
+- The configuration of IPSec is based on:
+	- The way IPSec is used
+	- Types of client operating system in network
+	- Types of network devices in network
+- **IPSec is not recommended for the following:**
+	- Securing communication between domain members and domain controllers
+		- Reduces network performance
+		- Configuration of IPSec policy is complicated
+	- Securing all traffic in a network
+		- Reduces network performance
+		- Multicast and broadcast traffic is unsupported
+		- Network tools that need to inspect packet headers may not work
+
+### Solutions 
