@@ -210,8 +210,14 @@ Based on the following:
 	- uses 168-bit key, provides medium and high security networks
 
 ### IPSec Protocols
-| Requirement                                                                                  | Protocol | Solution                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data and header need to be authenticated and protected from modification but remain readable | AH       | Use in situations where data is not confidential but must be authenticated or where network intrusion detection or firewall filtering requires traffic inspection |
-| Only data needs to be protected so its unreadable but IP addressing can be left unprotected  | ESP      | Use when data must be kept confidential such as file sharing, database traffic or internal web applications that have not been adequately secured                 |
-| Both the header and data need to be protg                                                                                             |          |                                                                                                                                                                   |
+| Requirement                                                                                  | Protocol   | Solution                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Data and header need to be authenticated and protected from modification but remain readable | AH         | Use in situations where data is not confidential but must be authenticated or where network intrusion detection or firewall filtering requires traffic inspection |
+| Only data needs to be protected so its unreadable but IP addressing can be left unprotected  | ESP        | Use when data must be kept confidential such as file sharing, database traffic or internal web applications that have not been adequately secured                 |
+| Both the header and data need to be protected while data is encrypted                        | AH and ESP | Use for the highest security and if possible, use ESP alone instead                                                                                               |
+
+**AH Transport Mode**
+![](https://i.imgur.com/PBkedOn.png)
+
+**ESP Transport Mode**
+![](https://i.imgur.com/T9e8c6W.png)
