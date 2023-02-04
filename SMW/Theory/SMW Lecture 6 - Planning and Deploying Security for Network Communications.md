@@ -222,3 +222,9 @@ Based on the following:
 **ESP Transport Mode**
 ![](https://i.imgur.com/T9e8c6W.png)
 
+- Tunnel mode uses double encapsulation
+	- suitable for protecting traffic between network systems e.g. untrusted medium like the Internet
+	- **AH Tunnel Mode:**
+		- encapsulates IP packet by placing an AH header between internal IP header and external IP header
+	- **ESP Tunnel Mode:**
+		- IP packet is the first encapsulated with an ESP header, then the result is encapsulated with an additional IP header

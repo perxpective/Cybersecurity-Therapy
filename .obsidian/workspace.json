@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6045f4ac4154a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -156,8 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8740335ad0454c0",
+  "active": "d6045f4ac4154a72",
   "lastOpenFiles": [
+    "SMW/Theory/Untitled.md",
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
@@ -165,8 +179,6 @@
     "SC/SC Topic 9 - CSRF.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
-    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-    "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
-    "EHD/Practical/EHD Cheat Sheet (Web Application).md"
+    "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md"
   ]
 }
