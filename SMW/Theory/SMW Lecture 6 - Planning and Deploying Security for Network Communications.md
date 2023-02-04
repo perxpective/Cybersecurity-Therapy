@@ -102,4 +102,23 @@ Based on the following:
 
 - **Factors that increase the number of policies required:**
 	- Computer Roles
-	- Se
+	- Sensitivity of data travelling over the network
+	- Computer operating systems
+	- Domain relationships and memberships
+	- Number of applications that require IPSec
+
+### Five Elements that Make Up a Rule
+- Each IPSec Policy may consist of multiple rules
+- <u>Each rule contains 5 configurable elements:</u>
+	- Connection Type (LAN, Remote, ALL)
+	- Mode (Transport or Tunnel)
+	- Filter List
+	- Host to Host Authentication Method (used by IKE Phase 1)
+	- Filter Action (choice of AH/ESP)
+		- Negotiated in IKE Phase 2 and carried out the agreed scheme in the actual traffic
+
+### Deciding which IPSec Mode to Use
+| Transport Mode                                                                                    | Tunnel Mode                                    |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Used to secure communications within a network and it can be server-to-server or server-to-client | Used to secure communications between networks |
+|                                                                                                   |                                                |
