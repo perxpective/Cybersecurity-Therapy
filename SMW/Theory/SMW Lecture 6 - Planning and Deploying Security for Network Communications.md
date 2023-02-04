@@ -217,10 +217,12 @@ Based on the following:
 | Both the header and data need to be protected while data is encrypted                        | AH and ESP | Use for the highest security and if possible, use ESP alone instead                                                                                               |
 
 **AH Transport Mode**
-![](https://i.imgur.com/PBkedOn.png)
+![](https://i.imgur.com/ICxKYpV.png)
+
 
 **ESP Transport Mode**
-![](https://i.imgur.com/T9e8c6W.png)
+![](https://i.imgur.com/78ZapBF.png)
+
 
 - Tunnel mode uses double encapsulation
 	- suitable for protecting traffic between network systems e.g. untrusted medium like the Internet
@@ -228,3 +230,15 @@ Based on the following:
 		- encapsulates IP packet by placing an AH header between internal IP header and external IP header
 	- **ESP Tunnel Mode:**
 		- IP packet is the first encapsulated with an ESP header, then the result is encapsulated with an additional IP header
+
+<u>AH Tunnel Mode</u>
+![](https://i.imgur.com/syCbZbu.png)
+
+<u>ESP Tunnel Mode</u>
+![](https://i.imgur.com/suPGkMv.png)
+
+## Deploying IPSec Policies
+- Can be deployed using the following:
+	- Local policy objects
+		- A way to enable IPSec for computers that are not members of a domain
+	- 
