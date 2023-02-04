@@ -135,3 +135,13 @@ Based on the following:
 - **Caveat**
 	- System configured with IPSec may not apply the expected security scheme because the filter is set wrongly
 	- When the network traffic does not match the IPSec, it will not be blocked but it will just pass through
+- Filter list identifies traffic based on its source, destination and protocol
+- <u>Examples with Windows 2003 and Windows 2008:</u>
+	- All ICMP traffic
+	- All IP traffic
+- Filter action is set for each type of traffic as identified by a filter list
+- <u>Examples with Windows 2003 and Windows 2008:</u>
+	- Permit
+	- Request Security
+	- Require Security
+- Administrator may construct or customise specific filter actions
