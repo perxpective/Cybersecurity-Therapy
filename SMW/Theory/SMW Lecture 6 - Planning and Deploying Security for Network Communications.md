@@ -287,3 +287,8 @@ Based on the following:
 	- Wait 24 hours to ensure that change is propogated
 	- Delete the GPO
 - Persistent policy
+	- Provides maximum protection against attacks during computer startup
+	- Adds to or overrides local or Active Directory policy
+	- Remains in effect regardless of whether other policies are applied
+	- Provides backup security in case IPSec policy gets corrupted or if errors occur
+	- Can be set using command line tools like `netsh` at the local station
