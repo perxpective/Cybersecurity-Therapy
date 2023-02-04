@@ -188,3 +188,10 @@ Based on the following:
 	- Permit
 	- Block
 	- Negotiate Security (will be carried out at Phase 2 of IKE)
+
+### Encryption Levels
+- Two categories of encryption:
+	- Symmetric key encryption
+	- Public key encryption
+- Lifetime settings determine when a new key is generate
+- 
