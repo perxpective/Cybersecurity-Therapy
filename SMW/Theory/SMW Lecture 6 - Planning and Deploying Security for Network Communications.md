@@ -194,3 +194,16 @@ Based on the following:
 	- Symmetric key encryption
 	- Public key encryption
 - Lifetime settings determine when a new key is generate
+
+#### Hashing
+> Used to support AH (Authentication Traffic)
+- Secure Hash Algorithm (SHA)
+	- uses 160-but encryption key, very high security method
+- Message Digest 5 (MD5)
+	- uses 128-bit encryption key, lower performance than SHA
+
+#### Encryption
+- Data Encryption Standard (DES)
+	- uses 56-bit key but not recommended for high security
+- Triple DES (3DES)
+	- uses 168-bit key, provides medium and high secuirty ne
