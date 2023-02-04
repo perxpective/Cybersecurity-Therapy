@@ -118,7 +118,17 @@ Based on the following:
 		- Negotiated in IKE Phase 2 and carried out the agreed scheme in the actual traffic
 
 ### Deciding which IPSec Mode to Use
-| Transport Mode                                                                                    | Tunnel Mode                                    |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| Used to secure communications within a network and it can be server-to-server or server-to-client | Used to secure communications between networks |
-|                                                                                                   |                                                |
+| Transport Mode                                                                                    | Tunnel Mode                                                                                                        |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Used to secure communications within a network and it can be server-to-server or server-to-client | Used to secure communications between networks                                                                     |
+| IPSec provides end-to-end policy                                                                  | Primarily used for interoperability with gateways or end systems that do not support L2TP site-to-site connections |
+
+- In the simplest case, IPSec protection caters to systems within a LAN
+- By default, use transport mode
+- However, when the connections involve WANs, tunnel mode is preferable
+
+## IPSec Filters
+- Specification in the IPSec rule that is used to match IP packets
+- Filters are grouped together in a systemwide filter list
+- In the IPSec rule properties setting, systemwide filter list will be available for the choice of the filter
+- Packets which match a filter will be applied with the associated filter actions e.g. 
