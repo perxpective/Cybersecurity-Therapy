@@ -156,7 +156,8 @@ Based on the following:
 	- Certificates (requires PKI)
 	- Pre-shared Key
 - Authentication process is done by using DH asymmetric key encryption for data exchange
-- More than one method can be selected with designat
+- More than one method can be selected with designated priority level
+- IKE - Phase 1 will sort out if two parties share one common authentication method
 
 ### Kerberos V5
 - Default authentication method for Windows Server 2000 or later
@@ -172,3 +173,14 @@ Based on the following:
 - Used when other methods are not available
 - Shared secret key
 
+## Configuring IPSec Policies Between Networks and Hosts
+- Specifies how the computers will prove their identities to each other when trying to establish a SA
+
+| Security Requirement                                                                                        | Authentication Method  |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Communication within a Windows 2000 or Server 2003 or between trusted Windows 2000 or 2003 domains          | Kerberos V5            |
+| Communication outside the domain or across the Internet where Kerberos V5 is not available but CA access is | Public Key Certificate |
+| Communication with computers that neither support Kerberos V5 nor have access to a CA                       | Pre-shared key         | 
+
+### Filter Action
+- Will only be trigger when the incoming or out
