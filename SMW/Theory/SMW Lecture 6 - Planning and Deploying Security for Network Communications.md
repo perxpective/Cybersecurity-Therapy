@@ -152,4 +152,23 @@ Based on the following:
 ## Authentication Methods for IPSec
 - If the connection matches the filter IKE (Phase 1) will be invoked for intial authentication
 - <u>Available Authentication Methods:</u>
-	- Kerberos 
+	- Kerberos V5
+	- Certificates (requires PKI)
+	- Pre-shared Key
+- Authentication process is done by using DH asymmetric key encryption for data exchange
+- More than one method can be selected with designat
+
+### Kerberos V5
+- Default authentication method for Windows Server 2000 or later
+- Based on mutual authentication
+- Use when all clients can authenticate using Kerberos
+- Method that requires the least administrative effort
+
+### Certificates
+- Method of granting access to users based on their unique identification
+- Used in situations that include access to corporate resources, external business partner communications or computers that do not run Kerberos V5
+
+### Pre-Shared Key
+- Used when other methods are not available
+- Shared secret key
+
