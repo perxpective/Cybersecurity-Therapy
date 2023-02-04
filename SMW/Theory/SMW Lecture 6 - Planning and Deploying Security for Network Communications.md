@@ -85,4 +85,10 @@ Based on the following:
 | Concern                                                                | Solution                                                                                                                                                                |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Attacks using specific protocols or ports or Denial of Service attacks | Use IPSec traffic blocking, packet filtering or policy filter lists allowing only traffic from trusted sources over specified protocols to specific addresses and ports |
-|                                                                        |                                                                                                                                                                         |
+| Eavesdropping or sniffing                                              | Use the Encapsulating Security Payload (ESP) protocol to encrypt data with 3DES or DES                                                                                  |
+| Identity spoofing                                                      | Use Kerberos, public key certificates or pre-shared key authentication to verify the identity of the computer                                                           |
+| Modification of data                                                   | Use cryptographic checksum that incorporates secret key to provide data integrity                                                                                       |
+
+### Proper Usage of IPSec
+- Packet filtering e.g. using IPSec with routing and Remote Access service to permit or block inbound or outbound traffic
+- Securing host-to-host traffic on spe
