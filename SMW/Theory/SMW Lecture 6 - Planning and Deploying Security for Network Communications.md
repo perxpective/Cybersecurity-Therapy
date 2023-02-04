@@ -284,3 +284,6 @@ Based on the following:
 	- Use the Enforced and Block Policy Inheritance features carefully
 - <u>Procedure for deleting policy objects:</u>
 	- Unassign IPSec policy in the GPO
+	- Wait 24 hours to ensure that change is propogated
+	- Delete the GPO
+- Persistent policy
