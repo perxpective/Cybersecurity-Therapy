@@ -203,7 +203,14 @@ Based on the following:
 	- uses 128-bit encryption key, lower performance than SHA
 
 #### Encryption
+> Encryption method is used to support ESP (Encapsulating Security Payload Traffic)
 - Data Encryption Standard (DES)
 	- uses 56-bit key but not recommended for high security
 - Triple DES (3DES)
-	- uses 168-bit key, provides medium and high secuirty ne
+	- uses 168-bit key, provides medium and high security networks
+
+### IPSec Protocols
+| Requirement                                                                                  | Protocol | Solution                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Data and header need to be authenticated and protected from modification but remain readable | AH       | Use in situations where data is not confidential but must be authenticated or where network intrusion detection or firewall filtering requires traffic inspection |
+| Only data needs to be protected so its unreadable but IP addressing can be left unprotected                                                                                             |          |                                                                                                                                                                   |
