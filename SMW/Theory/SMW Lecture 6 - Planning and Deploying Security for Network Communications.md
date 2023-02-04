@@ -183,4 +183,8 @@ Based on the following:
 | Communication with computers that neither support Kerberos V5 nor have access to a CA                       | Pre-shared key         | 
 
 ### Filter Action
-- Will only be trigger when the incoming or out
+- Will only be trigger when the incoming or outgoing connections match the filter
+- Available types of actions
+	- Permit
+	- Block
+	- Negotiate Security (will be carried out at Phase 2 of IKE)
