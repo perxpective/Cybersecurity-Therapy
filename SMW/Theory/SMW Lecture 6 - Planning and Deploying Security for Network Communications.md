@@ -61,3 +61,9 @@ Based on the following:
 - Do not deploy IPSec if security it provides is not required
 - **Impacts of IPSec**
 	- Time needed to establish IPSec connection
+	- Time needed to filter and encrypt packets
+	- Increased packet size
+	- Network inspection technologies used in routers, firewalls, intrusion detection systems (IDS) may not work on IPSec packets
+	- Application compatibility with other platforms
+	- Effect on Active Directory and domain controller connections
+	- 
