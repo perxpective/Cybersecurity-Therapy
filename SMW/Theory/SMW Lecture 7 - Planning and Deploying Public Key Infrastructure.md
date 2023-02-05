@@ -56,4 +56,12 @@
 > - For Standalone CA setup, target clients are not bound to the enterprise which implements the service
 > 	- Applicable for offering to the general public
 > - Enterprise CA setup, its target clients are within the enterprise
-> 	- Suitable for 
+> 	- Suitable for internal staff and computing operations that require the certificate services
+
+### Rooted Trust Model
+- Model in which the root CA has a self-signed certificate and the CA issues a certificate to all direct subordinate CAs
+- CAs in this model can be online or offline: allows flexibility in deploying and managing PKI
+- Each CA serves a single role within the hierarchy and is not dependent on the other CAs
+	- Allows rooted trust hierarchies to be more scalable and easier to administer than other hierarchies
+- Possible to add a new CA to a hierarchy
+- 
