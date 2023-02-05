@@ -114,3 +114,4 @@
 	- **Manual**
 		- If administrative approval is required, most useful for issuing and renewing computer and IPSec certificates
 	- **Automatic**
+		- If no approval is necessary, can improve administrative control over certificates
