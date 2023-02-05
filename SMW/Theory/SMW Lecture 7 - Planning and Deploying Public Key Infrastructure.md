@@ -132,4 +132,18 @@
 - Certificate Templates are only available on Enterprise Root and Subordinate CAs
 - Stored in Active Directory
 - Available to every enterprise CA in the forest
-- Certificate Templates MMC snap-in provides administrators wit
+- Certificate Templates MMC snap-in provides administrators with the capability to:
+	- Create additional templates by duplicating and modifying existing templates
+	- Modify template properties
+	- Configure policies applied to certificate enrolment, issuance and application
+	- Allow the auto-enrolment of certificates
+	- Configure ACLs on certificate templates
+- Issuance of certificate requests can be controlled in three ways:
+	- Configuring permissions on the template from the Security tab
+	- Preventing the CA from issuing that certificate type by deleting the template
+	- Configuring the permissions on the CA
+- Restrict permissions on CAs to prevent unauthorized access
+- Configure the discretionary access control list (DACL) for each template
+
+## Configuring Archival and Recovery of Keys
+- Possible to configure the CA to archive private keys of certi
