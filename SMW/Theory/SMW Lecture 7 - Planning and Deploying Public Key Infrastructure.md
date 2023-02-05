@@ -97,4 +97,5 @@
 - Windows System already configured with a list of trusted commercial third-party CAs
 - Can be easily viewed and configured via web browser
 
-###
+### Installing Certificates Authority Roles
+- Root CA is installed first followed by installing intermediate CAs and finally is
