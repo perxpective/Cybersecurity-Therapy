@@ -31,3 +31,10 @@
 	- Smart card logon
 	- Encrypted file system
 	- 802.1x authentication
+
+## Certificate Authority
+> An entity that issues digital certificates to other parties
+
+- Root CA can issue certificates to SubOrdinate, Immediate or Issuing CAs
+- Issuing CAs can issue certificates to users or clients
+- 
