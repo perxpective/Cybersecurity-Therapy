@@ -146,4 +146,16 @@
 - Configure the discretionary access control list (DACL) for each template
 
 ## Configuring Archival and Recovery of Keys
-- Possible to configure the CA to archive private keys of certi
+> There are two approaches for generating key pairs
+> - <u>First Approach</u>
+> 	- The certificate owner whom will first create a key pair and send the public key to the CA to ask for its service
+> 	- To enclose the public key into a digital certificate with CA's digital signature
+
+- Possible to configure the CA to archive private keys of certificates at the time of issuance
+- Enables to recover the key should it be lost
+- Only highly trusted individuals should be granted thee privilege of archiving and recovering keys
+- Certificate Services does not archive recovery agent
+- <u>Key recovery methods</u>
+	- Key Recovery Agent
+	- `certutil` tool
+	- `krt.exe`
