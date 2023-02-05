@@ -78,6 +78,8 @@
 	- Certificates issued by one CA will be trusted by computers which belong to other CA hierarchy
 - Cross-certificates does not need to be bidirectional
 
-| Advantages | Disadvantages |
-| ---------- | ------------- |
-| Loww           |               |
+| Advantages                       | Disadvantages                                                                                     |
+| -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Low cost and greater flexibility | Greater administrative overhead and increase risk of an unauthorized access to internal resources |
+
+### Using Third-Party CAs
