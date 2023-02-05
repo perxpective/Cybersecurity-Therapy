@@ -85,4 +85,16 @@
 ### Using Third-Party CAs
 - Useful when organisation conducts most of its business with external customers and clients
 - **Examples:**
-	- 
+	- DigiCert
+	- GlobalSign
+	- GoDaddy
+
+| Advantages                                                                                                                             | Disadvantages                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Customers have greater degree of confidence when conducting secure transactions with organisations because they trust third-party CAs  | High per-certificate cost and allows less flexibility in managing certificates and auto-enrolment is not possible |
+| Allows an organisation to take advantage of third-party CAs understanding of technical, legal and business issues with certificate use |                                                                                                                   |
+
+- Windows System already configured with a list of trusted commercial third-party CAs
+- Can be easily viewed and configured via web browser
+
+###
