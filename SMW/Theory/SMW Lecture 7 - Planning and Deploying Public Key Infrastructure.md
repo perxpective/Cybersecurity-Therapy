@@ -117,4 +117,11 @@
 		- If no approval is necessary, can improve administrative control over certificates
 		- <u>Methods for automatic enrolment include:</u>
 			- Certificate auto-enrolment and renewal: based on a combination of Group Policy settings and certificate templates
-			- Certificate Reque
+			- Certificate Request Wizard and Certificate Renewal Wizard
+			- Web enrolment support pages
+			- Smart card enrolment station
+
+## Configuring Certificate Templates
+- Certificate Services provides certificate templates to simplify the process of requesting and issuing certificates
+- Each template contains the rules and settings
+	- can serve a single purpose or multiple purposes
