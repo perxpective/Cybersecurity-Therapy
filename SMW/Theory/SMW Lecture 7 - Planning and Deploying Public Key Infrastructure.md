@@ -150,6 +150,9 @@
 > - <u>First Approach</u>
 > 	- The certificate owner whom will first create a key pair and send the public key to the CA to ask for its service
 > 	- To enclose the public key into a digital certificate with CA's digital signature
+> 	- CA does not know the owner's private key
+> - <u>Second Approach</u>
+> 	- Certificate owner asks for a comprehensive service from the CA to generate the key pair and seal the public key in a digital certificate
 
 - Possible to configure the CA to archive private keys of certificates at the time of issuance
 - Enables to recover the key should it be lost
