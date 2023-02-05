@@ -21,4 +21,13 @@
 	- Refers to a technology that includes a series of features relating to authentication and encryption
 	- Based on a system of certificates, each certificate contains a public key and the name of the subject
 	- Allows an organisation to publish, use, renew or revoke certificates and enrol clients
-	- 
+- Certificates may be required if you are using any of the following applications:
+	- Digital signatures
+	- Secured email
+	- HTTPS/SSL
+	- Internet authentication
+	- Software code signing
+	- IP security
+	- Smart card logon
+	- Encrypted file system
+	- 802.1x authentication
