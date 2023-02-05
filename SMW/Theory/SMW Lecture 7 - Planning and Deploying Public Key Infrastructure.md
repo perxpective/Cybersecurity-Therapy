@@ -83,3 +83,6 @@
 | Low cost and greater flexibility | Greater administrative overhead and increase risk of an unauthorized access to internal resources |
 
 ### Using Third-Party CAs
+- Useful when organisation conducts most of its business with external customers and clients
+- **Examples:**
+	- 
