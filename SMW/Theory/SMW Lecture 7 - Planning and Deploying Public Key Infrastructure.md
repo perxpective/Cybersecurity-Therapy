@@ -98,4 +98,19 @@
 - Can be easily viewed and configured via web browser
 
 ### Installing Certificates Authority Roles
-- Root CA is installed first followed by installing intermediate CAs and finally is
+- Root CA is installed first followed by installing intermediate CAs and finally the issuing CAs
+- **Root CA:**
+	- CA that is at the top of a certification hierarchy and must be trusted unconditionally by clients in an organisation
+	- An enterprise root CA stores its information in the Active Directory and the server that hosts the service must be joined to a domain
+	- Storing the root CA offline is much more secure
+- **Intermediate CA:** CA subordinate to a root CA
+- **Issuing CA:** Issues certificates to users and computers
+
+## Selecting a Certificate Enrolment and Renewal Method
+- Depends on the following:
+	- Types of certificates that you intend to use
+	- Number and type of clients that you enrol
+- Two types:
+	- **Manual**
+		- If administrative approval is required, most useful for issuing and renewing computer and IPSec certificates
+	- **Automatic**
