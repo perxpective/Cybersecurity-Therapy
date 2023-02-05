@@ -64,4 +64,20 @@
 - Each CA serves a single role within the hierarchy and is not dependent on the other CAs
 	- Allows rooted trust hierarchies to be more scalable and easier to administer than other hierarchies
 - Possible to add a new CA to a hierarchy
-- 
+- Rooted trust hierarchies fall into two subcategories
+	- Two-tier CA hierarchy
+	- Three-tier CA hierarchy
+- Any CA in a rooted trust hierarchy is either a root or a subordinate but never both
+- Each CA is responsible for processing requests, issuing certificates, revoking certificates and publishing CRLs
+- Each CA can be managed independently
+
+![](https://i.imgur.com/hIr3Bgt.png)
+
+### Cross-Certificates Model
+- Model in which all CAs are self-signed and trust relationships between CAs are based on cross-certificates
+	- Certificates issued by one CA will be trusted by computers which belong to other CA hierarchy
+- Cross-certificates does not need to be bidirectional
+
+| Advantages | Disadvantages |
+| ---------- | ------------- |
+| Loww           |               |
