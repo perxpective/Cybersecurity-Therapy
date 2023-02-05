@@ -115,3 +115,6 @@
 		- If administrative approval is required, most useful for issuing and renewing computer and IPSec certificates
 	- **Automatic**
 		- If no approval is necessary, can improve administrative control over certificates
+		- <u>Methods for automatic enrolment include:</u>
+			- Certificate auto-enrolment and renewal: based on a combination of Group Policy settings and certificate templates
+			- Certificate Reque
