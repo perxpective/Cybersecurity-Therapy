@@ -77,6 +77,7 @@
 - Model in which all CAs are self-signed and trust relationships between CAs are based on cross-certificates
 	- Certificates issued by one CA will be trusted by computers which belong to other CA hierarchy
 - Cross-certificates does not need to be bidirectional
+- Mutually trusted CAs will issue digital certificates to each other
 
 | Advantages                       | Disadvantages                                                                                     |
 | -------------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -122,6 +123,8 @@
 			- Smart card enrolment station
 
 ## Configuring Certificate Templates
+- Configuring Templates is a Windows utility to help CA administrator to facilitate different types of certificate enrolment
 - Certificate Services provides certificate templates to simplify the process of requesting and issuing certificates
 - Each template contains the rules and settings
 	- can serve a single purpose or multiple purposes
+- Provides a default input requirement for different type of certificate
