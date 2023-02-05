@@ -128,3 +128,8 @@
 - Each template contains the rules and settings
 	- can serve a single purpose or multiple purposes
 - Provides a default input requirement for different type of certificate
+	- helps reduce errors and make the operations more efficient
+- Certificate Templates are only available on Enterprise Root and Subordinate CAs
+- Stored in Active Directory
+- Available to every enterprise CA in the forest
+- Certificate Templates MMC snap-in provides administrators wit
