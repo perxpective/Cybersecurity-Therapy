@@ -144,7 +144,7 @@ dr rip = <address_to_point>
 ## Format String Attack
 - Format String Attack with Python or Perl
 ```
-./program $(perl -e 'print "%x." x 40')
+./program $(perl -e 'print "%08x." x 40')
 ./program $(python3.6 -c 'print("%08x" * 40)')
 ```
 - Use `objdump` to find the address of a function
