@@ -28,6 +28,11 @@ java test
 ./jad test.class
 ```
 
+- Use the Jad GUI
+```
+jadx-gui
+```
+
 > Online Java Decompiler: [http://www.javadecompilers.com/](http://www.javadecompilers.com/)
 
 - To get a Java applet, change URL in the web browser to a Java class to download the applet
@@ -62,6 +67,18 @@ run
 ```
 info register
 ```
+
+- Find functions
+```
+info function
+```
+
+- Use Ghidra
+```
+ghidra
+```
+
+ -
 
 ## Buffer Overflow
 - Use this command to output program running an executable:
