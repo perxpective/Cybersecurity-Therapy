@@ -44,24 +44,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4d0e50faf6dffac8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e3606b90151852a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Practical/EHD Practical 15 - Format String Attack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
