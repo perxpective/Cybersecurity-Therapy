@@ -63,6 +63,11 @@ break main
 run
 ```
 
+- Skip to a function
+```
+jump function_name
+```
+
 - Display contents of the registers
 ```
 info register
