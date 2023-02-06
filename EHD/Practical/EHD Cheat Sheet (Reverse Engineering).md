@@ -78,11 +78,14 @@ info function
 ghidra
 ```
 
- -
-
-## Buffer Overflow
 - Use this command to output program running an executable:
 ```
 ltrace ./program
 rabin2 -z ./program
 ```
+
+## Buffer Overflow
+- Find the buffer size of the variable
+- Use the Cyclic function to generate a payload based on the buffer size
+- Copy and paste the cyclic payload into the input again
+- Copy and paste the overflow
