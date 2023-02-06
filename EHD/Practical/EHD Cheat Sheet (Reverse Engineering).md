@@ -171,6 +171,8 @@ io.interactive()
 # Pattern Offset
 /usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -q [address]
 
+# GDB
+run program <<< [pattern]
 ```
 
 ## Theory
