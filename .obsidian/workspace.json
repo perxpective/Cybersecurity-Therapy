@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Practical 12 - Decompiling.md",
+                "file": "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -189,15 +188,15 @@
   },
   "active": "5b0e940a064bd256",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 12 - Decompiling.md",
+    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+    "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
-    "SC/SC Topic 9 - CSRF.md",
-    "EHD/Practical/EHD Practical 14 - Buffer Overflow.md"
+    "SC/SC Topic 9 - CSRF.md"
   ]
 }

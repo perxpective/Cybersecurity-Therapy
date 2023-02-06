@@ -28,4 +28,9 @@ java test
 ./jad test.class
 ```
 
-> Online Java D
+> Online Java Decompiler: [http://www.javadecompilers.com/](http://www.javadecompilers.com/)
+
+- To get a Java applet, change URL in the web browser to a Java class to download the applet
+
+## Buffer Overflow
+- 
