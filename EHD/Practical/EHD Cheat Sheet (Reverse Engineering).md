@@ -102,12 +102,12 @@ rabin2 -z ./program
 - Run GDB
 - Find the buffer size of the address
 ```
-cyclic -l <address>
+pwn cyclic -l <address>
 ```
 
 - Use the Cyclic function to generate a payload based on the buffer size
 ```
-cyclic <size>
+pwn cyclic <size>
 ```
 
 - Copy and paste the cyclic payload into the input again
