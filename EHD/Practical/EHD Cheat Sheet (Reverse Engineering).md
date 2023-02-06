@@ -137,4 +137,6 @@ dr
 ```
 
 - To modify the RIP to point to the address of the instruction:
-- 
+```
+dr rip = <address_to_point>
+```
