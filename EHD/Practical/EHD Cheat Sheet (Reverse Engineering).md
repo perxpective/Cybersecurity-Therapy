@@ -43,6 +43,26 @@ file <filename>
 gdb ./program
 ```
 
+- Disassemble the `main` function
+```
+dissemble main
+```
+
+- Set breakpoint at `main` function of program
+```
+break main
+```
+
+- Run the program
+```
+run
+```
+
+- Display contents of the registers
+```
+info register
+```
+
 ## Buffer Overflow
 - Use this command to output program running an executable:
 ```
