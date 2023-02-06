@@ -102,7 +102,23 @@ cyclic <size>
 ```
 
 - Copy and paste the cyclic payload into the input again
-- Copy and paste the overflowed text and find its length
+- Adjust the cyclic text to match the buffer size. Modify in such a way that the overflowed text overwrites to a desired output
+
+## Radare2
+- Debug with Radare2
 ```
-wc 
+r2 -d program
 ```
+
+- Analyse the program
+```
+aaa
+```
+
+- Put a breakpoint
+```
+db main
+db <address>
+```
+
+- 
