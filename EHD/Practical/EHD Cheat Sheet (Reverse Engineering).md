@@ -50,17 +50,20 @@ gdb ./program
 
 - Disassemble the `main` function
 ```
-dissemble main
+disassemble main
+disas main
 ```
 
 - Set breakpoint at `main` function of program
 ```
 break main
+b main
 ```
 
 - Run the program
 ```
 run
+r
 ```
 
 - Skip to a function
@@ -70,17 +73,18 @@ jump function_name
 
 - Display contents of the registers
 ```
-info register
+info registers
 ```
 
 - Find functions
 ```
-info function
+info functions
 ```
 
 - You can also use `objdump` to dump all the functions in the program
 ```
 objdump -t program
+object -D program | grep function_name
 ```
 
 - Use Ghidra
@@ -154,6 +158,7 @@ dr rip = <address_to_point>
 ```
 - Use `objdump` to find the address of a function
 - Use format strings to write over the stack to an address
+
 
 ## Exploiting Script Template
 ```python
