@@ -33,4 +33,8 @@ java test
 - To get a Java applet, change URL in the web browser to a Java class to download the applet
 
 ## Buffer Overflow
-- 
+- Use this command to output program running an executable:
+```
+ltrace ./program
+rabin2 -z ./program
+```
