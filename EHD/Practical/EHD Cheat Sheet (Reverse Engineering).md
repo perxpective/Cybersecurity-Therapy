@@ -144,5 +144,7 @@ dr rip = <address_to_point>
 ## Format String Attack
 - Format String Attack with Python or Perl
 ```
-./program $(perl -e 'print "%x"')
+./program $(perl -e 'print "%x." x 40')
+./program $(python3.6 -c 'print("%08x" * 40)')
 ```
+- Display the buffer and modify the payload to show the buffer address as the last word
