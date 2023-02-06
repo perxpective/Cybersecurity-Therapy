@@ -165,7 +165,8 @@ io.interactive()
 ```
 - Useful Metasploit Libraries
 ```
-/opt/metasploit/tools/exploit/pattern_create.rb -l
+# Pattern Create
+/opt/metasploit/tools/exploit/pattern_create.rb -l 
 
 ```
 
