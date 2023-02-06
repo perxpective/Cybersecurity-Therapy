@@ -117,8 +117,24 @@ aaa
 
 - Put a breakpoint
 ```
-db main
+db sym.main
 db <address>
 ```
 
+- Run the program
+```
+dc
+```
+
+- Display disassembled code of function
+```
+pdf
+```
+
+- Display the current contents of the register
+```
+dr
+```
+
+- To modify the RIP to point to the address of the instruction:
 - 
