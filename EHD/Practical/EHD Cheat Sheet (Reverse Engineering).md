@@ -90,7 +90,16 @@ rabin2 -z ./program
 ```
 
 ## Buffer Overflow
-- Find the buffer size of the variable
+- Run GDB
+- Find the buffer size of the address
+```
+cyclic -l <address>
+```
 - Use the Cyclic function to generate a payload based on the buffer size
+```
+cyclic <size>
+```
+
+
 - Copy and paste the cyclic payload into the input again
 - Copy and paste the overflow
