@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c5c1b017bb1cfa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4d0e50faf6dffac8",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md"
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b0e940a064bd256",
+  "active": "3c5c1b017bb1cfa1",
   "lastOpenFiles": [
-    "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+    "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
