@@ -95,11 +95,14 @@ rabin2 -z ./program
 ```
 cyclic -l <address>
 ```
+
 - Use the Cyclic function to generate a payload based on the buffer size
 ```
 cyclic <size>
 ```
 
-
 - Copy and paste the cyclic payload into the input again
-- Copy and paste the overflow
+- Copy and paste the overflowed text and find its length
+```
+wc 
+```
