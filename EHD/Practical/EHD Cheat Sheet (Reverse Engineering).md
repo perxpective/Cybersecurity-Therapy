@@ -168,10 +168,8 @@ io.interactive()
 # Pattern Create
 /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l [number]
 
-# output: address
-
 # Pattern Offset
-/usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -q []
+/usr/share/metasploit-framework/tools/exploit/pattern_offset.rb -q [address]
 
 ```
 
