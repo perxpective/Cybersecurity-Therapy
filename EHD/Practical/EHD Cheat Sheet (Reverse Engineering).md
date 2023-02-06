@@ -155,11 +155,18 @@ dr rip = <address_to_point>
 - Use `objdump` to find the address of a function
 - Use format strings to write over the stack to an address
 
-## Exploiting Script
+## Exploiting Script Template
 ```python
 from pwn import *
 io = process(["./program", "arg1", "arg2"])
 address = p32(address)
+io.sendline(b'a' * number + address)
+io.interactive()
+```
+- Useful Metasploit Libraries
+```
+/opt/metasploit/tools/exploit/pattern_create.rb -l
+
 ```
 
 ## Theory
