@@ -105,9 +105,13 @@ rabin2 -z ./program
 pwn cyclic -l <address>
 ```
 
-- Use the Cyclic function to generate a payload based on the buffer size
+- Use the Cyclic function to generate a payload based on length
 ```
 pwn cyclic <size>
+```
+- Determine size of buffer based on overflowed payload
+```
+pwn cyclic -o <overflowed_payload>
 ```
 
 - Copy and paste the cyclic payload into the input again
