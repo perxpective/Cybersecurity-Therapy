@@ -160,7 +160,9 @@ dr rip = <address_to_point>
 from pwn import *
 io = process(["./program", "arg1", "arg2"])
 address = p32(address)
-io.sendline(b'a' * number + address)
+payload = b'a' * number + address # remeber that payload must be all in bytes
+
+io.sendline(payload)
 io.interactive()
 ```
 - Useful Metasploit Libraries
