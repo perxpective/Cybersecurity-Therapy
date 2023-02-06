@@ -159,6 +159,7 @@ dr rip = <address_to_point>
 ```python
 from pwn import *
 io = process(["./program", "arg1", "arg2"])
+address = p32(address)
 ```
 
 ## Theory
