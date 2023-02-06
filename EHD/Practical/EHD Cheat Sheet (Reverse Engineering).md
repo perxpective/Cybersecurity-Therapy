@@ -73,6 +73,11 @@ info register
 info function
 ```
 
+- You can also use `objdump` to dump all the functions in the program
+```
+objdump -t program
+```
+
 - Use Ghidra
 ```
 ghidra
