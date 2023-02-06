@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b0e940a064bd256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c5c1b017bb1cfa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EHD/Theory/EHD Topic 13 - Assembly Language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "63ea69151ec36597",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +157,10 @@
   },
   "active": "63ea69151ec36597",
   "lastOpenFiles": [
-    "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
-    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+    "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
+    "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",

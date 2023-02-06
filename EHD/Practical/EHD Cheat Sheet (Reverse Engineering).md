@@ -165,6 +165,11 @@ dr rip = <address_to_point>
 
 
 ## Exploiting Script Template
+
+Be sure to have `pip` to install the `pwn` package!
+```
+pip install pwn
+```
 ```python
 from pwn import *
 io = process(["./program", "arg1", "arg2"])
