@@ -157,15 +157,15 @@
   },
   "active": "63ea69151ec36597",
   "lastOpenFiles": [
-    "EHD/Theory/EHD Topic 13 - Assembly Language.md",
+    "EHD/Practical/EHD Cheat Sheet (Nmap).md",
+    "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+    "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
-    "EHD/Practical/EHD Practical 12 - Decompiling.md",
-    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-    "SMW/Tutorials/SMW Tutorial 3.md"
+    "EHD/Practical/EHD Practical 12 - Decompiling.md"
   ]
 }
