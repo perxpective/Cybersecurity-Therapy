@@ -155,6 +155,12 @@ dr rip = <address_to_point>
 - Use `objdump` to find the address of a function
 - Use format strings to write over the stack to an address
 
+## Exploiting Script
+```python
+from pwn import *
+io = process(["./program", "arg1", "arg2"])
+```
+
 ## Theory
 Mitigations to buffer overflow:
 - Bounds checking
