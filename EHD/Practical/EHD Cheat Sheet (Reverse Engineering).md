@@ -148,4 +148,4 @@ dr rip = <address_to_point>
 ./program $(python3.6 -c 'print("%08x" * 40)')
 ```
 - Use `objdump` to find the address of a function
-- 
+- Use format strings to write over the stack to an address
