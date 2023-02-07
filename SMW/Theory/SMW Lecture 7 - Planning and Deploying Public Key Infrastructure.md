@@ -172,4 +172,10 @@
 	- Termination of the account to whom the certificate was issued
 
 > - The lifespan of a digital certificate is by default limited by its expiry date setting
-> - However, cases
+> - However, we may need to invalidate a digital certificate before it reaches its expiry date
+
+## Certificate Revocation Lists
+- All certificates have specific lifetimes
+- In some situations, there is a need to invalidate or revoke a certificate before it has reached the end of its lifetime
+- Revoked certificates are published in the certificate revocation list (CRL)
+- CRLs are valid only for a limited amount of time, PKI clients need to retrieve a new CRL periodically
