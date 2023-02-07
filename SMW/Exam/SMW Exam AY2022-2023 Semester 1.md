@@ -9,4 +9,7 @@ In terms of Active Directory Directory Authentication Protocols (Kerberos/NTLM)
 
 (b) List three essential information a Ticket Granting Ticket (TGT) should contain.
 
-(c) List three essentia
+(c) List three essential information that a server will send to the Domain Controller to complete a client authentication using NTLM protocol.
+
+## Question 2
+(a) In a single domain company network, as the system administrator, you are going to set up two workstation (sales1 and sales2)
