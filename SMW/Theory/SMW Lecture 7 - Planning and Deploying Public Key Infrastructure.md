@@ -179,3 +179,4 @@
 - In some situations, there is a need to invalidate or revoke a certificate before it has reached the end of its lifetime
 - Revoked certificates are published in the certificate revocation list (CRL)
 - CRLs are valid only for a limited amount of time, PKI clients need to retrieve a new CRL periodically
+- Must define the CRL location along with the access path before deploying certificates

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md"
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,15 +178,15 @@
   },
   "active": "41a278bbe81610a7",
   "lastOpenFiles": [
-    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
     "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
+    "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Exam/Untitled.canvas",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
-    "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
-    "EHD/Practical/EHD Cheat Sheet (Nmap).md"
+    "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md"
   ]
 }
