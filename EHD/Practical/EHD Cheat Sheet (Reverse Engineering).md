@@ -167,9 +167,11 @@ dr rip = <address_to_point>
 ## Exploiting Script Template
 
 Be sure to have `pip` to install the `pwn` package!
+
 ```
 pip install pwn
 ```
+
 ```python
 from pwn import *
 io = process(["./program", "arg1", "arg2"])
@@ -179,6 +181,7 @@ payload = b'a' * number + address # remeber that payload must be all in bytes
 io.sendline(payload)
 io.interactive()
 ```
+
 - Useful Metasploit Libraries
 ```
 # Pattern Create
