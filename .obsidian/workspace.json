@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,6 +157,7 @@
   },
   "active": "63ea69151ec36597",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
@@ -165,7 +166,6 @@
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
-    "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
-    "EHD/Theory/EHD Topic 15 - Format String Attack.md"
+    "EHD/Theory/EHD Topic 14  - Buffer Overflow.md"
   ]
 }
