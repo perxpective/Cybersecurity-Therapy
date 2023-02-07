@@ -180,3 +180,7 @@
 - Revoked certificates are published in the certificate revocation list (CRL)
 - CRLs are valid only for a limited amount of time, PKI clients need to retrieve a new CRL periodically
 - Must define the CRL location along with the access path before deploying certificates
+
+## OCSP
+> **OSCP** - Online Certificate Status Protocol
+- An Internet protocol used for obtaining the revocation status of an X.509 digital certificate
