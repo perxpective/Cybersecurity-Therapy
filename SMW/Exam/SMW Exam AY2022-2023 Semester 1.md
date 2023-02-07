@@ -12,4 +12,6 @@ In terms of Active Directory Directory Authentication Protocols (Kerberos/NTLM)
 (c) List three essential information that a server will send to the Domain Controller to complete a client authentication using NTLM protocol.
 
 ## Question 2
-(a) In a single domain company network, as the system administrator, you are going to set up two workstation (sales1 and sales2)
+(a) In a single domain company network, as the system administrator, you are going to set up two workstation (sales1 and sales2) with the image scanners to serve the staff in the Sales department.
+
+(i) Briefly describe how to configure the security grouping (AGDLP) scheme to support the desired objective.
