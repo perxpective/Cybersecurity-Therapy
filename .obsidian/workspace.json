@@ -4,18 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "de880e39fc3031c2",
+        "id": "b66b6ce9839ea326",
         "type": "tabs",
         "children": [
           {
-            "id": "63ea69151ec36597",
+            "id": "241645e3477f6828",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-                "mode": "source",
-                "source": false
+                "file": "SMW/Exam/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -94.09376907348633,
+                  "zoom": -0.5910219836235044,
+                  "snapToGrid": true
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Exam/Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
+                "file": "SMW/Exam/Untitled.canvas"
               }
             }
           },
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Exam/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +159,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63ea69151ec36597",
+  "active": "241645e3477f6828",
   "lastOpenFiles": [
+    "SMW/Exam/Untitled.canvas",
+    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
-    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "EHD/Theory/EHD Topic 13 - Assembly Language.md",
-    "EHD/Theory/EHD Topic 14  - Buffer Overflow.md"
+    "EHD/Theory/EHD Topic 13 - Assembly Language.md"
   ]
 }
