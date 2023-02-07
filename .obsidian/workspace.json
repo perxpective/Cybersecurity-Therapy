@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md"
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,14 +158,14 @@
   },
   "active": "63ea69151ec36597",
   "lastOpenFiles": [
+    "EHD/Practical/EHD Practical 15 - Format String Attack.md",
+    "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
     "EHD/Practical/EHD Cheat Sheet (Nmap).md",
     "EHD/Practical/EHD Cheat Sheet (Web Application).md",
-    "EHD/Practical/EHD Cheat Sheet (Reverse Engineering).md",
     "EHD/Theory/EHD Topic 13 - Assembly Language.md",
     "EHD/Theory/EHD Topic 14  - Buffer Overflow.md",
     "EHD/Theory/EHD Topic 15 - Format String Attack.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-    "EHD/Practical/EHD Practical 15 - Format String Attack.md",
     "EHD/Practical/EHD Practical 14 - Buffer Overflow.md",
     "EHD/Practical/EHD Practical 12 - Decompiling.md"
   ]
