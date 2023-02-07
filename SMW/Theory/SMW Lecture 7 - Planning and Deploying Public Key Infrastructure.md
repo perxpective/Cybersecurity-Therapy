@@ -162,3 +162,5 @@
 	- Key Recovery Agent
 	- `certutil` tool
 	- `krt.exe`
+
+## Deploying and Revoking Certificate for Users, Computers and CAS II
