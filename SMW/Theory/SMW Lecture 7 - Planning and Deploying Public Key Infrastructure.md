@@ -164,3 +164,12 @@
 	- `krt.exe`
 
 ## Deploying and Revoking Certificate for Users, Computers and CAS II
+- Conditions to auto-enrol certificates:
+	- Client computer must be integrated into Active Directory
+	- Users require read, enrol and auto-enrol permissions
+- Reasons for revoking a certificate:
+	- Certificate is compromised
+	- Termination of the account to whom the certificate was issued
+
+> - The lifespan of a digital certificate is by default limited by its expiry date setting
+> - However, cases
