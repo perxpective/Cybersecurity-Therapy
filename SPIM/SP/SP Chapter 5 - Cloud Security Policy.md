@@ -121,9 +121,19 @@
 	- General
 - **Individual**
 
-### Service Level Agreement (Key Issues)
+### Service Level Agreement 
+#### Key Issues
 - **Availability Standards**
 	- Specify parameters and minimum levels required from each element of the service, as well as remedies for failure to meet those requirements
 - **Data Ownership and Protection Policies**
 	- Affirm your institution's ownership of its data stored on the service provider's system and specifies your rights to get it back
 - **Security Standards and Compliance**
+	- Details the system infrastructure and security standards to be maintained by the service provider along with your rights to audit their compliance
+- **Incident Response, Conflict Resolution and Exit Strategy**
+	- Specifies your rights and cost to continue and discontinue using this service and ensure definitive and timely removal of your data in the service
+
+#### Key Points
+- Availability
+- Performance
+	- Maximum Response Time
+- 
