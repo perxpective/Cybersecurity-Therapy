@@ -45,13 +45,19 @@
 
 ## Cloud Service Models
 ### Infrastructure-as-a-Service (IaaS)
-
+- Fully self-service for accessing and monitoring computers, networking, storage and other services
+- Allows business to purchase resources on-demand and as-needed instead of having to buy 
 
 ### Software-as-a-Service (SaaS)
 - Also known as <u>cloud application services</u>
 - Uses the internet to deliver applications managed by third-party vendors
 - Hosted on a remote server
 - Accessible over the Internet
-- 
+- Uses the web to deliver applications that are managed by a third-party vendor whose interface is accessed on the client side
 
 ### Platform-as-a-Service (PaaS)
+- Provides cloud components to certain software while being used mainly for applications
+- Delivers a framework for developers that they can build upon and use to create customized applications
+- Servers, storage and networking can be managed by enterprise or third-party provider while developers can maintain management of the applications
+- Uses virtualization technology
+- Integrates web services and databases
