@@ -8,6 +8,42 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c41c3ef9b6ef1a5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04a48e72fb17472e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf3c9e517e6d5e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0516852551de869e",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md"
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md"
               }
             }
           },
@@ -125,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,13 +204,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0516852551de869e",
+  "active": "04a48e72fb17472e",
   "lastOpenFiles": [
-    "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
-    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
-    "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
-    "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+    "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
+    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
+    "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+    "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",

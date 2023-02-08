@@ -108,7 +108,7 @@
 - Meet compliance
 
 ### Audit Programme Objectives
-- Top management of should ensure that the audit programme objectives are established to direct the planning and conduct of audits and should ensure the audit programmes is implemented effectively
+- Top management should ensure that the audit programme objectives are established to direct the planning and conduct of audits and should ensure the audit programmes is implemented effectively
 - Audit programme objectives should be consistent with and support management system policy and objectives
 - **Examples**
 	- Contribute to the improvement of a management system and its performance
