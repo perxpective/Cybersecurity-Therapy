@@ -83,6 +83,7 @@
 	- IT governance is becoming part of corporate governance
 
 **Two types of IT Audit**
+
 | General Audit                                                                    | Security Audit                                                                            |
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | Ensure proper and efficient use of IT resources in line with business objectives | To ensure IT has adequate and proper safeguards, practices and policies to minimise risks |
