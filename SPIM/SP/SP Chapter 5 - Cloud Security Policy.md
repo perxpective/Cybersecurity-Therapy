@@ -143,4 +143,22 @@
 - Access to the data
 	- Data retrievable from provider in readable format
 - Portability of the data
-	- Ability
+	- Ability to move data to a different provider
+- Process to Identify Problems and Resolution Expectations
+	- Worse Case Recovery Commitment
+- Change Management Process
+	- Updates or New Services
+- Exit Strategy
+	- Provider to ensure smooth transition
+
+### Best Practices to Develop SLAs for Cloud Computing (IBM)
+- Identify Cloud Actors
+- Evaluate Business-Level Policies
+- Understand SaaS, PaaS, IaaS
+- Metrics
+	- Identify what metrics should be used to achieve performance objectives
+- Security
+	- Asset Sensitivity
+	- Legal/Regulatory Requirements
+	- Cloud Providers' Security Capabilities
+- Identify Service Manga
