@@ -21,4 +21,24 @@
 	- Good for Business Continuity (BC) and Disaster Recovery (DR)
 	- <u>Cloud Service Models</u>
 		- Infrastructure-as-a-service (IaaS)
-		- Platform-as-a-service ()
+		- Platform-as-a-service (PaaS)
+		- Software-as-a-service (SaaS)
+
+## 5 Essential Characteristics
+- NIST SP-800-145 Definition of Cloud Computing:
+	- On-Demand Self-Service
+	- Broad Network Access
+	- Resource Pooling
+	- Rapid Elasticity
+	- Measured Service
+
+## Drives for Cloud Adoption
+- Cost Management (OPEX vs CAPEX)
+- Risk Reduction (e.g. Testing before commitment)
+- Elasticity (Consumption-based Pricing)
+- Business Agility and Mobility
+- Focus on Core Business
+- Business Continuity
+- Collaboration and Innovation Platform
+- Green IT
+- Simplicity, Expandability and Ela
