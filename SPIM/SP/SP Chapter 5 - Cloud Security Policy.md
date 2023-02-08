@@ -119,4 +119,11 @@
 - **Organisational**
 	- Cloud/Outsourced-Specific
 	- General
-- 
+- **Individual**
+
+### Service Level Agreement (Key Issues)
+- **Availability Standards**
+	- Specify parameters and minimum levels required from each element of the service, as well as remedies for failure to meet those requirements
+- **Data Ownership and Protection Policies**
+	- Affirm your institution's ownership of its data stored on the service provider's system and specifies your rights to get it back
+- **Security Standards and Compliance**
