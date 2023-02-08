@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd249bdaf7c08fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md"
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md"
               }
             }
           },
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +168,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0516852551de869e",
+  "active": "cd249bdaf7c08fe2",
   "lastOpenFiles": [
+    "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
     "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
     "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
@@ -166,7 +179,6 @@
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md",
-    "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md"
+    "SMW/Theory/SMW Lecture 3 - Account Manager and Managing Resource Access.md"
   ]
 }
