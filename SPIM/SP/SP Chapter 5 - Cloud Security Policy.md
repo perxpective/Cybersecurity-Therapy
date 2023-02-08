@@ -41,4 +41,17 @@
 - Business Continuity
 - Collaboration and Innovation Platform
 - Green IT
-- Simplicity, Expandability and Ela
+- Simplicity, Expandability and Elasticity
+
+## Cloud Service Models
+### Infrastructure-as-a-Service (IaaS)
+
+
+### Software-as-a-Service (SaaS)
+- Also known as <u>cloud application services</u>
+- Uses the internet to deliver applications managed by third-party vendors
+- Hosted on a remote server
+- Accessible over the Internet
+- 
+
+### Platform-as-a-Service (PaaS)
