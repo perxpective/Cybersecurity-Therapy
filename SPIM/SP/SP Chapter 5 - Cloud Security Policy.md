@@ -46,7 +46,11 @@
 ## Cloud Service Models
 ### Infrastructure-as-a-Service (IaaS)
 - Fully self-service for accessing and monitoring computers, networking, storage and other services
-- Allows business to purchase resources on-demand and as-needed instead of having to buy 
+- Allows business to purchase resources on-demand and as-needed instead of having to buy hardware outright
+- Resources are available as a service
+- Cost varies based on consumption
+- Services are highly scalable
+- Multiple users on a single piece of hardware
 
 ### Software-as-a-Service (SaaS)
 - Also known as <u>cloud application services</u>
@@ -61,3 +65,14 @@
 - Servers, storage and networking can be managed by enterprise or third-party provider while developers can maintain management of the applications
 - Uses virtualization technology
 - Integrates web services and databases
+
+## Key Issues
+- Loss of Visibility
+- Loss of Control
+- Hard to Approach Governance, Risk and Compliance (GRC)
+- <u>Examples:</u>
+	- Risk of data spillage due to multi-tenancy and mingling nature of cloud
+	- Risk of mis-provisioning or misconfiguration
+	- Difference in security standards, policies and processes
+	- If suppliers cut corners, has internal issues, or gets attacked: data, application and services will be severely affected
+	- Traditional enterprise security solutions may not be effective or adequate to protect cloud-hosted data, applications and/
