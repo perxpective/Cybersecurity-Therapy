@@ -113,4 +113,10 @@
 - Contractual Agreements in the form of Service Level Agreements (SLAs)
 	- SLA is an agreement between service providers and service user as to the nature, availability, quality, scope of the service to be provided
 	- In an outsourced and off-premise service model like cloud computing, due to lack of visibility, it is difficult for the consumer to ensure adequate control and compliance
-	- Hence, in order to 
+	- Hence, in order to ensure satisfaction if meeting governance and security policy needs, it goes through legal agreement means
+
+### Frameworks and Standards
+- **Organisational**
+	- Cloud/Outsourced-Specific
+- **General**
+- 
