@@ -136,4 +136,11 @@
 - Availability
 - Performance
 	- Maximum Response Time
-- 
+- Security/Protection/Privacy of Data
+	- Encrypt all stored and transmitted data
+- Location of the data
+	- Consistent with local legislation
+- Access to the data
+	- Data retrievable from provider in readable format
+- Portability of the data
+	- Ability
