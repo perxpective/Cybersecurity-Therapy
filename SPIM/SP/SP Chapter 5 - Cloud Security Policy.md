@@ -161,4 +161,18 @@
 	- Asset Sensitivity
 	- Legal/Regulatory Requirements
 	- Cloud Providers' Security Capabilities
-- Identify Service Manga
+- Identify Service Management Requirements
+- Prepare for and Manage Service Failure
+
+## Responsibility
+![](https://i.imgur.com/awfXtPF.png)
+
+## Accountability
+- Responsibility vs Accountability
+	- **Accountability**
+		- To be liable and answerable to or being called to account of one's actions or of the discharge of a duty or trust
+- Risk Management or Treatment Options
+	- Risk Avoidance
+	- Risk Reduction
+	- Risk Transferance
+	- Risk Acceptance

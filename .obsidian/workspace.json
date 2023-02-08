@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md"
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
+                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,8 @@
   },
   "active": "0516852551de869e",
   "lastOpenFiles": [
-    "SMW/Tutorials/SMW Tutorial 5.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
+    "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
