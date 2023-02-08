@@ -118,5 +118,5 @@
 ### Frameworks and Standards
 - **Organisational**
 	- Cloud/Outsourced-Specific
-- **General**
+	- General
 - 
