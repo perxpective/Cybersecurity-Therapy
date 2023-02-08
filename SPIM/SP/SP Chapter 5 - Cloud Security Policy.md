@@ -75,4 +75,26 @@
 	- Risk of mis-provisioning or misconfiguration
 	- Difference in security standards, policies and processes
 	- If suppliers cut corners, has internal issues, or gets attacked: data, application and services will be severely affected
-	- Traditional enterprise security solutions may not be effective or adequate to protect cloud-hosted data, applications and/
+	- Traditional enterprise security solutions may not be effective or adequate to protect cloud-hosted data, applications and/or services
+
+## Data Security Issues
+- **Issues**
+	- Data Loss (Availability)
+	- Data Leakage (Confidentiality)
+	- Data Rights Management (DRM)
+	- Compliance (Data Sovereign Issues)
+- **Proposed Solutions**
+	- Data Management
+	- Data Encryption
+	- Data Sanitization
+
+## Policy Considerations
+- Ensure provider's security policies and practices and service level meet requirements
+- Legal, Regulatory and Insurance Considerations
+- Data Protection
+- Service Availability, Performance and Quality
+- Backup and Storage
+- Cyber Resiliency Provisions
+- Communications Protocol between User and Provider especially in Time of Conflict
+- Vendor Lock-in
+- Service Exit Clauses (immediate and definite deprovisioning )
