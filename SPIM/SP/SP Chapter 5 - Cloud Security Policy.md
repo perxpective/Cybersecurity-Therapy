@@ -97,4 +97,20 @@
 - Cyber Resiliency Provisions
 - Communications Protocol between User and Provider especially in Time of Conflict
 - Vendor Lock-in
-- Service Exit Clauses (immediate and definite deprovisioning )
+- Service Exit Clauses (immediate and definite deprovisioning of users, applications and data resources and storage upon the end of use)
+
+
+## Ultimate Issue
+> Cloud Computing is an outsource model
+
+- Hence, the key issues of:
+	- Loss of Visibility
+	- Loss of Control
+	- Hard to Approach GRC
+
+## Key Solutions
+- Measurement and ascertainment against frameworks e.g. Standards and Certifications
+- Contractual Agreements in the form of Service Level Agreements (SLAs)
+	- SLA is an agreement between service providers and service user as to the nature, availability, quality, scope of the service to be provided
+	- In an outsourced and off-premise service model like cloud computing, due to lack of visibility, it is difficult for the consumer to ensure adequate control and compliance
+	- Hence, in order to 
