@@ -208,4 +208,4 @@
 	- Using SSL Certificates
 
 ## Deploying and Managing SSL Certificates
-- Need to install IIS in a highly sceu
+- Need to install IIS in a highly secured and locked configuration
