@@ -209,3 +209,22 @@
 
 ## Deploying and Managing SSL Certificates
 - Need to install IIS in a highly secured and locked configuration
+- **Secure Sockets Layer (SSL)**
+	- Public key-based security protocol
+- SSL process uses the following:
+	- Certificates for authentication
+	- Encryption for message integrity and confidentiality
+- Requires installation of valid server certificate to establish encrypted communications using SSL
+- Certificate-based SSL features in IIS consist of the following:
+	- Server certificate
+	- Client certificate
+	- Various digital keys
+- Way to obtain certificates:
+	- Certificate Services
+	- Trusted third-party CA
+
+## IIS Authentication Methods
+| Method                   | Security Level |
+| ------------------------ | -------------- |
+| Anonymous authentication | None           |
+| Basic                          |                |
