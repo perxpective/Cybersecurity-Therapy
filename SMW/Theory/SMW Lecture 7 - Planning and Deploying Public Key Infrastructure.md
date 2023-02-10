@@ -184,3 +184,13 @@
 ## OCSP
 > **OSCP** - Online Certificate Status Protocol
 - An Internet protocol used for obtaining the revocation status of an X.509 digital certificate
+- Complements (not replace) the operations of CRLs
+
+### OSCP Responder
+- Server that is run by the certificate issuer which returns a signed response on the status of a particular issued certificate
+- <u>Possible Response</u>
+	- Good, Revoked or Unknown
+	- No response as the issuer does not implement the responder service
+- <u>Comparison to CRLs</u>
+	- Less burden for client to maintain CRLs (network and storage)
+	- E
