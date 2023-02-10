@@ -224,7 +224,23 @@
 	- Trusted third-party CA
 
 ## IIS Authentication Methods
-| Method                   | Security Level |
-| ------------------------ | -------------- |
-| Anonymous authentication | None           |
-| Basic                          |                |
+| Method                            | Security Level           |
+| --------------------------------- | ------------------------ |
+| Anonymous authentication          | None                     |
+| Basic authentication              | Low                      |
+| Forms authentication              | Low or Medium (with SSL) |
+| Digest authentication             | Medium                   |
+| Advanced digest authentication    | Medium                   |
+| Certificate authentication        | High                     |
+| Integrated Windows authentication | High                     |
+| .NET Password (IIS5/IIS6)         | High                     |
+| Windows Live ID (IIS7 or later)   | High                     |
+
+## HTTPS
+- Technology that encrypts individual messages in web communications rather than establishing a secure channel
+- Popular ecommerce technology used for securing online shopping
+- Communicates on port 443
+- SSL-secured URLs begin with `https://` prefix
+
+## Configuration of the Web Server for SSL Certificates
+- Use SSL encryption only for sensitive inforam
