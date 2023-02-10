@@ -243,4 +243,17 @@
 - SSL-secured URLs begin with `https://` prefix
 
 ## Configuration of the Web Server for SSL Certificates
-- Use SSL encryption only for sensitive inforam
+- Use SSL encryption only for sensitive information
+- Encrypted transmissions can significantly reduce transmission rates and server performance
+- Server certificates provide a way for users to confirm the identity of website
+- <u>Server certificate contains:</u>
+	- Organisations name affiliated with the server content
+	- Name of the organisation issuing the certificates
+	- Public key that is used to establish an encrypted connection
+
+## Self-Issued Certificates
+- <u>Considerations when deciding to issue own server certificates:</u>
+	- Microsoft Certificate Services can accommodate different certificate formats and provide auditing and logging of certificate-related activity
+	- Evaluate the cost of each certificate
+	- Keep the learning curve in mind
+	- Evaluate the willingness of outside vendors clients to trust your organisation as a certificate supplier
