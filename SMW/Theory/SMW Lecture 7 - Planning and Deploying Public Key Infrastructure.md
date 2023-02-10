@@ -193,4 +193,11 @@
 	- No response as the issuer does not implement the responder service
 - <u>Comparison to CRLs</u>
 	- Less burden for client to maintain CRLs (network and storage)
-	- E
+	- Easier to implement compares to CRLs for up-to-date checking
+	- OCSP use non-encrypted message - it may be subject to interception
+	- OCSP is an optional component for the certificate server
+
+## Secured Web Access
+- Two or three issues for non-secured web access
+- <u>How to authenticate the identity of the remote server</u>
+	- Hackers may setup 
