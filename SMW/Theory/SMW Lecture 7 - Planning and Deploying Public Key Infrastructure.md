@@ -200,4 +200,12 @@
 ## Secured Web Access
 - Two or three issues for non-secured web access
 - <u>How to authenticate the identity of the remote server</u>
-	- Hackers may setup 
+	- Hackers may setup phishing site to mislead clients to submit confidential information or even pay for an non-existing service
+- How to ensure the transferred content is not tampered or intercepted by unauthorized parties
+- Lastly, it may not be obvious to general users
+	- For enterprise servers, they need a solution to authenticate the identity of the remote clients that is trying to access to its services
+- <u>Possible Solution:</u>
+	- Using SSL Certificates
+
+## Deploying and Managing SSL Certificates
+- Need to install IIS in a highly sceu
