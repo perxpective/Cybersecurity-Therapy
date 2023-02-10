@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f4e6a37d7069f1f1",
+        "id": "a1ec664309fc44df",
         "type": "tabs",
         "children": [
           {
-            "id": "c41c3ef9b6ef1a5f",
+            "id": "b2b9e798e6b53a37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04a48e72fb17472e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf3c9e517e6d5e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0516852551de869e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f37ed7093cece602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md"
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
               }
             }
           },
@@ -161,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,13 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04a48e72fb17472e",
+  "active": "b2b9e798e6b53a37",
   "lastOpenFiles": [
-    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
-    "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
-    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
-    "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
+    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
+    "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
+    "SPIM/SP/SP Chapter 1 - Introduction to Security Policy.md",
+    "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
