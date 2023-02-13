@@ -27,4 +27,9 @@
 - Allow remote client to access the resources offered by the site
 - Provide secure Internet connection to a remote client
 	- Remote client can establish VPN connection to a site and use gateway of the site to access to Internet
-	- Network security
+	- Network security between remote client and Internet is taken care of the security measure implemented in the site
+
+![](https://i.imgur.com/X0JljrN.png)
+
+<u>Effect after the VPN connection has esta</u>
+1. Remote clieent 
