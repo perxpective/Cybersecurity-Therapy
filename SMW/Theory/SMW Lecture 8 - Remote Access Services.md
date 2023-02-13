@@ -111,6 +111,9 @@
 > **Note:** IKE Version 2 is only build-in VPN protocol that support mobility connections
 
 ### Table Summary
-| VPN Protocol | Encryption                | Ports    | Compatible with                  | Notes |
-| ------------ | ------------------------- | -------- | -------------------------------- | ----- |
-| PPTP         | MPPE with RC4 128-bit key | 1723 TCP | Windows, Mac OS, iPhone, Android | PPTP widely used in VPN       |
+| VPN Protocol | Encryption                                                       | Ports                       | Compatible with                  | Notes                                                                                                                                                                       |
+| ------------ | ---------------------------------------------------------------- | --------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PPTP         | MPPE with RC4 128-bit key                                        | 1723 TCP                    | Windows, Mac OS, iPhone, Android | PPTP widely used in VPN<br>Easy to setup<br>Less secure<br>Note considered for site-to-site VPN setup<br>Not recommended to be used for VPN session longer than a few hours |
+| L2TP         | IPSec with 3DES 168-bit key                                      | 500 UDP, 1701 UDP, 5500 UDP | Windows, Mac OS, Android         | Considered to be more secure than PPTP                                                                                                                                      |
+| SSTP         | SSL with AES 2048 bit key certificate 256 bit key for encryption | 443 TCP                     | Windows                          | Only use 443<br>Usually not blocked by firewalls, considered a very secured protocol                                                                                        |
+| IKEv2        | IPS                                                                 |                             |                                  |                                                                                                                                                                             |
