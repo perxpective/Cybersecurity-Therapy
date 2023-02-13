@@ -21,5 +21,8 @@
 - VPN is used to ensure that any data sent across a public network e.g. the Internet is secure
 - VPN creates an encrypted tunnel between the client and the RAS server
 
-> <u>Typical VPN Use Cases</u>
-> - Ensure
+<u>Typical VPN Use Cases</u>
+ - Ensure secured communications between two sites
+- Ensure secured communications between a site with remote clients
+- Allow remote client to access the resources offered by the site
+- Provide secure Internet connection to a remote client
