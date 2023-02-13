@@ -31,5 +31,12 @@
 
 ![](https://i.imgur.com/X0JljrN.png)
 
-<u>Effect after the VPN connection has esta</u>
-1. Remote clieent 
+<u>Effect after the VPN connection has been established:</u>
+1. Remote client will be assigned with a set of local IP settings e.g. IP address, DNS and gateway
+2. The remote client can access all the services offered by the site as if it is connected to the LAN directly
+3. By default, all outgoing traffic from the remote client will first go to the VPN server via the Internet]
+
+- VPN server uses two or more NICs for communication
+	- One NIC is used to connect to the private network inside the organization that uses private IP addressing
+	- The other NIC connects to the external public network
+- To create this tunnel, client must first connect to the 
