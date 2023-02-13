@@ -87,4 +87,18 @@
 - Employ PPP authentication techniques
 - Encapsulates the data packet in the HTTP used in web communications
 - Additionally uses a SSL channel for secure communications
-	- SSL is a data encryption technique 
+	- SSL is a data encryption technique employed between a server and a client
+	- SSL has now evolved into Transport Layer Security (TLS)
+- Viewed as more secure than PPTP or L2TP
+
+> SSTP only requires the Port 443 to operate, hence it is the most firewall-friendly VPN protocol
+
+### Internet Key Exchange Version 2 Protocol (IKE v2)
+- Employs IPSec in tunnel mode protocol over UDP Port 500 and 4500
+- Encapsulates datagrams by using IPSec ESP or AH headers for transmission over the network
+- <u>Encryption:</u>
+	- AES-256, AES-192, AES-128 and 3DES encryption algorithm
+	- 3DES is not recommended
+- <u>Pros</u>
+	- Believed to be faster and extremely secured protocol
+	- IKEv2 supports mobility (MOBIKE) - much more resilient to changing netw
