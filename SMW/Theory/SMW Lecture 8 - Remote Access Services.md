@@ -48,3 +48,11 @@
 
 > For a typical configuration, use a Windows Server with two NICs to implement a VPN server (multi-homed dual NIC deployment)
 
+## Using Remote Access Protocols
+- Carries the network packets over a WAN link
+	- Encapsulates a packet such as an IP datagram so that it can be transmitted from a point at one end of a WAN to another point
+- IP is the most commonly used transport protocol
+- Several remote access protocols are used by Windows Server 2016 and its remote clients
+- An early basic remote access protocol in use is PPP
+
+> Remote access protocol needs to cater for LAN to WAN protocol conversions and WAN and LAN protocol
