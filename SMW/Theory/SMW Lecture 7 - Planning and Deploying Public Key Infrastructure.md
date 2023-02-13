@@ -279,6 +279,11 @@
 	- Use Basic, Digest or Integrated Windows authentication in addition to requiring a client certificate
 	- Create a Windows account mapping for client certificates
 
+> - Windows account mapping is a unique feature.
+> - Once a client system has presented its client certificate to the web server, client system will access to the server with the mapped user credential
+> - Provides more convenience to the user but there is a higher security risk
+> - Mapping is done manually by the system administrator
+
 ## Certificate Renewal
 - Security and renewal requirements for certificates should be based on the following factors:
 	- Value of the network resources protected by the CA trust chain
@@ -286,4 +291,9 @@
 	- Amount of administrative effort that you are willing to devote to certificate and CA renewal
 	- Business value of the certificate
 
-> **Renewal requirement** usually refers to how often to renew a key-p[]
+> **Renewal requirement** usually refers to how often to renew a key-pair and how often to renew a certificate
+
+| Certificate Purpose                            | Certificate Life | Renewal Recommendation                                                  |
+| ---------------------------------------------- | ---------------- | ----------------------------------------------------------------------- |
+| Enterprise CA for medium security certificates | 5 years          | Renew every 3 years and renew by using a new key at least every 5 years |
+| Enterprise CA for high security certificates   |                  |                                                                         |
