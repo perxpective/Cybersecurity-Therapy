@@ -101,4 +101,16 @@
 	- 3DES is not recommended
 - <u>Pros</u>
 	- Believed to be faster and extremely secured protocol
-	- IKEv2 supports mobility (MOBIKE) - much more resilient to changing netw
+	- IKEv2 supports mobility (MOBIKE) - much more resilient to changing network connectivity
+	- Switching between access points or wired to wireless connections
+- <u>Cons</u>
+	- Proprietary
+	- But there are open-source implementation
+	- Support by some network devices vendors
+
+> **Note:** IKE Version 2 is only build-in VPN protocol that support mobility connections
+
+### Table Summary
+| VPN Protocol | Encryption                | Ports    | Compatible with                  | Notes |
+| ------------ | ------------------------- | -------- | -------------------------------- | ----- |
+| PPTP         | MPPE with RC4 128-bit key | 1723 TCP | Windows, Mac OS, iPhone, Android | PPTP widely used in VPN       |
