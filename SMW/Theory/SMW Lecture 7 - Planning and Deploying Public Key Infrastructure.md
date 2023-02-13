@@ -272,4 +272,18 @@
 ## Configuration of the Client for SSL Certificates
 - Typical client certificate contains the following information:
 	- Identity of the user
-	- Identity of the certification 
+	- Identity of the certification authority
+	- Public key used for establishing encrypted communications
+	- Validation information such as an expiration date and serial number
+- To protect web content from unauthorized access, do one of the following:
+	- Use Basic, Digest or Integrated Windows authentication in addition to requiring a client certificate
+	- Create a Windows account mapping for client certificates
+
+## Certificate Renewal
+- Security and renewal requirements for certificates should be based on the following factors:
+	- Value of the network resources protected by the CA trust chain
+	- Degree to which you trust your certificate users
+	- Amount of administrative effort that you are willing to devote to certificate and CA renewal
+	- Business value of the certificate
+
+> **Renewal requirement** usually refers to how often to renew a key-p[]
