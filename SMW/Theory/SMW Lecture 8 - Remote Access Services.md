@@ -53,6 +53,14 @@
 	- Encapsulates a packet such as an IP datagram so that it can be transmitted from a point at one end of a WAN to another point
 - IP is the most commonly used transport protocol
 - Several remote access protocols are used by Windows Server 2016 and its remote clients
-- An early basic remote access protocol in use is PPP
+- An early basic remote access protocol in use is Point-to-Point Protocol (PPP)
 
-> Remote access protocol needs to cater for LAN to WAN protocol conversions and WAN and LAN protocol
+> Remote access protocol needs to cater for LAN to WAN protocol conversions and WAN and LAN protocol conversions
+> 
+> This is to allow two remote parties to communicate with each other seamlessly as if both of them are running in the same Local Area Network
+
+### Point-to-Point Protocol
+- Used in legacy remote communications involving modems
+- Enables the authentication of connections and encryptions for the network communications
+- Not considered to be as secure as other modern options
+- Can automatically negotiate communications with several network communications layer at once
