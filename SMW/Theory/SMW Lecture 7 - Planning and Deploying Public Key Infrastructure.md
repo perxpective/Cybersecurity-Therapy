@@ -296,4 +296,14 @@
 | Certificate Purpose                            | Certificate Life | Renewal Recommendation                                                  |
 | ---------------------------------------------- | ---------------- | ----------------------------------------------------------------------- |
 | Enterprise CA for medium security certificates | 5 years          | Renew every 3 years and renew by using a new key at least every 5 years |
-| Enterprise CA for high security certificates   |                  |                                                                         |
+| Enterprise CA for high security certificates   | 5 years          | Renew with new key at least 4 years                                     |
+| Enterprise CA for external certificates        | 5 years          | Renew at least every 4 years. Renew by using a new key every 5 years    |
+| Secure mail and secure browser certificates    | 1 year           | Renew by using a new key at least 2 years                               |
+| Smart card certificates                        | 1 year           | Renew by using a new key at least every 2 years                         |
+| Administrator certificates                     | 1 year           | Renew by using a new key at least every 2 years                         |
+| Secure Web Server certificates                 | 2 years          | Renew by using a new key at least every 2 years                         |
+
+**Similar but different certificate-related operations:**
+- All certificates have an expiry date
+- Renew a certificate before its expiry date
+- Since each certificate contains a public key for a specific a
