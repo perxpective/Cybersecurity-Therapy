@@ -39,4 +39,12 @@
 - VPN server uses two or more NICs for communication
 	- One NIC is used to connect to the private network inside the organization that uses private IP addressing
 	- The other NIC connects to the external public network
-- To create this tunnel, client must first connect to the 
+- To create this tunnel, client must first connect to the Internet by establishing a connection using the remote access protocol
+- Once connected to the Internet, the client establishes a second connection with the VPN server
+- Client and VPN server agree on how the data will be encapsulated and encrypted across the vritual tunnel
+- <u>Caveats</u>
+	- Do not use any of the domain controllers to be the VPN server
+	- VPN server is public facing and should be situated in the DMZ segment
+
+> For a typical configuration, use a Windows Server with two NICs to implement a VPN server (multi-homed dual NIC deployment)
+
