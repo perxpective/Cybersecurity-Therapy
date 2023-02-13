@@ -15,4 +15,11 @@
 ## Implementing a Virtual Private Network (VPN)
 - VPNs can use an Internet connection or internal network connections as a transport medium to establish a connection with the VPN server
 - VPN uses LAN protocols and tunnelling protocols
-	- To
+	- To encapsulate data as it is sent across a public network such as the Internet
+- <u>Benefit of using a VPN</u>
+	- Users can connect to a local ISP and connect through the ISP to the local network
+- VPN is used to ensure that any data sent across a public network e.g. the Internet is secure
+- VPN creates an encrypted tunnel between the client and the RAS server
+
+> <u>Typical VPN Use Cases</u>
+> - Ensure
