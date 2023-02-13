@@ -257,3 +257,19 @@
 	- Evaluate the cost of each certificate
 	- Keep the learning curve in mind
 	- Evaluate the willingness of outside vendors clients to trust your organisation as a certificate supplier
+
+## Publicly-Issued Certificates
+- Used when a user suspects your self-issued certificates
+- Certificate can be obtained from a mutually trusted, third-party CA, e.g. VeriSign, GlobalSign, Thawte
+- **Wait time:** Several days to several months
+- Certificate must be renewed on a regular basis
+- <u>General rules about any type of web certificates:</u>
+	- Each website can have only one server certificate assigned to it
+	- One certificate can be assigned to multiple websites
+	- You can assign multiple IP addresses per website
+	- You can assign multiple SSL ports per website
+
+## Configuration of the Client for SSL Certificates
+- Typical client certificate contains the following information:
+	- Identity of the user
+	- Identity of the certification 
