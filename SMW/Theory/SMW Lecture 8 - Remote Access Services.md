@@ -126,4 +126,6 @@
 - Configure the VPN server properties
 - Configure a remote access policy for security
 
-## Configuring
+## Configuring the Server's Firewall
+- VPN server must be able to send communications through the network
+- Early configuration step is to make sure its communications can go through a firewall set up at the server
