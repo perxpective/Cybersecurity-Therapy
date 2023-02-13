@@ -129,3 +129,10 @@
 ## Configuring the Server's Firewall
 - VPN server must be able to send communications through the network
 - Early configuration step is to make sure its communications can go through a firewall set up at the server
+- If Windows Firewall on server is used:
+	- TCP and UDP port used by the VPN are unblocked by default when configuring a VPN server
+	- It is more important to make certain they are unblocked
+
+## Configuring a DHCP Relay Agent
+- Broadcasts IP configuration information between the DHCP server on a network and the client acquiring an address
+- Configure the VPN server as a DHCP Relay Agent using the Routing and Remote Access tool
