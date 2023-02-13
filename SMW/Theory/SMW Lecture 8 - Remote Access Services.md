@@ -13,4 +13,5 @@
 	- Tunnel through a larger network that is restricted to designated member clients only
 
 ## Implementing a Virtual Private Network (VPN)
-- VPNs can use an Internet connection or 
+- VPNs can use an Internet connection or internal network connections as a transport medium to establish a connection with the VPN server.
+- 
