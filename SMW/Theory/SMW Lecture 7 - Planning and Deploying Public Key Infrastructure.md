@@ -306,4 +306,7 @@
 **Similar but different certificate-related operations:**
 - All certificates have an expiry date
 - Renew a certificate before its expiry date
-- Since each certificate contains a public key for a specific a
+- Since each certificate contains a public key for a specific application, one type of renewal is just to create and sign on a new certificate containing the same public key
+- Public key owner can generate a new key-pair and replace the old public key with the newly generated public key while renewing the certificate
+- Finally, the signer itself should also update its key-pair. Once signer's key-pair has changed, a new root CA certificate should be generated too
+- To keep the PKI operation running smoothly, you may see multiple root CA certificates for the same CA organisation coexisting in the Trust Root Certificate Authorization Store
