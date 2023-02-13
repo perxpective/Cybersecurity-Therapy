@@ -76,4 +76,15 @@
 
 ### Layer Two Tunnelling Protocol (L2TP)
 - Works similarly to PPTP
-- Uses La
+- Uses Layer Two Forwarding that enables forwarding on the basis of MAC addressing
+- Uses IPSec for additional authentication and for data encryption
+
+> **Notes:** 
+> - PPTP is the easiest protocol setup and most network devices support it.
+> - Not a good solution for setting up VPN channel that requires long or near permanent session
+
+### Secure Socket Tunnelling Protocol (SSTP)
+- Employ PPP authentication techniques
+- Encapsulates the data packet in the HTTP used in web communications
+- Additionally uses a SSL channel for secure communications
+	- SSL is a data encryption technique 
