@@ -59,8 +59,21 @@
 > 
 > This is to allow two remote parties to communicate with each other seamlessly as if both of them are running in the same Local Area Network
 
-### Point-to-Point Protocol
+### Point-to-Point Protocol (PPP)
 - Used in legacy remote communications involving modems
 - Enables the authentication of connections and encryptions for the network communications
 - Not considered to be as secure as other modern options
 - Can automatically negotiate communications with several network communications layer at once
+- When implementing a Windows Server 2016 VPN server, choices of three or four remote access tunnelling protocols:
+	- Point-to-Point Tunnelling Protocol
+	- Layer Two Tunnelling Protocol
+	- Secure Socket Tunnelling Protocol
+	- IKE v2 Protocol (IPSec, Tunnel Mode, IKE Version 2)
+
+### Point-to-Point Tunnelling Protocol (PPTP)
+- Offers PPP-based authentication techniques
+- Encrypts data carried by PPTP through using Microsoft Point-to-Point Encryption (MPPE)
+
+### Layer Two Tunnelling Protocol (L2TP)
+- Works similarly to PPTP
+- Uses La
