@@ -136,3 +136,10 @@
 ## Configuring a DHCP Relay Agent
 - Broadcasts IP configuration information between the DHCP server on a network and the client acquiring an address
 - Configure the VPN server as a DHCP Relay Agent using the Routing and Remote Access tool
+- **Basic Terms:**
+	- Client contacts the VPN server to make a connection
+	- VPN server as a DHCP relay agent contacts the DHCP server for an UP address for the client
+	- DHCP server notifies VPN server of the IP address
+	- VPN server relays this IP address assignment to the client
+
+## Configuring VPN Security
