@@ -175,3 +175,6 @@
 	- To disconnect a user, right-click the user and click Disconnect
 
 ## Troubleshooting VPN Installations
+### Hardware Solutions
+- Use Device Manager to make sure network adapters and WAN adapters are working properly
+- Also use Device Manager to make sure that adapter has no resource conflicts
