@@ -173,4 +173,5 @@
 	- Click the Remote Access clients on the left pane
 	- The right pane shows the users who are connected
 	- To disconnect a user, right-click the user and click Disconnect
-- 
+
+## Troubleshooting VPN Installations
