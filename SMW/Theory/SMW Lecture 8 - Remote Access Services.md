@@ -143,3 +143,12 @@
 	- VPN server relays this IP address assignment to the client
 
 ## Configuring VPN Security
+> Allows or denies remote access requests. By default, it is set to deny all.
+
+- Set up VPN security through remote access policy
+	- Greatly reduces administrative overhead and offers more flexibility and control for authorising connection attempts
+- <u>Elements of Remote Access Policy</u>
+	- Access permission
+	- Conditions
+	- Constraints
+	- Settings
