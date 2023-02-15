@@ -249,3 +249,7 @@
 ![](https://i.imgur.com/3hlQ6tz.png)
 
 ## Installing Remote Desktop Services
+- When installing the Remote Desktop Role, the RDS Licensing role also needs to be installed
+	- This is to manage the number of terminal server user licenses obtained from Microsoft
+- Can be installed when installing the Remote Desktop Service role
+- L
