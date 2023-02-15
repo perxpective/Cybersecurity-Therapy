@@ -178,3 +178,4 @@
 ### Hardware Solutions
 - Use Device Manager to make sure network adapters and WAN adapters are working properly
 - Also use Device Manager to make sure that adapter has no resource conflicts
+- For an external DSL adapter or a combined DS
