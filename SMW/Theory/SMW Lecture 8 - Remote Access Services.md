@@ -204,3 +204,5 @@
 - <u>Virtual desktops</u>
 	- Used in association with accessing virtual machines on a virtual server through Hyper-V
 	- Multiple virtual desktops can be in a pool of desktops for different purposes
+
+> Remote Desktop Connection offers two additional remote accces
