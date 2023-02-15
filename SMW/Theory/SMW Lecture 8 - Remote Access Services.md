@@ -256,3 +256,8 @@
 - When installing the RDS role, implement the Network Level Authentication (NLA)
 	- Enables authentication to take place before the RDS connection is established
 	- Designed to eliminate man-in-the-middle attacks
+- Another element to consider before installing the RDS role is who will be allowed to access the RDS server
+	- Create groups of user accounts in advance so that you can add these groups during the installation
+- If operating in an Active Directory environment:
+	- Consider creating a domain local group of users e.g. global group for each department that will access the RDS server
+	- Add the 
