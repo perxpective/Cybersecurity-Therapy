@@ -159,4 +159,12 @@
 - If connection attempt matches the conditions of the policy, constraints are evaluated
 - Settings in the remote access policy are then examined
 	- Settings include elements e.g. IP filters, encryption, IP settings and others
-- 
+
+### Establishing a Remote Access Policy
+- Use Routing and Remote Access tool to create and configure a remote access policy
+- To create a new remote access policy, click to activate and right-click Remote Access Logging and Policies folder in the tree under the VPN server
+- Click launch NPS to launch the Network Policy Server tool
+
+## Monitoring VPN Users
+- Periodically monitor the users who are connected
+- Use the Routing and Remote Access tool to monitor conneccted users
