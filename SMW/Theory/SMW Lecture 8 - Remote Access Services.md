@@ -178,4 +178,20 @@
 ### Hardware Solutions
 - Use Device Manager to make sure network adapters and WAN adapters are working properly
 - Also use Device Manager to make sure that adapter has no resource conflicts
-- For an external DSL adapter or a combined DS
+- For an external DSL adapter or a combined DSL adapter and router
+	- Make sure the device is properly configured and connected
+	- Check its monitor lights for problems
+- Call ISP to determine if problems are present on the ISP WAN
+
+### Software Solutions
+- Use Services tools or Server Manager to make sure that the following services are started
+- Ensure that the Windows Firewall is set up to allow remote access
+- Make sure that the VPN server is enabled
+- Check the remote access policy to be sure that access permission is granted
+- Be certain that the VPN server is started
+- In the Routing and Remote Access tool, check the network interface
+- Make sure that IP parameters are correctly configured to provide an address pool for either a VPN server
+- Open the Remote Access Management Console and click the Dashboard in the left pane
+- If only certain clients but not all are having connection problems, try these solutions:
+	- Make sure that clients are using the same communications protocol as the server
+	- If you manage access to the VPN server by using security groups, m
