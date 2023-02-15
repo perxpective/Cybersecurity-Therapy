@@ -238,3 +238,5 @@
 	- Remote Desktop Licensing
 	- Remote Desktop Gateway
 	- Remote Desktop Connection Broker
+- RDS server employs the RemoteApp
+	- Feature that allows a client to run an application without loading a remote desktop on the client computer
