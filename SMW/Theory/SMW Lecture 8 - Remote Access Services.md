@@ -260,4 +260,9 @@
 	- Create groups of user accounts in advance so that you can add these groups during the installation
 - If operating in an Active Directory environment:
 	- Consider creating a domain local group of users e.g. global group for each department that will access the RDS server
-	- Add the 
+	- Add the appropriate user accounts for each department global group
+	- Finally, add the global groups to the single domain local group
+
+## Build-in Remote Desktop Services
+- Installation on a full scale Remote Desktop Services may high demand on system resources
+- For all Windows Servers, there ar
