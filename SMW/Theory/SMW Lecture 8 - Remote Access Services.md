@@ -194,4 +194,13 @@
 - Open the Remote Access Management Console and click the Dashboard in the left pane
 - If only certain clients but not all are having connection problems, try these solutions:
 	- Make sure that clients are using the same communications protocol as the server
-	- If you manage access to the VPN server by using security groups, m
+	- If you manage access to the VPN server by using security groups, make sure that each user account or computer account that needs access is in the appropriate group
+
+## Connecting Through Remote Desktop Services
+- **Remote Desktop Services Server (RDS)**
+	- Enables clients to run session-based desktops, virtual desktops and software applications on Windows Server 2016 instead of at the client
+- <u>Using session-based desktops</u>
+	- The client accesses an RDS server to run applications on that server during a connection session
+- <u>Virtual desktops</u>
+	- Used in association with accessing virtual machines on a virtual server through Hyper-V
+	- Multiple virtual desktops can be in a pool of desktops for different purposes
