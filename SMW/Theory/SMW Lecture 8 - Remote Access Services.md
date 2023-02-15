@@ -254,4 +254,5 @@
 - Can be installed when installing the Remote Desktop Service role
 - Licenses can be purchased either per user account or by client device
 - When installing the RDS role, implement the Network Level Authentication (NLA)
-	- Enables authentication to take place before the RDS connection
+	- Enables authentication to take place before the RDS connection is established
+	- Designed to eliminate man-in-the-middle attacks
