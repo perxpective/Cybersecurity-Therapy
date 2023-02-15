@@ -155,3 +155,4 @@
 - First step in evaluating access is to determine if access permission is enabled at the VPN server
 	- Default permission for this policy is set to deny access
 	- Change the default permission to grant access in the default remote access policy
+- The conditions of a remote a
