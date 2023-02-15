@@ -214,4 +214,6 @@
 	- Support thin clients
 	- Centralize program access
 - **Thin Clients**
-	- Downsized PCs that have minimal Windows-based OSs that access a Windows Server 2016 server so that most CPU-intensive operations are performed on the serv
+	- Downsized PCs that have minimal Windows-based OSs that access a Windows Server 2016 server so that most CPU-intensive operations are performed on the server
+	- Generally use to save money and reduce training and support requirements'
+	- Used for portable field or handheld remote devices
