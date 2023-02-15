@@ -219,4 +219,22 @@
 	- Used for portable field or handheld remote devices
 - <u>Centralize control of how programs are used</u>
 	- Highly classified or sensitive documents can be stored and modified only on the server
-- 
+- RDS not only supports thin clients, but also other types of OSs including:
+	- Windows 10
+	- Windows Server 2016
+	- UNIX and UNIX-based X-terminals
+	- Linux
+	- Mac OS
+	- Tablet OSs
+- <u>Four main components enabling remote desktop connectivity</u>
+	- Windows Server 2016 RDS
+	- Remote Desktop Services client
+	- Remote Desktop Protocol (RDP)
+	- Remote Desktop Services administration tools
+- When installing RDS, install the different role services:
+	- Remote Desktop Session Host
+	- Remote Desktop Web Access
+	- Remote Desktop Virtualization Host
+	- Remote Desktop Licensing
+	- Remote Desktop Gateway
+	- Remote Desktop Connection Broker
