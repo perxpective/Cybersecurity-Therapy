@@ -252,4 +252,5 @@
 - When installing the Remote Desktop Role, the RDS Licensing role also needs to be installed
 	- This is to manage the number of terminal server user licenses obtained from Microsoft
 - Can be installed when installing the Remote Desktop Service role
-- L
+- Licenses can be purchased either per user account or by client device
+- When installing the RDS role
