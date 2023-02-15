@@ -240,3 +240,12 @@
 	- Remote Desktop Connection Broker
 - RDS server employs the RemoteApp
 	- Feature that allows a client to run an application without loading a remote desktop on the client computer
+- RemoteApp program is started by clients in the following ways:
+	- From an icon on the client's desktop
+	- From the client's Start menu
+	- As a link on a website via the Remote Desktop Web Access
+	- As an `.rdp` file
+
+![](https://i.imgur.com/3hlQ6tz.png)
+
+## Installing Remote Desktop Services
