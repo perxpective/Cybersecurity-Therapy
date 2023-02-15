@@ -217,3 +217,6 @@
 	- Downsized PCs that have minimal Windows-based OSs that access a Windows Server 2016 server so that most CPU-intensive operations are performed on the server
 	- Generally use to save money and reduce training and support requirements'
 	- Used for portable field or handheld remote devices
+- <u>Centralize control of how programs are used</u>
+	- Highly classified or sensitive documents can be stored and modified only on the server
+- 
