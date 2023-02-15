@@ -205,4 +205,13 @@
 	- Used in association with accessing virtual machines on a virtual server through Hyper-V
 	- Multiple virtual desktops can be in a pool of desktops for different purposes
 
-> Remote Desktop Connection offers two additional remote accces
+> Remote Desktop Connection offers two additional remote access not supported by VPN
+> - Thin client connections
+> - Enables server administrators to know the details of the remote client activities
+
+- Windows Server 2016 RDDS are used for three broad services:
+	- Run applications on a server instead of the client
+	- Support thin clients
+	- Centralize program access
+- **Thin Clients**
+	- Downsized PCs that have minimal Windows-based OSs that access a Windows Server 2016 server so that most CPU-intensive operations are performed on the serv
