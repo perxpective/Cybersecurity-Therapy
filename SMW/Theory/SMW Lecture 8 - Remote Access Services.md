@@ -265,4 +265,16 @@
 
 ## Build-in Remote Desktop Services
 - Installation on a full scale Remote Desktop Services may high demand on system resources
-- For all Windows Servers, there ar
+- For all Windows Servers, there are build-in Remote Desktop Services
+	- With limited numbers of ccocnnections
+	- With simplified configuration options
+	- Run on the same Remote Desktop Protocol
+
+## Accessing an RDS Server from a Client
+- RDS client computers can sign in using the RDC client
+	- RDC client already installed in Windows Vista through Windows 10 and in Windows Server 2016
+- <u>General steps to start RDC client in Windows 10 or Windows Server 2016</u>
+	- Click Start and click Windows Accessories folder
+	- Click Remote Desktop Connection
+	- Enter the name of the computer to access and click Connet
+	- Provide the username and password and click OK
