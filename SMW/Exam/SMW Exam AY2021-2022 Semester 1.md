@@ -41,3 +41,5 @@ In terms of Public Key Infrastructure (PKI):
 - (ii) Online Certificate Status Protocol to identify invalidated certificates
 
 (b) Briefly explain two security or operation implications if there is no certificate renewal process incorporated in the PKI design
+
+(c) List and briefly describe three essential information that should be contained in the server certificate for a web hosting application
