@@ -26,4 +26,18 @@ Briefly describe how to configure and deploy a domain policy to accomplish the d
 
 ## Question 3
 (a) In terms of Patch Management and WSUS:
-- (i) Identify two common troubleshooting strategies for handling
+- (i) Identify two common troubleshooting strategies for handling Windows update issues
+- (ii) List one pro and one con of using test site approach to test a new update before the actual deployment
+
+(b) In terms of Remote Access Security:
+- (i) List three of the build-in VPN protocols available in Microsoft Windows 2016 and briefly describe a unique feature/attribute for each of these protocols
+- (ii) Explain one pro and one con of applying the combination of IPSec and VPN for remote access to a shared folder
+
+## Question 4
+In terms of Public Key Infrastructure (PKI):
+
+(a)  Briefly describe two issues for the use of:
+- (i) Certificate Revocation Lists to identify invalidated certificates
+- (ii) Online Certificate Status Protocol to identify invalidated certificates
+
+(b) Briefly explain two security or operation implications if there is no certificate renewal process incorporated in the PKI design
