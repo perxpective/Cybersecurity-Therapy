@@ -17,4 +17,21 @@ In terms of Active Directory Directory Authentication Protocols (Kerberos/NTLM)
 (i) Briefly describe how to configure the security grouping (AGDLP) scheme to support the desired objective.
 (ii) Briefly describe how to deploy the relevant Group Policy Object to complete the desired objective
 
-(b) Briefly 
+(b) Briefly explain the security implications of moving a computer object from an OU container to another OU container
+
+## Question 3
+(a) In terms of Patch Management and WSUS operations:
+
+(i) List two important tasks at Post-Implementation Review stage of a patch exercise
+(ii) List two use cases/advantages of using WSUS computer groups
+
+(b) In terms of Microsoft IPSec implementation:
+
+(i) List three security features that Authentication Header protocol offers
+(ii) Briefly describe how IPSec can help to address the identity of spoofing issue in an Active Directory Network
+
+## Question 4
+(a) In terms of Public Key Infrastructure (PKI):
+
+(i) Briefly describe one pro and one con for the use of online Certificate Status Protocol to identify non-trustable certificates
+(ii) Briefly explain one security and one operational issue if we do not incorporate 
