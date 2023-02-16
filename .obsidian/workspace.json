@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md"
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
               }
             }
           },
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,12 +179,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f124e163b784d70",
+  "active": "b2b9e798e6b53a37",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
-    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
     "SPIM/SP/SP Chapter 3 - Data Security Policy.md",
