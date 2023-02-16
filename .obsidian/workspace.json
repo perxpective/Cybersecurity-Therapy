@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
+                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,8 @@
   },
   "active": "b2b9e798e6b53a37",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
     "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
