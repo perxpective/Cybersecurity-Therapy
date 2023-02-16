@@ -18,4 +18,12 @@
 
 (b) List four "User Rights" privileges that can be managed by GPO settings
 
-(c) In a single domain Windows system, there are a total of four domain workstations (hr_pc1, hr_pc2, hr_pc3, hr_pc4) allocated to the HR department. Based on the existing security groups and group policy configurations, only the HR staff can login to these workstations
+(c) In a single domain Windows system, there are a total of four domain workstations (hr_pc1, hr_pc2, hr_pc3, hr_pc4) allocated to the HR department. Based on the existing security groups and group policy configurations, only the HR staff can login to these workstations.
+
+There is a dedicated member server (hr_server) that has been allocated to the HR department. The system administrator is going to create a shared folder (`\\hr_server\hr_share`) at the member server (hr_server). This new share should only be allowed to access from the four HR workstations.
+
+Briefly describe how to configure and deploy a domain policy to accomplish the desired objective. State your assumptions to support your answer.
+
+## Question 3
+(a) In terms of Patch Management and WSUS:
+- (i) Identify two common troubleshooting strategies for handling
