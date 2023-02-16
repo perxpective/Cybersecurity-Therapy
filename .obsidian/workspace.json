@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md"
+                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md"
               }
             }
           },
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+                "file": "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +170,7 @@
   },
   "active": "87ff6266361f9b03",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
     "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md",
@@ -179,7 +179,6 @@
     "SPIM/SP/SP Chapter 2 - Introduction to Auditing.md",
     "SMW/Tutorials/SMW Tutorial 5.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
-    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
+    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
   ]
 }
