@@ -37,8 +37,8 @@ Based on the following:
 - One of the key components of IPSec
 - **Responsibilities:**
 	- **Phase 1**
-		- initial security negotiation
-		- based on the authentication methods defined in IPSec rule
+		- Initial security negotiation
+		- Based on the authentication methods defined in IPSec rule
 	- **Phase 2**
 		- Determining the secret keying material
 		- To secure network communication
