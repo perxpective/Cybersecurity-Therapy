@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
+                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,15 +157,15 @@
   },
   "active": "916980df597241c1",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
     "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST AY2022-2023 Semester 1.md",
-    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
-    "SPIM/SP/SP Chapter 5 - Cloud Security Policy.md",
-    "SPIM/SP/SP Chapter 4 - Business Continuity Plan.md"
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md"
   ]
 }
