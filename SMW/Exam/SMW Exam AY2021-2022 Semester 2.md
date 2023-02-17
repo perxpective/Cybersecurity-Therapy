@@ -4,8 +4,3 @@
 
 ## Question 1
 
-## Answers
-Question 1:
-(a) Kerberos and NTLMv2
-(b) 
-(c)
