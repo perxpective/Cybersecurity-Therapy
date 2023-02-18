@@ -319,6 +319,9 @@
 	- Restrict a port only to a specific subnet instead of the whole network
 
 #### Deploy Updates
+> 1. Plan the Deplyment
+> 2. Determine whether securty up
+
 - **Explain how to deploy an update.**
 	- <u>Plan the deployment</u>
 		- Determine which updates need to be rolled out quickly and which ones can be subjected to a more thorough testing process
@@ -335,9 +338,22 @@
 		- If security updates need to be customised
 	- <u>Test the package</u>
 		- Ensures that:
-			- Ensures that the business-critical systems will continue to run successfully after the security update has been deployed
-			- Ensures that package can be uninstalled or rolled back
-			- Ensures t
+			- The business-critical systems will continue to run successfully after the security update has been deployed
+			- The package can be uninstalled or rolled back
+			- The system can be restarted properly
+			- The update is effective
+	- <u>Test the update</u>
+		- **Test Environment**
+			- Test lab with computers simulating the actual environment
+			- Extra overhead incurred
+		- **Pilot Environment**
+			- Test on selected production computers
+			- Authentic
+			- Test the deployment plan
+			- Extra risk incurred
+	- <u>Rolling out the deployment</u>
+		- Carry out the deployment of the update to the computers that need it
+		- Compliant to the Standard Patch Deployment Timeline
 
 
 
