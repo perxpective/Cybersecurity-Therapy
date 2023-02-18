@@ -236,7 +236,10 @@
 
 ### WSUS Operations
 #### Configuring the WSUS Server
-- WSUS 
+- WSUS server requires Internet access to Microsoft Update Server to get information about security updates (synchronisation)
+- Initial synchronisation may take awhile depending on the selection choices
+
+#### Performing Software Update Services
 
 
 
