@@ -224,7 +224,23 @@
 ### WSUS Server
 - **What are the hardware requirements for a WSUS server?**
 	- **Assumption:** WSUS clients are in sync with the server every 8 hours for rollup of 30,000 clients
-	- 
+	- **Processor:** 1.4GHz, x64 (although 2GHz is recommended)
+	- **Memory:** additional 2GB RAM
+	- **Available disk space:** 40GB
+- **What are the software requirements for WSUS server?**
+	- Must be running on IIS and a few other Windows components
+- **What are some features of a WSUS server?**
+	- Admins must approve updates before WSUS clients can install them
+	- WSUS clients can be controlled by Group Policies to connect to WSUS server
+	- WSUS server can maintain update status of all clients
+
+### WSUS Operations
+#### Configuring the WSUS Server
+- WSUS 
+
+
+
+
 
 ## Tutorial Revision Questions
 ### Lecture 4
