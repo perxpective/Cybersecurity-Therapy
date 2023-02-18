@@ -371,10 +371,16 @@
 	- Required update client software is not running on the computer
 	- Computer missing some dependent software
 
+### Post-Deployment Review
+- **Explain how to conduct a post-deployment review.**
+	- Review organisation's performance during the incident
+	- Discuss changes to service windows
+	- Assess the total incident damage and cost if there are any
+	- Update existing baseline for environment
 
-
-
-
+### Common Approaches to Fix Windows Update Errors
+- **Describe some methods to fix common Windows Update errors.**
+	- **Check disk storage** - 
 
 
 
