@@ -544,10 +544,20 @@
 	- Method of granting access to users based on their unique identification
 - **When are certificates used?**
 	- Used in situations including access to corporate resources, external business partner communications or computers that do not run Kerberos v5
-	- 
 
+#### Pre-Shared Key
+- **When should pre-shared keys be used?**
+	- When other methods are not viable
 
+### Configuring IPSec Policies Between Networks and Hosts
+| Security Requirement                                                                                        | Authentication Method  |
+| ----------------------------------------------------------------------------------------------------------- | ---------------------- |
+| Communication within a Windows 2000 or Server 2003 or between trusted Windows 2000 or 2003 domains          | Kerberos V5            |
+| Communication outside the domain or across the Internet where Kerberos V5 is not available but CA access is | Public Key Certificate |
+| Communication with computers that neither support Kerberos V5 nor have access to a CA                       | Pre-shared key         | 
 
+#### Filter Action
+- Will only trigger when incoming 
 
 
 
