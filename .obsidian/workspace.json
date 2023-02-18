@@ -94,7 +94,7 @@
               "type": "markdown",
               "state": {
                 "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -238,9 +238,9 @@
   },
   "active": "081fa4b78c527f55",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-    "SMW/Exam/SMW Exam Summary.md",
     "SMW/Exam/Untitled.md",
+    "SMW/Exam/SMW Exam Summary.md",
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",

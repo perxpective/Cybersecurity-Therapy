@@ -489,8 +489,18 @@
 	- Filter Action (AH or ESP)
 		- Negotiated in IKE Phase 2 and carried out the agreed scheme in actual traffic
 
+#### Deciding what IPSec Mode to Use
+| Transport Mode                                                                                    | Tunnel Mode                                                                                                        |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Used to secure communications within a network and it can be server-to-server or server-to-client | Used to secure communications between networks                                                                     |
+| IPSec provides end-to-end policy                                                                  | Primarily used for interoperability with gateways or end systems that do not support L2TP site-to-site connections |
 
+- **In summary:**
+	- IPSec protection caters to systems in LAN
+	- Use transport mode by default
+	- Use tunnel mode if connections involve WANs
 
+### IPSec Filters
 
 
 
