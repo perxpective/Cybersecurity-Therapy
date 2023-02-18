@@ -133,7 +133,19 @@
 	- OU
 
 ##### Policy Application Order
-- ****
+- **Block Inheritance**
+	- Prevents inheriting GPOs from parent
+- **Enforced**
+	- Force down all child containers and win all setting conflicts
+	- Takes the highest precedence
+- **What if there are two policies at domain level conflicting each other?**
+	- Policy with lowest link order number is applied last
+- **What can be done to avoid complexity in group policies?**
+	- Limit the number of GPOs
+	- Minimize the use of Block Inheritance and Enforced
+
+### Resultant Set of Policy
+
 
 
 ## Tutorial Revision Questions
