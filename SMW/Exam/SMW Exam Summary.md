@@ -148,6 +148,7 @@
 - **What is the purpose of Resultant Set of Policy?**
 	- Used to make implementation and troubleshooting of group policies simpler for administrators
 - **How does Resultant Set of Policy work?**
-
+	- Queries the existing policies in place and then provide reports and results of policy changes
+	- 
 
 ## Tutorial Revision Questions
