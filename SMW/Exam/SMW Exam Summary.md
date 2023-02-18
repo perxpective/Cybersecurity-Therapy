@@ -282,9 +282,25 @@
 - **Description:**
 	- Microsoft sends out a notification if there is an issue affecting customers' security
 	- If security changes are needed, security update is released
+	- Urgent updates are released immediately
 - **Patch Tuesday**
 	- Security updates and corresponding security bulletin normally released on the second Tuesday of every month
-- **Exploit Wednesda**
+- **Exploit Wednesday**
+	- Day after Patch Tuesday where exploits may appear in the wild as many exploitation events are seen shortly after a release of a patch
+- **What are some ways to receive information about updates from Microsoft?**
+	- Email
+	- RSS
+	- Twitter
+	- Security Update Portal
+
+
+#### Evaluate Risk
+- **What are some questions an administrator should ask when evaluating a risk?**
+	- Does this vulnerability apply to the organisation?
+	- Does the vulnerability represent a risk high to the organisation?
+- **What are the costs of deploying a security update?**
+	- 
+
 
 ## Tutorial Revision Questions
 ### Lecture 4
