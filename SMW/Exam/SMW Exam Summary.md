@@ -190,9 +190,16 @@
 - **Price:**
 	- Free for licensed users
 
-| Advantages | Disadvantages |
-| ---------- | ------------- |
-| Sysadmins can           |               |
+| Advantages                                                                                                                                  | Disadvantages                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Sysadmins can control updates to be applied                                                                                                 | Does not support updates from Microsoft |
+| Clients can be configured to get updates from local WSUS server instead of downloading them from Microsoft's site, reducing network traffic |                                         |
+| Provides updates to computers that do not have Internet access                                                                              |                                         |
+
+- **How does a local WSUS server get Windows Updates?**
+	- WSUS server obtains Windows Update files from the common Microsoft Update Services from the Internet
+	- Local WSUS server acts as agent to maintain curated update repository to provide enterprise level control to distribute these updates
+	- Computers can retri
 
 ## Tutorial Revision Questions
 ### Lecture 4
