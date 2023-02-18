@@ -521,6 +521,11 @@
 	- Create the set of filter lists and filter actions, create the policies and add rules combining the filter lists with filter actions
 
 ### Authentication Methods for IPSec
+- **What are the available authentication methods for IPSec?**
+	- Kerberos v5
+	- Certificates (requires PKI)
+	- Pre-shared Key
+- IKE Phase 1 is invoked for initial authentication
 
 
 
