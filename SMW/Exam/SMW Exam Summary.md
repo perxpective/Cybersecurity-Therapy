@@ -645,7 +645,17 @@
 	- Secures communication only if the other computer requests for it
 - **Server (Request Security)**
 	- Accepts initial incoming communications that is unsecured
-	- Requests for communication to be secure
+	- Requests for communication to be secured
+	- Carries on with unsecured connection if client does not support it
+- **Secure Server (Require Security)**
+	- Accept initial inbound communication that is unsecured
+	- Requires that all connections be secured
+
+#### IPSec Policy Precedence
+- **What should be taken note of when troubleshooting IPSec policies and their precedence?**
+	- Only a single IPSeec policy can be assigned at a specific level in the Active Directory
+	- IPSec policy assigned to an OU takes precedence over a domain-level policy for members of that OU
+	- OU inherits the policy of its parent OU unless poli
 
 
 
