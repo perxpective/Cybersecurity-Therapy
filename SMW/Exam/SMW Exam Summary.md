@@ -423,7 +423,8 @@
 ### IPSec Implementation
 - **How does IPSec communication works between two computers?**
 	- Computers first negotiate using the IKE module and authenticate between the sender and receiver
-	- Extra hashing
+	- Extra hashing scheme will help ensure data integrity at packet header
+	- Data encrypted with integrity check at NIC of sending computer as it is formatted into an IP packet
 
 
 
