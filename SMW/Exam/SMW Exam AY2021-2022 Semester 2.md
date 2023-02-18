@@ -24,4 +24,15 @@ In terms of the Microsoft Active Directory Authentication implementation:
 - (ii) List three essential testing criteria of a new Windows Update package.
 
 (b) In terms of Microsoft IPSec implementation:
-- (i) 
+- (i) Briefly explain two main security functions of the IKE module
+- (ii) List three types of cyberattacks that IPSec protects against.
+
+## Question 4
+(a) In terms of Public Key Infrastructure (PKI):
+- (i) Briefly explain two PKI mechanisms/features that deal with compromised certificates
+- (ii) List two features offered by the Enterprise Root CA but not by the Standalone Root CA
+
+(b) Identify the most appropriate remote access solutions for the following scenarios in terms of security, privacy, reliability, and the cost effectiveness. The available choices include: VPN, Remote Desktop Service, HTTPS web services, and IPSec (Transport mode) or the combinations of them. Justify your answers with brief explanations.
+
+To secure the remote access of:
+(i) Group Policy Management Console program by t
