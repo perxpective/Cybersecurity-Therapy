@@ -193,12 +193,12 @@ Based on the following:
 - Two categories of encryption:
 	- Symmetric key encryption
 	- Public key encryption
-- Lifetime settings determine when a new key is generate
+- Lifetime settings determine when a new key is generated
 
 #### Hashing
 > Used to support AH (Authentication Traffic)
 - Secure Hash Algorithm (SHA)
-	- uses 160-but encryption key, very high security method
+	- uses 160-bit encryption key, very high security method
 - Message Digest 5 (MD5)
 	- uses 128-bit encryption key, lower performance than SHA
 

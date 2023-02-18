@@ -568,7 +568,18 @@
 - **Two categories of encryption**
 	- Symmetric key encryption
 	- Public key encryption
-	- 
+
+#### Hashing
+- **What are the types of hashing algorithms?**
+	- <u>Secure Hash Algorithm (SHA)</u>
+		- Uses 160-bit encryption key
+		- Most secure method
+	- <u>Message Digest 5 (MD5)</u>
+		- Uses 128-bit encryption key
+		- Lower performance than SHA
+
+#### Encryption
+
 
 
 
