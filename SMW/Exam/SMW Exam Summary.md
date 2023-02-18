@@ -89,7 +89,25 @@
 		- Generally relate to the ability to manage server or server functions
 	- **Logon Rights**
 		- Related to how accounts, computers and services are accessed
-- **What are examples of privileges?**
-	- 
+- **What are some examples of privileges?**
+	- Adding workstations to domain
+	- Backing up files and directories
+	- Changing system time
+	- Creating permanent shared objects
+	- Generating security audits
+	- Loading and unloading device drivers
+	- Performing volume maintenance tasks
+	- Shutting down the system
+- **What are some examples of logon rights?**
+	- Accessing a computer from the network
+	- Allowing logon locally
+	- Allowing logon through Remote Desktop Services (RDS)
+	- Denying access to a computer from the network
+	- Denying logon as a service
+	- Denying logon locally
+	- Denying logon through RDS
+
+#### 
+
 
 ## Tutorial Revision Questions
