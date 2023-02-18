@@ -240,6 +240,12 @@
 - Initial synchronisation may take awhile depending on the selection choices
 
 #### Performing Software Update Services
+- **What are two types of logs for tracking events?**
+	- <u>Synchronisation</u>
+		- Time of the last and next scheduled synchronisation
+		- Success and failure notification
+		- Update packages that have been download
+	- <u>Approval</u>
 
 
 
