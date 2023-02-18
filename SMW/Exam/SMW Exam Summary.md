@@ -32,7 +32,17 @@
 	- Account Lockout
 	- Kerberos Security
 
-###
+##### Password Security
+- **What are some password security settings that can be managed by GPOs?**
+	- Enforce password history
+	- Maximum password age
+	- Minimum password length
+	- Complexity requirements
+	- Storing passwords with reversible encryption
+
+##### Account Lockout
+- **What does account lockout secure?**
+	- Bars access to an account including the true account owner after a number of unsuccessful tries
 
 
 ## Tutorial Revision Questions
