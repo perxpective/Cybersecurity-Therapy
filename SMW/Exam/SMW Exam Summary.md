@@ -107,7 +107,8 @@
 	- Denying logon locally
 	- Denying logon through RDS
 
-#### 
+#### Configuring Security Options
+
 
 
 ## Tutorial Revision Questions
