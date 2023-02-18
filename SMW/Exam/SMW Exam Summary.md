@@ -25,7 +25,7 @@
 	- IP Security Policies
 
 #### Account Policies
-- **Definition of Account Policies**
+- **Definition of Account Policies:**
 	- Security measures in Group Policy that applies to all accounts (or in a container) when Active Directory is installed
 - **What are the three main areas affected by Account Policies?**
 	- Password Security
@@ -55,7 +55,12 @@
 	- Reset account lockout count after
 
 ##### Kerberos Security
-- ****
+- **Definition of Kerberos Security:**
+	- Uses tickets that are exchanged between <u>client who requests logon</u> and <u>network service access</u> and the <u>server that grants access</u>
+- **How does Kerberos Security work?**
+	- Each domain controller is a key distribution centre (KDC
+	- Once user is authenticated, Kerberos ticket-granting service grants permanent ticket to that computer
+	- Service ticket is good for the duration of the logon session
 
 
 ## Tutorial Revision Questions
