@@ -271,7 +271,20 @@
 	- Servers with the same roles can be put into the same group where they can receive relevant updates at the same time
 
 ### Patch Management
+- **What are the five stages in Patch Management?**
+	- Receive Microsoft Security Release Communications
+	- Evaluate Risk
+	- Evaluate Mitigation
+	- Deploy Updates
+	- Monitor Systems
 
+#### Receive Microsoft Security Release Communications
+- **Description:**
+	- Microsoft sends out a notification if there is an issue affecting customers' security
+	- If security changes are needed, security update is released
+- **Patch Tuesday**
+	- Security updates and corresponding security bulletin normally released on the second Tuesday of every month
+- **Exploit Wednesda**
 
 ## Tutorial Revision Questions
 ### Lecture 4
