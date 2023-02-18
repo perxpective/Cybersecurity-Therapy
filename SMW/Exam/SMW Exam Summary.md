@@ -625,7 +625,11 @@
 	- <u>Group policy objects</u>
 		- IPSec policy is propagated to any computer accounts that are affected by GPO
 	- <u>Command-line tools</u>
-		- `netsh`
+		- `netsh` IPSec command in Windows Server 2003-2008
+
+> IPSec configurations can be done via the Windows Defender Firewall Advanced Security Settings (WFAS)
+
+#### Group Policy Objects
 
 
 
