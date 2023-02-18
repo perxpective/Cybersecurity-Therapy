@@ -518,7 +518,9 @@
 	- Require Security
 - **How can IPSec policies be managed:**
 	- Creating new policies and define the rules for the policy as required
-	- Create the set of filter lists and filter actions and then create the polciies 
+	- Create the set of filter lists and filter actions, create the policies and add rules combining the filter lists with filter actions
+
+### Authentication Methods for IPSec
 
 
 
