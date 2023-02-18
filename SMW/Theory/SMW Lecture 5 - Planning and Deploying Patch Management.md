@@ -17,8 +17,8 @@
 - Windows Server Update Services (WSUS)
 - Microsoft Endpoint Manager
 	- Comprises of many configuration tools
-	- Microsoft System Centre Configuration Manager
-		- including software deployment management
+- Microsoft System Centre Configuration Manager
+	- including software deployment management
 
 ### Microsoft Update and Automatic Updates
 - For consumers and small businesses with fewer than **50 computers**

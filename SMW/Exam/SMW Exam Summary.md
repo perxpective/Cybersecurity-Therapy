@@ -166,6 +166,10 @@
 	- Microsoft Update Automatic Updates (MUAU)
 	- Windows Server Update Services (WSUS)
 	- Microsoft Endpoint Manager
+	- Microsoft System Centre Configuration Manager
+
+#### Microsoft Update Automatic Updates
+- For consumers and small business fewer than 
 
 ## Tutorial Revision Questions
 ### Lecture 4
