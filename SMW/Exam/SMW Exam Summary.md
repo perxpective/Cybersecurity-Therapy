@@ -145,7 +145,9 @@
 	- Minimize the use of Block Inheritance and Enforced
 
 ### Resultant Set of Policy
-
+- **What is the purpose of Resultant Set of Policy?**
+	- Used to make implementation and troubleshooting of group policies simpler for administrators
+- **How does Resultant Set of Policy work?**
 
 
 ## Tutorial Revision Questions
