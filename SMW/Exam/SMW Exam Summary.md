@@ -432,13 +432,21 @@
 	- Provides more IKE authentication options and AES encryption support
 
 ### IPSec Trade-Offs
-- **What are some impacts of IPSec?**
+- **What are some things IPSec has an effect on?**
 	- Time needed to establish IPSec connection
 	- Time needed to filter and encrypt packet
 	- Increased packet size
 	- Network inspection technologies used in routers, firewalls, intrusion detection systems (IDS) may not work on IPSec packets
 	- Application compatibility with other platforms
-	- Effect on Active Directory and domain controll
+	- Effect on Active Directory and domain controller connections
+
+### Planning an IPSec Deployment
+- **What is the configuration of IPSec based on?**
+	- The way IPSec is used
+	- Types of client operating system in the network
+	- Types of network devices in the network
+- **In what scenarios where IPSec is not recommended?**
+	- Securing communication between domain members and domain controllers
 
 
 
