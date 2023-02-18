@@ -557,7 +557,9 @@
 | Communication with computers that neither support Kerberos V5 nor have access to a CA                       | Pre-shared key         | 
 
 #### Filter Action
-- Will only trigger when incoming 
+- **When will filter actions trigger?**
+	- When incoming or outgoing connections match the filter
+- **What are the available types of a**
 
 
 
