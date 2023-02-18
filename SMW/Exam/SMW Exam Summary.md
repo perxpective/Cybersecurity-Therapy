@@ -655,7 +655,15 @@
 - **What should be taken note of when troubleshooting IPSec policies and their precedence?**
 	- Only a single IPSeec policy can be assigned at a specific level in the Active Directory
 	- IPSec policy assigned to an OU takes precedence over a domain-level policy for members of that OU
-	- OU inherits the policy of its parent OU unless poli
+	- OU inherits the policy of its parent OU unless policy inheritance is explicitly blocked or separate policy is explicitly assigned to that OU
+	- Before assigning an IPSec policy to a GPO, verify that the group policy settings required for IPSec policy
+	- Use Enforce or Block Policy Inheritance carefully
+- **Describe the procedure for deleting policy objects:**
+	- Unassign the IPSec policy in the GPO
+	- Wait 24 hours to ensure that the change is propogated
+	- Delete the GPO
+- **Persistent Policy:**
+	- Provides maximum protection against against attacks during computer start up
 
 
 
