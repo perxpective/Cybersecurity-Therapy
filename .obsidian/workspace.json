@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "081fa4b78c527f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Exam/SMW Exam Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efbdaea0838839e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,17 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "916980df597241c1",
+  "active": "081fa4b78c527f55",
   "lastOpenFiles": [
-    "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
+    "SMW/MST Papers/SMW MST Summary.md",
+    "SMW/Exam/SMW Exam Summary.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+    "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
     "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
-    "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
     "SMW/Tutorials/SMW Tutorial 2.md",
     "SMW/Tutorials/SMW Tutorial 3.md",
-    "SMW/Tutorials/SMW Tutorial 1.md",
-    "SMW/Tutorials/SMW Tutorial 5.md"
+    "SMW/Tutorials/SMW Tutorial 1.md"
   ]
 }

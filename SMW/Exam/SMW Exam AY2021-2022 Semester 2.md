@@ -35,4 +35,6 @@ In terms of the Microsoft Active Directory Authentication implementation:
 (b) Identify the most appropriate remote access solutions for the following scenarios in terms of security, privacy, reliability, and the cost effectiveness. The available choices include: VPN, Remote Desktop Service, HTTPS web services, and IPSec (Transport mode) or the combinations of them. Justify your answers with brief explanations.
 
 To secure the remote access of:
-(i) Group Policy Management Console program by t
+- (i) Group Policy Management Console program by the domain administrators using iPad devices
+- (ii) Shared printers by the authorized users using Windows workstations
+- (iii) The corporate Internet website by all corporate staff
