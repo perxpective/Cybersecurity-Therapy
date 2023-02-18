@@ -223,7 +223,7 @@
 
 ### WSUS Server
 - **What are the hardware requirements for a WSUS server?**
-	- Assuming that WSUS clients are in sync with the server every 8 hours for rollup of 30,000 clients
+	- **Assumption:** WSUS clients are in sync with the server every 8 hours for rollup of 30,000 clients
 	- 
 
 ## Tutorial Revision Questions
