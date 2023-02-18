@@ -636,7 +636,9 @@
 		- Effective and cannot be overwritten
 	- IPSec policies from different OUs are never merged
 	- For domain-based IPSec policy, limit the number of rules to 10 or less
-	- Create and apply an IPSec policy at ht
+	- Create and apply an IPSec policy at the domain level to provide a baseline of IPSec protection
+	- Use Export and Import Policies commands in the IP Security Policy Management console to backup and restore IPSec policy objects
+	- Adequately test the impact of the new IPSec policies before assigning them into the domain
 
 
 

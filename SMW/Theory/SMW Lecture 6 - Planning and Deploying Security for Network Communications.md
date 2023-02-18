@@ -254,7 +254,7 @@ Based on the following:
 	- IPSec policies from different OUs are never merged
 	- For domain-based IPSec policy, limit the number of rules to 10 or less
 	- Create and apply an IPSec policy at the domain level to provide a baseline of IPSec protection
-	- Use the Export and Import policies commands in the IP Security Policy Management console to back up and restore the IPSec policy objects
+	- Use the Export and Import Polies commands in the IP Security Policy Management console to back up and restore the IPSec policy objects
 	- Be sure to adequately test the impact of the new IPSec policies before assigning them in the domain
 
 ### Understanding Default IPSec Policies
