@@ -169,7 +169,9 @@
 	- Microsoft System Centre Configuration Manager
 
 #### Microsoft Update Automatic Updates
-- For consumers and small business fewer than 
+- **Who is it most suitable for?**
+	- Computers and small businesses with fewer than 50 computers
+	- Upd
 
 ## Tutorial Revision Questions
 ### Lecture 4
