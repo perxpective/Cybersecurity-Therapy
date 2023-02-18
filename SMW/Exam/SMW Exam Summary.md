@@ -108,7 +108,23 @@
 	- Denying logon through RDS
 
 #### Configuring Security Options
+- **Categories of Security Options:**
+	- Accounts
+	- Audit
+	- DCOM
+	- Devices
+	- Domain Controller
+	- Interactive logon
+	- Microsoft Network Client
+	- Network Access
+	- Network Security
+	- Recovery Console
+	- Shutdown
+	- System Cryptography
+	- System Objects
+	- System Settings
+	- User Account Control
 
-
+#### Policy Application Order and Troubleshooting
 
 ## Tutorial Revision Questions

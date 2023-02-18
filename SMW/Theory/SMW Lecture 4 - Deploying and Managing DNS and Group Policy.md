@@ -379,7 +379,7 @@
 - Network Access
 - Network Security
 - Recovery Console
-- Shutdowwn
+- Shutdown
 - System Cryptography
 - System Objects
 - System Settings
