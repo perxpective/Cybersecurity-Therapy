@@ -199,7 +199,18 @@
 - **How does a local WSUS server get Windows Updates?**
 	- WSUS server obtains Windows Update files from the common Microsoft Update Services from the Internet
 	- Local WSUS server acts as agent to maintain curated update repository to provide enterprise level control to distribute these updates
-	- Computers can retri
+
+#### Microsoft Endpoint Manager
+- **Description:**
+	- Supports management and distribution of Microsoft and non-Microsoft software updates and applications
+	- Supports various types of endpoints on Windows and non-Windows platforms
+	- Has advanced administrator control features
+- **Price:**
+	- Charges apply
+
+### Security Update Guide
+- **Description:**
+	- Contains detailed guidance and information about security update and vulnerability
 
 ## Tutorial Revision Questions
 ### Lecture 4
