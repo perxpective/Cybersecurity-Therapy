@@ -23,4 +23,5 @@ In terms of the Microsoft Active Directory Authentication implementation:
 - (i) What are the definitions of the "Important" and "Moderate" severity ratings that associate with a Microsoft Update?
 - (ii) List three essential testing criteria of a new Windows Update package.
 
-(b) In terms of Microsoft 
+(b) In terms of Microsoft IPSec implementation:
+- (i) 
