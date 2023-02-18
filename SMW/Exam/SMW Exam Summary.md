@@ -154,7 +154,18 @@
 
 > - RSoP supports two modes: planning and logging
 
-## Lecture 5 - 
+## Lecture 5 - Patch Management
+### Overview
+- **Definition of Patch Management:**
+	- Method of keeping computers up to date with new software releases
+- **Definition of Security Patch Management:**
+	- Patch management with a concentration on reducing security vulnerabilities essential for secure IT management and operations
+
+### Managing Updates
+- **What are some ways to manage Windows updates?**
+	- Microsoft Update Automatic Updates (MUAU)
+	- Windows Server Update Services (WSUS)
+	- Microsoft Endpoint Manager
 
 ## Tutorial Revision Questions
 ### Lecture 4
