@@ -61,6 +61,28 @@
 	- Each domain controller is a key distribution centre (KDC
 	- Once user is authenticated, Kerberos ticket-granting service grants permanent ticket to that computer
 	- Service ticket is good for the duration of the logon session
+- **What are the enhancements made to Kerberos Security on Windows Server 2016 and Windows 10?**
+	- AES encryption
+	- When Active Directory installed, account policies enable Kerberos
+	- When Active Directory not installed, default authentication is via NTLMv2
+- **What are some options for configuring Kerberos?**
+	- Enforce user logon restrictions
+	- Maximum lifetime for service ticket
+	- Maximum lifetime for user ticket
+	- Maximum tolerance for computer clock synchronisation
+
+##### Audit Policies
+- **What are some events that organisations can audit?**
+	- Account logon
+	- Account management
+	- Directory service access
+	- Logon events at local computers
+	- Object access
+	- Policy changes
+	- Privilege use
+	- Process tracking
+	- System events
+
 
 
 ## Tutorial Revision Questions
