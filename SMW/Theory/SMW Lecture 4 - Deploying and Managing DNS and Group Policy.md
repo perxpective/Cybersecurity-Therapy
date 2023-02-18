@@ -260,7 +260,7 @@
 
 - **Defining characteristics of Group Policy:**
 	- Group Policy can be set for a site, domain, OU or local computer
-	- Group Policy cannot be set for non-OU folder containers
+	- Group Policy cannot be set for non-OU folder container
 	- Group Policy settings are stored in Group Policy Objects
 	- GPOs can be local and nonlocal
 	- Group Policy can be set up to affect user accounts and computers

@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10bec4ad2d0151d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "23ab27022a7f2a6c",
@@ -116,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -143,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,13 +197,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "159017fe58cb3834",
+  "active": "081fa4b78c527f55",
   "lastOpenFiles": [
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Exam/SMW Exam Summary.md",
-    "SMW/Exam/Untitled.canvas",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
+    "SMW/Exam/Untitled.canvas",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
     "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
     "SMW/MST Papers/SMW MST AY2021-2022 Semester 1.md",
