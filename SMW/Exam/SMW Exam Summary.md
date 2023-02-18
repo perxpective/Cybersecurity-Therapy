@@ -149,6 +149,12 @@
 	- Used to make implementation and troubleshooting of group policies simpler for administrators
 - **How does Resultant Set of Policy work?**
 	- Queries the existing policies in place and then provide reports and results of policy changes
-	- 
+- **What does the command `gpuresult` do?**
+	- Check current accepted and active GPOs
+
+> - RSoP supports two modes: planning and logging
+
+## Lecture 5 - 
 
 ## Tutorial Revision Questions
+### Lecture 4
