@@ -630,6 +630,13 @@
 > IPSec configurations can be done via the Windows Defender Firewall Advanced Security Settings (WFAS)
 
 #### Group Policy Objects
+- **What are some factors to consider when selecting GPOs for IPSec policy assignments?**
+	- Precedence of assignment: LSDOU
+	- Persistent IPSec policy has the highest precedence though it is stored on the local computer
+		- Effective and cannot be overwritten
+	- IPSec policies from different OUs are never merged
+	- For domain-based IPSec policy, limit the number of rules to 10 or less
+	- Create and apply an IPSec policy at ht
 
 
 
