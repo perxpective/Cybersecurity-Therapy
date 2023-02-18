@@ -331,7 +331,13 @@
 			- Microsoft Deployment Tools
 			- Microsoft Download Centre
 			- Microsoft Update Catalog Service
-
+	- <u>Create the update package</u>
+		- If security updates need to be customised
+	- <u>Test the package</u>
+		- Ensures that:
+			- Ensures that the business-critical systems will continue to run successfully after the security update has been deployed
+			- Ensures that package can be uninstalled or rolled back
+			- Ensures t
 
 
 
