@@ -397,10 +397,18 @@
 	- Enforce trusted communication
 	- Secure communication of information travelling the network
 	- Option for IPv4 implementation
+- **What are some cyberattacks IPSec protects against?**
+	- Source Spoofing
+	- Replay Attacks
+	- Denial of Service (DoS)
 
-
-
-
+### IPSec Control Elements
+- **What are three main security elements of IPSec?**
+	- <u>Internet Key Exchange (IKE)</u>
+		- Protocol for exchanging encryption keys
+	- <u>Authentication Header (AH)</u>
+		- Provides an authenticity guarantee for packets
+	- <u>Encapsulating Security Payload (ESP)</u>
 
 
 
