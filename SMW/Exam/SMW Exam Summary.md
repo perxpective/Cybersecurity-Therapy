@@ -423,6 +423,7 @@
 ### IPSec Implementation
 - **How does IPSec communication works between two computers?**
 	- Computers first negotiate using the IKE module and authenticate between the sender and receiver
+	- Extra hashing
 
 
 
