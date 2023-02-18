@@ -380,7 +380,16 @@
 
 ### Common Approaches to Fix Windows Update Errors
 - **Describe some methods to fix common Windows Update errors.**
-	- **Check disk storage** - 
+
+| Method                        | Description                                                                                  |
+| ----------------------------- | -------------------------------------------------------------------------------------------- |
+| Check disk storage            | System may not have sufficient disk storage to support download and installation requirement |
+| Windows Update Catalog        | Download specific update package from Windows Update Catalog website                         |
+| Windows Update Troubleshooter | Free tools from Microsoft which can fix most of the common Windows Update errors             |
+
+## Lecture 6 - IP Security
+
+
 
 
 
