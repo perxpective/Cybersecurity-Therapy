@@ -313,7 +313,10 @@
 
 #### Evaluate Mitigation
 - **Description:**
-	- 
+	- While administrators are evaluating security updates, some short-term security control can be applied
+- **Examples:**
+	- Adjusting the firewall policies
+	- Restrict a port only to a specific subnet instead of the whole network
 
 
 
