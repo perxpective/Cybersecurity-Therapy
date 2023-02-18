@@ -409,6 +409,9 @@
 	- <u>Authentication Header (AH)</u>
 		- Provides an authenticity guarantee for packets
 	- <u>Encapsulating Security Payload (ESP)</u>
+		- Provides confidentiality through encryption
+
+#### IKE Module
 
 
 
