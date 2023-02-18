@@ -257,9 +257,11 @@
 		- **Reason:** Testers may overlook and skip the testing of the new updates
 
 #### Policy Options for Clients
-| WSUS Policy Option | Comments |
-| ------------------ | -------- |
-| No                   |          |
+| WSUS Policy Option                                   | Comments                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Notify for download and installation                 | User logged on with local administrator rights selects the option to download the update whenever the new "New update available for download" notification appears in the taskbar.<br>To complete the installation, user installs the software update when the "New update available for installation" notification appears   |
+| Automatically download and notify for installation   | Automatic Updates client automatically downloads newly approved updates that apply to the client computer.<br>To install the updates, user logged on with local administrator rights need to select the option to install the software update when the "New software update available for installation" notification appears. |
+| Automatically download and schedule the installation | User logged on with local administrator righ                                                                                                                                                                                                                                                                                                                              |
 
 
 
