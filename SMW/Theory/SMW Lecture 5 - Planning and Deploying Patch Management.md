@@ -59,7 +59,7 @@
 - Contains detailed guidance and information about the security update and the vulnerability
 - Supporting search and filter features to locate specific entries
 
-### Security Technical Security Notifications
+### Technical Security Notifications
 - A few free of charge notification services for sign-up users
 - <u>Security Update Email Alerts</u>
 	- provide new or major revision Microsoft product security content

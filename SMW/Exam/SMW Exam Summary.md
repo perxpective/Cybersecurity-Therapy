@@ -210,7 +210,21 @@
 
 ### Security Update Guide
 - **Description:**
-	- Contains detailed guidance and information about security update and vulnerability
+	- Contains detailed guidance and information about security update and vulnerabilities
+	- Supports search and filter features to locate specific entries
+
+### Technical Security Notifications
+- **Description:**
+	- Few free of charge notification services for signup users
+- **Security Update Email Alerts**
+	- Provides new or major revision Microsoft product security content
+- **Security Advisories Alerts**
+	- Helps administrators plan for upcoming security updates
+
+### WSUS Server
+- **What are the hardware requirements for a WSUS server?**
+	- Assuming that WSUS clients are in sync with the server every 8 hours for rollup of 30,000 clients
+	- 
 
 ## Tutorial Revision Questions
 ### Lecture 4
