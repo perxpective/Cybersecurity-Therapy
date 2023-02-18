@@ -126,10 +126,14 @@
 	- User Account Control
 
 #### Policy Application Order and Troubleshooting
-- **Order of Precedence of Group Policies:**
+- **Order of Precedence of Group Policies: (LSDOU)**
 	- Local
 	- Site
 	- Domain
 	- OU
+
+##### Policy Application Order
+- ****
+
 
 ## Tutorial Revision Questions
