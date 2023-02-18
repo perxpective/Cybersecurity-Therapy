@@ -7,6 +7,7 @@
 ```
 
 ## Lecture 4 (Part 2) - Group Policies
+### Overview of Group Policies
 - **Definition of Group Policies:**
 	- Enables users to standardize working environment of clients and servers by setting policies in the Active Directory
 - **Name characteristics of Group Policy:**
@@ -16,8 +17,22 @@
 	- Can be local or nonlocal
 	- Can be set up to affect user accounts and computers
 	- When updated, old policies are removed or updated for all clients
+- **Name several types of security policies:**
+	- Account Policies
+	- Audit Policies
+	- User Rights
+	- Security Options
+	- IP Security Policies
 
+#### Account Policies
+- **Definition of Account Policies**
+	- Security measures in Group Policy that applies to all accounts (or in a container) when Active Directory is installed
+- **What are the three main areas affected by Account Policies?**
+	- Password Security
+	- Account Lockout
+	- Kerberos Security
 
+###
 
 
 ## Tutorial Revision Questions
