@@ -596,6 +596,22 @@
 | Only data needs to be protected so its unreadable but IP addressing can be left unprotected  | ESP        | Use when data must be kept confidential such as file sharing, database traffic or internal web applications that have not been adequately secured                 |
 | Both the header and data need to be protected while data is encrypted                        | AH and ESP | Use for the highest security and if possible, use ESP alone instead                                                                                               |
 
+#### IPSec Packets
+- **AH Transport Mode**
+![](https://i.imgur.com/ICxKYpV.png)
+
+**ESP Transport Mode**
+![](https://i.imgur.com/78ZapBF.png)
+
+
+
+
+
+
+
+
+
+
 
 
 

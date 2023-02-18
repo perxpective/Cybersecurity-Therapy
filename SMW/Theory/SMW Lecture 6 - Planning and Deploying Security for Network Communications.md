@@ -223,7 +223,6 @@ Based on the following:
 **ESP Transport Mode**
 ![](https://i.imgur.com/78ZapBF.png)
 
-
 - Tunnel mode uses double encapsulation
 	- suitable for protecting traffic between network systems e.g. untrusted medium like the Internet
 	- **AH Tunnel Mode:**
