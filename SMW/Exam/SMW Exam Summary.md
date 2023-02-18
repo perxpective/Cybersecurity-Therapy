@@ -71,7 +71,7 @@
 	- Maximum lifetime for user ticket
 	- Maximum tolerance for computer clock synchronisation
 
-##### Audit Policies
+#### Audit Policies
 - **What are some events that organisations can audit?**
 	- Account logon
 	- Account management
@@ -83,6 +83,13 @@
 	- Process tracking
 	- System events
 
-
+#### User Rights Configuration
+- **What are two general categories of rights?**
+	- **Privileges**
+		- Generally relate to the ability to manage server or server functions
+	- **Logon Rights**
+		- Related to how accounts, computers and services are accessed
+- **What are examples of privileges?**
+	- 
 
 ## Tutorial Revision Questions
