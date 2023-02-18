@@ -663,14 +663,11 @@
 	- Wait 24 hours to ensure that the change is propogated
 	- Delete the GPO
 - **Persistent Policy:**
-	- Provides maximum protection against against attacks during computer start up
-
-
-
-
-
-
-
+	- Provides maximum protection against attacks during computer start up
+	- Adds or overrides local or Active Directory policy
+	- Remains in effect regardless of whether other policies are applied
+	- Backup security in case IPSec policy gets corrupted or if errors occur
+	- Can be set using `netsh` at the local workstation
 
 ## Tutorial Revision Questions
 ### Lecture 4
