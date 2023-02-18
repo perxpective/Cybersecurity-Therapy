@@ -313,12 +313,24 @@
 
 #### Evaluate Mitigation
 - **Description:**
-	- While administrators are evaluating security updates, some short-term security control can be applied
+	- Short-term security measures that can be applied while admins are evaluating security updates
 - **Examples:**
 	- Adjusting the firewall policies
 	- Restrict a port only to a specific subnet instead of the whole network
 
-
+#### Deploy Updates
+- **Explain how to deploy an update.**
+	- <u>Plan the deployment</u>
+		- Determine which updates need to be rolled out quickly and which ones can be subjected to a more thorough testing process
+		- Have a deployment schedule
+	- <u>Determine whether the security update is available for download</u>
+		- If there are no security updates available, Microsoft advises appropriate actions to take to protect computer systems
+	- <u>Obtain the required update files</u>
+		- Security update files can be obtained from several sources:
+			- Microsoft Security Guide
+			- Microsoft Deployment Tools
+			- Microsoft Download Centre
+			- Microsoft Update Catalog Service
 
 
 

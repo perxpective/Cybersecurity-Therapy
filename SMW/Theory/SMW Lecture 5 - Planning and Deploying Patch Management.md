@@ -175,7 +175,7 @@ There are six steps to deploy an update:
 	- Security update files can be obtained from several sources:
 		- Microsoft Security Guide
 		- Microsoft Deployment Tools (Microsoft/Windows Update, WSUS, Endpoint Manager)
-		- Microsoft Download Center
+		- Microsoft Download Centre
 		- Microsoft Update Catalog Service
 - <u>Create the update package</u>
 	- If security updates need to be customized
