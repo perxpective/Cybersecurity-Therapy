@@ -464,7 +464,12 @@
 | Identity spoofing                                                      | Use Kerberos, public key certificates or pre-shared key authentication to verify the identity of the computer                                                           |
 | Modification of data                                                   | Use cryptographic checksum that incorporates secret key to provide data integrity                                                                                       |
 
-
+#### Proper Usage of IPSec
+- Packet filtering such as using IPSec with routing and Remote Access service to permit or block inbound or outbound traffic
+- Secure host-to-host traffic on specific paths
+- Secure traffic to servers
+- Combine LT2P and IPSec for securing VPN connections
+- Implementing site-to-site or gateway-to-gateway
 
 
 ## Tutorial Revision Questions
