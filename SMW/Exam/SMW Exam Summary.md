@@ -481,7 +481,13 @@
 	- Number of applications that require IPSec
 
 #### Elements of a Rule
-
+- **Five configurable elements of each rule:**
+	- Connection Type (LAN, Remote, All)
+	- Mode (Transport or Tunnel)
+	- Filter List
+	- Host-to-Host Authentication Method (used by IKE Phase 1)
+	- Filter Action (AH or ESP)
+		- Negotiated in IKE Phase 2 and carried out the agreed scheme in actual traffic
 
 
 
