@@ -559,8 +559,16 @@
 #### Filter Action
 - **When will filter actions trigger?**
 	- When incoming or outgoing connections match the filter
-- **What are the available types of a**
+- **What are the available types of filter actions?**
+	- Permit
+	- Block
+	- Negotiate Security (IKE Phase 2)
 
+#### Encryption Levels
+- **Two categories of encryption**
+	- Symmetric key encryption
+	- Public key encryption
+	- 
 
 
 
