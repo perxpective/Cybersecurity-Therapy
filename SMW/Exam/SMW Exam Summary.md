@@ -41,8 +41,21 @@
 	- Storing passwords with reversible encryption
 
 ##### Account Lockout
-- **What does account lockout secure?**
+- **Definition of Account Lockout**
 	- Bars access to an account including the true account owner after a number of unsuccessful tries
+	- Lockout can be set to be released after a specific period of time (or by intervention of administrator)
+- **What are the pros and cons of account lockout?**
+	- **Advantages:**
+		- Prevents brute force attacks or password cracking
+	- **Disadvantages:**
+		- Create opportunities for Denial of Service attacks
+- **What are some account lockout parameters?**
+	- Account lockout duration
+	- Account lockout threshold
+	- Reset account lockout count after
+
+##### Kerberos Security
+- ****
 
 
 ## Tutorial Revision Questions
