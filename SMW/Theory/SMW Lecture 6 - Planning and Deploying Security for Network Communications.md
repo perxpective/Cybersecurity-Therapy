@@ -42,7 +42,7 @@ Based on the following:
 	- **Phase 2**
 		- Determining the secret keying material
 		- To secure network communication
-		- Related to the Filter Action setting of the associate IPSec rule
+		- Related to the Filter Action setting of the associated IPSec rule
 
 ## IP Security Implementation
 - When IPSec communication begins between two computers:

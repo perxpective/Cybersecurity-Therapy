@@ -412,7 +412,17 @@
 		- Provides confidentiality through encryption
 
 #### IKE Module
+- **Phase 1**
+	- Initial security negotiation
+	- Based on the authentication methods defined in IPSec rule
+- **Phase 2**
+	- Determining the secret keying material
+	- Secure network communication
+	- Related to the Filter Action setting of associated IPSec rule
 
+### IPSec Implementation
+- **How does IPSec communication works between two computers?**
+	- Computers first negotiate using the IKE module and authenticate between the sender and receiver
 
 
 
