@@ -618,7 +618,8 @@
 **ESP Tunnel Mode**
 ![](https://i.imgur.com/suPGkMv.png)
 
-
+### Deploying IPSec Policies
+- **How can IPSec policies be deployed?**
 
 
 
