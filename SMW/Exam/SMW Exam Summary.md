@@ -542,6 +542,9 @@
 #### Certificates
 - **Description**
 	- Method of granting access to users based on their unique identification
+- **When are certificates used?**
+	- Used in situations including access to corporate resources, external business partner communications or computers that do not run Kerberos v5
+	- 
 
 
 
