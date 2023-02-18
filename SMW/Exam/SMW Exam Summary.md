@@ -641,6 +641,16 @@
 	- Adequately test the impact of the new IPSec policies before assigning them into the domain
 
 #### Default IPSec Policies
+- **Client (Respond Only)**
+	- Secures communication only if the other computer requests for it
+- **Server (Request Security)**
+	- Accepts initial incoming communications that is unsecured
+	- Requests for communication to be secure
+
+
+
+
+
 
 
 
