@@ -388,8 +388,15 @@
 | Windows Update Troubleshooter | Free tools from Microsoft which can fix most of the common Windows Update errors             |
 
 ## Lecture 6 - IP Security
-
-
+### IPSec Concepts
+- **Definition of IPSec:**
+	- Set of protocols used to ensure private, secure communications over IP networks using cryptographic security services
+- **What are the design principles of IPSec?**
+	- Protect the contents of IP packets
+	- Provide packet filtering
+	- Enforce trusted communication
+	- Secure communication with encryption of the information travelling the network
+	- Option
 
 
 
