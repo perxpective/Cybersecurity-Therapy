@@ -612,10 +612,11 @@
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | Encapsulate IP packet by placing an AH header between internal IP header and external IP header | IP packet is the first encapsulated with an ESP header then the result is encapsulated with an additional IP header |
 
+**AH Tunnel Mode**
+![](https://i.imgur.com/syCbZbu.png)
 
-
-
-
+**ESP Tunnel Mode**
+![](https://i.imgur.com/suPGkMv.png)
 
 
 
