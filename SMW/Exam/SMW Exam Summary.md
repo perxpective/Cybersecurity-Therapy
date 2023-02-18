@@ -469,7 +469,27 @@
 - Secure host-to-host traffic on specific paths
 - Secure traffic to servers
 - Combine LT2P and IPSec for securing VPN connections
-- Implementing site-to-site or gateway-to-gateway
+- Implementing site-to-site or gateway-to-gateway tunnelling
+- **Recommendations based on network devices**
+	- In simple networks, one IPSec policy can be designed with multiple rules
+	 - In larger networks, many different IPSec policies can be designed
+- **What are some factors the increase the number of policies required?**
+	- Computer roles
+	- Sensitivity of data travelling over the network
+	- Computer OS
+	- Domain relationships and memberships
+	- Number of applications that require IPSec
+
+#### Elements of a Rule
+
+
+
+
+
+
+
+
+
 
 
 ## Tutorial Revision Questions
