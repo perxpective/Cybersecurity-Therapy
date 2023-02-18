@@ -243,11 +243,23 @@
 - **What are two types of logs for tracking events?**
 	- <u>Synchronisation</u>
 		- Time of the last and next scheduled synchronisation
-		- Success and failure notification
-		- Update packages that have been download
+		- Displays success and failure notifications
+		- Updates packages that have been downloaded or since the last or failed synchronisation
+		- Whether synchronisation was manual or automatic
 	- <u>Approval</u>
+		- Keeps track of the content that has been approved or not
 
+#### Content Synchronisation
+- **During synchronisation, how are new security updates handled?**
+	- Automatically approve new versions of approved updates
+	- Do not automatically approve new versions of approved updates
+	- In a testing environment, the second option is better
+		- **Reason:** Testers may overlook and skip the testing of the new updates
 
+#### Policy Options for Clients
+| WSUS Policy Option | Comments |
+| ------------------ | -------- |
+| No                   |          |
 
 
 
