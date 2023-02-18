@@ -603,8 +603,14 @@
 **ESP Transport Mode**
 ![](https://i.imgur.com/78ZapBF.png)
 
+- **Reasons for using tunnel mode:**
+	- Tunnel mode uses double encapsulation
+	- Suitable for protecting traffic between network systems like untrusted medium on the Internet
+- **What are the differences between AH tunnel mode and ESP tunnel mode?**
 
-
+| AH Tunnel Mode                                                                                  | ESP Tunnel Mode |
+| ----------------------------------------------------------------------------------------------- | --------------- |
+| Encapsulate IP packet by placing an AH header between internal IP header and external IP header |                 |
 
 
 
