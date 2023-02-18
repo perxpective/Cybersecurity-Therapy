@@ -509,7 +509,16 @@
 	- System configured with IPSec may not apply the expected security scheme because the filter is set wrongly
 	- When the network traffic does not match the IPSec, it will not be blocked but it will just pass through
 - Filter list identifies traffic based on its source, destination and protocol
-- **What types of traffic do filter lists **
+- **What types of traffic do filter lists identify on Windows 2003 and Windows 2008**
+	- ICMP traffic
+	- IP traffic
+- **What are some examples of filter actions on Windows 2003 and Windows 2008**
+	- Permit
+	- Request Security
+	- Require Security
+- **How can IPSec policies be managed:**
+	- Creating new policies and define the rules for the policy as required
+	- Create the set of filter lists and filter actions and then create the polciies 
 
 
 
