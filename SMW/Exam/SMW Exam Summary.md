@@ -534,8 +534,20 @@
 - **Description:**
 	- Default authentication method for Windows Server 2000 or later
 	- Based on mutual authentication
-	- To be used when all clients can authenticate using Kerberos
-	- Method that requires the least administ
+- **When should Kerberos be used?**
+	- When all clients can authenticate using Kerberos
+
+> Method that requires the least administrative method
+
+#### Certificates
+- **Description**
+	- Method of granting access to users based on their unique identification
+
+
+
+
+
+
 
 
 
