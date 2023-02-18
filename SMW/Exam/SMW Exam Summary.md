@@ -178,5 +178,21 @@
 - **Price:**
 	- Free for licensed users
 
+#### Windows Server Update Services (WSUS)
+- **Who is it most suitable for?**
+	- Medium to large businesses
+- **How does WSUS work?**
+	- Admins can:
+		- manage update settings and control distribution of updates
+		- test updates on selected computers before deploying to the rest of the network
+	- Updates downloaded once from Microsoft Update website and stored on local server - frees up Internet bandwidth
+	- Does not support deployment of non-Microsoft updates
+- **Price:**
+	- Free for licensed users
+
+| Advantages | Disadvantages |
+| ---------- | ------------- |
+| Sysadmins can           |               |
+
 ## Tutorial Revision Questions
 ### Lecture 4

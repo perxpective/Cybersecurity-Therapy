@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "67778c33bbaea51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/MST Papers/SMW MST Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "159017fe58cb3834",
             "type": "leaf",
             "state": {
@@ -212,12 +224,12 @@
   },
   "active": "081fa4b78c527f55",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
+    "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Exam/SMW Exam Summary.md",
+    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
     "SMW/Exam/Untitled.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
-    "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Exam/Untitled.canvas",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
     "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md",
