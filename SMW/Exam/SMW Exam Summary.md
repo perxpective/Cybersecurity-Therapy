@@ -320,7 +320,12 @@
 
 #### Deploy Updates
 > 1. Plan the Deplyment
-> 2. Determine whether securty up
+> 2. Determine whether security update is available for download
+> 3. Obtain the required update files
+> 4. Create the update package
+> 5. Test the package
+> 6. Test the update
+> 7. Roll out the deployment
 
 - **Explain how to deploy an update.**
 	- <u>Plan the deployment</u>
@@ -351,11 +356,20 @@
 			- Authentic
 			- Test the deployment plan
 			- Extra risk incurred
-	- <u>Rolling out the deployment</u>
+	- <u>Roll out the deployment</u>
 		- Carry out the deployment of the update to the computers that need it
 		- Compliant to the Standard Patch Deployment Timeline
 
-
+#### Monitor Systems
+- **Description:**
+	- Determines which systems successfully deployed the update and which systems did not
+- **What are some possible reasons why an update is not successfully deployed?**
+	- Computer is offline
+	- Computer is being rebuilt or reimaged
+	- Computer has insufficient disk space
+	- Computer is not communication with the update server
+	- Required update client software is not running on the computer
+	- Computer missing some dependent software
 
 
 
