@@ -126,6 +126,10 @@
 	- User Account Control
 
 #### Policy Application Order and Troubleshooting
-- **Order of **
+- **Order of Precedence of Group Policies:**
+	- Local
+	- Site
+	- Domain
+	- OU
 
 ## Tutorial Revision Questions
