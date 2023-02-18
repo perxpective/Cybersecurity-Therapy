@@ -530,7 +530,12 @@
 > - IKE Phase 1 is invoked for initial authentication
 > - More than one method can be selected with designated priority level
 
-
+#### Kerberos v5
+- **Description:**
+	- Default authentication method for Windows Server 2000 or later
+	- Based on mutual authentication
+	- To be used when all clients can authenticate using Kerberos
+	- Method that requires the least administ
 
 
 
