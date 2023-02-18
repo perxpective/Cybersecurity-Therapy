@@ -525,7 +525,15 @@
 	- Kerberos v5
 	- Certificates (requires PKI)
 	- Pre-shared Key
-- IKE Phase 1 is invoked for initial authentication
+
+> - Authentication is done using the Diffie-Hellman asymmetric key
+> - IKE Phase 1 is invoked for initial authentication
+> - More than one method can be selected with designated priority level
+
+
+
+
+
 
 
 
