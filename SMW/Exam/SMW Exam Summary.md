@@ -608,9 +608,9 @@
 	- Suitable for protecting traffic between network systems like untrusted medium on the Internet
 - **What are the differences between AH tunnel mode and ESP tunnel mode?**
 
-| AH Tunnel Mode                                                                                  | ESP Tunnel Mode |
-| ----------------------------------------------------------------------------------------------- | --------------- |
-| Encapsulate IP packet by placing an AH header between internal IP header and external IP header |                 |
+| AH Tunnel Mode                                                                                  | ESP Tunnel Mode                                                                                                     |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Encapsulate IP packet by placing an AH header between internal IP header and external IP header | IP packet is the first encapsulated with an ESP header then the result is encapsulated with an additional IP header |
 
 
 
