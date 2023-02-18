@@ -427,7 +427,18 @@
 	- Data encrypted with integrity check at NIC of sending computer as it is formatted into an IP packet
 - **Description of IPSec Security Policy:**
 	- Establish through the Group Policy in the Active Directory
-	- Configured through the IP Security Policies 
+	- Configured through the IP Security Policies MMC snap-in
+- **What is an advantage of using the Windows Firewall Advanced Security Rule?**
+	- Provides more IKE authentication options and AES encryption support
+
+### IPSec Trade-Offs
+- **What are some impacts of IPSec?**
+	- Time needed to establish IPSec connection
+	- Time needed to filter and encrypt packet
+	- Increased packet size
+	- Network inspection technologies used in routers, firewalls, intrusion detection systems (IDS) may not work on IPSec packets
+	- Application compatibility with other platforms
+	- Effect on Active Directory and domain controll
 
 
 
