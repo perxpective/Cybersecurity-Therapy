@@ -447,7 +447,22 @@
 	- Types of network devices in the network
 - **In what scenarios where IPSec is not recommended?**
 	- Securing communication between domain members and domain controllers
+		- **Reasons:**
+			- Reduces network performance
+			- Configuration of IPSec policies are complicated
+	- Securing all traffic in a network
+		- **Reasons:**
+			- Reduces network performance
+			- Multicast and broadcast traffic is unsupported
+			- Network tools that need to inspect packet headers may not work
 
+#### IPSec Security Solutions
+| Concern                                                                | Solution                                                                                                                                                                |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attacks using specific protocols or ports or Denial of Service attacks | Use IPSec traffic blocking, packet filtering or policy filter lists allowing only traffic from trusted sources over specified protocols to specific addresses and ports |
+| Eavesdropping or sniffing                                              | Use the Encapsulating Security Payload (ESP) protocol to encrypt data with 3DES or DES                                                                                  |
+| Identity spoofing                                                      | Use Kerberos, public key certificates or pre-shared key authentication to verify the identity of the computer                                                           |
+| Modification of data                                                   | Use cryptographic checksum that incorporates secret key to provide data integrity                                                                                       |
 
 
 
