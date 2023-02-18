@@ -425,6 +425,9 @@
 	- Computers first negotiate using the IKE module and authenticate between the sender and receiver
 	- Extra hashing scheme will help ensure data integrity at packet header
 	- Data encrypted with integrity check at NIC of sending computer as it is formatted into an IP packet
+- **Description of IPSec Security Policy:**
+	- Establish through the Group Policy in the Active Directory
+	- Configured through the IP Security Policies 
 
 
 
