@@ -171,7 +171,12 @@
 #### Microsoft Update Automatic Updates
 - **Who is it most suitable for?**
 	- Computers and small businesses with fewer than 50 computers
-	- Upd
+- **How does Microsoft Update Automatic Updates work?**
+	- Updates are installed with minimal or no user interaction
+	- Uses internet connection to search for downloads from Microsoft's update website
+	- Does not need to understand technical details of security update
+- **Price:**
+	- Free for licensed users
 
 ## Tutorial Revision Questions
 ### Lecture 4
