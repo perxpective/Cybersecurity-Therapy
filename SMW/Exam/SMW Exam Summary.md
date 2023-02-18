@@ -126,5 +126,6 @@
 	- User Account Control
 
 #### Policy Application Order and Troubleshooting
+- **Order of **
 
 ## Tutorial Revision Questions
