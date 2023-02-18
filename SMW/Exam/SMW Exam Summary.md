@@ -268,6 +268,9 @@
 	- Admins can approve new security updates for the test group
 	- Computers in the test group apply the updates
 	- Admins can test the results before allowing other computers to apply the updates
+	- Servers with the same roles can be put into the same group where they can receive relevant updates at the same time
+
+### Patch Management
 
 
 ## Tutorial Revision Questions
