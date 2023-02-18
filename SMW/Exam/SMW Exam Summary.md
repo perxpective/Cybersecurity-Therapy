@@ -620,6 +620,12 @@
 
 ### Deploying IPSec Policies
 - **How can IPSec policies be deployed?**
+	- <u>Local policy objects</u>
+		- Enable IPSec for computers that are not members of a domain
+	- <u>Group policy objects</u>
+		- IPSec policy is propagated to any computer accounts that are affected by GPO
+	- <u>Command-line tools</u>
+		- `netsh`
 
 
 
