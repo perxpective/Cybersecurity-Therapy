@@ -501,9 +501,15 @@
 	- Use tunnel mode if connections involve WANs
 
 ### IPSec Filters
-
-
-
+- Specification in the IPSec rule that is used to match IP packets
+- Filters are grouped together in a systemwide filter list
+- In the IPSec rule properties setting, systemwide filter list will be available for the choice of the filter
+- Packets which match a filter will be applied with the associated filter actions e.g. permit, block or negotiate security
+- **Caveat**
+	- System configured with IPSec may not apply the expected security scheme because the filter is set wrongly
+	- When the network traffic does not match the IPSec, it will not be blocked but it will just pass through
+- Filter list identifies traffic based on its source, destination and protocol
+- **What types of traffic do filter lists **
 
 
 
