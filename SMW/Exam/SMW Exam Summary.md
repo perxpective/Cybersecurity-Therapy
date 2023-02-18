@@ -395,8 +395,8 @@
 	- Protect the contents of IP packets
 	- Provide packet filtering
 	- Enforce trusted communication
-	- Secure communication with encryption of the information travelling the network
-	- Option
+	- Secure communication of information travelling the network
+	- Option for IPv4 implementation
 
 
 
