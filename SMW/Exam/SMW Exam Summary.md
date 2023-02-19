@@ -943,7 +943,10 @@
 
 #### Self-Issued Certificates
 - **What are some considerations to take note of when deciding to issue own server certificates?**
-	- Microsoft Certificate Services can accommodate different certificate formats and provide auditing and logging of certificate-related activity
+	- Microsoft Certificate Services supports different certificate formats and provide auditing and logging of certificate-related activity
+	- Evaluate the cost of each certificate
+	- Take into account the learning curve
+	- Evaluate willingness of outside vendor clients to trust 
 
 
 
