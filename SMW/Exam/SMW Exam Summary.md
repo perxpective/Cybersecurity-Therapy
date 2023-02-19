@@ -887,7 +887,9 @@
 	- OCSP is optional for the certificate server
 
 ### Secured Web Access
-	- **Explain a way to authenticate the identity of a remote server?**
+- **Explain some issues related to non-secure web access?**
+	- Authentication of the remote server's identity
+		- **Example:** hackers may setup phishing site to mislead clients to submit confidential information or pay for non-exis
 
 
 
