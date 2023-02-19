@@ -813,8 +813,17 @@
 	- Provide certificate templates to simplify requesting and issuing of certificates
 	- **What does each template contain?**
 		- Rules and settings that can serve single or multiple purposes
-	- Provides default input requirement for different types of certificates
-		- reduces errors and make operations more efficient
+	- Provides default input requirement for different types of certificates - reduces errors and make operations more efficient
+- **Where are Certificate Templates only available on?**
+	- Enterprise Root CAs
+	- Subordinate CAs
+- **Where are Certificate Templates stored?**
+	- In the Active Directory
+- **Where are Certificate Templates available to?**
+	- Every enterprise CA in the forest
+- **What does the Certificate Templates MMC Snap-in provide administrators the capability to?**
+	- Create additional templates by duplicating and modifying existing templates
+	- Modify template properties to 
 
 
 
