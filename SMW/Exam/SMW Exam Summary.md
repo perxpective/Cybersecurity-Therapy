@@ -700,6 +700,17 @@
 ### Certificate Authority
 - **Definition:**
 	- Entity that issues digital certificates to other parties
+- **Root CA:**
+	- Issues certificate to subordinate, immediate or issuing CAs
+- **Issuing CA:**
+	- Issues certificates to users or clients
+
+#### Certificate Authority Hierarchies and Roles
+- **What are the types of hierarchies that can be used for CAs?**
+	- Rooted Trust Model
+	- Cross-Certification Trust Model
+	- Hybrid Trust Model
+- 
 
 
 

@@ -35,7 +35,7 @@
 ## Certificate Authority
 > An entity that issues digital certificates to other parties
 
-- Root CA can issue certificates to SubOrdinate, Immediate or Issuing CAs
+- Root CA can issue certificates to Subordinate, Immediate or Issuing CAs
 - Issuing CAs can issue certificates to users or clients
 
 ### Certificate Authority Hierarchies and Roles
