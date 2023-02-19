@@ -718,7 +718,19 @@
 		- Basic Security CA
 		- Medium Security CA
 		- High Security CA
-- **What **
+- **What should be taken note of when setting up Standalone CAs?**
+	- Target clients are not bound to the enterprise implementing the service
+	- Appliable for offering to the general public
+- **What should be taken note of when setting up Enterprise CAs?**
+	- Target clients are within the enterprise
+	- Suitable for internal staff and computing operations requiring the certificate services
+
+##### Rooted Trust Model
+- **Description:**
+	- Model in which the root CA has a self-signed certificate
+	- CA issues a certificate to all direct subordinate CAs
+	- Each CA is individual within the hierarchy and independent of other CAs
+- **What are some value-add**
 
 
 
