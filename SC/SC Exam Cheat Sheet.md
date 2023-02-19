@@ -26,13 +26,19 @@ morgan.token("token", (req ,res) => {
 
 // apply the custom token
 app.use(morgan(":token :method :url :date"))
-```
 
-```js
 // log file rotation
 var rfs = require("rotating-file-stream")
 var appLogStream = rfs.createStream('access.log', {
-	interval: "1d",
-	
+	interval: "1d", // rotate by days
+	path: path.join(__dirname, 'log') // path to stream
 })
+
+app.use(morgan("combined", { stream: appLogStream }))
+```
+
+## Regular Expressions
+```js
+// check regex
+var input = input.question()
 ```

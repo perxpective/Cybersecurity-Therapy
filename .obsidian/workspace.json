@@ -26,6 +26,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5c35f87b04f4e4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d383d6bfe91b6d0a",
             "type": "leaf",
             "state": {
@@ -175,9 +187,9 @@
   },
   "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
-    "SC/SC Topic 5 - Logging.md",
-    "SC/SC Exam Cheat Sheet.md",
     "SC/SC Topic 6 - XSS Prevention.md",
+    "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 5 - Logging.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
