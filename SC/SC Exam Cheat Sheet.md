@@ -149,7 +149,14 @@ function verifyToken(req, res, next) {
 	const token = authHeader.replace('Bearer ', '')
 	jwt.verify(token, config.jwt.secret, { algorithms: ['H256'] }, (err, decoded) => {
 		if (err) return res.status(401).send({ message: 'not authenticated' })
-		decodedToken
+		req.decodedToken = decoded
+		next()
 	})
 }
+
+// restricted api controller
+app.get('/endpoint', verifyToken, (req, res) => {
+	if (!req.decodedToken.role !== 'admin') return res.status(403).send({ message: 'not authorized' })
+	res.status(200).send()
+})
 ```
