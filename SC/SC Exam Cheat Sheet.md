@@ -131,13 +131,20 @@ conn.query(sql, [userid, role], (err, result) => {
 // login controller
 app.post("/", (req, res) => {
 	let { username, password } = req.body
-	user.verifyLogin(username, password, (err, result)) => {
-		if (err) return res.status(500).send({"message":"error"})
-		if (!result) return res.status(401).send({"message":"unauthorized"})
-		jwt.sign(user, config.jwt.secret, { algorithms: ['H256'] }, (err, result) => {
-			if (err) return res.status(401).send({ message: "not authenticated"})
-				
+	user.verifyLogin(username, password, (err, result) => {
+		if (err) return res.status(500).send({"message":"an error occurred"})
+		if (!result) return res.status(401).send({"message":"user not authenticated"})
+		jwt.sign(user, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
+			if (err) return res.status(500).send({"message": "an error occurred"})
+			res.status(200).send({token})
 		})
-
+	})
 })
+
+// authentication middleware
+function verifyToken(req, res, next) {
+	let auth = req.headers.authorization
+	const authHeader = req.headers.authorization
+	
+}
 ```

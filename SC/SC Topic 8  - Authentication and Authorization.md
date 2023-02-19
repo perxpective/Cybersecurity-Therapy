@@ -57,7 +57,6 @@ app.post("/", (req, res) => {
 ### Authentication Middleware
 ```js
 function verifyToken(req, res, next) {
-	let auth = req.headers.authorization;
     const authHeader = req.headers.authorization;
     if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
 
