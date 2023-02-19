@@ -686,7 +686,20 @@
 	- Each certificate contains public key and name of the subject
 	- Allows organisation to publish, use, renew or revoke certificates and enrol clients
 - **In what cases would certificates be required?**
-	- 
+	- Digital signatures
+	- Secured email
+	- HTTPS
+	- SSL
+	- Internet authentication
+	- Software code signing
+	- IPSec
+	- Smart card logon
+	- EFS
+	- 802.1x authentication
+
+### Certificate Authority
+- **Definition:**
+	- Entity that issues digital certificates to other parties
 
 
 
