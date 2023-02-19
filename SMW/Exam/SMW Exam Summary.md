@@ -932,7 +932,7 @@
 - **Prefix of SSL-Secured URLs:**
 	- `https://`
 
-#### Web b
+#### Web Server Configuration for SSL Certificates
 
 
 
