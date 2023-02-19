@@ -725,13 +725,13 @@
 	- Target clients are within the enterprise
 	- Suitable for internal staff and computing operations requiring the certificate services
 
-| Type of CA      | Description                                                                                                       |
-| --------------- | ----------------------------------------------------------------------------------------------------------------- |
-| Standalone CA   | CA that is not integrated with an existing PKI and enterprise                                                     |
-| Enterprise CA   | CA that is required to be a member of a domain or enterprise                                                      |
-| Rudimentary CA  | CA that issues certificates for the most basic user authentication without identity check                         |
-| Intermediate CA | CA that is signed by a superior CA (root or intermediate CA) and signs other CAs (intermediate or subordinate CA) |
-| Subordinate CA  | CA that is authorized by root CA to issue certificates in the root CA's name                                                                                                                  |
+| Type of CA      | Description                                                                                                                              |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Standalone CA   | CA that is not integrated with an existing PKI and enterprise                                                                            |
+| Enterprise CA   | CA that is required to be a member of a domain or enterprise                                                                             |
+| Rudimentary CA  | CA that issues certificates for the most basic user authentication without identity check                                                |
+| Intermediate CA | CA that is signed by a superior CA (root or intermediate CA) and signs other CAs (intermediate or subordinate CA) on behalf of other CAs | 
+| Subordinate CA  | CA that is authorized by root CA to issue certificates in the root CA's name                                                             |
 
 ##### Rooted Trust Model
 - **Description:**
@@ -755,7 +755,14 @@
 ![](https://i.imgur.com/hIr3Bgt.png)
 
 ##### Cross-Certificates Model
+- **Definition:**
+	- Model in which all CAs are self-signed
+	- Trust relationships between CAs are based on cross-certificates
+	- Certificates issued by one CA is trusted by computers which belong to the other CA hierarchy
+	- Mutually trusted CAs issue digital certificates to each other
+- **What are the advantages and disadvantage**
 
+> Cross-certificates do not need to be bidirectional
 
 
 
