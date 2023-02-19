@@ -1012,7 +1012,11 @@
 	- Tunnel though a larger network that is restricted to designated member clients only
 
 ### VPN Implementation
-
+- **How do VPNs work?**
+	- Uses an Internet connection or internal network connections as transport medium to establish a connection with VPN server
+	- Uses LAN and tunnelling protocols to encapsulate data-in-transit across public network e.g. Internet
+- **What are VPN used for?**
+	- Ensure that any data sent across the public network is secure
 
 ## Tutorial Revision Questions
 ### Lecture 4
