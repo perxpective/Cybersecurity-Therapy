@@ -958,7 +958,12 @@
 	- Several days to several months
 - **What are some general rules to follow about any type of web certificates?**
 	- Each website can only have one server certificate assigned to it
-	- One certificate can be asssigned to 
+	- One certificate can be assigned to multiple websites
+	- Multiple IP addresses can be assigned per website
+	- Multiple SSL ports can be assigned per website
+
+#### Configuration of Client for SSL Certificates
+
 
 
 
