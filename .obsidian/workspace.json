@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +248,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "660a06241357c31a",
+  "active": "081fa4b78c527f55",
   "lastOpenFiles": [
+    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "SMW/Exam/SMW Exam Summary.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Exam/Untitled.md",
@@ -258,7 +259,6 @@
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
     "SMW/Exam/Untitled.canvas",
-    "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
-    "SMW/Exam/SMW Exam AY2022-2023 Semester 1.md"
+    "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md"
   ]
 }

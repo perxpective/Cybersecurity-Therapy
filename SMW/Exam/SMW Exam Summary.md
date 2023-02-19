@@ -669,5 +669,27 @@
 	- Backup security in case IPSec policy gets corrupted or if errors occur
 	- Can be set using `netsh` at the local workstation
 
+## Lecture 7 - PKI and Certificates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Tutorial Revision Questions
 ### Lecture 4
