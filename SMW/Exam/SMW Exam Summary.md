@@ -670,6 +670,7 @@
 	- Can be set using `netsh` at the local workstation
 
 ## Lecture 7 - PKI and Certificates
+### Certificate Requirements
 
 
 
