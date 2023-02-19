@@ -6,20 +6,7 @@
       {
         "id": "0b2ba6ba1455614c",
         "type": "tabs",
-        "dimension": 51.3978494623656,
         "children": [
-          {
-            "id": "081fa4b78c527f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC MST Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "c0ce547614d9f40f",
             "type": "leaf",
@@ -31,113 +18,26 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "67778c33bbaea51f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "159017fe58cb3834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10bec4ad2d0151d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/MST Papers/SMW MST Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "23ab27022a7f2a6c",
+        "id": "a20c1678be26866b",
         "type": "tabs",
-        "dimension": 48.60215053763441,
         "children": [
           {
-            "id": "10b9a03b4e298a5a",
+            "id": "d383d6bfe91b6d0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27d3f4e08ffb9af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9638e7e851c0afa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "660a06241357c31a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "242089dd13179e7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+                "file": "SC/SC Topic 5 - Logging.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,15 +175,15 @@
   },
   "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
-    "SC/SC MST Cheat Sheet.md",
-    "SC/SC Topic 9 - CSRF.md",
-    "SMW/Exam/SMW Exam Summary.md",
-    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
-    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-    "SMW/Exam/Untitled.md",
-    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
+    "SC/SC Topic 5 - Logging.md",
+    "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 6 - XSS Prevention.md",
+    "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST Summary.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md"
+    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
+    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
+    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md"
   ]
 }
