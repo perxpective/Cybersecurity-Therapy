@@ -888,9 +888,20 @@
 
 ### Secured Web Access
 - **Explain some issues related to non-secure web access?**
-	- Authentication of the remote server's identity
-		- **Example:** hackers may setup phishing site to mislead clients to submit confidential information or pay for non-exis
+	- Issue with the authentication of a remote server's identity
+		- **Example:** hackers may setup phishing site to mislead clients to submit confidential information or pay for non-existent service
+	- Issue of ensuring that the transferred content is not tampered with or intercepted by unauthorised parties
+- **What is a possible solution to secure web access?**
+	- SSL Certificates
 
+#### SSL Certificates
+- **Definition of SSL:**
+	- Stands for Secure Socket Layer
+	- Public key based security protocol
+- **What does SSL process?**
+	- Certificates for authentication
+	- Encryption for message integrity and confidentiality
+	- 
 
 
 
