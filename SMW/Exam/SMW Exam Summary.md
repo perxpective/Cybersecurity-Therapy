@@ -956,6 +956,9 @@
 
 - **What is the wait time for publicly-issued certificates?**
 	- Several days to several months
+- **What are some general rules to follow about any type of web certificates?**
+	- Each website can only have one server certificate assigned to it
+	- One certificate can be asssigned to 
 
 
 
