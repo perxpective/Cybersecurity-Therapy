@@ -166,5 +166,14 @@ app.get('/endpoint', verifyToken, (req, res) => {
 	})
 })
 
-// 
+// password hashing
+var bcrypt = require("bcrypt")
+var password = "password"
+var saltRounds = 10
+
+bcrypt.hash(password, saltRounds, (err, hash) => {
+	...
+})
+
+bcrypt.compare(password, passwordHash)
 ```
