@@ -729,9 +729,11 @@
 - **Description:**
 	- Model in which the root CA has a self-signed certificate
 	- CA issues a certificate to all direct subordinate CAs
+- **What are the benefits to using this model?**
+	- Can be online or offline
+	- Allows flexibility in deploying and managing PKI
 	- Each CA is individual within the hierarchy and independent of other CAs
-- **What are some value-add**
-
+	- Allows rooted trust hierarchies to be more scalable and easier to administer than other hierarchies
 
 
 
