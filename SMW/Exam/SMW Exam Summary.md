@@ -725,6 +725,12 @@
 	- Target clients are within the enterprise
 	- Suitable for internal staff and computing operations requiring the certificate services
 
+| Type of CA     | Description                                                   |
+| -------------- | ------------------------------------------------------------- |
+| Standalone CA  | CA that is not integrated with an existing PKI and enterprise |
+| Enterprise CA  | CA that is required to be a member of a domain or enterprise  |
+| Rudimentary CA |                                                               |
+
 ##### Rooted Trust Model
 - **Description:**
 	- Model in which the root CA has a self-signed certificate
@@ -744,7 +750,9 @@
 - **What is the responsibility of each CA?**
 	- To process requests, issue certificates, revoking certificates and publishing CRLs
 
+![](https://i.imgur.com/hIr3Bgt.png)
 
+##### Cross-Certificates Model
 
 
 
