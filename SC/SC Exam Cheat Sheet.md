@@ -166,7 +166,7 @@ app.get('/endpoint', verifyToken, (req, res) => {
 	})
 })
 
-// password hashing
+// password hashing (bcrypt)
 var bcrypt = require("bcrypt")
 var password = "password"
 var saltRounds = 10
@@ -175,5 +175,17 @@ bcrypt.hash(password, saltRounds, (err, hash) => {
 	...
 })
 
-bcrypt.compare(password, passwordHash)
+bcrypt.compare(password, passwordHash, (err, sucess) => {
+	...
+})
+
+// password encryption (crypto)
+var crypto = require("crypto")
+var key = crypto.createCipher('aes-128-cbc', 'password')
+var string = key.update(stringToEncrypt, 'utf8', 'hex')
+string += key.final('hex')
+
+// password decryption
+var key = crypto.createDecipher('aes-128-cbc', 'password'); 
+var string = key.update(stringtoDecrypt, 'hex', 'utf8') string += key.final('utf8');
 ```
