@@ -730,8 +730,9 @@
 | Standalone CA   | CA that is not integrated with an existing PKI and enterprise                                                                            |
 | Enterprise CA   | CA that is required to be a member of a domain or enterprise                                                                             |
 | Rudimentary CA  | CA that issues certificates for the most basic user authentication without identity check                                                |
-| Intermediate CA | CA that is signed by a superior CA (root or intermediate CA) and signs other CAs (intermediate or subordinate CA) on behalf of other CAs | 
+| Intermediate CA | CA that is signed by a superior CA (root or intermediate CA) and signs other CAs (intermediate or subordinate CA) on behalf of other CAs |
 | Subordinate CA  | CA that is authorized by root CA to issue certificates in the root CA's name                                                             |
+| Issuing CA      | CA that directly issues certificates to end users                                                                                        |
 
 ##### Rooted Trust Model
 - **Description:**
@@ -760,9 +761,19 @@
 	- Trust relationships between CAs are based on cross-certificates
 	- Certificates issued by one CA is trusted by computers which belong to the other CA hierarchy
 	- Mutually trusted CAs issue digital certificates to each other
-- **What are the advantages and disadvantage**
+- **What are the advantages and disadvantages of using a cross-certificate model?**
+
+| Advantages                       | Disadvantages                                                                                     |
+| -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Low cost and greater flexibility | Greater administrative overhead and increase risk of an unauthorized access to internal resources |
 
 > Cross-certificates do not need to be bidirectional
+
+##### Using Third-Party CAs
+- **When would third-party CAs be useful?**
+	- When organisations conduct most of their businesses with external customers or clients
+
+
 
 
 
