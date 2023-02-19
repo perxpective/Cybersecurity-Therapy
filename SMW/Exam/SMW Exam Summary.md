@@ -1017,6 +1017,15 @@
 	- Uses LAN and tunnelling protocols to encapsulate data-in-transit across public network e.g. Internet
 - **What are VPN used for?**
 	- Ensure that any data sent across the public network is secure
+	- Create an encrypted tunnel between client and RAS server
+- **Benefits of using a VPN:**
+	- Users can connect to a local ISP and connect through the ISP to the local network
+- **What are some use cases of VPNs?
+	- Secure communications between two sites
+	- Secure communications between site with remote clients
+	- Allow remote client to access resources offered by site
+	- Provide secure Internet connection to remote client
+		- Remote client esta
 
 ## Tutorial Revision Questions
 ### Lecture 4
