@@ -1034,7 +1034,8 @@
 	- Two NICs
 		- One used to connect to the private network inside the organisation using private IP addressing
 		- Other used to connect to external public network
-
+- **Process:**
+	- To create a tunnel, client must first connect to Internet by establishing a connection using the remote access protocol
 
 
 ## Tutorial Revision Questions
