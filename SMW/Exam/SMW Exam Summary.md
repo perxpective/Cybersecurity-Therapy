@@ -933,7 +933,13 @@
 	- `https://`
 
 #### Web Server Configuration for SSL Certificates
-- ****
+- **Reasons for using SSL encryption:**
+	- Encrypted transmissions significantly reduce transmission rates and server performance
+	- Server certificate provide a way for users to confirm the website identity
+- **What does a server certificate contain?**
+	- Organisation name affiliated with server content
+	- Name of organisation issuing the certificates
+	- Public key used to establish 
 
 
 
