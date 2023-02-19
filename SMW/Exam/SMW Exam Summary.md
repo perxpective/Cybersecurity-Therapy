@@ -1026,6 +1026,8 @@
 	- Allow remote client to access resources offered by site
 	- Provide secure Internet connection to remote client
 		- Remote client establish VPN connection to site and use gateway of the site to access the Internet
+- **What is the effect after a VPN connection is established?**
+	- Remote client assigned a set of local IP address, DNS and gateway
 
 
 
