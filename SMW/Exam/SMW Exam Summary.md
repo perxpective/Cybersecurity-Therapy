@@ -903,9 +903,36 @@
 	- Encryption for message integrity and confidentiality
 - **What are the requirements for establishing encrypted communications using SSL?**
 	- Installation of valid server certificate
-	- 
+- **What are some SSL features of IIS?**
+	- Server certificate
+	- Client certificate
+	- Digital keys
+- **What are some ways to obtain certificates?**
+	- Certificate Services
+	- Trusted third-party CAs
 
+##### IIS Authentication Methods
+| Method                            | Security Level           |
+| --------------------------------- | ------------------------ |
+| Anonymous authentication          | None                     |
+| Basic authentication              | Low                      |
+| Forms authentication              | Low or Medium (with SSL) |
+| Digest authentication             | Medium                   |
+| Advanced digest authentication    | Medium                   |
+| Certificate authentication        | High                     |
+| Integrated Windows authentication | High                     |
+| .NET Password (IIS5/IIS6)         | High                     |
+| Windows Live ID (IIS7 or later)   | High                     |
 
+#### HTTPS
+- **Definition:**
+	- Technology that encrypts individual messages in communications rather than establishing a secure channel
+- **What port does HTTPSS communicate on?**
+	- Port 443
+- **Prefix of SSL-Secured URLs:**
+	- `https://`
+
+#### Web b
 
 
 
