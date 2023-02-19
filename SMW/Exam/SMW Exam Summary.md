@@ -671,7 +671,10 @@
 
 ## Lecture 7 - PKI and Certificates
 ### Certificate Requirements
-
+- **Purposes of certificates:**
+	- Allow users or systems to prove to others that they are who they say they are
+- **How are exchanged messages protected from eavesdropping attacks?**
+	- Using asynchron
 
 
 
