@@ -8,7 +8,7 @@
 
 ## Introduction to Remote Access
 - **Remote Access Services (RAS) Role**
-	- Enables remote access through three means: virtual private networking, DirectAccess and Web Application Proxy
+	- Enables remote access through three means: virtual private networking, Direct Access and Web Application Proxy
 - **Virtual Private Network (VPN)**
 	- Tunnel through a larger network that is restricted to designated member clients only
 

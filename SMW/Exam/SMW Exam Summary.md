@@ -1002,8 +1002,12 @@
 	- Public key owner can generate a new key-pair and replace the old public key with the new public key while renewing the certificate
 	- Finally, signer should update its key-pair
 	- Once signer's key-pair changes, a new root CA certificate should also be generated
-	- To keep PKI operation running smoothly, multiple root CA certificates for the same CA organisation coexisting in the Trust Root Certificate Authorisation Store
+	- To keep PKI operation running smoothly, multiple root CA certificates for the same CA organisation coexist in the Trust Root Certificate Authorisation Store
 
+## Lecture 8 - Remote Access Service
+### Remote Access Overview
+- **Definition of Remote Access Service Role (RAS)**
+	- Enables remote access via VPN, Direct Access and Web Application Proxy
 
 ## Tutorial Revision Questions
 ### Lecture 4
