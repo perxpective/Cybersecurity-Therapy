@@ -710,7 +710,15 @@
 	- Rooted Trust Model
 	- Cross-Certification Trust Model
 	- Hybrid Trust Model
-- 
+- **What roles can be chosen for CAs?**
+	- <u>Standalone CA</u>
+		- Rudimentary CA
+		- Intermediate CA
+	- <u>Enterprise CA</u>
+		- Basic Security CA
+		- Medium Security CA
+		- High Security CA
+- **What **
 
 
 
