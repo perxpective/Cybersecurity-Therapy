@@ -53,5 +53,15 @@ if (pattern.test(userinput)) {
 # REGULAR EXPRESSIONS
 
 # check if string is digit type
-\d
+\d+
+[0-9]+
+
+# check if string contains only alphabets
+[a-zA-Z]+
+
+# check if string is alphanumeric
+[a-zA-Z0-9]+
+
+# email validation
+
 ```
