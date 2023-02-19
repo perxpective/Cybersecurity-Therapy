@@ -63,5 +63,5 @@ if (pattern.test(userinput)) {
 [a-zA-Z0-9]+
 
 # email validation
-
+^[a-zA-Z0-9.-]+@.\.[a-z]+$
 ```
