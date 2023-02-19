@@ -204,4 +204,22 @@ req.session.role = role
 req.session.username = username
 
 // destroying a session
+req.session.destroy
+
+// check user roles
+verifySession: (req, res, next) => {
+	if (req.session.role) {
+		next()
+	} else {
+		res.status(403)
+		res.send(`{"message":"unauthorized"}`)
+	}
+}
+
+// generating csrf tokens csurf
+var csrf = require("csurf")
+var csrfProtection = csrf()
+app.get("/csrfgettoken", csrfProtection.function(req, res) => {
+	console.log(req.csrfToken())
+})
 ```
