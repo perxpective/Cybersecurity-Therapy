@@ -131,8 +131,10 @@ conn.query(sql, [userid, role], (err, result) => {
 // login controller
 app.post("/", (req, res) => {
 	let { username, password } = req.body
-	user.verifyLogin(username, password, (err, user)) => {
-	
-	}
+	user.verifyLogin(username, password, (err, result)) => {
+		if (err) return res.status(500).send({"message":"error"})
+		if (!result) return res.status(401).send({"message":"unauthorized"})
+		jwt.sign(user, config.jwt.secret)
+
 })
 ```

@@ -47,7 +47,7 @@ app.post("/", (req, res) => {
 		if (err) return res.status(500).send({"message":"an error occurred"})
 		if (!user) return res.status(401).send({"message":"user not authenticated"})
 		jwt.sign(user, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
-			if (err) return res.status(500).send({message: "an error occurred"})
+			if (err) return res.status(500).send({"message": "an error occurred"})
 			res.status(200).send({token})
 		})
 	})
