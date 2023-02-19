@@ -866,6 +866,12 @@
 - PKI clients need to retrieve a new CRL periodically
 - CRL location must be defined along with the access path before deploying certificates
 
+#### Online Certificate Status Protocol (OCSP)
+- **Definition:**
+	- Internet protocol used for obtaining the revocation status of an X.509 digital certificate
+	- Complements the operations of the CRLs (does not replace it)
+
+##### OCSP Responder
 
 
 

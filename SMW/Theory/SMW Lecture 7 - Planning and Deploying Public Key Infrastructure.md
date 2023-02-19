@@ -182,7 +182,7 @@
 - Must define the CRL location along with the access path before deploying certificates
 
 ## OCSP
-> **OSCP** - Online Certificate Status Protocol
+> **OCSP** - Online Certificate Status Protocol
 - An Internet protocol used for obtaining the revocation status of an X.509 digital certificate
 - Complements (not replace) the operations of CRLs
 
