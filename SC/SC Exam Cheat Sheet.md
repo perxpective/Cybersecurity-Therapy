@@ -134,7 +134,10 @@ app.post("/", (req, res) => {
 	user.verifyLogin(username, password, (err, result)) => {
 		if (err) return res.status(500).send({"message":"error"})
 		if (!result) return res.status(401).send({"message":"unauthorized"})
-		jwt.sign(user, config.jwt.secret)
+		jwt.sign(user, config.jwt.secret, { algorithms: ['H256'] }, (err, result) => {
+			if (err) return res.status(401).send({ message: "not authenticated"})
+				
+		})
 
 })
 ```
