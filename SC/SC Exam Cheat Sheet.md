@@ -62,6 +62,8 @@ if (pattern.test(userinput)) {
 # check if string is alphanumeric
 [a-zA-Z0-9]+
 
-# email validation
-^[a-zA-Z0-9.-]+@.\.[a-z]+$
+# email validation (allows underscores and periods)
+^[a-zA-Z0-9._]+@.\.[a-z]+$
+
+
 ```
