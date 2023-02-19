@@ -1025,7 +1025,10 @@
 	- Secure communications between site with remote clients
 	- Allow remote client to access resources offered by site
 	- Provide secure Internet connection to remote client
-		- Remote client esta
+		- Remote client establish VPN connection to site and use gateway of the site to access the Internet
+
+
+
 
 ## Tutorial Revision Questions
 ### Lecture 4
