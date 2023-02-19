@@ -836,7 +836,12 @@
 
 ### Configuring Archival and Recovery of Keys
 - **What are two approaches to generating key pairs?**
-	- <u>First Appo</u>
+	- <u>First Approach</u>
+		- Certificate owner first creates a key pair and send public key to CA to ask for services
+		- Enclose the public key into digital certificate with CA's digital signature
+		- CA does not know the owner's private key
+	- <u>Second Approach</u>
+		- Certificate owner asks for comprehensive service from CA to generate key pair and seal public key in digital certificate
 
 
 

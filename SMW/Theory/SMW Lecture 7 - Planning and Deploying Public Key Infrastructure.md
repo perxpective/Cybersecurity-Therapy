@@ -155,8 +155,8 @@
 > 	- Certificate owner asks for a comprehensive service from the CA to generate the key pair and seal the public key in a digital certificate
 
 - Possible to configure the CA to archive private keys of certificates at the time of issuance
-- Enables to recover the key should it be lost
-- Only highly trusted individuals should be granted thee privilege of archiving and recovering keys
+- Enable to recover the key should it be lost
+- Only highly trusted individuals should be granted the privilege of archiving and recovering keys
 - Certificate Services does not archive recovery agent
 - <u>Key recovery methods</u>
 	- Key Recovery Agent
