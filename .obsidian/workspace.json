@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,10 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "660a06241357c31a",
+  "active": "081fa4b78c527f55",
   "lastOpenFiles": [
-    "SMW/Exam/SMW Exam Summary.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
+    "SMW/Exam/SMW Exam Summary.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Exam/Untitled.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",

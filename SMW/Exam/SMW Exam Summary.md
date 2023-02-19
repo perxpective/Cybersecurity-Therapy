@@ -843,7 +843,12 @@
 	- <u>Second Approach</u>
 		- Certificate owner asks for comprehensive service from CA to generate key pair and seal public key in digital certificate
 
+> It is possible to configure the CA to archive private keys of certificates at the time of issuance
 
+**What are some possible key recovery methods?**
+- Key Recovery Agent
+- `certutil` tool
+- ``
 
 
 
