@@ -860,7 +860,12 @@
 
 #### Certificate Revocation Lists
 - **Description:**
-	- 
+	- Place where revoked certificates are published in
+- There is a need to invalidate or revoke a certificate before the end of its lifetime
+- CRLs are valid for a limited amount of time
+- PKI clients need to retrieve a new CRL periodically
+- CRL location must be defined along with the access path before deploying certificates
+
 
 
 
