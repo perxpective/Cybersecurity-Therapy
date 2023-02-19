@@ -798,7 +798,19 @@
 		- If admin approval is required
 		- Useful for issuing and renewing computer and IPSec certificates
 	- <u>Automatic</u>
-		- If no approval is required,
+		- If no approval is required, it can improve admin control over certificate
+- **What are some methods for auto-enrolment?**
+	- Certificate auto-enrolment and renewal
+		- based on a combination of Group Policy settings and certificate templates
+	- Certificate Request and Certificate Renewal Wizards
+	- Web enrolment support pages
+	- Smart card enrolment station
+
+### Configuring Certificate Templates
+- **Description:**
+	- Windows utility to help CA admin to facilitate different types of enrolment
+- **Certificate Services:**
+	- Provide certificate templates to simplify requesting and issuing of certificates
 
 
 
