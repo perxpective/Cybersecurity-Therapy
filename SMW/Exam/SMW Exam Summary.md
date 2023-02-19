@@ -1030,7 +1030,10 @@
 	- Remote client assigned a set of local IP address, DNS and gateway
 	- Remote client can access all services offered by the site as if it is connected to the LAN directly
 	- By default, all outgoing traffic from the remote client will first go to VPN server via the Internet
-
+- **How many NICs does a VPN server use for communication?**
+	- Two NICs
+		- One used to connect to the private network inside the organisation using private IP addressing
+		- Other used to connect to external public network
 
 
 
