@@ -784,7 +784,8 @@
 | Allows an organisation to take advantage of third-party CAs understanding of technical, legal and business issues with certificate use |                                                                                                                   |
 
 #### Installing Certificates Authority Roles
-- 
+- **When installing:**
+	- Root CA should be installed first followed by intermediate CAs an
 
 
 
