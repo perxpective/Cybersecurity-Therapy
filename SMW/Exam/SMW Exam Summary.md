@@ -995,7 +995,14 @@
 | Administrator certificates                     | 1 year           | Renew by using a new key at least every 2 years                         |
 | Secure Web Server certificates                 | 2 years          | Renew by using a new key at least every 2 years                         |
 
-
+- **What are some similar but different certificate operations?**
+	- All certificates have an expiry date
+	- Renew a certificate before its expiry date
+	- Since each certificate contains a public key for specific application, one type of renewal is just to create and sign on a new certificate containing the same public key
+	- Public key owner can generate a new key-pair and replace the old public key with the new public key while renewing the certificate
+	- Finally, signer should update its key-pair
+	- Once signer's key-pair changes, a new root CA certificate should also be generated
+	- To keep PKI operation running smoothly, multiple root CA certificates for the same CA organisation coexisting in the Trust Root Certificate Authorisation Store
 
 
 ## Tutorial Revision Questions
