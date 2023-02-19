@@ -872,7 +872,22 @@
 	- Complements the operations of the CRLs (does not replace it)
 
 ##### OCSP Responder
+- **Description**
+	- Server that is run by the certificate issuer
+	- Returns a signed response on the status of a particular issued certificate
+- **What are the possible responses?**
+	- Good
+	- Revoked
+	- Unknown
+	- No response if the issuer does not implement the responder service
+- **How does the OCSP Responder compare to the Certificate Revocation List (CRL)?**
+	- Less burden on the client to maintain the CRLs in terms of network and storage
+	- Easier to implement compared to CRLs for up-to-date checking
+	- OCSP uses non-encrypted messages which may be subject to interception
+	- OCSP is optional for the certificate server
 
+### Secured Web Access
+- **How **
 
 
 
