@@ -97,5 +97,31 @@ function validateRegistration(req, res ,next) {
 module.exports.validateRegistration = validateRegistration
 
 // applying the middleware
-app.post('/api/user', validate.validateRegistration)
+app.post('/api/user', validate.validateRegistration, (req, res) => {
+	...
+})
+
+// escape data
+var input = "<script>alert('JS XSS!')</script>"
+var sanitizedOutput = validator.escape(input)
+
+// remove line breaks, tabs and white space
+var input = "Hi there! \r\n Welcome to Secure Coding"
+var sanitizedOutput = validator.stripLow(input)
+```
+
+## Preventing SQL Injections
+```js
+// use placeholders
+var sql = `select userid, email, username from user where userid = ? and role = ?`
+
+conn.query(sql, [userid, role], (err, result) => {
+	...
+})
+
+// use stored procedures
+var sql = `call finduser(?, ?)`
+conn.query(sql, [userid, role], (err, result) => {
+	...
+})
 ```
