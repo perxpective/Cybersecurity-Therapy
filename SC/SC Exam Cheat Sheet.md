@@ -157,6 +157,14 @@ function verifyToken(req, res, next) {
 // restricted api controller
 app.get('/endpoint', verifyToken, (req, res) => {
 	if (!req.decodedToken.role !== 'admin') return res.status(403).send({ message: 'not authorized' })
-	res.status(200).send()
+	function((err, result) => {
+		if (!err) {
+			res.status(200).send({ result })
+		} else {
+			res.status(500).send({ error })
+		}
+	})
 })
+
+// 
 ```
