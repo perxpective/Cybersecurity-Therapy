@@ -64,7 +64,7 @@ if (pattern.test(userinput)) {
 ## Other Regular Expression Examples
 - To check if a target string is a digit type:
 ```
-\d + OR [0-9]+
+\d+ OR [0-9]+
 ```
 - To check if target string is just composed of alphabets:
 ```

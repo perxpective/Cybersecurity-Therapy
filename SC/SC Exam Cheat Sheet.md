@@ -40,5 +40,18 @@ app.use(morgan("combined", { stream: appLogStream }))
 ## Regular Expressions
 ```js
 // check regex
-var input = input.question()
+var input = input.question("enter input: ")
+pattern = new RegExp('^.+@.+\.[a-z]+$')
+if (pattern.test(userinput)) {
+	console.log("Input is correct")
+} else {
+	console.log("Input is incorrect")
+}
+```
+
+```
+# REGULAR EXPRESSIONS
+
+# check if string is digit type
+\d
 ```
