@@ -734,6 +734,15 @@
 	- Allows flexibility in deploying and managing PKI
 	- Each CA is individual within the hierarchy and independent of other CAs
 	- Allows rooted trust hierarchies to be more scalable and easier to administer than other hierarchies
+	- Can add a new CA to a hierarchy
+- **What are the two subcategories rooted trust hierarchies fall into?**
+	- Two-tier CA hierarchy
+	- Three-tier CA hierarchy
+
+> Any CA in a rooted trust hierarchy is either a root or subordinate CA but never both
+
+- **What is the responsibility of each CA?**
+	- To process requests, issue certificates, revoking certificates and publishing CRLs
 
 
 
