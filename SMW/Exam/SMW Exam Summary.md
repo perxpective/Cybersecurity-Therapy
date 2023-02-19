@@ -946,7 +946,10 @@
 	- Microsoft Certificate Services supports different certificate formats and provide auditing and logging of certificate-related activity
 	- Evaluate the cost of each certificate
 	- Take into account the learning curve
-	- Evaluate willingness of outside vendor clients to trust 
+	- Evaluate willingness of outside vendor clients to trust your organisation as a certificate supplier
+
+#### Publicly-Issued Certificates
+
 
 
 
