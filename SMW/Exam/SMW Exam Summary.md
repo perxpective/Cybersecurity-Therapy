@@ -1028,6 +1028,8 @@
 		- Remote client establish VPN connection to site and use gateway of the site to access the Internet
 - **What is the effect after a VPN connection is established?**
 	- Remote client assigned a set of local IP address, DNS and gateway
+	- Remote client can access all services offered by the site as if it is connected to the LAN directly
+	- By default, all outgoing traffic from the remote client will first go to VPN server via the Internet
 
 
 
