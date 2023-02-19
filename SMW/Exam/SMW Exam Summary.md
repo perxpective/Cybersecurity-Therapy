@@ -725,11 +725,13 @@
 	- Target clients are within the enterprise
 	- Suitable for internal staff and computing operations requiring the certificate services
 
-| Type of CA     | Description                                                   |
-| -------------- | ------------------------------------------------------------- |
-| Standalone CA  | CA that is not integrated with an existing PKI and enterprise |
-| Enterprise CA  | CA that is required to be a member of a domain or enterprise  |
-| Rudimentary CA |                                                               |
+| Type of CA      | Description                                                                                                       |
+| --------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Standalone CA   | CA that is not integrated with an existing PKI and enterprise                                                     |
+| Enterprise CA   | CA that is required to be a member of a domain or enterprise                                                      |
+| Rudimentary CA  | CA that issues certificates for the most basic user authentication without identity check                         |
+| Intermediate CA | CA that is signed by a superior CA (root or intermediate CA) and signs other CAs (intermediate or subordinate CA) |
+| Subordinate CA  |                                                                                                                   |
 
 ##### Rooted Trust Model
 - **Description:**
