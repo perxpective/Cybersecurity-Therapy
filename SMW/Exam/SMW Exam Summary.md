@@ -784,8 +784,21 @@
 | Allows an organisation to take advantage of third-party CAs understanding of technical, legal and business issues with certificate use |                                                                                                                   |
 
 #### Installing Certificates Authority Roles
-- **When installing:**
-	- Root CA should be installed first followed by intermediate CAs an
+- **What is the sequence to installing the CA roles?**
+	- Root CA
+	- Intermediate CA
+	- Issuing CA
+
+### Selecting Certificate Enrolment and Renewal Method
+- **What is the selection of certificate enrolment and renewal method dependent on?**
+	- Type of certificates to be used
+	- Number and type of clients enrolled
+- **What are the two methods of certificate enrolment?**
+	- <u>Manual</u>
+		- If admin approval is required
+		- Useful for issuing and renewing computer and IPSec certificates
+	- <u>Automatic</u>
+		- If no approval is required,
 
 
 
