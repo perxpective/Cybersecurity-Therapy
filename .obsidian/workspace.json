@@ -6,7 +6,7 @@
       {
         "id": "0b2ba6ba1455614c",
         "type": "tabs",
-        "dimension": 53.81720430107527,
+        "dimension": 53.5483870967742,
         "children": [
           {
             "id": "c0ce547614d9f40f",
@@ -25,8 +25,20 @@
       {
         "id": "a20c1678be26866b",
         "type": "tabs",
-        "dimension": 46.182795698924735,
+        "dimension": 46.45161290322581,
         "children": [
+          {
+            "id": "dba444eae29dee82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
           {
             "id": "e776aba7358ab2b7",
             "type": "leaf",
@@ -201,15 +213,15 @@
   },
   "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
-    "SC/SC Topic 7 - Preventing SQL Injections.md",
+    "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 5 - Logging.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
     "SMW/MST Papers/SMW MST Summary.md",
     "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
     "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md",
-    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
-    "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md"
+    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
   ]
 }

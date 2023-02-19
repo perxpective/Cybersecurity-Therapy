@@ -125,3 +125,14 @@ conn.query(sql, [userid, role], (err, result) => {
 	...
 })
 ```
+
+## Authentication and Authorisation
+```js
+// login controller
+app.post("/", (req, res) => {
+	let { username, password } = req.body
+	user.verifyLogin(username, password, (err, user)) => {
+	
+	}
+})
+```
