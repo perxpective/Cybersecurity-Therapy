@@ -848,9 +848,17 @@
 **What are some possible key recovery methods?**
 - Key Recovery Agent
 - `certutil` tool
-- ``
+- `krt.exe`
 
+### Deploy and Revoke Certificates
+- **What are the conditions to auto-enrol certificates?**
+	- Client computer must be integrated into the Active Directory
+	- Users require read, enrol and auto-enrol permissions
+- **What are some reasons for revoking a certificate?**
+	- Certificate is compromised
+	- Termination of account to whom the certificate was issued
 
+#### Certificate Revocation Lists
 
 
 
