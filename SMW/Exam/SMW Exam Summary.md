@@ -955,7 +955,7 @@
 > Can be obtained from the mutually trusted third-party CA
 
 - **What is the wait time for publicly-issued certificates?**
-		- Several days to several months
+	- Several days to several months
 
 
 
