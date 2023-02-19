@@ -674,7 +674,19 @@
 - **Purposes of certificates:**
 	- Allow users or systems to prove to others that they are who they say they are
 - **How are exchanged messages protected from eavesdropping attacks?**
-	- Using asynchron
+	- Using asynchronous encryption algorithms
+	- Key-pair is associated with the individual party
+	- Each individual party keeps its private key a secret
+	- Shares out its public key to everyone
+	- Messages encrypted with public key, decrypted with corresponding private key
+	- Digitally sign message with individual private key can only be verified with the corresponding public key
+- **Description of PKI:**
+	- Technology that includes series of features related to authentication and encryption
+	- Based on a system of certificates
+	- Each certificate contains public key and name of the subject
+	- Allows organisation to publish, use, renew or revoke certificates and enrol clients
+- **In what cases would certificates be required?**
+	- 
 
 
 
