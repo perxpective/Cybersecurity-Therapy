@@ -731,7 +731,7 @@
 | Enterprise CA   | CA that is required to be a member of a domain or enterprise                                                      |
 | Rudimentary CA  | CA that issues certificates for the most basic user authentication without identity check                         |
 | Intermediate CA | CA that is signed by a superior CA (root or intermediate CA) and signs other CAs (intermediate or subordinate CA) |
-| Subordinate CA  |                                                                                                                   |
+| Subordinate CA  | CA that is authorized by root CA to issue certificates in the root CA's name                                                                                                                  |
 
 ##### Rooted Trust Model
 - **Description:**
