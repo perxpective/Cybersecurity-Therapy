@@ -51,9 +51,10 @@ app.use(session({
 ```
 npm install express-mysql-session
 ```
+
 ```js
-var mySQLStore = require("express-mysql-session")(session)
-var sessionStore = new MySQLStore({
+var MySQLStore = require("express-mysql-session")(session)
+var sessionStore = new mySQLStore({
 	/* session store options */,
 	dbconnect.getConnection() // use mysql db connection
 })
@@ -69,7 +70,7 @@ req.session.username = username
 
 ### Logging Out
 - Destroy the saved session values and clear the session once the use logouts to prevent session attacks
-- `req.session.destory()` clears the session for the relevant user and also initiate the removal of the session ID cookie at the client side
+- `req.session.destroy()` clears the session for the relevant user and also initiate the removal of the session ID cookie at the client side
 
 ### Checking User Roles
 - Middleware for checking if user has logged in with admin role:

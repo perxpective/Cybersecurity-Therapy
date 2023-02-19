@@ -189,3 +189,19 @@ string += key.final('hex')
 var key = crypto.createDecipher('aes-128-cbc', 'password'); 
 var string = key.update(stringtoDecrypt, 'hex', 'utf8') string += key.final('utf8');
 ```
+
+## CSRF
+```js
+// Express MySQL Session
+var MySQLStore = require("express-mysql-session")(session)
+var sessionStore = new MySQLStore({
+	dbconnect.getConnection()
+	...
+})
+
+// get or set session values
+req.session.role = role
+req.session.username = username
+
+// destroying a session
+```
