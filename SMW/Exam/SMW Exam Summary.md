@@ -939,7 +939,14 @@
 - **What does a server certificate contain?**
 	- Organisation name affiliated with server content
 	- Name of organisation issuing the certificates
-	- Public key used to establish 
+	- Public key used to establish an encrypted connection
+
+#### Self-Issued Certificates
+- **What are some considerations to take note of when deciding to issue own server certificates?**
+	- Microsoft Certificate Services can accommodate different certificate formats and provide auditing and logging of certificate-related activity
+
+
+
 
 
 
