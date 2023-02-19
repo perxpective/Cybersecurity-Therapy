@@ -973,11 +973,27 @@
 	- Create a Windows account mapping for client certificates
 - **How does Windows account mapping work?**
 	- Once a client system has presented its client certificate to the web server, client system can access the server with mapped user credential
-	- Provides more convi
+	- Provides more convenience to user but higher security risk
+	- Mapping is done manually by system administrator
 
+### Certificate Renewal
+- **What factors are security and renewal requirements for certificates based on?**
+	- Value of network resources protected by Ca trust chain
+	- Degree of trust of certificate users
+	- Amount of administrative effort willing to devote to certificate and CA renewal
+	- Business value of certificate
+- **What is a renewal requirement?**
+	- How often to renew a key-pair and certificate
 
-
-
+| Certificate Purpose                            | Certificate Life | Renewal Recommendation                                                  |
+| ---------------------------------------------- | ---------------- | ----------------------------------------------------------------------- |
+| Enterprise CA for medium security certificates | 5 years          | Renew every 3 years and renew by using a new key at least every 5 years |
+| Enterprise CA for high security certificates   | 5 years          | Renew with new key at least 4 years                                     |
+| Enterprise CA for external certificates        | 5 years          | Renew at least every 4 years. Renew by using a new key every 5 years    |
+| Secure mail and secure browser certificates    | 1 year           | Renew by using a new key at least 2 years                               |
+| Smart card certificates                        | 1 year           | Renew by using a new key at least every 2 years                         |
+| Administrator certificates                     | 1 year           | Renew by using a new key at least every 2 years                         |
+| Secure Web Server certificates                 | 2 years          | Renew by using a new key at least every 2 years                         |
 
 
 
