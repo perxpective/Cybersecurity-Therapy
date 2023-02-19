@@ -822,10 +822,21 @@
 - **Where are Certificate Templates available to?**
 	- Every enterprise CA in the forest
 - **What does the Certificate Templates MMC Snap-in provide administrators the capability to?**
-	- Create additional templates by duplicating and modifying existing templates
-	- Modify template properties to 
+	- Create additional templates (by duplicating and modifying existing templates)
+	- Modify template properties to certificate enrolment, issuance and application
+	- Allow auto-enrolment of certificates
+	- Configure ACLs on certificate templates
+- **How can issuance of certificate requests be controlled?**
+	- Configure permissions on the template on the Security tab
+	- Delete the template to prevent CA from issuing a certificate type
+	- Configure the permissions on the CA
+- **How to ensure security of certificate templates?**
+	- Restrict permissions on CA to prevent unauthorised access
+	- Configure discretionary access control list (DACL) for each template
 
-
+### Configuring Archival and Recovery of Keys
+- **What are two approaches to generating key pairs?**
+	- <u>First Appo</u>
 
 
 
