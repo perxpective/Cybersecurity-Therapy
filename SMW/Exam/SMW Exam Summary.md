@@ -811,6 +811,10 @@
 	- Windows utility to help CA admin to facilitate different types of enrolment
 - **Certificate Services:**
 	- Provide certificate templates to simplify requesting and issuing of certificates
+	- **What does each template contain?**
+		- Rules and settings that can serve single or multiple purposes
+	- Provides default input requirement for different types of certificates
+		- reduces errors and make operations more efficient
 
 
 
