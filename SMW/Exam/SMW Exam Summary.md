@@ -901,6 +901,8 @@
 - **What does SSL process?**
 	- Certificates for authentication
 	- Encryption for message integrity and confidentiality
+- **What are the requirements for establishing encrypted communications using SSL?**
+	- Installation of valid server certificate
 	- 
 
 
