@@ -136,7 +136,7 @@ app.post("/", (req, res) => {
 		if (!result) return res.status(401).send({"message":"user not authenticated"})
 		jwt.sign(user, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
 			if (err) return res.status(500).send({"message": "an error occurred"})
-			res.status(200).send({token})
+			res.status(200).send({ token })
 		})
 	})
 })
@@ -145,6 +145,11 @@ app.post("/", (req, res) => {
 function verifyToken(req, res, next) {
 	let auth = req.headers.authorization
 	const authHeader = req.headers.authorization
-	
+	if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
+	const token = authHeader.replace('Bearer ', '')
+	jwt.verify(token, config.jwt.secret, { algorithms: ['H256'] }, (err, decoded) => {
+		if (err) return res.status(401).send({ message: 'not authenticated' })
+		decodedToken
+	})
 }
 ```

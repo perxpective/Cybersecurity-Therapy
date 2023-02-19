@@ -77,7 +77,6 @@ app.get('/users', verifyToken, (req, res) => {
             .send({ message: 'you dont have sufficient permissions' });
 
     // handle processing
-
     res.status(200).send({ users });
 });
 ```
