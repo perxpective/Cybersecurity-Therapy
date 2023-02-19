@@ -963,7 +963,17 @@
 	- Multiple SSL ports can be assigned per website
 
 #### Configuration of Client for SSL Certificates
-
+- **What information is typically contained in a client certificate?**
+	- Identity of user
+	- Identify of CA
+	- Public key used for establishing encrypted communication
+	- Validation information e.g. expiration date and serial number
+- **How to protect web content from unauthorised access?**
+	- Use Basic, Digest, Integrated Windows authentication in addition to requiring a client certificate
+	- Create a Windows account mapping for client certificates
+- **How does Windows account mapping work?**
+	- Once a client system has presented its client certificate to the web server, client system can access the server with mapped user credential
+	- Provides more convi
 
 
 
