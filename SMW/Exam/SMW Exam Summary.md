@@ -1008,6 +1008,11 @@
 ### Remote Access Overview
 - **Definition of Remote Access Service Role (RAS)**
 	- Enables remote access via VPN, Direct Access and Web Application Proxy
+- **Definition of Virtual Private Network (VPN)**
+	- Tunnel though a larger network that is restricted to designated member clients only
+
+### VPN Implementation
+
 
 ## Tutorial Revision Questions
 ### Lecture 4
