@@ -949,7 +949,13 @@
 	- Evaluate willingness of outside vendor clients to trust your organisation as a certificate supplier
 
 #### Publicly-Issued Certificates
+- **When are publicly-issued certificates used?**
+	- When user suspects self-issued certificates
 
+> Can be obtained from the mutually trusted third-party CA
+
+- **What is the wait time for publicly-issued certificates?**
+		- Several days to several months
 
 
 
