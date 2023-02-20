@@ -1314,6 +1314,10 @@
 	- **Strong and Diverse Security Measures:**
 		- Employs cryptography, multiple secret keys, third-party authorization to create a strong secure defense
 		- Passwords are not sent over networks and secret keys are encrypted
+- **What information does a Ticket Granting Ticket (TGT) contain?**
+	- Client name
+	- IP address
+	- Timestamp
 
 ### Kerberos Process
 - **Components of Kerberos:**
@@ -1337,6 +1341,9 @@
 6. TGS returns to the client the service session key to use to access the application server (encrypted with TGS session key)
 7. TGS also returns a service ticket containing user information and service session key (encrypted with the application server secret key)
 8. Client sends to application server the encrypted service ticket and another timestamped authenticator (encrypted with service session key)
+9. Application server decrypts the service ticket to confirm the message is untampered
+10. Application server decrypts authenticator with service session key
+11. Application server also respond 
 
 
 
