@@ -1137,8 +1137,15 @@
 	- VPN server relays this IP address assignment to the client
 
 ### Configuring VPN Security
-- **How can VPN Security be configured?**
-
+- **How can VPN security be configured?**
+	- Through the remote access policy
+- **Why should a remote access policy be configured?**
+	- Simplifies administration and gives you more options and control over allowing connections
+- **What are some elements of a remote access policy?**
+	- Access Permissions
+	- Conditions
+	- Constraints
+	- Settings
 
 
 
