@@ -1343,9 +1343,8 @@
 8. Client sends to application server the encrypted service ticket and another timestamped authenticator (encrypted with service session key)
 9. Application server decrypts the service ticket to confirm the message is untampered
 10. Application server decrypts authenticator with service session key
-11. Application server also respond 
-
-
+11. Application server also respond with timestamp encrypted with service session key and client can decrypt and compare
+12. Application server responds to client requests
 
 
 ### NTLM
