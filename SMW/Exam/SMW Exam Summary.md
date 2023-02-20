@@ -1249,6 +1249,11 @@
 	- Eliminate man-in-the-middle attacks
 - **How to determine who will be allowed to access the RDS server?**
 	- Create groups of user accounts in advance so that they can be added during the installation
+	- **What should be done when operating in an Active Directory environment?**
+		- Create domain local group of users and global groups for each department that will access RDS server
+		- Add relevant user accounts for each department global group
+		- Add the global groups to the single domain local group
+
 
 
 ## Tutorial Revision Questions
