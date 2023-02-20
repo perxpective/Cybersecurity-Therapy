@@ -192,7 +192,7 @@
 
 | Advantages                                                                                                                                  | Disadvantages                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
-| Sysadmins can control updates to be applied                                                                                                 | Does not support updates from Microsoft |
+| Sysadmins can control updates to be applied                                                                                                 | Does not support updates that are not from Microsoft |
 | Clients can be configured to get updates from local WSUS server instead of downloading them from Microsoft's site, reducing network traffic |                                         |
 | Provides updates to computers that do not have Internet access                                                                              |                                         |
 
