@@ -1038,7 +1038,9 @@
 	- To create a tunnel, client must first connect to Internet by establishing a connection using the remote access protocol
 	- Once connected to the Internet, client establishes second connection to VPN server
 	- Client and VPN server agree on how data will be encapsulated and encrypted across the virtual tunnel
-- ****
+- **What are some things to take note of when setting up a VPN?**
+	- Do not use any of the domain controllers to be a VPN server
+	- VPN server is
 
 
 
