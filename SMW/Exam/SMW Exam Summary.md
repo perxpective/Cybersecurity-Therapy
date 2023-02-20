@@ -1240,7 +1240,15 @@
 
 #### Installing Remote Desktop Services
 - **When installing the Remote Desktop Role, why must the RDS Licensing role be installed?**
-	- To manage the number of terminal server user licenses obtained from Mi
+	- To manage the number of terminal server user licenses obtained from Microsoft
+- **Who can purchase licenses?**
+	- User account
+	- Client device
+- **When installing the RDS role, why must Network Level Authentication be installed?**
+	- Enable authentication to occur before RDS connection
+	- Eliminate man-in-the-middle attacks
+- **How to determine who will be allowed to access the RDS server?**
+	- Create groups of user accounts in advance so that they can be added during the installation
 
 
 ## Tutorial Revision Questions
