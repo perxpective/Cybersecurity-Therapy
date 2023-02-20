@@ -192,6 +192,15 @@ var string = key.update(stringtoDecrypt, 'hex', 'utf8') string += key.final('utf
 
 ## CSRF
 ```js
+// creating a new express session
+var session = require("express-session")
+app.use(session({
+	secret: "secret_key",
+	store: "sessionStore",
+	saveUninitialized: false,
+	resave: false
+}))
+
 // Express MySQL Session
 var MySQLStore = require("express-mysql-session")(session)
 var sessionStore = new MySQLStore({
