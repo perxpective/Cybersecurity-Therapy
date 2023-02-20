@@ -1332,7 +1332,8 @@
 1. Client sends a request to the AS. Date and time is encrypted on the local computer and client's password hash is the key.
 2. AS receives authentication request and decrypts it with client's password hash. Ensures that the timeframe encrypted is within a 5 minute timeframe.
 3. If authentication is successful, AS sends back a TGT (contains the client name, IP address, timestamp and validity period of maximum 10 hours). TGT is also encrypted with the KDC secret key.
-4. Returns the Ticket Granting Service (TGS) Session Kee
+4. Returns the TGS session key to encrypt communication between client and TGS (encrypted with user's password hash) 
+5. Present the 
 
 
 
