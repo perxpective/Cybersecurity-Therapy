@@ -1448,6 +1448,13 @@
 9. TGT and service ticket have an expiration time after which they cannot be used to access the application server
 
 ### NTLM
+> Windows New Technology LAN Manager (NTLM)
+
+- **What are the reasons NTLM is insecure?**
+	- Only uppercase ASCII characters
+	- Only a maximum password size of 14 characters
+	- Passwords longer than 7 characters are split and encrypted separately
+	- Passwords are not salted
 
 
 ### Kerberos vs NTLM
