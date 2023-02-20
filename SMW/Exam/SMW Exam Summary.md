@@ -1043,8 +1043,15 @@
 	- VPN server is public-facing and should be in the DMZ segment
 	- Use Windows Server with 2 NICs to implement a VPN server
 
+### Remote Access Protocols
+- **Purpose of Remote Access Protocols:**
+	- Encapsulate a packet e.g. IP datagram to be transmitted from a point at one end of a WAN to another point
+- **What is the most commonly used transport protocol?**
+	- Internet Protocol (IP)
 
-
+### Point-to-Point Protocol (PPP)
+- **Description:**
+	- Used in legacy remote communications invol
 
 
 
