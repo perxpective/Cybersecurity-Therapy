@@ -6,7 +6,6 @@
       {
         "id": "0b2ba6ba1455614c",
         "type": "tabs",
-        "dimension": 35.28778913394298,
         "children": [
           {
             "id": "c0ce547614d9f40f",
@@ -18,45 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "6420c7381e826c47"
-          }
-        ]
-      },
-      {
-        "id": "e7c20a7283d873e6",
-        "type": "tabs",
-        "dimension": 48.95104895104895,
-        "children": [
-          {
-            "id": "2b30700b9a86e01b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
-                "mode": "source",
-                "source": false
-              }
             }
-          }
-        ]
-      },
-      {
-        "id": "1342d184bcce9e08",
-        "type": "tabs",
-        "dimension": 15.761161915008067,
-        "children": [
-          {
-            "id": "1a1d75e7dc41ff90",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md"
-              }
-            },
-            "group": "6420c7381e826c47"
           }
         ]
       }

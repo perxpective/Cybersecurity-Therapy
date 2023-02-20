@@ -1278,5 +1278,16 @@
 	- Microsoft
 
 ### Kerberos
+- **What is Kerberos?**
+	- Network security protocol that authenticates service requests between two or more trusted hosts across an untrusted network (e.g. the Internet)
+	- Uses secret-key cryptography to authenticate client-server applications and verify user identities
+- **Where is Kerberos used in?**
+	- Posix authentication
+	- Active Directory
+	- NFS
+	- Samba
+	- Alternative 
+- 
 
-##
+### NTLM
+
