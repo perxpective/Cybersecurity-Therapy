@@ -1431,7 +1431,10 @@
 	- <u>Service Authenticator contains the following information:</u>
 		- Service Name/ID
 		- Timestamp
-- User receives the S
+- User receives the Service Authenticator and decrypts it with the service session key
+	- Verifies if the service name in the Authenticator is the service the user wants to access (mutual authentication)
+	- User views the timestamp to ensure that the Authenticator is created a few minutes ago
+	- User caches a copy of the encrypted service ticket for future use
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
