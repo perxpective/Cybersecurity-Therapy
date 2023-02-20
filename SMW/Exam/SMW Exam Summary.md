@@ -1202,7 +1202,31 @@
 	- Thin client connections
 	- Enables server admins to know the details of the remote client activities
 - **What are the three services that Windows Server 2016 RDS is used for?**
-	- Run applications on server insread of 
+	- Run applications on server instead of client
+	- Support think clients
+	- Centralise program access
+- **What are thin clients?**
+	- Downsized PCs with minimal Windows-based OSs accessing a Windows Server 2016 so that most CPU-intensive operations are performed on the server
+	- Cost-saving and reduce training and support requirements
+	- Used for portable field or handheld remote devices
+- **How can control of how programs are used be centralised?**
+	- Highly confidential documents can be stored and modified on the server
+- **What are the other types of OSs that RDS support?**
+	- Windows 10
+	- Windows Server 2016
+	- UNIX and UNIX-based X-terminals
+	- Linux
+	- Mac OS
+	- Tablet OSs
+- **What are the four main components that enable remote desktop connectivity?**
+	- Windows Server 2016 RDS
+	- Remote Desktop Services client
+	- Remote Desktop Protocol (RDP)
+	- Remote Desktop Services administration tools
+- **What are the role services to be installed when instal**
+
+
+
 
 ## Tutorial Revision Questions
 ### Lecture 4
