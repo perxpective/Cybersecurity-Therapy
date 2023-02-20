@@ -1051,9 +1051,12 @@
 
 ### Point-to-Point Protocol (PPP)
 - **Description:**
-	- Used in legacy remote communications invol
-
-
+	- Used in legacy remote communications involving modems
+	- Authenticates connections and encrypts network communications
+	- Can automatically negotiate communications with several network communications layer at once
+	- Not as secure as other modern options
+- **What are the choices of tunnelling protocols when implementing a Windows Server 2016 VPN Server?**
+	- Point-to-Point Tunnelling Protocol ()
 
 
 
