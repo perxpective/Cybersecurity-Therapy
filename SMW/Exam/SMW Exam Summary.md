@@ -1127,7 +1127,20 @@
 
 #### Configuring a DHCP Relay Agent
 - **What does a DHCP Relay Agent do?**
-	- Broadcasts IP configuration information between DHCP server on network and client acquiring an adresss
+	- Broadcasts IP configuration information between DHCP server on network and client acquiring an address
+- **How can the DHCP Relay Agent by configured?**
+	- Using the Routing and Remote Access tool
+- **How does the DHCP Relay Agent work?**
+	- Client contacts VPN server to make a connection
+	- VPN server as a DHCP relay agent contacts the DHCP server for IP address for the client
+	- DHCP server notifies VPN server of the IP address
+	- VPN server relays this IP address assignment to the client
+
+### Configuring VPN Security
+- **How can VPN Security be configured?**
+
+
+
 
 
 ## Tutorial Revision Questions
