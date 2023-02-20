@@ -1040,7 +1040,9 @@
 	- Client and VPN server agree on how data will be encapsulated and encrypted across the virtual tunnel
 - **What are some things to take note of when setting up a VPN?**
 	- Do not use any of the domain controllers to be a VPN server
-	- VPN server is
+	- VPN server is public-facing and should be in the DMZ segment
+	- Use Windows Server with 2 NICs to implement a VPN server
+
 
 
 
