@@ -220,6 +220,9 @@ verifySession: (req, res, next) => {
 var csrf = require("csurf")
 var csrfProtection = csrf()
 app.get("/csrfgettoken", csrfProtection.function(req, res) => {
-	console.log(req.csrfToken())
+	var csrfToken = req.csrfToken()
+	res.status(200).send(`{"csrfToken":"${csrfToken}$"}`)
+	...
+	res.send("success!")
 })
 ```

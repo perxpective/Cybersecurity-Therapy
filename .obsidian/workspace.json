@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "SC/SC Exam Cheat Sheet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md"
+                "file": "SC/SC Exam Cheat Sheet.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,10 +223,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7d28e826c3c5672",
+  "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
-    "SC/SC Exam Cheat Sheet.md",
     "SC/SC Topic 9 - CSRF.md",
+    "SC/SC Exam Cheat Sheet.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
