@@ -1400,11 +1400,23 @@
 		- Service Name/ID
 		- Timestamp of message
 		- Lifetime of message
+		- **Service session key**
+		- *Encrypted with the TGS session key*
 	- <u>Service Ticket containing the following information:</u>
 		- User Name/ID
 		- Service Name/ID
 		- Timestamp of ticket
-		- 
+		- User IP address
+		- Lifetime for Service Ticket
+		- **Service session key**
+		- *Encrypted with the service secret key*
+- User receives the messages from the TGS
+	- User decrypts the message with the TGS session key
+	- User now has a copy of the service session key
+	- <u>User creates a new Authenticator message containing the following:</u>
+		- User Name/ID
+		- Timestamp
+		- *Encrypted with service session key*
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
