@@ -1329,7 +1329,9 @@
 		- Consists of the database, authentication server (AS) and the Ticket Granting Server (TGS)
 
 **Process:**
-1. Client sends a request to the AS
+1. Client sends a request to the AS. Date and time is encrypted on the local computer and client's password hash is the key.
+2. AS receives authentication request and decrypts it with client's password hash. Ensures that the timeframe encrypted is within a 5 minute timeframe.
+3. I
 
 
 
