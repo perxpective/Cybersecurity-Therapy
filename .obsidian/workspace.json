@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2ba6ba1455614c",
+        "id": "2d2df674b294e447",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ce547614d9f40f",
+            "id": "e54b6aecaa7c2451",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6e02e8647b160e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,13 +154,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0ce547614d9f40f",
+  "active": "e54b6aecaa7c2451",
   "lastOpenFiles": [
+    "SC/SC Topic 9 - CSRF.md",
+    "SC/SC Exam Cheat Sheet.md",
     "SC/SC MST Cheat Sheet.md",
     "SC/SC Topic 3 -  XSS.md",
-    "SC/SC Exam Cheat Sheet.md",
     "SC/SC Topic 4 - SQL Injection.md",
-    "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
