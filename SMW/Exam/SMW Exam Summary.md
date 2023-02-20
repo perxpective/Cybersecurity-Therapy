@@ -1157,7 +1157,8 @@
 - **How can a Remote Access Policy created and configured?**
 	- Use the Routing and Remote Access tool
 - **How to create a new Remote Access Policy?**
-	- 
+	- Right-click Remote Access Logging and Policies folder in the tree under the VPN server
+	- Click Launch NPS to launch Network Policy Server tool
 
 
 ## Tutorial Revision Questions
