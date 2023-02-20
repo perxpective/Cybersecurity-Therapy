@@ -1335,6 +1335,7 @@
 4. Returns the TGS session key to encrypt communication between client and TGS (encrypted with user's password hash) 
 5. Client sends a copy of the TGT and the name of the application server it wants to access (include the timestamped client ID encrypted with TGS session key)
 6. TGS returns to the client the service session key to use to access the application server (encrypted with TGS session key)
+7. TGS also returns a service ticket containing user information and service session key (encrypted with the application server secret key)
 
 
 
