@@ -1333,7 +1333,8 @@
 2. AS receives authentication request and decrypts it with client's password hash. Ensures that the timeframe encrypted is within a 5 minute timeframe.
 3. If authentication is successful, AS sends back a TGT (contains the client name, IP address, timestamp and validity period of maximum 10 hours). TGT is also encrypted with the KDC secret key.
 4. Returns the TGS session key to encrypt communication between client and TGS (encrypted with user's password hash) 
-5. Present the 
+5. Client sends a copy of the TGT and the name of the application server it wants to access (include the timestamped client ID encrypted with TGS session key)
+6. TGS returns to the client the service session key to use to access the application server (encrypted with TGS session key)
 
 
 
