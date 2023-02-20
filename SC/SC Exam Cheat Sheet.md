@@ -21,7 +21,7 @@ app.use(morgan(":method :url :date :remote-addr :url"))
 
 // creating custom tokens
 morgan.token("token", (req ,res) => {
-	return ...
+return ...
 })
 
 // apply the custom token
@@ -43,7 +43,7 @@ app.use(morgan("combined", { stream: appLogStream }))
 var input = input.question("enter input: ")
 pattern = new RegExp('^.+@.+\.[a-z]+$')
 if (pattern.test(userinput)) {
-	console.log("Input is correct")
+    console.log("Input is correct")
 } else {
 	console.log("Input is incorrect")
 }
@@ -122,7 +122,7 @@ conn.query(sql, [userid, role], (err, result) => {
 // use stored procedures
 var sql = `call finduser(?, ?)`
 conn.query(sql, [userid, role], (err, result) => {
-	...
+    ...
 })
 ```
 
