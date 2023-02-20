@@ -1172,7 +1172,19 @@
 
 ### Troubleshoot VPN Installations
 - **Hardware solutions:**
-	- Use Device Manager to ensure network adapters and WNA
+	- Use Device Manager to ensure network adapters and WAN adapters are functional
+	- Use Device Manager to make sure that adapter has no resource conflicts
+	- <u>For external DSL adapter or combined DSL adapter and router:</u>
+		- Ensure the device is properly configured and connected
+		- Check monitor lights for problems
+	- Check with ISP to determine if problems are present on the ISP WAN
+- **Software solutions**
+	- Use Server Manager to ensure that VPN services are started
+	- Ensure that Windows Firewall allows remote access
+	- Ensure VPN server is enabled
+	- Check remote access policy to ensure that access permission is granted
+	- Check the network interface in the Routing and Remote Access tool
+	- Ensure that IP parameters are correctly configured to provide ad
 
 
 ## Tutorial Revision Questions
