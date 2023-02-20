@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
-                "mode": "preview",
+                "file": "SC/SC Exam Cheat Sheet.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md"
+                "file": "SC/SC Exam Cheat Sheet.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 4 - SQL Injection.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,14 +170,14 @@
   "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
     "SC/SC MST Cheat Sheet.md",
+    "SC/SC Topic 3 -  XSS.md",
     "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 5 - Logging.md",
-    "SC/SC Topic 4 - SQL Injection.md",
-    "SC/SC Topic 3 -  XSS.md",
     "SMW/Exam/SMW Exam Summary.md"
   ]
 }

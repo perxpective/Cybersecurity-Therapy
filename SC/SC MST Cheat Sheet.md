@@ -47,7 +47,6 @@ https://www.example.com/defaut.asp?profile=123&value=123&status=del
 - Malformed `<a>` tags
 ```html
 \<a onmouseover=alert(document.cookie)\>xxs link\</a\>
-`\<a onmouseover="alert(document.cookie)"\>xxs link\</a\>`
 ```
 - Malformed `<img>` tags
 ```html
