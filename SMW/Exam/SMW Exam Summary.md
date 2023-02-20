@@ -1254,6 +1254,9 @@
 		- Add relevant user accounts for each department global group
 		- Add the global groups to the single domain local group
 
+#### Build-in Remote Desktop Services
+- **What**
+
 
 
 ## Tutorial Revision Questions

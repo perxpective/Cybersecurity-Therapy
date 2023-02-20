@@ -264,9 +264,9 @@
 	- Finally, add the global groups to the single domain local group
 
 ## Build-in Remote Desktop Services
-- Installation on a full scale Remote Desktop Services may high demand on system resources
+- Installation on a full scale Remote Desktop Services may have high demand on system resources
 - For all Windows Servers, there are build-in Remote Desktop Services
-	- With limited numbers of ccocnnections
+	- With limited numbers of connections
 	- With simplified configuration options
 	- Run on the same Remote Desktop Protocol
 
