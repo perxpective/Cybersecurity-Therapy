@@ -1268,3 +1268,15 @@
 	- Provide the username and password and click OK
 
 ## Journal 3 - Kerberos and NTLMv2
+- **When was Kerberos created?**
+	- 1988
+- **Who created Kerberos?**
+	- Massachusetts Institute of Technology (MIT)
+- **When was NTLM created?**
+	- 1993
+- **Who created NTLM?**
+	- Microsoft
+
+### Kerberos
+
+##
