@@ -1294,6 +1294,13 @@
 - **What cyberattacks does Kerberos protect against?**
 	- Man-in-the-middle attacks
 	- Replay attacks
+- **What are some attacks that can bypass Kerberos?**
+	- <u>Pass-the-key attack</u>
+		- Attackers impersonate clients using their credentials
+	- <u>Pass-the-ticket attack</u>
+		- Attackers use the ticket when KDC sends session ticket
+	- <u>Golden ticket attack</u>
+		- Attackers use Windows domain controllers to create client credentials
 - **What are the benefits to using Kerberos authentication?**
 	- **Access Control:**
 		- Single point to keep track of logins and security policy enforcement
