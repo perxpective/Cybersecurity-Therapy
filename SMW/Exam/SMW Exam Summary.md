@@ -1150,8 +1150,14 @@
 	- First step in evaluating access is determining if access permission is enabled at the VPN server
 	- Change default permission to grant access in default remote access policy (default is deny access)
 	- Conditions of remote access policy are a set of attributes compared with the attributes of the connection atttempt
-	- 
+	- If connection attempt matches conditions of policy, constraints are evaluated
+	- Settings in remote access policy are then examined (e.g. IP filters, encryption, IP settings, etc.)
 
+### Establish a Remote Access Policy
+- **How can a Remote Access Policy created and configured?**
+	- Use the Routing and Remote Access tool
+- **How to create a new Remote Access Policy?**
+	- 
 
 
 ## Tutorial Revision Questions
