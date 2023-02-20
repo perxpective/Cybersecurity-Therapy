@@ -1146,7 +1146,8 @@
 	- Conditions
 	- Constraints
 	- Settings
-
+- **Explanation of these elements:**
+	- 
 
 
 
