@@ -44,8 +44,8 @@ var input = input.question("enter input: ")
 pattern = new RegExp('^.+@.+\.[a-z]+$')
 if (pattern.test(userinput)) {
     console.log("Input is correct")
-} else {
-	console.log("Input is incorrect")
+} else {  
+    console.log("Input is incorrect")
 }
 ```
 
@@ -82,23 +82,23 @@ Here's a breakdown of the regular expression:
 // using validator
 var validator = require("validator")
 function validateRegistration(req, res ,next) {
-	var username = req.body.username
-	var email = req.body.email
-	var role = req.body.role
-	var password = req.body.password
+    var username = req.body.username
+    var email = req.body.email
+    var role = req.body.role
+    var password = req.body.password
 
-	if (validator.isAlphanumeric(username) && validator.isEmail(email) && (role == 'user' || role == 'admin') && validator.isAlphanumeric(password) && password.length > 7) {
-		next()
-	} else {
-		res.send(`{"Message":"Validation Failed"}`)
-	}
+    if (validator.isAlphanumeric(username) && validator.isEmail(email) && (role == 'user' || role == 'admin') && validator.isAlphanumeric(password) && password.length > 7) {
+        next()
+    } else {
+        res.send(`{"Message":"Validation Failed"}`)
+    }
 }
 
 module.exports.validateRegistration = validateRegistration
 
 // applying the middleware
 app.post('/api/user', validate.validateRegistration, (req, res) => {
-	...
+    ...
 })
 
 // escape data
@@ -116,7 +116,7 @@ var sanitizedOutput = validator.stripLow(input)
 var sql = `select userid, email, username from user where userid = ? and role = ?`
 
 conn.query(sql, [userid, role], (err, result) => {
-	...
+    ...
 })
 
 // use stored procedures
@@ -130,40 +130,40 @@ conn.query(sql, [userid, role], (err, result) => {
 ```js
 // login controller
 app.post("/", (req, res) => {
-	let { username, password } = req.body
-	user.verifyLogin(username, password, (err, result) => {
-		if (err) return res.status(500).send({"message":"an error occurred"})
-		if (!result) return res.status(401).send({"message":"user not authenticated"})
-		jwt.sign(user, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
-			if (err) return res.status(500).send({"message": "an error occurred"})
-			res.status(200).send({ token })
-		})
-	})
+    let { username, password } = req.body
+    user.verifyLogin(username, password, (err, result) => {
+        if (err) return res.status(500).send({"message":"an error occurred"})
+        if (!result) return res.status(401).send({"message":"user not authenticated"})
+        jwt.sign(user, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
+            if (err) return res.status(500).send({"message": "an error occurred"})
+            res.status(200).send({ token })
+        })
+    })
 })
 
 // authentication middleware
 function verifyToken(req, res, next) {
-	let auth = req.headers.authorization
-	const authHeader = req.headers.authorization
-	if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
-	const token = authHeader.replace('Bearer ', '')
-	jwt.verify(token, config.jwt.secret, { algorithms: ['H256'] }, (err, decoded) => {
-		if (err) return res.status(401).send({ message: 'not authenticated' })
-		req.decodedToken = decoded
-		next()
-	})
+    let auth = req.headers.authorization
+    const authHeader = req.headers.authorization
+    if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
+    const token = authHeader.replace('Bearer ', '')
+    jwt.verify(token, config.jwt.secret, { algorithms: ['H256'] }, (err, decoded) => {
+        if (err) return res.status(401).send({ message: 'not authenticated' })
+        req.decodedToken = decoded
+        next()
+    })
 }
 
 // restricted api controller
 app.get('/endpoint', verifyToken, (req, res) => {
-	if (!req.decodedToken.role !== 'admin') return res.status(403).send({ message: 'not authorized' })
-	function((err, result) => {
-		if (!err) {
-			res.status(200).send({ result })
-		} else {
-			res.status(500).send({ error })
-		}
-	})
+if (!req.decodedToken.role !== 'admin') return res.status(403).send({ message: 'not authorized' })
+    function((err, result) => {
+        if (!err) {
+            res.status(200).send({ result })
+        } else {
+            res.status(500).send({ error })
+        }
+    })
 })
 
 // password hashing (bcrypt)
@@ -172,11 +172,11 @@ var password = "password"
 var saltRounds = 10
 
 bcrypt.hash(password, saltRounds, (err, hash) => {
-	...
+    ...
 })
 
 bcrypt.compare(password, passwordHash, (err, sucess) => {
-	...
+    ...
 })
 
 // password encryption (crypto)
@@ -195,17 +195,17 @@ var string = key.update(stringtoDecrypt, 'hex', 'utf8') string += key.final('utf
 // creating a new express session
 var session = require("express-session")
 app.use(session({
-	secret: "secret_key",
-	store: "sessionStore",
-	saveUninitialized: false,
-	resave: false
+    secret: "secret_key",
+    store: "sessionStore",
+    saveUninitialized: false,
+    resave: false
 }))
 
 // Express MySQL Session
 var MySQLStore = require("express-mysql-session")(session)
 var sessionStore = new MySQLStore({
-	dbconnect.getConnection()
-	...
+    dbconnect.getConnection()
+    ...
 })
 
 // get or set session values
@@ -217,21 +217,21 @@ req.session.destroy
 
 // check user roles
 verifySession: (req, res, next) => {
-	if (req.session.role) {
-		next()
-	} else {
-		res.status(403)
-		res.send(`{"message":"unauthorized"}`)
-	}
+    if (req.session.role) {
+        next()
+    } else {
+        res.status(403)
+        res.send(`{"message":"unauthorized"}`)
+    }
 }
 
 // generating csrf tokens csurf
 var csrf = require("csurf")
 var csrfProtection = csrf()
 app.get("/csrfgettoken", csrfProtection.function(req, res) => {
-	var csrfToken = req.csrfToken()
-	res.status(200).send(`{"csrfToken":"${csrfToken}$"}`)
-	...
-	res.send("success!")
+    var csrfToken = req.csrfToken()
+    res.status(200).send(`{"csrfToken":"${csrfToken}$"}`)
+    ...
+    res.send("success!")
 })
 ```
