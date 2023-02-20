@@ -1315,5 +1315,14 @@
 		- Employs cryptography, multiple secret keys, third-party authorization to create a strong secure defense
 		- Passwords are not sent over networks and secret keys are encrypted
 
+### Kerberos Process
+- **Components of Kerberos:**
+	- Client
+	- Server
+	- Authentication Server (AS)
+		- Performs client authentication
+		- If authentication is successful, AS issues a ticket
+1. 
+
 ### NTLM
 
