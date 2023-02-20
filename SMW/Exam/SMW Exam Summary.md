@@ -1350,7 +1350,8 @@
 
 
 **Process 3 (ChatGPT)**
-
+1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
+2. AS authenticates the client by decrypting the TGT request and checks the user credentials. If user is authenticated, AS issues TGT to
 
 ### NTLM
 
