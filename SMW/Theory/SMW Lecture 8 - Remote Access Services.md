@@ -169,7 +169,7 @@
 - Periodically monitor the users who are connected
 - Use the Routing and Remote Access tool to monitor connected users
 - <u>With the tool open:</u>
-	- Expand the elements under the server name in the left pant
+	- Expand the elements under the server name in the left pane
 	- Click the Remote Access clients on the left pane
 	- The right pane shows the users who are connected
 	- To disconnect a user, right-click the user and click Disconnect

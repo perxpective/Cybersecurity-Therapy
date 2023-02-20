@@ -1158,7 +1158,21 @@
 	- Use the Routing and Remote Access tool
 - **How to create a new Remote Access Policy?**
 	- Right-click Remote Access Logging and Policies folder in the tree under the VPN server
-	- Click Launch NPS to launch Network Policy Server tool
+	- Click Launch NPS to launch Network Policy Server tool 
+
+#### Monitor VPN Users
+- **Functions:**
+	- Periodically monitor connected users
+- **How to monitor VPN users?**
+	- Use the Routing and Remote Access tool to monitor connected users
+	- Expand the elements under server name in the left pane
+	- Click Remote Access clients on the left pane
+	- Right pane shows the users connected
+	- To disconnect a user, right-click on the user and click Disconnect
+
+### Troubleshoot VPN Installations
+- **Hardware solutions:**
+	- Use Device Manager to ensure network adapters and WNA
 
 
 ## Tutorial Revision Questions
