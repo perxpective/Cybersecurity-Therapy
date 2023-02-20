@@ -1364,3 +1364,8 @@
 
 
 ### Kerberos vs NTLM
+- Kerberos is generally more secure than NTLM:
+	- Kerberos uses stronger encryption algorithms
+	- Kerberos uses one-way hash to protect user passwords while NTLM uses two-way hash
+	- Kerberos uses mutual authentication so that client and server can authenticate each other while NTLM provides one-way authentication
+	- Kerberos support single sign-on allowing users to log in once and access resources without re-entering their credentials
