@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1039056e394e367d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SC/SC Exam Cheat Sheet.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md"
+                "file": "SC/SC Exam Cheat Sheet.md"
               }
             }
           },
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0ce547614d9f40f",
+  "active": "1039056e394e367d",
   "lastOpenFiles": [
-    "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
     "SMW/Exam/SMW Exam Summary.md",
+    "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
     "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
     "SC/SC Exam Cheat Sheet.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",

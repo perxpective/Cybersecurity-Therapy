@@ -1470,7 +1470,8 @@
 		- Response received from the client
 	- Domain controller uses the received user name to retrieve the user's password hash from the Security Account Manager (SAM) database
 	- It uses this password hash to encrypt the challenge
-	- Domain controller
+	- Domain controller compares the encrypted challenge it computed with the response computed by the client
+	- If they are identical, authentication is successful
 
 ### Kerberos vs NTLM
 - Kerberos is generally more secure than NTLM:
