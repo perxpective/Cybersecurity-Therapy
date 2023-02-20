@@ -1417,6 +1417,12 @@
 		- User Name/ID
 		- Timestamp
 		- *Encrypted with service session key*
+	- User cannot decrypt the service ticket because it is encrypted with the service secret key
+- User forwards the new User Authenticator and the service ticket over to the server
+- Service receives the messages from the server
+	- Service decrypts the service ticket with its service secret key
+	- Service obtains the service session key
+	- Service uses the service session key to decrypt the 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)

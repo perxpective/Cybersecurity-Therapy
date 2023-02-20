@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -158,15 +157,15 @@
   },
   "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
-    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+    "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
     "SMW/Exam/SMW Exam Summary.md",
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
     "SC/SC Exam Cheat Sheet.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
-    "SC/SC Topic 6 - XSS Prevention.md",
-    "SC/SC Topic 5 - Logging.md"
+    "SC/SC Topic 6 - XSS Prevention.md"
   ]
 }
