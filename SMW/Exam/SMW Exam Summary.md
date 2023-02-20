@@ -1325,11 +1325,11 @@
 		- If authentication is successful, AS issues a ticket granting ticket (TGT)
 	- **Ticket Granting Server (TGS)**
 		- Application server that issues service tickets as a service
-	- **Key Distribution Center (KDC)**
+	- **Key Distribution Centre (KDC)**
 		- Consists of the database, authentication server (AS) and the Ticket Granting Server (TGS)
 
 **Process:**
-1. Client communicates with the AS  
+1. Client sends a request to the AS
 
 
 
