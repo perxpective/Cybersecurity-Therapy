@@ -1184,8 +1184,18 @@
 	- Ensure VPN server is enabled
 	- Check remote access policy to ensure that access permission is granted
 	- Check the network interface in the Routing and Remote Access tool
-	- Ensure that IP parameters are correctly configured to provide ad
+	- Ensure that IP parameters are correctly configured to provide address pool for VPN server
+	- Open Remote Access Management console and click the dashboard in the left pane
+	- <u>If certain clients are having connection problems:</u>
+		- Make sure that clients are using the same communications protocol as the server
+		- If access to VPN server is managed using security groups, make sure that each user or computer account requiring access is in the appropriate group
 
+### Remote Desktop Services
+- **Description of Remote Desktop Services (RDS)**
+	- Enables clients to run session-based desktops, virtual desktops and software applications on Windows Server 2016 instead of at the client
+- **How do session-based desktops work?**
+	- Client accesses RDS server to run applications on the server during a connection session
+- **Virtual desktop**
 
 ## Tutorial Revision Questions
 ### Lecture 4
