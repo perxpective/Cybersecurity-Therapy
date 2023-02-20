@@ -1455,7 +1455,15 @@
 	- Only a maximum password size of 14 characters
 	- Passwords longer than 7 characters are split and encrypted separately
 	- Passwords are not salted
+	- Vulnerable to credentials forwarding attack (use credential of one computer to access another)
 
+#### NTLMv2
+- HMAC-MD5 hash of username and server name
+- Variable length challenge of timestamp, random data and domain name
+- **How does the challenge-response protocol work in NTLMv2**
+	- Client sends a username to the server
+	- Server responds with a random number (challenge)
+	- Client generatets a 
 
 ### Kerberos vs NTLM
 - Kerberos is generally more secure than NTLM:
