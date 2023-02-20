@@ -1286,8 +1286,18 @@
 	- Active Directory
 	- NFS
 	- Samba
-	- Alternative 
-- 
+	- Alternative authentication to SSH, POP and SMTP
+- **What are the main components of Kerberos?**
+	- Client
+	- Application Server 
+	- Key Distribution Centre (KDC)
+- **What cyberattacks does Kerberos protect against?**
+	- Man-in-the-middle attacks
+	- Replay attacks
+- **What are the benefits to using Kerberos authentication?**
+	- **Access control:** single point to keep track of logins and security policy enforcement
+	- **Limited lifetime for key tickets:** each Kerberos ticket has a timestamp, lifetime data and authentication duration controlled by administrators
+	- **Mutual authentication:** service systems can users 
 
 ### NTLM
 
