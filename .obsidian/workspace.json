@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 9 - CSRF.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 9 - CSRF.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md"
+                "file": "SC/SC Topic 9 - CSRF.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
+                "file": "SC/SC Topic 9 - CSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,6 +170,7 @@
   },
   "active": "1039056e394e367d",
   "lastOpenFiles": [
+    "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 5 - Logging.md",
@@ -178,7 +179,6 @@
     "SC/SC Exam Cheat Sheet.md",
     "SMW/Exam/SMW Exam Summary.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 1.md",
-    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
-    "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md"
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md"
   ]
 }
