@@ -1318,11 +1318,21 @@
 ### Kerberos Process
 - **Components of Kerberos:**
 	- Client
-	- Server
-	- Authentication Server (AS)
+	- **Server**
+		- Hosts the service that the user wants to access
+	- **Authentication Server (AS)**
 		- Performs client authentication
-		- If authentication is successful, AS issues a ticket
-1. 
+		- If authentication is successful, AS issues a ticket granting ticket (TGT)
+	- **Ticket Granting Server (TGS)**
+		- Application server that issues service tickets as a service
+	- **Key Distribution Center (KDC)**
+		- Consists of the database, authentication server (AS) and the Ticket Granting Server (TGS)
+
+**Process:**
+1. Client communicates with the AS  
+
+
+
 
 ### NTLM
 
