@@ -1347,7 +1347,12 @@
 12. Application server responds to client requests
 
 **Process 2 (Destination Certification)**
-1. Client user sends a request to the AS 
+1. Client user sends an unencrypted request to the AS to access a service
+2. AS validates the request and generates a TGT, sent back encrypted with the user's secret key
+3. User client decrypts the message with the user's secret key and creates new messages
+4. Client sends the new messages together with the TGT to the TGS
+5. TGS decrypts the TGT and performs validation and generates a service ticket
+6. Service 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
