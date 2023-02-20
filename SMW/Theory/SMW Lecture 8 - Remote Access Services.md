@@ -276,5 +276,5 @@
 - <u>General steps to start RDC client in Windows 10 or Windows Server 2016</u>
 	- Click Start and click Windows Accessories folder
 	- Click Remote Desktop Connection
-	- Enter the name of the computer to access and click Connet
+	- Enter the name of the computer to access and click Connect
 	- Provide the username and password and click OK

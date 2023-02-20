@@ -1255,9 +1255,16 @@
 		- Add the global groups to the single domain local group
 
 #### Build-in Remote Desktop Services
-- **What**
+- **What are some features of built-in Remote Desktop Services?**
+	- Limited number of connections
+	- Simplified configuration options
+	- Runs on the same Remote Desktop Protocol
 
+#### Access an RDS Server from a Client
+- **What are some general steps to starting a RDC client in Windows 10 or Windows Server 2016?**
+	- Click Start and click on the Windows Accessories folder
+	- Click Remote Desktop Connection
+	- Enter name of the computer to access and click Connect
+	- Provide the username and password and click OK
 
-
-## Tutorial Revision Questions
-### Lecture 4
+## Journal 3 - Kerberos and NTLMv2
