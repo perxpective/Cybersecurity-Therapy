@@ -30,8 +30,8 @@ app.use(morgan(":token :method :url :date"))
 // log file rotation
 var rfs = require("rotating-file-stream")
 var appLogStream = rfs.createStream('access.log', {
-	interval: "1d", // rotate by days
-	path: path.join(__dirname, 'log') // path to stream
+    interval: "1d", // rotate by days
+    path: path.join(__dirname, 'log') // path to stream
 })
 
 app.use(morgan("combined", { stream: appLogStream }))
