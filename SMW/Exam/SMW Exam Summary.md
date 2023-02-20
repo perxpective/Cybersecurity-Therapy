@@ -1056,7 +1056,9 @@
 	- Can automatically negotiate communications with several network communications layer at once
 	- Not as secure as other modern options
 - **What are the choices of tunnelling protocols when implementing a Windows Server 2016 VPN Server?**
-	- Point-to-Point Tunnelling Protocol ()
+	- Point-to-Point Tunnelling Protocol (PPTP)
+	- Layer Two Tunnelling Protocol (L2TP)
+	- Secure Socket Tunnelling Protocol (SSTP)
 
 
 
