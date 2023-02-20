@@ -1346,7 +1346,15 @@
 10. This allows the user and server to mutually authenticate each other and securely distribute a symmetric service session key 
 
 **Detailed Process:**
-- 
+- Client user sends an unencrypted message to the AS
+	- <u>Message contains the following information:</u>
+		- User Name/ID
+		- Service Name/ID to be accessed
+		- User IP Address
+		- Requested lifetime for TGT
+- AS looks at the user ID in the message
+	- AS in the KDC has a list of all the users and their secret keys
+	- Checks 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
