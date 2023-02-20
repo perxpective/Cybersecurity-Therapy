@@ -1347,7 +1347,7 @@
 12. Application server responds to client requests
 
 **Process 2 (Destination Certification)**
-
+1. Client user sends a request to the AS 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
