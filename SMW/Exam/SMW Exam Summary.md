@@ -319,7 +319,7 @@
 	- Restrict a port only to a specific subnet instead of the whole network
 
 #### Deploy Updates
-> 1. Plan the Deplyment
+> 1. Plan the Deployment
 > 2. Determine whether security update is available for download
 > 3. Obtain the required update files
 > 4. Create the update package
