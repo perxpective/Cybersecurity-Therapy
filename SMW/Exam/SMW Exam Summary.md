@@ -1385,7 +1385,13 @@
 - TGS receives the messages from the client
 	- Views the service ID contained in the unencrypted message
 	- Checks to see if the service ID is in the list of services in the KDC
-	- If service is in the list
+	- If service is in the list, TGS retrieves a copy of the service secret key
+- TGS decrypts the TGT with the TGS secret key and retrieves the TGS session key
+	- Uses the TGS session key to decrypt the User Authenticator message from the user
+	- Both the TGT and User Authenticator are decrypted
+	- TGS ensures that the user ID in the TGT and the User Authenticator matches and compares the timestamps
+	- Kerberos is designed to tolerate timestamp differences of up to 2 minutes
+	- 
 
 
 **Process 3 (ChatGPT)**
