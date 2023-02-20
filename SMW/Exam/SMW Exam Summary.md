@@ -1113,9 +1113,21 @@
 ### Configuring a VPN Server
 - **What are the general steps to installing a VPN server?**
 	- Install Network Policy and Access Services role
-	- Configure Windows Server 2016 Server as a VPN server by configuring the right pro
-	- 
+	- Configure Windows Server 2016 Server as a VPN server by configuring the right protocols to provide VPN access to clients
+	- Configure VPN server as DHCP Relay Agent for TCP/IP communications
+	- Configure VPN server properties
+	- Configure remote access policy for security
 
+#### Configuring the VPN Server Firewall
+- **What is an early configuration step?**
+	- Ensure that communications can go through a firewall set up at the server
+- **What happens when a Windows Firewall on the VPN server is used?**
+	- TCP and UDP port used by VPN are unblocked by default when configuring a VPN server
+	- It is important to ensure that they are unblocked
+
+#### Configuring a DHCP Relay Agent
+- **What does a DHCP Relay Agent do?**
+	- Broadcasts IP configuration information between DHCP server on network and client acquiring an adresss
 
 
 ## Tutorial Revision Questions
