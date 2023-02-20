@@ -21,7 +21,7 @@ app.use(morgan(":method :url :date :remote-addr :url"))
 
 // creating custom tokens
 morgan.token("token", (req ,res) => {
-return ...
+    return ...
 })
 
 // apply the custom token
