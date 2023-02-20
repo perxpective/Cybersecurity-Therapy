@@ -1223,9 +1223,24 @@
 	- Remote Desktop Services client
 	- Remote Desktop Protocol (RDP)
 	- Remote Desktop Services administration tools
-- **What are the role services to be installed when instal**
+- **What are the role services to be installed when installing RDS?**
+	- Remote Desktop Session Host
+	- Remote Desktop Web Access
+	- Remote Desktop Virtualization Host
+	- Remote Desktop Licensing
+	- Remote Desktop Gateway
+	- Remote Desktop Connection Broker
+- **What is RemoteApp?**
+	- Feature in RDS server that allows a client to run an application without loading a remote desktop on the client computer
+- **How to start the RemoteApp program?**
+	- Icon on client's desktop
+	- Client's start menu
+	- Link on a website via Remote Desktop Web Access
+	- `.rdp` file
 
-
+#### Installing Remote Desktop Services
+- **When installing the Remote Desktop Role, why must the RDS Licensing role be installed?**
+	- To manage the number of terminal server user licenses obtained from Mi
 
 
 ## Tutorial Revision Questions
