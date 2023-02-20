@@ -1147,6 +1147,9 @@
 	- Constraints
 	- Settings
 - **Explanation of these elements:**
+	- First step in evaluating access is determining if access permission is enabled at the VPN server
+	- Change default permission to grant access in default remote access policy (default is deny access)
+	- Conditions of remote access policy are a set of attributes compared with the attributes of the connection atttempt
 	- 
 
 
