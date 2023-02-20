@@ -1065,15 +1065,24 @@
 - **Description:**
 	- Offers PPP authentication techniques
 	- Encrypts data carried using Microsoft Point-to-Point Encryption (MPPE)
+- **What are some things to take note of when implementing remote access protocols?**
+	- PPTP is the easiest protocol to setup and most network devices support it
+	- Not a good solution for setting VPN channel that needs long or near permanent session
 
 ### Layer Two Tunnelling Protocol (L2TP)
 - **Description:**
 	- Works similarly to PPTP
 	- Uses Layer 2 Forwarding to enable forwarding on the basis of MAC addressing
 	- Uses IPSec for additional authentication and for data encryption
-- **What are some things to take note of when implementing remote access protocols?**
-	- PPTP is the easiest protocol to setup and mo
 
+### Secure Socket Tunnelling Protocol (SSTP)
+- **Description:**
+	- Uses PPP authentication techniques
+	- Encapsulates data packet in the HTTP used in web communications
+	- Uses SSL channel for secure communications
+	- **Explanation:**
+		- Data encryption technique employed between a server and client
+		- Now evolved in Transport Layer 
 
 
 
