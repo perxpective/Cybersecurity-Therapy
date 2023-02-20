@@ -1061,7 +1061,7 @@
 	- Secure Socket Tunnelling Protocol (SSTP)
 	- IKE v2 Protocol (IPSec, Tunnel Mode, IKE v2)
 
-### Point-to-Point Tunnelling Protocol (PPTP)
+#### Point-to-Point Tunnelling Protocol (PPTP)
 - **Description:**
 	- Offers PPP authentication techniques
 	- Encrypts data carried using Microsoft Point-to-Point Encryption (MPPE)
@@ -1069,22 +1069,36 @@
 	- PPTP is the easiest protocol to setup and most network devices support it
 	- Not a good solution for setting VPN channel that needs long or near permanent session
 
-### Layer Two Tunnelling Protocol (L2TP)
+#### Layer Two Tunnelling Protocol (L2TP)
 - **Description:**
 	- Works similarly to PPTP
 	- Uses Layer 2 Forwarding to enable forwarding on the basis of MAC addressing
 	- Uses IPSec for additional authentication and for data encryption
 
-### Secure Socket Tunnelling Protocol (SSTP)
+#### Secure Socket Tunnelling Protocol (SSTP)
 - **Description:**
 	- Uses PPP authentication techniques
 	- Encapsulates data packet in the HTTP used in web communications
 	- Uses SSL channel for secure communications
 	- **Explanation:**
 		- Data encryption technique employed between a server and client
-		- Now evolved in Transport Layer 
+		- Now evolved in Transport Layer Security (TLS)
+	- More secure than PPTP and L2TP
+- **Why is SSTP the most firewall-friendly VPN protocol?**
+	- Only needs port 443 to operate
 
+#### Internet Key Exchange Version 2 Protocol (IKE v2)
+- **Which ports does IKEv2 employ IPSec in tunnel mode protocol over?**
+	- UDP Port 500
+	- UDP Port 4500
+- **What encryption techniques are used for IKEv2?**
+	- AES-256, AES-192, AES-128, 3DES
+	- 3DES is not recommended
+- **What are the pros and cons of using IKEv2?**
 
+| Pros | Cons |
+| ---- | ---- |
+|      |      |
 
 
 
