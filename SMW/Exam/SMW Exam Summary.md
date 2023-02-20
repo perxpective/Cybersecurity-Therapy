@@ -1422,7 +1422,16 @@
 - Service receives the messages from the server
 	- Service decrypts the service ticket with its service secret key
 	- Service obtains the service session key
-	- Service uses the service session key to decrypt the 
+	- Service uses the service session key to decrypt the User Authenticator message
+	- Service ensures that the user IDs in the service ticket and the Authenticator match and compares the timestamps
+	- Checks that the service ticket has not expired
+- Service checks its cache and ensure that the Authenticator it just received is not already in the cache
+	- Otherwise, adds the Authenticator to its cache
+- Service creates its own Authenticator message and sends it to the user
+	- <u>Service Authenticator contains the following information:</u>
+		- Service Name/ID
+		- Timestamp
+- User receives the S
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
