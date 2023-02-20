@@ -1096,13 +1096,25 @@
 	- 3DES is not recommended
 - **What are the pros and cons of using IKEv2?**
 
-| Pros | Cons |
-| ---- | ---- |
-|      |      |
+| Pros                                                                                | Cons                                       |
+| ----------------------------------------------------------------------------------- | ------------------------------------------ |
+| Faster and extremely secure protocol                                                | Proprietary (Built-in VPN protocol)        |
+| Supports mobility (MOBIKE) and much more resilient to changing network connectivity | There are more open-source implementations |
+| Can switch between access points or wired to wireless connections                   | Support by some network devices vendors    |
 
+#### Table Summary of All Protocols
+| VPN Protocol | Encryption                                                       | Ports                       | Compatible with                  | Notes                                                                                                                                                                       |
+| ------------ | ---------------------------------------------------------------- | --------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PPTP         | MPPE with RC4 128-bit key                                        | 1723 TCP                    | Windows, Mac OS, iPhone, Android | PPTP widely used in VPN<br>Easy to setup<br>Less secure<br>Note considered for site-to-site VPN setup<br>Not recommended to be used for VPN session longer than a few hours |
+| L2TP         | IPSec with 3DES 168-bit key                                      | 500 UDP, 1701 UDP, 5500 UDP | Windows, Mac OS, Android         | Considered to be more secure than PPTP                                                                                                                                      |
+| SSTP         | SSL with AES 2048 bit key certificate 256 bit key for encryption | 443 TCP                     | Windows                          | Only use 443<br>Usually not blocked by firewalls, considered a very secured protocol                                                                                        |
+| IKEv2        | IPSec with AES 256 bit key                                       | 500 UDP, 4500 UDP           | Windows, Blackberry              | Considered to be a fast and extremely secure protocol, supports mobility (MOBIKE)                                                                                           |
 
-
-
+### Configuring a VPN Server
+- **What are the general steps to installing a VPN server?**
+	- Install Network Policy and Access Services role
+	- Configure Windows Server 2016 Server as a VPN server by configuring the right pro
+	- 
 
 
 
