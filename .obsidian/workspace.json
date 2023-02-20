@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e7c20a7283d873e6",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,13 +206,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57ac2acfddab567f",
+  "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
-    "SMW/Exam/SMW Exam Summary.md",
     "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+    "SMW/Exam/SMW Exam Summary.md",
+    "SC/SC Exam Cheat Sheet.md",
     "SMW/Theory/SMW Lecture 6 - Planning and Deploying Security for Network Communications.md",
     "SMW/Theory/SMW Lecture 7 - Planning and Deploying Public Key Infrastructure.md",
-    "SC/SC Exam Cheat Sheet.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",

@@ -1195,7 +1195,14 @@
 	- Enables clients to run session-based desktops, virtual desktops and software applications on Windows Server 2016 instead of at the client
 - **How do session-based desktops work?**
 	- Client accesses RDS server to run applications on the server during a connection session
-- **Virtual desktop**
+- **How do virtual desktops work?**
+	- Used in association with accessing virtual machines on the virtual server via Hyper-V
+	- Multiple virtual desktops can be in a pool of desktops for different purposes
+- **What types of remote access does Remote Desktop Connection offer that is not supposed by VPN?**
+	- Thin client connections
+	- Enables server admins to know the details of the remote client activities
+- **What are the three services that Windows Server 2016 RDS is used for?**
+	- Run applications on server insread of 
 
 ## Tutorial Revision Questions
 ### Lecture 4

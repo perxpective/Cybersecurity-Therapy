@@ -209,7 +209,7 @@
 > - Thin client connections
 > - Enables server administrators to know the details of the remote client activities
 
-- Windows Server 2016 RDDS are used for three broad services:
+- Windows Server 2016 RDS are used for three broad services:
 	- Run applications on a server instead of the client
 	- Support thin clients
 	- Centralize program access
