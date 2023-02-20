@@ -6,7 +6,7 @@
       {
         "id": "0b2ba6ba1455614c",
         "type": "tabs",
-        "dimension": 55.32258064516129,
+        "dimension": 41.37096774193548,
         "children": [
           {
             "id": "c0ce547614d9f40f",
@@ -14,8 +14,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
-                "mode": "preview",
+                "file": "SMW/Exam/SMW Exam Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "6420c7381e826c47"
+          }
+        ]
+      },
+      {
+        "id": "100c6dcd3ce9eeea",
+        "type": "tabs",
+        "dimension": 41.37096774193548,
+        "children": [
+          {
+            "id": "15cac932a9f5fcce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,69 +43,20 @@
         ]
       },
       {
-        "id": "a20c1678be26866b",
+        "id": "1342d184bcce9e08",
         "type": "tabs",
-        "dimension": 44.67741935483871,
+        "dimension": 17.258064516129032,
         "children": [
           {
-            "id": "f7d28e826c3c5672",
+            "id": "1a1d75e7dc41ff90",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "SC/SC Topic 9 - CSRF.md",
-                "mode": "preview",
-                "source": false
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
-            }
-          },
-          {
-            "id": "dba444eae29dee82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 8  - Authentication and Authorization.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e776aba7358ab2b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 7 - Preventing SQL Injections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c35f87b04f4e4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d383d6bfe91b6d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SC/SC Topic 5 - Logging.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "6420c7381e826c47"
           }
         ]
       }
@@ -153,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -180,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,15 +196,15 @@
   },
   "active": "c0ce547614d9f40f",
   "lastOpenFiles": [
-    "SC/SC Topic 9 - CSRF.md",
+    "SMW/Theory/SMW Lecture 8 - Remote Access Services.md",
+    "SMW/Exam/SMW Exam Summary.md",
     "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 5 - Logging.md",
     "SMW/Exam/SMW Exam AY2021-2022 Semester 2.md",
-    "SMW/MST Papers/SMW MST Summary.md",
-    "SMW/Theory/SMW Lecture 4 - Deploying and Managing DNS and Group Policy.md",
-    "SMW/Theory/SMW Lecture 5 - Planning and Deploying Patch Management.md"
+    "SMW/MST Papers/SMW MST Summary.md"
   ]
 }

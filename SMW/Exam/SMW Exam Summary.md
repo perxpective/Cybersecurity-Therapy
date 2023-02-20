@@ -1036,6 +1036,12 @@
 		- Other used to connect to external public network
 - **Process:**
 	- To create a tunnel, client must first connect to Internet by establishing a connection using the remote access protocol
+	- Once connected to the Internet, 
+
+
+
+
+
 
 
 ## Tutorial Revision Questions
