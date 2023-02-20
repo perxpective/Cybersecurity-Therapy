@@ -1463,7 +1463,14 @@
 - **How does the challenge-response protocol work in NTLMv2**
 	- Client sends a username to the server
 	- Server responds with a random number (challenge)
-	- Client generatets a 
+	- Client generates hashed password value from this challenge and the user's password and sends back to the server as a response
+	- Server sends the following three items to the domain controller
+		- Username
+		- Challenge sent to the client
+		- Response received from the client
+	- Domain controller uses the received user name to retrieve the user's password hash from the Security Account Manager (SAM) database
+	- It uses this password hash to encrypt the challenge
+	- Domain controller
 
 ### Kerberos vs NTLM
 - Kerberos is generally more secure than NTLM:
