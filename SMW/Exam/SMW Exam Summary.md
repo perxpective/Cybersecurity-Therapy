@@ -1375,7 +1375,18 @@
 	- Decrypts the message with the user's secret key (user's password is validated)
 	- User cannot decrypt the TGT because it does not have the TGS secret key
 - User creates two new messages and sends them to the TGS
-	- 
+	- <u>Message #1</u>
+		- Service Name/ID the user wants to access
+		- Requested lifetime for the service ticket
+	- <u>Message #2 - User Authenticator</u>
+		- User Name/ID
+		- Timestamp
+		- *Encrypted with the TGS session key*
+- TGS receives the messages from the client
+	- Views the service ID contained in the unencrypted message
+	- Checks to see if the service ID is in the list of services in the KDC
+	- If service is in the list
+
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
