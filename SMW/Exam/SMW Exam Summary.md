@@ -1352,7 +1352,11 @@
 3. User client decrypts the message with the user's secret key and creates new messages
 4. Client sends the new messages together with the TGT to the TGS
 5. TGS decrypts the TGT and performs validation and generates a service ticket
-6. Service 
+6. TGS sends the service ticket and another message back to the client
+7. User decrypts the message and creates a user authenticator message
+8. User sends the user authenticator and service ticket over to the service
+9. Service decrypts and validates the message and service ticket and sends a final authentication message back to the user
+10. This allows the user and server to mutually authenticate each other and securely distribute a symmetric service session key 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
