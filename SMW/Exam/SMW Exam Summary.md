@@ -1062,7 +1062,17 @@
 	- IKE v2 Protocol (IPSec, Tunnel Mode, IKE v2)
 
 ### Point-to-Point Tunnelling Protocol (PPTP)
+- **Description:**
+	- Offers PPP authentication techniques
+	- Encrypts data carried using Microsoft Point-to-Point Encryption (MPPE)
 
+### Layer Two Tunnelling Protocol (L2TP)
+- **Description:**
+	- Works similarly to PPTP
+	- Uses Layer 2 Forwarding to enable forwarding on the basis of MAC addressing
+	- Uses IPSec for additional authentication and for data encryption
+- **What are some things to take note of when implementing remote access protocols?**
+	- PPTP is the easiest protocol to setup and mo
 
 
 
