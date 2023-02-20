@@ -1391,8 +1391,20 @@
 	- Both the TGT and User Authenticator are decrypted
 	- TGS ensures that the user ID in the TGT and the User Authenticator matches and compares the timestamps
 	- Kerberos is designed to tolerate timestamp differences of up to 2 minutes
-	- 
-
+	- Checks if the TGT has not expired
+- TGS maintains a cache of a recently received authenticator from users
+	- Checks with the cache if the Authenticator received by the user is not already in the cache (replay protection)
+	- If not, TGS adds the Authenticator to the cache
+- TGS creates its own message and a service ticket to send to the client user:
+	- <u>Message #1</u>
+		- Service Name/ID
+		- Timestamp of message
+		- Lifetime of message
+	- <u>Service Ticket containing the following information:</u>
+		- User Name/ID
+		- Service Name/ID
+		- Timestamp of ticket
+		- 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
