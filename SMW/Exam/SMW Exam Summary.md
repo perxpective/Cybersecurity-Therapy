@@ -1355,14 +1355,14 @@
 - AS looks at the user ID in the message
 	- AS in the KDC has a list of all the users and their secret keys
 	- Checks if the user ID in the message is in the list of users in the KDC
-	- Retrieves the copy of that user's secret client key
+	- Retrieves the copy of that user's secret key
 - AS crafts a message and a TGT and sends it back to the client
 	- <u>Message contains the following information:</u>
 		- TGS Name/ID
 		- Timestamp the message was created
 		- Message lifetime
 		- **TGS session key**
-		- *Encrypted with secret client k*
+		- *Encrypted with user's secret key*
 	- <u>TGT contains the following information:</u>
 		- User Name/ID
 		- TGS Name/ID
@@ -1370,7 +1370,12 @@
 		- User IP address
 		- Lifetime for TGT
 		- **TGS session key**
-- 
+		- *Encrypted with TGS secret key*
+- Client receives the message and TGT from the AS
+	- Decrypts the message with the user's secret key (user's password is validated)
+	- User cannot decrypt the TGT because it does not have the TGS secret key
+- User creates two new messages and sends them to the TGS
+	- 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
