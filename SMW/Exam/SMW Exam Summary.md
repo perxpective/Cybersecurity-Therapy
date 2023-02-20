@@ -1295,9 +1295,18 @@
 	- Man-in-the-middle attacks
 	- Replay attacks
 - **What are the benefits to using Kerberos authentication?**
-	- **Access control:** single point to keep track of logins and security policy enforcement
-	- **Limited lifetime for key tickets:** each Kerberos ticket has a timestamp, lifetime data and authentication duration controlled by administrators
-	- **Mutual authentication:** service systems can users 
+	- **Access Control:**
+		- Single point to keep track of logins and security policy enforcement
+	- **Limited Lifetime for Key Tickets:** 
+		- Each Kerberos ticket has a timestamp, lifetime data and authentication duration controlled by administrators
+	- **Mutual Authentication:**
+		- Service systems and users can authenticate each other
+	- **Reusable Authentication:**
+		- Requires each user to get verified by the system just once
+		- As long as ticket is in effect, user does not need to keep entering personal information for authentication
+	- **Strong and Diverse Security Measures:**
+		- Employs cryptography, multiple secret keys, third-party authorization to create a strong secure defense
+		- Passwords are not sent over networks and secret keys are encrypted
 
 ### NTLM
 
