@@ -1332,7 +1332,7 @@
 	- **Key Distribution Centre (KDC)**
 		- Consists of the database, authentication server (AS) and the Ticket Granting Server (TGS)
 
-**Process:**
+**Process: (CompTIA+)**
 1. Client sends a request to the AS. Date and time is encrypted on the local computer and client's password hash is the key.
 2. AS receives authentication request and decrypts it with client's password hash. Ensures that the timeframe encrypted is within a 5 minute timeframe.
 3. If authentication is successful, AS sends back a TGT (contains the client name, IP address, timestamp and validity period of maximum 10 hours). TGT is also encrypted with the KDC secret key.
@@ -1346,6 +1346,13 @@
 11. Application server also respond with timestamp encrypted with service session key and client can decrypt and compare
 12. Application server responds to client requests
 
+**Process 2 (Destination Certification)**
+
+
+**Process 3 (ChatGPT)**
+
 
 ### NTLM
 
+
+### Kerberos vs NTLM
