@@ -1332,21 +1332,8 @@
 	- **Key Distribution Centre (KDC)**
 		- Consists of the database, authentication server (AS) and the Ticket Granting Server (TGS)
 
-**Process: (CompTIA+)**
-1. Client sends a request to the AS. Date and time is encrypted on the local computer and client's password hash is the key.
-2. AS receives authentication request and decrypts it with client's password hash. Ensures that the timeframe encrypted is within a 5 minute timeframe.
-3. If authentication is successful, AS sends back a TGT (contains the client name, IP address, timestamp and validity period of maximum 10 hours). TGT is also encrypted with the KDC secret key.
-4. Returns the TGS session key to encrypt communication between client and TGS (encrypted with user's password hash) 
-5. Client sends a copy of the TGT and the name of the application server it wants to access (include the timestamped client ID encrypted with TGS session key)
-6. TGS returns to the client the service session key to use to access the application server (encrypted with TGS session key)
-7. TGS also returns a service ticket containing user information and service session key (encrypted with the application server secret key)
-8. Client sends to application server the encrypted service ticket and another timestamped authenticator (encrypted with service session key)
-9. Application server decrypts the service ticket to confirm the message is untampered
-10. Application server decrypts authenticator with service session key
-11. Application server also respond with timestamp encrypted with service session key and client can decrypt and compare
-12. Application server responds to client requests
 
-**Process 2 (Destination Certification)**
+**Process (Destination Certification)**
 1. Client user sends an unencrypted request to the AS to access a service
 2. AS validates the request and generates a TGT, sent back encrypted with the user's secret key
 3. User client decrypts the message with the user's secret key and creates new messages
@@ -1357,6 +1344,9 @@
 8. User sends the user authenticator and service ticket over to the service
 9. Service decrypts and validates the message and service ticket and sends a final authentication message back to the user
 10. This allows the user and server to mutually authenticate each other and securely distribute a symmetric service session key 
+
+**Detailed Process:**
+- 
 
 **Process 3 (ChatGPT)**
 1. Client sends a request to the AS for a TGT (encrypted with user's password and shared secret key)
