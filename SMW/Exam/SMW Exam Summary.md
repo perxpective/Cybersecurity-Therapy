@@ -597,10 +597,12 @@
 | Both the header and data need to be protected while data is encrypted                        | AH and ESP | Use for the highest security and if possible, use ESP alone instead                                                                                               |
 
 #### IPSec Packets
-- **AH Transport Mode**
+**AH Transport Mode**
+
 ![](https://i.imgur.com/ICxKYpV.png)
 
 **ESP Transport Mode**
+
 ![](https://i.imgur.com/78ZapBF.png)
 
 - **Reasons for using tunnel mode:**
@@ -613,9 +615,11 @@
 | Encapsulate IP packet by placing an AH header between internal IP header and external IP header | IP packet is the first encapsulated with an ESP header then the result is encapsulated with an additional IP header |
 
 **AH Tunnel Mode**
+
 ![](https://i.imgur.com/syCbZbu.png)
 
 **ESP Tunnel Mode**
+
 ![](https://i.imgur.com/suPGkMv.png)
 
 ### Deploying IPSec Policies
