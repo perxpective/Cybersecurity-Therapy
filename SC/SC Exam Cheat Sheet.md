@@ -213,8 +213,8 @@ var string = key.update(stringToEncrypt, 'utf8', 'hex')
 string += key.final('hex')
 
 // password decryption
-var key = crypto.createDecipher('aes-128-cbc', 'password'); 
-var string = key.update(stringtoDecrypt, 'hex', 'utf8') string += key.final('utf8');
+var key = crypto.createDecipher('aes-128-cbc', 'password')
+var string = key.update(stringtoDecrypt, 'hex', 'utf8') string += key.final('utf8')
 ```
 
 ## CSRF
