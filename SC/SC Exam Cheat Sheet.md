@@ -264,7 +264,7 @@ app.get("/csrfgettoken", csrfProtection.function(req, res) => {
 
 // generating csrf tokens for modifying data
 app.post("/csrfmodifydata", csrfProtection.function(req, res) {
-	// write code to modify data accordingly
-	res.send("success!")
+    // write code to modify data accordingly
+    res.send("success!")
 })
 ```
