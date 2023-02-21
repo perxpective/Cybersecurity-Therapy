@@ -1468,13 +1468,13 @@
 - Variable length challenge of timestamp, random data and domain name
 - **How does the challenge-response protocol work in NTLMv2**
 	- Client sends a username to the server
-	- Server responds with a random number (challenge)
-	- Client generates hashed password value from this challenge and the user's password and sends back to the server as a response
+	- Server responds with a random nonce (challenge)
+	- Client generates hashed password value from this challenge and the user's password using HMAC-SHA256 and sends back to the server as a response
 	- Server sends the following three items to the domain controller
 		- Username
 		- Challenge sent to the client
 		- Response received from the client
-	- Domain controller uses the received user name to retrieve the user's password hash from the Security Account Manager (SAM) database
+		- Domain controller uses the received user name to retrieve the user's password hash from the Security Account Manager (SAM) database
 	- It uses this password hash to encrypt the challenge
 	- Domain controller compares the encrypted challenge it computed with the response computed by the client
 	- If they are identical, authentication is successful
@@ -1489,4 +1489,5 @@
 	- Modify the following group policies:
 		- <u>Interactive logon: Number of previous logons to cache (in case domain controller is not available)</u>
 			- Set the value to 0 to disable the caching of logons
-		- Network security: LAN Manager authentication level. Choose the option Send NTLMv2 response only, refuse LM and NTLM
+		- <u>Network security: LAN Manager authentication level</u>
+			- Choose the option Send NTLMv2 response only, refuse LM and NTLM
