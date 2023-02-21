@@ -1449,7 +1449,7 @@
 4. TGS authenticates the user by decrypting the TGT and verifying that the user is authorised to access the requested application service
 5. If user is authorised, TGS issues service ticket to client
 6. Client forwards service ticket to the desired application resource
-7. Application server authenticates user by decrypting the service ticket and verifying that the suer is authorised to access the application service
+7. Application server authenticates user by decrypting the service ticket and verifying that the user is authorised to access the application service
 8. If user is authorised, application server grants access to the user
 9. TGT and service ticket have an expiration time after which they cannot be used to access the application server
 
