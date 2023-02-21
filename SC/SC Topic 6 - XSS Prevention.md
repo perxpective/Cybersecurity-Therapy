@@ -29,12 +29,13 @@
 ### Useful Predefined Classes
 | Expression | Character                        |
 | ---------- | -------------------------------- |
-| `.`        | Digit \[0-9\]                    |
-| `\d`       | Non-digit \[^0-9\]               |
+| `.`        | Any character                                 |
+| `\d`       | Digit \[0-9\]                    |
+| `\D`       | Non-digit \[^0-9\]               |
 | `\s`       | Whitespace character             |
 | `\S`       | Non-whitespace character \[^/s\] |
 | `\w`       | Word character \[a-zA-Z_0-9\]    |
-| `\W`       | Non-word character \[^\\w\]                                 |
+| `\W`       | Non-word character \[^\\w\]      |
 
 ### Logical Operators
 | Expression | Meaning                |
