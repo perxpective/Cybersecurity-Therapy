@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md"
+                "file": "SC/SC Exam Cheat Sheet.md"
               }
             }
           },
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +157,7 @@
   },
   "active": "e54b6aecaa7c2451",
   "lastOpenFiles": [
+    "SMW/Exam/SMW Exam Summary.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Exam Cheat Sheet.md",
     "SC/SC MST Cheat Sheet.md",
@@ -167,7 +166,6 @@
     "SC/SC Topic 8  - Authentication and Authorization.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 6 - XSS Prevention.md",
-    "SC/SC Topic 5 - Logging.md",
-    "SMW/Exam/SMW Exam Summary.md"
+    "SC/SC Topic 5 - Logging.md"
   ]
 }
