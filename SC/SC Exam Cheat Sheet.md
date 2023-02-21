@@ -37,6 +37,24 @@ var appLogStream = rfs.createStream('access.log', {
 app.use(morgan("combined", { stream: appLogStream }))
 ```
 
+**Pre-Defined Tokens Table**
+
+| Token          | Value                                                                                                                 |
+| -------------- | --------------------------------------------------------------------------------------------------------------------- |
+| :date          | Current date and time in UTC                                                                                          |
+| :http-version  | HTTP version of request                                                                                               |
+| :method        | HTTP method of request                                                                                                |
+| :referrer      | Referrer header of request                                                                                            |
+| :remote-addr   | Remote IP address of request                                                                                          |
+| :remote-user   | User authenticated as part of basic authentication for request                                                        |
+| :req\[header\] | Given header of the request                                                                                           |
+| :res\[header\] | Given header of the response                                                                                          |
+| :response-time | Time between request coming into Morgan and when response headers are written in milliseconds                         |
+| :status        | Status code of response                                                                                               |
+| :total-time    | Time between request coming into Morgan and when response is finished being written out to connection in milliseconds |
+| :url           | URL of request                                                                                                        |
+| :user-agent    | Contents of User-Agent header of request                                                                              |
+
 ## Regular Expressions
 ```js
 // check regex
@@ -81,7 +99,7 @@ Here's a breakdown of the regular expression:
 ```js
 // using validator
 var validator = require("validator")
-function validateRegistration(req, res ,next) {
+function validateRegistration(req, res, next) {
     var username = req.body.username
     var email = req.body.email
     var role = req.body.role
