@@ -969,7 +969,7 @@
 #### Configuration of Client for SSL Certificates
 - **What information is typically contained in a client certificate?**
 	- Identity of user
-	- Identify of CA
+	- Identity of CA
 	- Public key used for establishing encrypted communication
 	- Validation information e.g. expiration date and serial number
 - **How to protect web content from unauthorised access?**
