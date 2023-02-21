@@ -171,7 +171,7 @@ app.post("/login", (req, res) => {
 
 // authentication middleware
 function verifyToken(req, res, next) {
-    const authHeader = req.headers.authorization
+    let authHeader = req.headers.authorization
     if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
     const token = authHeader.replace('Bearer ', '')
     jwt.verify(token, config.jwt.secret, { algorithms: ['H256'] }, (err, decoded) => {
