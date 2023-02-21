@@ -1207,7 +1207,7 @@
 	- Enables server admins to know the details of the remote client activities
 - **What are the three services that Windows Server 2016 RDS is used for?**
 	- Run applications on server instead of client
-	- Support think clients
+	- Support thin clients
 	- Centralise program access
 - **What are thin clients?**
 	- Downsized PCs with minimal Windows-based OSs accessing a Windows Server 2016 so that most CPU-intensive operations are performed on the server
