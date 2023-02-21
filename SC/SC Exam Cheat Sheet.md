@@ -202,7 +202,7 @@ bcrypt.hash(password, saltRounds, (err, hash) => {
     ...
 })
 
-bcrypt.compare(password, passwordHash, (err, sucess) => {
+bcrypt.compare(password, passwordHash, (err, success) => {
     ...
 })
 
