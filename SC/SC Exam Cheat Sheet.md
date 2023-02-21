@@ -254,8 +254,9 @@ verifySession: (req, res, next) => {
 
 // generating csrf tokens csurf
 var csrf = require("csurf")
+
 var csrfProtection = csrf()
-app.get("/csrfgettoken", csrfProtection.function(req, res) => {
+app.get("/csrfgettoken", csrfProtection, (req, res) => {
     var csrfToken = req.csrfToken()
     res.status(200).send(`{"csrfToken":"${csrfToken}$"}`)
     ...
@@ -263,7 +264,7 @@ app.get("/csrfgettoken", csrfProtection.function(req, res) => {
 })
 
 // generating csrf tokens for modifying data
-app.post("/csrfmodifydata", csrfProtection.function(req, res) {
+app.post("/csrfmodifydata", csrfProtection, (req, res) => {
     // write code to modify data accordingly
     res.send("success!")
 })
