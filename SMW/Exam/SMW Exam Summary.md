@@ -1315,9 +1315,11 @@
 		- Employs cryptography, multiple secret keys, third-party authorization to create a strong secure defense
 		- Passwords are not sent over networks and secret keys are encrypted
 - **What information does a Ticket Granting Ticket (TGT) contain?**
-	- Client name
-	- IP address
-	- Timestamp
+	- User ID
+	- Source IP address
+	- Expiration date of the ticket
+	- TGS name and ID
+	- TGS session key
 
 ### Kerberos Process
 - **Components of Kerberos:**
