@@ -1485,3 +1485,6 @@
 	- Kerberos uses one-way hash to protect user passwords while NTLM uses two-way hash
 	- Kerberos uses mutual authentication so that client and server can authenticate each other while NTLM provides one-way authentication
 	- Kerberos support single sign-on (SSO) allowing users to log in once and access resources without re-entering their credentials while NTLM does not support SSO
+- **How to make the KDC use NTLMv2 instead of Kerberos?**
+	- Modify the following group policies:
+		- 
