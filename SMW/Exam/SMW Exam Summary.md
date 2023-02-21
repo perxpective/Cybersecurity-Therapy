@@ -1487,4 +1487,6 @@
 	- Kerberos support single sign-on (SSO) allowing users to log in once and access resources without re-entering their credentials while NTLM does not support SSO
 - **How to make the KDC use NTLMv2 instead of Kerberos?**
 	- Modify the following group policies:
-		- 
+		- <u>Interactive logon: Number of previous logons to cache (in case domain controller is not available)</u>
+			- Set the value to 0 to disable the caching of logons
+		- Network security: LAN Manager authentication level. Choose the option Send NTLMv2 response only, refuse LM and NTLM
