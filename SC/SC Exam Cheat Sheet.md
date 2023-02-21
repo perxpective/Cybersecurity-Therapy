@@ -129,12 +129,12 @@ conn.query(sql, [userid, role], (err, result) => {
 ## Authentication and Authorisation
 ```js
 // login controller
-app.post("/", (req, res) => {
+app.post("/login", (req, res) => {
     let { username, password } = req.body
     user.verifyLogin(username, password, (err, result) => {
         if (err) return res.status(500).send({"message":"an error occurred"})
         if (!result) return res.status(401).send({"message":"user not authenticated"})
-        jwt.sign(user, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
+        jwt.sign(result, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
             if (err) return res.status(500).send({"message": "an error occurred"})
             res.status(200).send({ token })
         })
@@ -143,7 +143,6 @@ app.post("/", (req, res) => {
 
 // authentication middleware
 function verifyToken(req, res, next) {
-    let auth = req.headers.authorization
     const authHeader = req.headers.authorization
     if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
     const token = authHeader.replace('Bearer ', '')
