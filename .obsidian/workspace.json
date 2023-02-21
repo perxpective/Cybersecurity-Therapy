@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md"
+                "file": "SMW/Exam/SMW Exam Summary.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Exam Cheat Sheet.md",
+                "file": "SMW/Exam/SMW Exam Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,8 +169,8 @@
   },
   "active": "e54b6aecaa7c2451",
   "lastOpenFiles": [
-    "SC/SC Topic 5 - Logging.md",
     "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 5 - Logging.md",
     "SMW/Exam/SMW Exam Summary.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC MST Cheat Sheet.md",
