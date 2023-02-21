@@ -63,7 +63,7 @@ if (pattern.test(userinput)) {
 [a-zA-Z0-9]+
 
 # email validation (allows underscores and periods)
-^[a-zA-Z0-9._]+@.\.[a-z]+$
+^[a-zA-Z0-9._]+@[a-z]+\.[a-z]+$
 
 # password check
 ^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$
