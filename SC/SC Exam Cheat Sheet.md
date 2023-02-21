@@ -10,7 +10,6 @@
 
 ```js
 // using morgan
-
 var morgan = require('morgan')
 
 // using pre-defined format
@@ -54,6 +53,16 @@ app.use(morgan("combined", { stream: appLogStream }))
 | :total-time    | Time between request coming into Morgan and when response is finished being written out to connection in milliseconds |
 | :url           | URL of request                                                                                                        |
 | :user-agent    | Contents of User-Agent header of request                                                                              |
+
+**Pre-Defined Log Formats**
+
+| Token    | Value                                            |
+| -------- | ------------------------------------------------ |
+| combined | Apache standard combined format                  |
+| common   | Apache standard common format                    |
+| dev      | Color-coded log format by request status         |
+| short    | Shorter than default format                      |
+| tiny     | Even shorter, just response time and a few items |
 
 ## Regular Expressions
 ```js
