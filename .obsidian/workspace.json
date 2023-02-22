@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "SC/SC Exam Cheat Sheet.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -170,10 +170,10 @@
   },
   "active": "7775a97926525bcc",
   "lastOpenFiles": [
-    "SC/SC Topic 9 - CSRF.md",
-    "SC/SC Topic 6 - XSS Prevention.md",
     "SMW/Exam/SMW Exam Summary.md",
     "SC/SC Exam Cheat Sheet.md",
+    "SC/SC Topic 9 - CSRF.md",
+    "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC MST Cheat Sheet.md",
     "SC/SC Topic 3 -  XSS.md",

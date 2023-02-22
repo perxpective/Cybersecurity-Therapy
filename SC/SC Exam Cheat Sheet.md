@@ -162,7 +162,7 @@ app.post("/login", (req, res) => {
     user.verifyLogin(username, password, (err, result) => {
         if (err) return res.status(500).send({"message":"an error occurred"})
         if (!result) return res.status(401).send({"message":"user not authenticated"})
-        jwt.sign(result, config.jwt.secret, {algorithm: "H256"}, (err, token) => {
+        jwt.sign(result, config.jwt.secret, {algorithm: "HS256"}, (err, token) => {
             if (err) return res.status(500).send({"message": "an error occurred"})
             res.status(200).send({ token })
         })
@@ -174,7 +174,7 @@ function verifyToken(req, res, next) {
     let authHeader = req.headers.authorization
     if (!authHeader || !authHeader.startsWith('Bearer ')) return res.status(401).send({ message: 'not authenticated' });
     const token = authHeader.replace('Bearer ', '')
-    jwt.verify(token, config.jwt.secret, { algorithms: ['H256'] }, (err, decoded) => {
+    jwt.verify(token, config.jwt.secret, { algorithms: ['HS256'] }, (err, decoded) => {
         if (err) return res.status(401).send({ message: 'not authenticated' })
         req.decodedToken = decoded
         next()
