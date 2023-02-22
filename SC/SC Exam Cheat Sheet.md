@@ -240,7 +240,7 @@ req.session.role = role
 req.session.username = username
 
 // destroying a session
-req.session.destroy
+req.session.destroy()
 
 // check user roles
 verifySession: (req, res, next) => {
