@@ -1,4 +1,4 @@
-	# SMW Exam Summary
+# SMW Exam Summary
 
 ###### tags: #SMW 
 
@@ -1469,7 +1469,7 @@
 - **How does the challenge-response protocol work in NTLMv2**
 	- Client sends a username to the server
 	- Server responds with a random nonce (challenge)
-	- Client generates hashed password value from this challenge and the user's password using HMAC-SHA256 and sends back to the server as a response
+	- Client encrypts the challenge with the password hash value from this challenge and the user's password using HMAC-SHA256 and sends back to the server as a response
 	- Server sends the following three items to the domain controller
 		- Username
 		- Challenge sent to the client
