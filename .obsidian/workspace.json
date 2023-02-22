@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
-                "mode": "source",
+                "file": "SC/SC Exam Cheat Sheet.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1dc156175492f39b",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md"
+                "file": "SC/SC Exam Cheat Sheet.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Exam Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,13 +168,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e54b6aecaa7c2451",
+  "active": "7775a97926525bcc",
   "lastOpenFiles": [
+    "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SMW/Exam/SMW Exam Summary.md",
     "SC/SC Exam Cheat Sheet.md",
     "SC/SC Topic 5 - Logging.md",
-    "SC/SC Topic 9 - CSRF.md",
     "SC/SC MST Cheat Sheet.md",
     "SC/SC Topic 3 -  XSS.md",
     "SC/SC Topic 4 - SQL Injection.md",
