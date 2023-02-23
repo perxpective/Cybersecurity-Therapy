@@ -323,8 +323,7 @@
 > 2. Determine whether security update is available for download
 > 3. Obtain the required update files
 > 4. Create the update package
-> 5. Test the package
-> 6. Test the update
+> 5. Test the update package
 > 7. Roll out the deployment
 
 - **Explain how to deploy an update.**
