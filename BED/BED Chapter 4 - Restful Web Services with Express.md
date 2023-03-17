@@ -6,8 +6,6 @@
 ```toc
 ```
 
-[toc]
-
 ## Express
 - Supports various middleware modules
 - When server requests for data, Express provides request object with information about user and data they sent in request
