@@ -20,6 +20,36 @@
             }
           },
           {
+            "id": "389e4464963400d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "1c970efa2f0045aa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "aa708d2a4ad9be30",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "7775a97926525bcc",
             "type": "leaf",
             "state": {
@@ -31,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e54b6aecaa7c2451",
+  "active": "aa708d2a4ad9be30",
   "lastOpenFiles": [
     "SC/SC Exam Cheat Sheet.md",
     "SMW/Exam/SMW Exam Summary.md",
