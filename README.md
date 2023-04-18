@@ -5,7 +5,7 @@
 Welcome to Cybersecurity Therapy, your place of comfort after another typical day of BS from DISM! You can cry, weep and mug in my little safe repository where I sacrifice my blood, sweat, tears (and sleep :D) to create notes that are highly useful for my (and your) own survival in DISM (and to get a decent GPA)
 
 ## Q: What modules are featured here?
-### ST0503 Back-End Web Development (BED)
+### [ST0503 Back-End Web Development (BED)](/BED)
 Aim to equip students with the skill in developing database driven web application. Students will learn about server-side programming and be able to create-database-driven web applications using a scripting language and programming frameworks.
 
 ### ST2514 Digital Forensics and Investigation (DFI)
