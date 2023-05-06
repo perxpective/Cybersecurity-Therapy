@@ -5,22 +5,22 @@
 Welcome to Cybersecurity Therapy, your place of comfort after another typical day of BS from DISM! You can cry, weep and mug in my little safe repository where I sacrifice my blood, sweat, tears (and sleep :D) to create notes that are highly useful for my (and your) own survival in DISM (and to get a decent GPA)
 
 ## Q: What modules are featured here?
-### ST0503 Back-End Web Development (BED)
+### [ST0503 Back-End Web Development (BED)](/BED)
 Aim to equip students with the skill in developing database driven web application. Students will learn about server-side programming and be able to create-database-driven web applications using a scripting language and programming frameworks.
 
-### ST2514 Digital Forensics and Investigation (DFI)
+### [ST2514 Digital Forensics and Investigation (DFI)](/DFI)
 Equips students with the fundamental concepts and techniques of computer and mobile forensics. Students will learn to acquire, analyse and present both computer and mobile data as evidence. This module will cover tools and techniques of computer and mobile forensics, data recovery, imaging and storage of electronic evidence.
 
-### ST2515 Secure Coding (SC)
+### [ST2515 Secure Coding (SC)](/SC)
 This module covers the concepts and fundamentals of secure coding principles, and techniques to prevent security vulnerabilities in web applications. Through a series of hacking and coding practical exercises, students will learn the implications of insecure code in applications and subsequently how to defend their web applications against potential hackers by coding securely.
 
-### ST251Z Ethical Hacking and Defences (EHD)
+### [ST251Z Ethical Hacking and Defences (EHD)](/EHD)
 Provides students with a foundation on network protocols, network security, secure coding and penetration testing to protect computer resources. Students are taught offensive and defensive skills for the organisation’s wired and wireless networks in order to protect important assets against hackers.
 
-### ST2610 Security Policy and Incident Management (SPIM)
+### [ST2610 Security Policy and Incident Management (SPIM)](/SPIM)
 This module equips students with the fundamental concepts and techniques of security policy and incident management. Students will learn the essentials of security policy development, risk assessments and security models. Students will also learn to monitor security events, perform network forensics analysis and proactive detection of attacks, and be introduced to security incident response.
 
-### ST2612 Securing Microsoft Windows (SMW)
+### [ST2612 Securing Microsoft Windows (SMW)](/SMW)
 Aims at equipping the students with hands-on knowledge in securing and hardening a Windows operating system. The course will cover the security mechanism used in the operating system, configuring different levels of security measures, best practices and security related tools and utilities.
 
 ## Q: Where are your Year 1 Notes?
