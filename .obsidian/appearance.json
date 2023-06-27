@@ -1,9 +1,9 @@
 {
-  "interfaceFontFamily": "Segoe UI Emoji,SF Pro Display,Inter",
-  "textFontFamily": "Segoe UI,Segoe UI Emoji,SF Pro Display,Inter",
+  "interfaceFontFamily": "Inter,Segoe UI Emoji",
+  "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "Things",
-  "baseFontSize": 22,
+  "baseFontSize": 20,
   "theme": "obsidian",
   "translucency": false,
   "accentColor": "#4ac970",
