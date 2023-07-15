@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md"
+                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,15 +178,15 @@
   },
   "active": "b5c4857093e1a630",
   "lastOpenFiles": [
+    "BED/BED Chapter 5 - Databases.md",
+    "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
     "SC/SC Topic 4 - SQL Injection.md",
     "SC/SC Topic 5 - Logging.md",
     "SC/SC Exam Cheat Sheet.md",
     "SC/SC MST Cheat Sheet.md",
-    "BED/BED Chapter 5 - Databases.md",
     "SMW/Exam/SMW Exam Summary.md",
     "SC/SC Topic 9 - CSRF.md",
-    "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 3 -  XSS.md",
     "SC/SC Topic 8  - Authentication and Authorization.md"
   ]
