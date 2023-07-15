@@ -33,6 +33,7 @@ morgan(format, options)
 ```
 
 ### Pre-Defined Tokens
+
 | Token          | Value                                                                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------------------------------- |
 | :date          | Current date and time in UTC                                                                                          |
@@ -50,6 +51,7 @@ morgan(format, options)
 | :user-agent    | Contents of User-Agent header of request                                                                              |
 
 ### Pre-Defined Log Formats
+
 | Token    | Value                                            |
 | -------- | ------------------------------------------------ |
 | combined | Apache standard combined format                  |

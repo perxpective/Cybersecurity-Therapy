@@ -2,7 +2,7 @@
   "interfaceFontFamily": "Inter,Segoe UI Emoji",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "Things",
+  "cssTheme": "",
   "baseFontSize": 20,
   "theme": "obsidian",
   "translucency": false,

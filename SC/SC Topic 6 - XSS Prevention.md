@@ -27,6 +27,7 @@
 - `[^0-9]` - match a single character except those specified in brackets
 
 ### Useful Predefined Classes
+
 | Expression | Character                        |
 | ---------- | -------------------------------- |
 | `.`        | Any character                                 |
@@ -38,6 +39,7 @@
 | `\W`       | Non-word character \[^\\w\]      |
 
 ### Logical Operators
+
 | Expression | Meaning                |
 | ---------- | ---------------------- |
 | XY         | X followed by Y        |

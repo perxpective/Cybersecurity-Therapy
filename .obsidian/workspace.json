@@ -20,27 +20,19 @@
             }
           },
           {
-            "id": "fc59759695c3ece1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
-          },
-          {
             "id": "b5c4857093e1a630",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md"
+                "file": "SC/SC Topic 6 - XSS Prevention.md"
               }
             }
           },
@@ -141,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMW/Exam/SMW Exam Summary.md",
+                "file": "SC/SC Topic 6 - XSS Prevention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +178,16 @@
   },
   "active": "b5c4857093e1a630",
   "lastOpenFiles": [
+    "SC/SC Topic 7 - Preventing SQL Injections.md",
+    "SC/SC Topic 4 - SQL Injection.md",
+    "SC/SC Topic 5 - Logging.md",
     "SC/SC Exam Cheat Sheet.md",
+    "SC/SC MST Cheat Sheet.md",
+    "BED/BED Chapter 5 - Databases.md",
     "SMW/Exam/SMW Exam Summary.md",
     "SC/SC Topic 9 - CSRF.md",
     "SC/SC Topic 6 - XSS Prevention.md",
-    "SC/SC Topic 5 - Logging.md",
-    "SC/SC MST Cheat Sheet.md",
     "SC/SC Topic 3 -  XSS.md",
-    "SC/SC Topic 4 - SQL Injection.md",
-    "SC/SC Topic 8  - Authentication and Authorization.md",
-    "SC/SC Topic 7 - Preventing SQL Injections.md"
+    "SC/SC Topic 8  - Authentication and Authorization.md"
   ]
 }
