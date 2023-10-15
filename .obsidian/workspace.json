@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d2df674b294e447",
+        "id": "52096b51f0a740db",
         "type": "tabs",
         "children": [
           {
-            "id": "e54b6aecaa7c2451",
+            "id": "77c5a8d435aa2485",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BED/BED Chapter 4 - Restful Web Services with Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,11 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e54b6aecaa7c2451",
+  "active": "77c5a8d435aa2485",
   "lastOpenFiles": [
+    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "BED/BED Chapter 7 - Authentication and Authorization.md",
     "SMW/Exam/SMW Exam Summary.md",
-    "BED/BED Chapter 4 - Restful Web Services with Express.md",
     "BED/BED Chapter 5 - Databases.md",
     "SC/SC Topic 6 - XSS Prevention.md",
     "SC/SC Topic 7 - Preventing SQL Injections.md",
