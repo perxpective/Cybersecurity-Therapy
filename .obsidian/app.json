@@ -20,9 +20,7 @@
   "newFileLocation": "current",
   "foldIndent": true,
   "foldHeading": true,
-  "spellcheckLanguages": [
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "communityThemeSortOrder": "download",
   "spellcheckDictionary": [
     "Securable"
