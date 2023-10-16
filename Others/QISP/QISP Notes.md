@@ -19,6 +19,8 @@
 - Deliver services according to relevant professional standards
 - Support professional development of the profession
 
+Write an emojified 
+
 ### Ethics in Information Security
 - People - important aspect in of IS Governance
 - IS Professionals trusted with **safeguarding IT infrastructure** and **organisation's information assets**
