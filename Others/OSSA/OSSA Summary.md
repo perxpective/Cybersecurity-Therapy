@@ -1,7 +1,7 @@
 # OSSA Summary
 
 ## Description
-Useful notes and summaries for the Organisational System Security Analyst (OSSA) Certification
+Useful notes and summaries for the Organisational System Security Analyst (OSSA) Certification.
 
 ## Table of Contents
 ```toc
