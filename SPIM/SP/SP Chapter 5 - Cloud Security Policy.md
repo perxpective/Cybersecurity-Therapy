@@ -33,7 +33,7 @@
 	- Measured Service
 
 ## Drives for Cloud Adoption
-- Cost Management (OPEX vs CAPEX)
+[- Cost Management (OPEX vs CAPEX)
 - Risk Reduction (e.g. Testing before commitment)
 - Elasticity (Consumption-based Pricing)
 - Business Agility and Mobility
@@ -41,7 +41,7 @@
 - Business Continuity
 - Collaboration and Innovation Platform
 - Green IT
-- Simplicity, Expandability and Elasticity
+- Simplicity, Expandability and Elasticity]()
 
 ## Cloud Service Models
 ### Infrastructure-as-a-Service (IaaS)
