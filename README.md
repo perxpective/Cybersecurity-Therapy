@@ -1,8 +1,6 @@
 # Cybersecurity Therapy
 ## Important Note
-> This repository contains notes from the former Diploma in Infocomm Security Management (DISM). The modules covered here may be outdated or obsolete in view of the rebrand of the course to Diploma in Cybersecurity and Digital Forensics (DCDF). Please 
-
-Welcome to Cybersecurity Therapy, your place of comfort after another typical day of BS from DISM! You can cry, weep and mug in my little safe repository where I sacrifice my blood, sweat, tears (and sleep :D) to create notes that are highly useful for my (and your) own survival in DISM (and to get a decent GPA)
+> This repository contains notes from the former Diploma in Infocomm Security Management (DISM). The modules covered here may be outdated, obsolete or revised in view of the rebrand of the course to Diploma in Cybersecurity and Digital Forensics (DCDF). Please refer to other resources that may contain more up-to-date information and make use of the notes at your own risk.
 
 ## Q: What modules are featured here?
 ### [ST0503 Back-End Web Development (BED)](/BED)
@@ -52,4 +50,4 @@ My style of memorising:
 3. Write a summary for each chapter featuring important terms or definitions that you feel will most likely come out during exams. You can also include pointers from the focus areas depending on your module
 
 ## Conclusion
-With that, have fun dying in DISM (SOC biomedical science copium) and happy mugging! All the best for whatever exams you are dreading and I hope you can get a decent GPA from my notes (and other notes, of course) ;-; 
+With that, have fun dying in DISM and happy mugging! All the best for whatever exams you are dreading and I hope you can get a decent GPA from my notes (and other notes, of course) ;-; 
