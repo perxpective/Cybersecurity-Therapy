@@ -1,6 +1,6 @@
 # Cybersecurity Therapy
-
-> Course Notes for the Diploma in Infocomm Security Management at Singapore Polytechnic.
+## Important Note
+> This repository contains notes from the former Diploma in Infocomm Security Management (DISM). The modules covered here may be outdated or obsolete in view of the rebrand of the course to Diploma in Cybersecurity and Digital Forensics (DCDF). Please 
 
 Welcome to Cybersecurity Therapy, your place of comfort after another typical day of BS from DISM! You can cry, weep and mug in my little safe repository where I sacrifice my blood, sweat, tears (and sleep :D) to create notes that are highly useful for my (and your) own survival in DISM (and to get a decent GPA)
 
