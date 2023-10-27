@@ -6,4 +6,6 @@
 ```toc
 ```
 
-##
+## Precautions
+- Do not run malware on computer directly
+- Use several PCs on an isolated network and re-image PCs to restore the system
