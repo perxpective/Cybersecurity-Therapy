@@ -58,4 +58,17 @@
 	- Performs file fingerprinting (checks MD5 after analysis for any file changes)
 
 ## Safe Environment for Dynamic Analysis
-- Observe malware executing in controlled environment
+- Observe malware executing in controlled environment 
+- Easier and faster to see what and how the malware works
+- Requires safe analytical environment
+- Once malware has started execution, nothing writable is to be trusted
+- **Network connectivity considerations**
+	- Should malware be allowed to "call home"?
+
+| Pros                   | Cons                                                                |
+| ---------------------- | ------------------------------------------------------------------- |
+| More accurate analysis | Malware changes behaviour based on configuration file               |
+|                        | Realtime battle between user and control and malware command center |
+|                        | May attack other Internet users unintentionally                     |
+|                        | Secondary infection may occur                                                                    |
+
