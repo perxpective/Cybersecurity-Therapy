@@ -6,6 +6,9 @@
 
 ![](https://i.imgur.com/05R98V5.png)
 
+**Single vs Double Linked List**
+- 
+
 **Advantages**
 - Write code to traverse in double linked list in both forward and backward directions
 - When writing code, easier to implement some operations on double linked list
@@ -15,3 +18,8 @@
 - Uses more memory than arrays because of the storage used by their pointers (link parts)
 - While writing code to insert and delete operations, extra steps required for maintaining the node's next link and previous link
 - Inherently, double linked list is sequential access. You cannot write code to jump directly to the desired node
+
+**Use Cases**
+- GPS navigation
+- Music playlist
+- Basis to implementing stack and queue
