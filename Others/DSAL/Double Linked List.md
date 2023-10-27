@@ -1,7 +1,7 @@
 # Double Linked Lists (Insert and Delete Operations)
 
-**Definition**
-- Linear data structure, in which the elements are not stored at contiguous memory locations.
+**Definition (What is a Linked List?)**
+- Linear data structure, in which the elements are not stored at contiguous memory locations
 - Elements in a linked list are linked using points
 
 ![](https://i.imgur.com/05R98V5.png)
@@ -12,4 +12,6 @@
 	- Operations are insert, delete, etc. because these can be done with a single reference
 
 **Disadvantages**
-- Uses more memory than arrays 
+- Uses more memory than arrays because of the storage used by their pointers (link parts)
+- While writing code to insert and delete operations, extra steps required for maintaining the node's next link and previous link
+- Inherently, double linked list is sequential access. You cannot write code to jump directly to the desired node
