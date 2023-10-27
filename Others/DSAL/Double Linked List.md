@@ -7,7 +7,8 @@
 ![](https://i.imgur.com/05R98V5.png)
 
 **Single vs Double Linked List**
-- 
+- Nodes in single linked lists only have 1 link pointing to the next node
+- Nodes in double linked lists have 2 links pointing to the next and previous nodes respectively
 
 **Advantages**
 - Write code to traverse in double linked list in both forward and backward directions
@@ -19,7 +20,13 @@
 - While writing code to insert and delete operations, extra steps required for maintaining the node's next link and previous link
 - Inherently, double linked list is sequential access. You cannot write code to jump directly to the desired node
 
-**Use Cases**
+**Applications of Single Linked Lists**
 - GPS navigation
-- Music playlist
+- Music playlists
 - Basis to implementing stack and queue
+
+**Applications of Double Linked Lists**
+- Web Browser Forward and Backward
+- Ctrl+Z and Ctrl+Y
+- Music Player
+
