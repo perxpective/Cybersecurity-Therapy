@@ -25,4 +25,19 @@
 - Use virtualisation
 	- VMWare
 	- Oracle VirtualBox
-	- 
+	- Parallels
+	- Microsoft Virtual PC
+	- Xen
+
+## Other Safe Environments
+- Trumen (XP/Windows 2000, CentOS 5)
+	- Open-source
+	- Contains scripts to perform imaging repeatedly
+	- Automatically creates a sandbox with a list of simulated services
+	- Clients created runs on native hardware
+- **Using HDD with write cache card**
+	- <u>Use CoreRestore</u>
+		- Install between HDD and motherboard
+		- Redirect system changes to a temporary working area
+		- Revert after reboot (only single state)
+		- Hardware have been discontinued
