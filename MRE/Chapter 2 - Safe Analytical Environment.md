@@ -40,4 +40,22 @@
 		- Install between HDD and motherboard
 		- Redirect system changes to a temporary working area
 		- Revert after reboot (only single state)
-		- Hardware have been discontinued
+
+## Software Safe Environment
+- Windows SteadyState
+- Returnil
+	- Free/commercial rollback system setting 
+- Deep Freeze
+	- Inexpensive, revert configuration when necessary
+
+## Safe Environment for Static Analysis
+- <u>Perform analysis in different made OS</u>
+	- Prevents accidental double-clicking
+- <u>No running of code in static analysis</u>
+	- Study disassembled/decompiled codes
+	- Read static properties (PE headers, strings)
+	- Less stringent requirements
+	- Performs file fingerprinting (checks MD5 after analysis for any file changes)
+
+## Safe Environment for Dynamic Analysis
+- Observe malware executing in controlled environment
