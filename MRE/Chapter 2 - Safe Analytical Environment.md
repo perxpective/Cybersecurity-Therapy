@@ -63,7 +63,12 @@
 - Requires safe analytical environment
 - Once malware has started execution, nothing writable is to be trusted
 - **Network connectivity considerations**
-	- Should malware be allowed to "call home"?
+	- Remnux
+		- Great collection of reverse engineering tools
+		- Uses fake DNS and honeypots to detonate malware
+	- TOR Proxy Gateway
+		- Uses router image as DNS and forwards all traffic to Tor network
+- **Question: Should malware be allowed to "call home"?**
 
 | Pros                   | Cons                                                                |
 | ---------------------- | ------------------------------------------------------------------- |
@@ -72,3 +77,13 @@
 |                        | May attack other Internet users unintentionally                     |
 |                        | Secondary infection may occur                                                                    |
 
+### Other Consideration Analysis
+- Requires repeatable results or observations
+	- Snapshots creation may help
+	- Compare activities with and without network
+- Available system monitor and network tools
+	- Registry activity
+	- File activity
+	- Process activity
+	- Network traffic monitor
+	- Memory dump
