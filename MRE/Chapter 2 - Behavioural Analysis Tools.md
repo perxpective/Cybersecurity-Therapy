@@ -20,3 +20,11 @@
 
 <u>Problem:</u>
 - Malware may not act immediately when executed or installed
+
+### Process Explorer
+- Default location -> `C\Program Files\procexp.exe`
+- Display image path, start-up command, digital signature and more
+- Submit suspicious process hash to virustotal.com for scanning
+
+### Process Hacker
+- 
