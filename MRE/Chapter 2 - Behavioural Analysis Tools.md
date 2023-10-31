@@ -44,3 +44,8 @@
 ### Autoruns
 - Option to hide signed Microsoft Entries
 - Created by System Internals to display, turn on or off auto-starting images
+	- Start-up shortcuts
+	- Registry
+	- Services
+	- Explorer started
+	- Scheduled
