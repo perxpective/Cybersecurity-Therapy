@@ -66,4 +66,12 @@
 	- `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run`
 - **BootExecute Key**
 	- `smss.exe` process will run before Windows subsystem to load the hives
-	- 
+	- Launch programs defined by BootExecute key in `HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\Session Manager`
+- **`Userinit` Key**
+	- Located in `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon`
+	- `Winlogon` runs `Userinit.exe` which runs logon scripts, start network and `explorer.exe`
+- **Notify**
+	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify`
+	- When `CTRL` + `ALT` + `DEL` is pressed, DLLs can be launched if defined in its subkeys
+- **`Explorer.exe` Key**
+	- Points to `explorer.exe` without path
