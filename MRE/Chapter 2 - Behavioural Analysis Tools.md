@@ -47,5 +47,23 @@
 	- Start-up shortcuts
 	- Registry
 	- Services
-	- Explorer started
-	- Scheduled
+	- Explorer Started
+	- Scheduled Tasks
+
+### Registry Tools
+- <u>Regshot</u>
+	- Create a snapshot before and after executing the malware
+	- Compared the changes and differences
+		- Open-source
+		- Supports output as text or `html`
+
+#### Common Registry Keys (used by malware to remain persistent)
+- **Run/RunOnce**
+	- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`
+	- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce`
+	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`
+	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce`
+	- `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run`
+- **BootExecute Key**
+	- `smss.exe` process will run before Windows subsystem to load the hives
+	- 
