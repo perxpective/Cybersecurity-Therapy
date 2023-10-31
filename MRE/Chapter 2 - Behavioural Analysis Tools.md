@@ -92,4 +92,26 @@
 - Wireshark (with GUI) or `tcpdump` for monitoring network traffic
 - WinPcap in Windows
 - <u>Known Issues:</u>
-	- 
+	- Malware may change behaviour
+	- Realtime battle between user and C&C of malware
+	- IP is reported as attacker IP (malware execution)
+- <u>Game Plan:</u>
+	- Allow malware to call home but fake the response
+	- Use Tor if necessary
+
+### Network Monitoring
+- TCPView from SysInternals
+	- Spies on all ports owned by a process
+- **Paros Web Proxy**
+	- Java based HTTP/HTTPS proxy
+	- Edit, viewing HTTP message on-the-fly
+	- Open-source
+- **Fiddler Web Proxy**
+	- Free to use
+	- Web debugging and security testing similar to Paros
+
+### System Monitoring Tools
+- CaptureBAT developed and maintained by Christian Selfert
+	- Able to monitor the state of a Win32 OS during malware execution
+	- Operates at low kernel level (compatible with different configuration)
+	- Provides insights on how the software operates (with)
