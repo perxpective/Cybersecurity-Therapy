@@ -74,4 +74,22 @@
 	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify`
 	- When `CTRL` + `ALT` + `DEL` is pressed, DLLs can be launched if defined in its subkeys
 - **`Explorer.exe` Key**
-	- Points to `explorer.exe` without path
+	- Points to `explorer.exe` without path `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell`
+- **Boot Shell**
+	- Points to location under `Winlogon` only
+	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\IniFileMapping\system.ini\boot`
+- **Start-Up Keys**
+	- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell 
+	- `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell `
+	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell `
+	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell`
+- **Service Key**
+	- `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services`
+- **`App_init` DLLs**
+	- `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs`
+
+### Network
+- Wireshark (with GUI) or `tcpdump` for monitoring network traffic
+- WinPcap in Windows
+- <u>Known Issues:</u>
+	- 
