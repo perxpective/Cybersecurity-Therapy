@@ -114,4 +114,4 @@
 - CaptureBAT developed and maintained by Christian Selfert
 	- Able to monitor the state of a Win32 OS during malware execution
 	- Operates at low kernel level (compatible with different configuration)
-	- Provides insights on how the software operates (with)
+	- Provides insights on how the software operates (without source code)
