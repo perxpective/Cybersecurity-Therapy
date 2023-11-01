@@ -122,3 +122,9 @@
 - Visualisation - shows complex relationship
 - Filtering of "noise"
 - Detects thread injection
+
+#### Hash Tools
+- Used as identifiers
+- `Md5Ssum` -> command-line tool
+- <u>HashMyFiles</u>
+	- GUI-based tool to calculate MD5 and SHA1 hashes of one or more files in the system
