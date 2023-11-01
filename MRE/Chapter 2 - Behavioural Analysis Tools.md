@@ -118,3 +118,7 @@
 	- Provides insights on how the software operates (without source code)
 
 #### ProcDOT
+- Correlates Process Monitor and `pcap` files into an interactive graph
+- Visualisation - shows complex relationship
+- Filtering of "noise"
+- Detects thread injection
