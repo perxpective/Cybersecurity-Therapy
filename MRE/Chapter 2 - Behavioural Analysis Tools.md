@@ -128,3 +128,8 @@
 - `Md5Ssum` -> command-line tool
 - <u>HashMyFiles</u>
 	- GUI-based tool to calculate MD5 and SHA1 hashes of one or more files in the system
+
+#### Other Tools
+- Mutex (short for mutually exclusive objects)
+- Mutex objects are used by software to control number of instances running
+- Could be used as an Indicator of Compromise (IOC) as malware uses Mutex to control propagation in malware
