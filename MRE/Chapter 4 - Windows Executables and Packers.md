@@ -144,3 +144,5 @@
 - Extracts PE header deatails
 - Identify common packers
 - Detect suspicious API calls
+
+## Strings and Signature Tools
