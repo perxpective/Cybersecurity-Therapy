@@ -111,4 +111,16 @@
 - Uses multiple processes
 - Multi-layer encryption
 - **Code abstraction** -> metamorphic code, use virtual machine
-- Examples: VMProtect, ExeCry
+- Examples: VMProtect, ExeCrypt
+
+## Introduction to Unpackers
+- Required to know the unpacking algorithm to unpack
+- Unpacks the program before resuming execution at the program's original entry point
+- Malware can selectively unpack harmful or harmless code after environment analysis
+
+## Packer Structure
+- Running the unpacking function, unpack the malware
+- The Import Address Table is propagated by the packer (not by Windows)
+- Pass the command to the entry point of the 
+
+![300](https://i.imgur.com/Lpz8YyB.png)
