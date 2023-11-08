@@ -121,6 +121,26 @@
 ## Packer Structure
 - Running the unpacking function, unpack the malware
 - The Import Address Table is propagated by the packer (not by Windows)
-- Pass the command to the entry point of the 
+- Pass the command to the entry point of the malware
 
 ![300](https://i.imgur.com/Lpz8YyB.png)
+
+## Packer Detection Tools
+
+### Exeinfo PE
+- Examines various Windows executables
+- Good at identifying signatures of commonly-used packers
+- Actively supported
+
+### PEiD
+- Well-established, not actively supported
+- Uses signatures, stored in the `userdb.txt` file
+- Provides information about the PE header
+- Could disassemble code for viewing
+- Able to identify the packer used
+
+### Peframe
+- Command-line tool to extract static file properties
+- Extracts PE header deatails
+- Identify common packers
+- Detect suspicious API calls
