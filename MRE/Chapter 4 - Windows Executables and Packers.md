@@ -69,3 +69,11 @@
 - Executable software (`.exe`)
 - Packers typically compress files (`zip`, `rar`, `7z`)
 - Attach their own decryption/loading stub
+- Only a small part of the software is exposed
+- **Packed malware cannot infect computers**
+
+### Why is Malware Packed?
+- **Functional Advantages**
+	- <u>Compression</u>
+		- Reduced download time and load time
+		- Reduced footprint (smaller in size)
