@@ -148,4 +148,5 @@
 ## Strings and Signature Tools
 
 ### Signsrch
-- Command-line tool to search for si
+- Command-line tool to search for signatures in files and executables
+- Recognise large number of compressions, multimedia, encryption algorithms and anti-debugging code 
