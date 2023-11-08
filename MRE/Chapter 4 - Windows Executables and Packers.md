@@ -27,7 +27,7 @@
 		- Machine type
 		- Timestamp
 		- Size
-		- Entry Point (Start of code)
+		- EntryPoint (Start of code)
 - **Section Table**
 	- Name, permission and size of each table
 	- Windows will allocate memory pages to each section
@@ -35,3 +35,20 @@
 	- Contains different groups of data
 	- Group data is based on characteristics (e.g. read-only, read-and-write)
 	- Compilers and linkers will make as little sections as possible to save memory
+	- **`.data`** section
+		- Imports Address Table
+		- Address of external functions needed
+		- Used by app to find DLLs in memory
+		- Updated at runtime (NULL at compile time)
+
+### Running Executables
+- When a program is executed:
+	- The DOS MZ header is checked
+	- PE header is checked
+	- Section Table is read
+	- Allocate memory based on Section Table
+
+### Running Executables on Memory
+- **If disk image is not used:**
+	- Windows populated the Import Address Table
+	- Control passed to the EntryPoint value
