@@ -146,3 +146,6 @@
 - Detect suspicious API calls
 
 ## Strings and Signature Tools
+
+### Signsrch
+- Command-line tool to search for si
