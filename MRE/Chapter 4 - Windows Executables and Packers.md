@@ -52,3 +52,20 @@
 - **If disk image is not used:**
 	- Windows populated the Import Address Table
 	- Control passed to the EntryPoint value
+
+## Tools for PE Analysis
+
+### CFF Explorer
+- Freeware
+- PE editor for PE32/64
+- PE memory dumper and signature updater
+- PE rebuilder
+
+### PE Studio
+- Automatically flags aspects that is malicious
+- Can query VirusTotal for hash matches
+
+## Introduction to Packers
+- Executable software (`.exe`)
+- Packers typically compress files (`zip`, `rar`, `7z`)
+- Attach their own decryption/loading stub
