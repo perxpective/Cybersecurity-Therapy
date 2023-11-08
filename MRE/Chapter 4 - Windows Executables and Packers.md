@@ -17,6 +17,21 @@
 
 ![300](https://i.imgur.com/3QwG061.png)
 
-- **DOS MZ Headers** start with MZ (Mark Zbikowski)
-- Message: `This program cannot be run in DOS mode`
-- 
+### Structure of a 32-bit Portable Executable
+- **DOS MZ Headers** 
+	- Start with MZ (Mark Zbikowski)
+	- Message: `This program cannot be run in DOS mode`
+- **PE Header**
+	- Starts with `50h 45h 00h 00h`
+	- Data structure of execution settings:
+		- Machine type
+		- Timestamp
+		- Size
+		- Entry Point (Start of code)
+- **Section Table**
+	- Name, permission and size of each table
+	- Windows will allocate memory pages to each section
+- **Sections**
+	- Contains different groups of data
+	- Group data is based on characteristics (e.g. read-only, read-and-write)
+	- Compilers and linkers will make as little sections as possible to save memory
