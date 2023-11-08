@@ -77,3 +77,38 @@
 	- <u>Compression</u>
 		- Reduced download time and load time
 		- Reduced footprint (smaller in size)
+- **Additional Advantages**
+	- <u>Prevent detection by antivirus signatures</u>
+		- Use behavioural or heuristic analysis
+	- Prevent reverse engineering
+
+### Common Packers
+- UPX
+- VBox
+- EZIP
+- PE-PaCK
+- FSG
+- Dropper
+- Mew
+- NSPack
+- Thinstall
+- PEBundle
+- PECompact
+- Armadillo
+- Themida
+- NeoLite
+
+### Simple Packers
+- Single process containing only 1 thread
+- Single layer of **compression** and **encryption**
+- Might use some anti-debug tricks
+- Do not modify the code
+- Implementation can be hard
+- Commonly used
+- Examples: UPX, FSG
+
+### Complex Packers
+- Uses multiple processes
+- Multi-layer encryption
+- **Code abstraction** -> metamorphic code, use virtual machine
+- Examples: VMProtect, ExeCry
