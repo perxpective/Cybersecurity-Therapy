@@ -141,7 +141,7 @@
 
 ### Peframe
 - Command-line tool to extract static file properties
-- Extracts PE header deatails
+- Extracts PE header details
 - Identify common packers
 - Detect suspicious API calls
 
