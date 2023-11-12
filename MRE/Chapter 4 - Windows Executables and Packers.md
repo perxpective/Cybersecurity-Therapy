@@ -149,4 +149,12 @@
 
 ### Signsrch
 - Command-line tool to search for signatures in files and executables
-- Recognise large number of compressions, multimedia, encryption algorithms and anti-debugging code 
+- Recognise large number of compressions, multimedia, encryption algorithms and anti-debugging code
+
+### BinText
+- Small, fast, text extractor
+- Extract plain Unicode, resources strings
+- Free tool from McAfee
+
+### Strings2
+- Extracts ASCII and Unicode in one step
