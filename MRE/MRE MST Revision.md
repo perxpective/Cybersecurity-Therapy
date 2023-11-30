@@ -110,7 +110,13 @@
 ### API Monitor
 1. Start the API monitor
 2. Monitor file actions (`CreateFileA`, `CreateFileW`, `NtCreateFile`)
-3. Select File -> Monitor New 
+3. Select File -> Monitor New Process
+4. Select the malware to monitor
+5. Hook using "Remote Thread (Extended)"
+
+### Process Injection
+1. Run a malware. The malware will run in the background
+2. Use Autoruns to uncheck a service
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
