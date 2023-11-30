@@ -52,4 +52,10 @@
 4. Select File -> Compare and select the snapshot created before the infection. Green highlight means a new process after running the malware.
 
 ### Network Analysis
-1. Ensure the following services are running on 
+- Ensure the following services are running on REMnux:
+	- FakeDNS `fakedns -a <target-IP>`
+	- `inspircd` service
+- Ensure that both the XP VM and REMnux VM network adapters are set to Host-Only and the XP default gateway is set to the IP of the REMnux VM.
+
+## Tips
+- Observe behaviour 
