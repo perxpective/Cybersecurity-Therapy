@@ -43,4 +43,10 @@
 
 1. Infect the VM with the malware again and see the malware process running in Procmon.
 2. Save a CSV file from Procmon by selecting File -> Save. Save the CSV to the desktop for easy access.
-#### 
+#### Autoruns
+> Takes a snapshot of the system processes.
+
+1. Start a clean VM and run Autoruns (Start -> System Internal Tools -> Autoruns.exe)
+2. Click the **Save** button to create a snapshot of the system processes. Save it as a file on the Desktop.
+3. Run the malware and refresh Autoruns.
+4. Select File -> Compare and select the snapshot created before 
