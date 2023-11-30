@@ -91,6 +91,8 @@
 3. View sections in PE, ASM code and PE header info.
 
 #### CFF Explorer
+1. Drag and drop the malware into the CFF Explorer
+2. 
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
