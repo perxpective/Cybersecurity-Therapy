@@ -76,7 +76,12 @@
 11. Start ProcDOT
 12. Upload the Procmon CSV and Windump PCAP file and select the malware from the launcher.
 
-### 
+### PE Analysis
+- Use **BinText** to analyse strings of unpacked and packed malware
+- Unpack a packed malware with `upx -d yourfile.exe`
+
+#### IDA Free
+1. Select File -> Open -> 
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
