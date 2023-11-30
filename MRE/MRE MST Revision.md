@@ -30,7 +30,6 @@
 	- Mutexes found
 
 ## Tools
-### Static Analysis
 
 > To check MD5 of file, use the command `md5sum`
 
@@ -38,4 +37,10 @@
 > Take a snapshot of the registry before and after the malware infection.
 
 1. Take a snapshot before running the malware.
-2. After running the malware, take a second snapshot. Analyse the r
+2. After running the malware, take a second snapshot. Analyse the changes made to the repository.
+#### Process Monitor (Procmon)
+> Monitor the processes running and created when the malware is executed.
+
+1. Infect the VM with the malware again and see the malware process running in Procmon.
+2. Save a CSV file from Procmon by selecting File -> Save. Save the CSV to the desktop for easy access.
+#### 
