@@ -94,7 +94,7 @@
 1. Drag and drop the malware into the CFF Explorer
 2. Repeat previous step to load the other malware file
 3. Compare the Section Headers of packed and unpacked malware
-4. Explore Optional Header after program is loaded into memory
+4. Explore Optional Header after program is loaded into memory - locate the entry point location
 5. 
 
 ## Tips
