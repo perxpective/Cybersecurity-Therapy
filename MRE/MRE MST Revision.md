@@ -66,7 +66,10 @@
 - Close all applications and stop the malware
 - Start Process Monitor (Start -> Process Monitoring Tools -> Procmon.exe)
 - On Process Monitor Filter page, click OK
-- Go to Options -> Uncheck Show Resolv
+- Go to Options -> Uncheck Show Resolved Network Addresses
+- Options -> Select Columns - ensure that Thread ID is checked and Sequence Number is not checked
+- `windump -w C:\out.pcap` to capture network traffic
+- 
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
