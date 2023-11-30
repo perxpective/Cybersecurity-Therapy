@@ -57,5 +57,16 @@
 	- `inspircd` service
 - Ensure that both the XP VM and REMnux VM network adapters are set to Host-Only and the XP default gateway is set to the IP of the REMnux VM.
 
+#### CaptureBAT
+- Run CaptureBAT (`CaptureBat.exe -n -c`)
+- Find the network dump file in `C:\Program Files\Capture\logs`
+- Add `-l <logfile>` to pipe messages to a file
+
+### ProcDOT
+- Close all applications and stop the malware
+- Start Process Monitor (Start -> Process Monitoring Tools -> Procmon.exe)
+- On Process Monitor Filter page, click OK
+- Go to Options -> Uncheck Show Resolv
+
 ## Tips
-- Observe behaviour 
+- Observe the behaviour of the malware before and after a VM reboot for any changes.
