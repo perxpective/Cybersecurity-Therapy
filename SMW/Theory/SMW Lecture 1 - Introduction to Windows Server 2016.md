@@ -3,31 +3,80 @@
 ###### tags: #SMW
 
 ## Table of Contents
-```toc
-```
+
+1. [The Need for Secure Computing](#the-need-for-secure-computing)
+   - [Types of Threats](#types-of-threats)
+   - [Laws Upholding Management Responsibility for Data Breaches](#laws-that-uphold-management-possible-for-data-breaches)
+   - [Sources of Computer Security Problems](#sources-of-computer-security-problems)
+   - [Requirements of Safer Computing](#requirements-of-safer-computing)
+
+2. [Microsoft's Commitment to Security](#microsofts-commitment-to-security)
+   - [Isolation and Resiliency](#isolation-and-resiliency)
+   - [Software Updates](#software-updates)
+   - [Quality](#quality)
+   - [Access Control and Authentication](#access-control-and-authentication)
+
+3. [Trustworthy Computing](#trustworthy-computing)
+   - [Microsoft Trustworthy Computing Memo](#microsoft-trustworthy-computing-memo)
+   - [Trusted Cloud](#trusted-cloud)
+   - [Secure Code](#secure-code)
+   - [Common Runtime Language](#common-runtime-language)
+
+4. [Windows Server 2016 Editions](#windows-server-2016-editions)
+   - [Windows Server 2016 Platforms](#windows-server-2016-platforms)
+   - [Windows Server 2016 Essentials Edition](#windows-server-2016-essentials-edition)
+   - [Windows Server 2016 Standard Edition](#windows-server-2016-standard-edition)
+   - [Windows Server 2016 Datacentre Edition](#windows-server-2016-datacentre-edition)
+
+5. [Using Windows Server 2016 with Client Systems](#using-windows-server-2016-with-client-systems)
+   - [Compatible Client Workstation Operating Systems](#compatible-client-workstation-operating-systems)
+   - [Terminology](#terminology)
+   - [Advantages of Using Windows Server 2016 with Windows Versions 7-10](#advantages-of-using-windows-server-2016-with-windows-versions-7-10)
+   - [Linux Integration Services](#linux-integration-services)
+
+6. [Windows Server 2016 Features](#windows-server-2016-features)
+   - [Server Manager](#server-manager)
+   - [Security](#security)
+   - [Enhanced Web Services](#enhanced-web-services)
+   - [Windows Server Core and Nano Server](#windows-server-core-and-nano-server)
+   - [Windows PowerShell](#windows-powershell)
+   - [Reliability](#reliability)
+
+7. [Planning a Windows Server 2016 Networking Model](#planning-a-windows-server-2016-networking-model)
+   - [Definition of a Network](#definition-of-a-network)
+   - [Definition of Workstation/Client Network Operating System](#definition-of-workstation-client-network-operating-system)
+   - [Peer-to-Peer Networking](#peer-to-peer-networking)
+   - [Server-Based Networking](#server-based-networking)
+
+8. [Protocols for the Windows Server 2016 Networking Model](#protocols-for-the-windows-server-2016-networking-model)
+   - [Transmission Control Protocol](#transmission-control-protocol)
+   - [Physical Addresses and Address Resolution Protocol](#physical-addresses-and-address-resolution-protocol)
+   - [Implementing TCP/IP in Windows Server 2016](#implementing-tcp-ip-in-windows-server-2016)
+   - [Automated Address Configuration](#automated-address-configuration)
+
 
 ## The Need for Secure Computing
-- **Types of threats:**
+- ### Types of threats:
 	- Viruses
 	- Worms
 	- Programs that steal confidential information
 	- Hacking via system vulnerabilities
-- **Laws that uphold management possible for data breaches:**
-	- **American Laws:**
+- ### Laws that uphold management possible for data breaches:
+	- ### American Laws:
 		- California SB-1386
 		- Health Insurance Portability and Accountability Act (HIPAA)
 			- protection for <u>personal health information</u>
 		- Gramm-Leach-Bliley Act (GLB) 
 			- *Financial Services Modernization Act 1999*
-	- **Singapore Laws:**
+	- ### Singapore Laws:
 		- <u>Electronic Transactions Act 2010</u>
 			- provides legal foundation for electronic signatures
 		- <u>Personal Data Protection Act 2012 </u>
 			- comprises various rules governing the collection, use, disclosure and care of personal data
-- **Source of computer security problems:**
+- ### Source of computer security problems:
 	- Bad software design
 	- Bad implementation
-- **Requirements of safer computing:**
+- ### Requirements of safer computing:
 	- Change in the behaviour of management programmers and users
 	- Prioritize secure computing
 	- Write secure operating systems and applications
@@ -91,7 +140,7 @@
 	- Active Directory Rights Management Services (ADRMS)
 
 ## Trustworthy Computing
-- **Microsoft Trustworthy Computing Memo**
+### Microsoft Trustworthy Computing Memo**
 	- Development emphasis: **Security** over **Features**
 	- Strategy to compete against other companies
 - Way to ensure safe and reliable computing
@@ -125,8 +174,8 @@
 > Runtime environment for the .NET framework
 - Manages the running of .NET programs regardless of programming language they are written in
 
-## Windows Server 2016 Edition
-**Windows Server 2016 Platforms**
+## Windows Server 2016 Editions
+### Windows Server 2016 Platforms
 - Windows Server 2016 Essentials Edition
 - Windows Server 2016 Standard Edition
 - Windows Server 2016 Datacentre Edition
@@ -210,7 +259,7 @@
 > Datacentre Edition does not come with **database software**
 > - Designed to provide OS resources to accommodate large database applications
 
-## Using Windows Server 2016 with Client Systems
+### Using Windows Server 2016 with Client Systems
 **Client workstation Operating Systems most compatible with Windows Server 2016:**
 - Windows Versions:
 	- 7
