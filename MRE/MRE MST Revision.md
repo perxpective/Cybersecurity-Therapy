@@ -81,7 +81,16 @@
 - Unpack a packed malware with `upx -d yourfile.exe`
 
 #### IDA Free
-1. Select File -> Open -> 
+1. Select File -> Open -> Malware file.
+2. Open a new window of IDA and upload another malware file (if any)
+3. Compare Imports, Name, Functions and String windows of packed and unpacked malware.
+
+#### PEiD
+1. Start PEiD via Start -> PE Tool
+2. Select file to be analysed by clicking the \[...\] button.
+3. View sections in PE, ASM code and PE header info.
+
+#### CFF Explorer
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
