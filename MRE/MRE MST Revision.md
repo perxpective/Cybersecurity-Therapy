@@ -28,7 +28,14 @@
 - **Other Interesting Strings and Mutexes**
 	- FakeDNS domains
 	- Mutexes found
-	- 
 
 ## Tools
-- 
+### Static Analysis
+
+> To check MD5 of file, use the command `md5sum`
+
+#### RegShot
+> Take a snapshot of the registry before and after the malware infection.
+
+1. Take a snapshot before running the malware.
+2. After running the malware, take a second snapshot. Analyse the r
