@@ -25,6 +25,7 @@
 - **Registry Activities Detected**
 - **Network Activities Detected**
 	- Use Wireshark, FakeDNS and HTTPd
-- **Other Intere**
+- **Other Interesting Strings and Mutexes**
+
 ## Tools
 - 
