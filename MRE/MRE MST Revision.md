@@ -101,7 +101,10 @@
 3. Compare the Section Headers of packed and unpacked malware
 4. Explore Optional Header after program is loaded into memory - locate the entry point location
 
-### 
+### HookME
+1. Click File -> Attach and double click the malware
+2. Click the Forward button to forward the request across the proxy
+3. Go back to 
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
