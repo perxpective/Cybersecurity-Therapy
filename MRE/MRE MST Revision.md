@@ -18,7 +18,7 @@
 - **File Activities Detected**
 	- Use Procmon or RegShot to view the file actions performed by the malware
 - **Processes and Services Detected**
-	- Use Procmon to  view processes running when malware is run (or find changes to the registry)
+	- Use Procmon to view processes running when malware is run (or find changes to the registry)
 	- Check if malware starts automatically after rebooting the VM
 - **Describe Key DLLs Loaded**
 	- Use API monitor to hook API calls the DLLs loaded are
@@ -120,3 +120,9 @@
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
+
+## Checklist
+- [ ] Set VMs to **Host-Only**
+- [ ] VMs can ping each other
+- [ ] Check if malware sample is packed
+- [ ] 
