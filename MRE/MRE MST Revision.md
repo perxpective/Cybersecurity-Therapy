@@ -97,14 +97,20 @@
 
 #### CFF Explorer
 1. Drag and drop the malware into the CFF Explorer
-2. Repeat previous step to load the other malware file
-3. Compare the Section Headers of packed and unpacked malware
+2. Repeat previous step to load the alware file
+3. Compare the Section Headers of packed d unpacked malware
 4. Explore Optional Header after program is loaded into memory - locate the entry point location
 
 ### HookME
+> Intercepts TCP communications by hooking the process and API calls for sending and receiving network data through the network
+
 1. Click File -> Attach and double click the malware
 2. Click the Forward button to forward the request across the proxy
-3. Go back to 
+
+### API Monitor
+1. Start the API monitor
+2. Monitor file actions (`CreateFileA`, `CreateFileW`, `NtCreateFile`)
+3. Select File -> Monitor New 
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
