@@ -26,6 +26,9 @@
 - **Network Activities Detected**
 	- Use Wireshark, FakeDNS and HTTPd
 - **Other Interesting Strings and Mutexes**
+	- FakeDNS domains
+	- Mutexes found
+	- 
 
 ## Tools
 - 
