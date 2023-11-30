@@ -63,13 +63,20 @@
 - Add `-l <logfile>` to pipe messages to a file
 
 ### ProcDOT
-- Close all applications and stop the malware
-- Start Process Monitor (Start -> Process Monitoring Tools -> Procmon.exe)
-- On Process Monitor Filter page, click OK
-- Go to Options -> Uncheck Show Resolved Network Addresses
-- Options -> Select Columns - ensure that Thread ID is checked and Sequence Number is not checked
-- `windump -w C:\out.pcap` to capture network traffic
-- 
+1. Close all applications and stop the malware
+2. Start Process Monitor (Start -> Process Monitoring Tools -> Procmon.exe)
+3. On Process Monitor Filter page, click OK
+4. Go to Options -> Uncheck Show Resolved Network Addresses
+5. Options -> Select Columns - ensure that Thread ID is checked and Sequence Number is not checked
+6. `windump -w C:\out.pcap` to capture network traffic
+7. Open Process Hacker or Task Manager
+8. Run the malware and kill the task
+9. Stop capture network traffic
+10. On Process Monitor, select File -> Save the CSV
+11. Start ProcDOT
+12. Upload the Procmon CSV and Windump PCAP file and select the malware from the launcher.
+
+### 
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
