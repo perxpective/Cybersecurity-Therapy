@@ -124,5 +124,8 @@
 ## Checklist
 - [ ] Set VMs to **Host-Only**
 - [ ] VMs can ping each other
-- [ ] Check if malware sample is packed
-- [ ] 
+- [ ] Check if malware sample is packed (PEiD or Exeinfo PE)
+- [ ] Check static properties (MD5, Size of packed and unpacked malware, PE type, subsystem, if malware is packed)
+- [ ] Monitor services or processes when malware is run
+- [ ] Detect changes in registry
+- [ ] List DLLs loaded
