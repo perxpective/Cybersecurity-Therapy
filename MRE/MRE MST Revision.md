@@ -128,6 +128,12 @@
 2. Extract the dump file to the REMnux VM
 3. Run the Volatility Framework using the command `vol.py --help`
 
+- To extract a process from memory, first use `pslist` to find the PID of the malware process
+- Then, run the following command:
+```
+
+```
+
 #### `plist`
 - List all running processes in the memory dump
 ```
@@ -165,7 +171,12 @@ vol.py -f /home/remnux/mem.dmp sockets
 ```
 
 #### `sockscan`
-- 
+- Scans for socket objects that have been closed but are still in the memory dump
+```
+vol.py -f /home/remnux/mem.dmp sockscan
+```
+
+
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
