@@ -36,26 +36,26 @@
 ### RegShot
 > Take a snapshot of the registry before and after the malware infection.
 
-1. Take a snapshot before running the malware.
-2. After running the malware, take a second snapshot. Analyse the changes made to the repository.
+1. Take a snapshot before running the malware
+2. After running the malware, take a second snapshot. Analyse the changes made to the repository
 ### Process Monitor (Procmon)
 > Monitor the processes running and created when the malware is executed.
 
-1. Infect the VM with the malware again and see the malware process running in Procmon.
-2. Save a CSV file from Procmon by selecting File -> Save. Save the CSV to the desktop for easy access.
+1. Infect the VM with the malware again and see the malware process running in Procmon
+2. Save a CSV file from Procmon by selecting File -> Save. Save the CSV to the desktop for easy access
 ### Autoruns
 > Takes a snapshot of the system processes.
 
 1. Start a clean VM and run Autoruns (Start -> System Internal Tools -> Autoruns.exe)
-2. Click the **Save** button to create a snapshot of the system processes. Save it as a file on the Desktop.
-3. Run the malware and refresh Autoruns.
-4. Select File -> Compare and select the snapshot created before the infection. Green highlight means a new process after running the malware.
+2. Click the **Save** button to create a snapshot of the system processes. Save it as a file on the Desktop
+3. Run the malware and refresh Autoruns
+4. Select File -> Compare and select the snapshot created before the infection. Green highlight means a new process after running the malware
 
 ### Network Analysis
 - Ensure the following services are running on REMnux:
 	- FakeDNS `fakedns -a <target-IP>`
 	- `inspircd` service
-- Ensure that both the XP VM and REMnux VM network adapters are set to Host-Only and the XP default gateway is set to the IP of the REMnux VM.
+- Ensure that both the XP VM and REMnux VM network adapters are set to Host-Only and the XP default gateway is set to the IP of the REMnux VM
 
 #### CaptureBAT
 - Run CaptureBAT (`CaptureBat.exe -n -c`)
@@ -74,7 +74,7 @@
 9. Stop capture network traffic
 10. On Process Monitor, select File -> Save the CSV
 11. Start ProcDOT
-12. Upload the Procmon CSV and Windump PCAP file and select the malware from the launcher.
+12. Upload the Procmon CSV and Windump PCAP file and select the malware from the launcher
 
 ### Mutexes
 1. Navigate to Start -> System Internal Tools and select `procexp.exe`
@@ -86,14 +86,14 @@
 - Unpack a packed malware with `upx -d yourfile.exe`
 
 ### IDA Free
-1. Select File -> Open -> Malware file.
+1. Select File -> Open -> Malware file
 2. Open a new window of IDA and upload another malware file (if any)
-3. Compare Imports, Name, Functions and String windows of packed and unpacked malware.
+3. Compare Imports, Name, Functions and String windows of packed and unpacked malware
 
 #### PEiD
 1. Start PEiD via Start -> PE Tool
-2. Select file to be analysed by clicking the \[...\] button.
-3. View sections in PE, ASM code and PE header info.
+2. Select file to be analysed by clicking the \[...\] button
+3. View sections in PE, ASM code and PE header info
 
 #### CFF Explorer
 1. Drag and drop the malware into the CFF Explorer
@@ -119,7 +119,13 @@
 2. Use Autoruns to uncheck a service
 
 ### Kernel Detective
+1. Run the malware
+2. Start the Kernel Detective (Start -> Process Monitoring Tools -> Kernel Detective)
+3. From the application menu, select Tools -> Physical Memory Dumper -> Dump All Physical Memory to generate a memory dump
 
+### Volatility Framework
+1. Copy the dump file over to the REMnux VM
+2. Extract the dump file from REMnux VM
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
