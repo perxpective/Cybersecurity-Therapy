@@ -118,6 +118,9 @@
 1. Run a malware. The malware will run in the background
 2. Use Autoruns to uncheck a service
 
+### Kernel Detective
+
+
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
 
