@@ -125,7 +125,26 @@
 
 ### Volatility Framework
 1. Copy the dump file over to the REMnux VM
-2. Extract the dump file from REMnux VM
+2. Extract the dump file to the REMnux VM
+3. Run the Volatility Framework using the command `vol.py --help`
+
+#### `plist`
+- List all running processes in the memory dump
+```
+vol.py -f /home/remnux/mem.dmp pslist
+```
+
+#### `psscan`
+- Scan processes that are not reported in the `EPROCESS` list
+```
+vol.py -f /home/remnux/mem.dmp psscan
+```
+
+#### `psxview`
+- Look for processes not found in `pslist` but listed in `psscan`
+```
+vol.py -f /home
+```
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
