@@ -143,8 +143,29 @@ vol.py -f /home/remnux/mem.dmp psscan
 #### `psxview`
 - Look for processes not found in `pslist` but listed in `psscan`
 ```
-vol.py -f /home
+vol.py -f /home/remnux/mem.dmp psxview --physical-offset
 ```
+
+#### `connscan`
+- List out connections that have been closed
+```
+vol.py -f /home/remnux/mem.dmp connscan
+```
+
+#### `connections`
+- List out open connections
+```
+vol.py -f /home/remnux/mem.dmp connections
+```
+
+#### `sockets`
+- List out opened sockets
+```
+vol.py -f /home/remnux/mem.dmp sockets
+```
+
+#### `sockscan`
+- 
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
