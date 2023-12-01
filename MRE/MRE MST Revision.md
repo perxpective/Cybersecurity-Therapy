@@ -184,7 +184,8 @@ vol.py -f /home/remnux/mem.dmp sockscan
 winscp remnux@<REMnuxIP>:/home/remnux/Desktop/<executable.XXX.exe>
 ```
 - Trust the host key and enter the password **malware** when prompted for password
-- Select the Des
+- Select the Desktop as the destination folder
+- Compare the extracted executable with the original executable
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
@@ -200,5 +201,6 @@ winscp remnux@<REMnuxIP>:/home/remnux/Desktop/<executable.XXX.exe>
 - [ ] List DLLs loaded
 - [ ] Ensure that FakeDNS and IRC service is running
 - [ ] Check network activities (Wireshark)
+- [ ] Get memory dump of processes and analyse with Volatility Framework (`psscan`, `pslist`, `psxview`, ``)
 - [ ] Check for strings or mutexes (Process Explorer and BinText)
 - [ ] For each check, reboot the VM and observe possible changes in behaviour of the malware
