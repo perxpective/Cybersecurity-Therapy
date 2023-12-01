@@ -131,7 +131,8 @@
 - To extract a process from memory, first use `pslist` to find the PID of the malware process
 - Then, run the following command:
 ```
-
+vol.py -f /home/remnux/mem.dmp procdump --memory -D ~ -p 560
+vol.py -f /home/remnux/mem.dmp procdump -D ~ -o 0x000000000
 ```
 
 #### `plist`
@@ -176,7 +177,14 @@ vol.py -f /home/remnux/mem.dmp sockets
 vol.py -f /home/remnux/mem.dmp sockscan
 ```
 
-
+### WinSCP
+- Start the SSHD service -> `sshd start`
+- Execute the following command:
+```
+winscp remnux@<REMnuxIP>:/home/remnux/Desktop/<executable.XXX.exe>
+```
+- Trust the host key and enter the password **malware** when prompted for password
+- Select the Des
 
 ## Tips
 - Observe the behaviour of the malware before and after a VM reboot for any changes.
