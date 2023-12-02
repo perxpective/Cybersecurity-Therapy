@@ -193,7 +193,7 @@ winscp remnux@<REMnuxIP>:/home/remnux/Desktop/<executable.XXX.exe>
 ## Checklist
 - [ ] Set VMs to **Host-Only**
 - [ ] Configure REMnux as the default gateway and DNS server of XP VM
-- [ ] VMs can ping each other
+- [ ] Check that VMs can ping each other
 - [ ] Check if malware sample is packed (PEiD or Exeinfo PE)
 - [ ] Check static properties (MD5, Size of packed and unpacked malware, PE type, subsystem, if malware is packed)
 - [ ] Monitor services or processes when malware is run
