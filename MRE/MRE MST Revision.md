@@ -199,7 +199,7 @@ winscp remnux@<REMnuxIP>:/home/remnux/Desktop/<executable.XXX.exe>
 - [ ] Monitor services or processes when malware is run
 - [ ] Detect changes in registry
 - [ ] List DLLs loaded
-- [ ] Ensure that FakeDNS and IRC service is running
+- [ ] Ensure that `FakeDNS`, `IRC`, and `inetsim` services are running
 - [ ] Check network activities (Wireshark)
 - [ ] Get memory dump of processes and analyse with Volatility Framework (`psscan`, `pslist`, `psxview`, `connscan`, `connections`, `sockets`, `sockscan`)
 - [ ] Check for strings or mutexes (Process Explorer and BinText)
