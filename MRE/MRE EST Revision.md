@@ -55,7 +55,16 @@
 - Reverse engineers often need to run the code to see what actually happens
 - May present the wrong assembly to the analyst which may be counter productive
 
-## Modifying PE Headers
+### Modifying PE Headers
 > The PE specification defines several fields to describe the executable file.
 
-- The size of each segment, emtry point 
+- The size of each segment, entry point address, imports, etc.
+- Windows loader is fairly flexible unlike many disassemblers and debuggers
+- Makes portions of the file unreadable
+- Can be confusing to an analyst who is used to common or normal values
+
+### Junk Code
+> A series of useless instructions that make real instructions difficult to read
+
+- Surrounds the useless instructions with a `POPA` and `PUSHA`
+- Effective slows down the analysis
