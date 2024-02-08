@@ -68,3 +68,21 @@
 
 - Surrounds the useless instructions with a `POPA` and `PUSHA`
 - Effective slows down the analysis
+
+### Branch Into Instruction
+- Branches into a multi-byte instruction from `jmp` or `call`
+- Disassemblers cannot determine the bytes changed at runtime
+	- OllyDbg sometimes halts
+	- IDA Pro prompts the "EIP inside structure"
+- Common with many `exec` packers
+- Used in shellcode to get the current location
+
+### Jumping via `ret`
+- `ret` returns from a function
+	- Pop value on stack into the EIP
+- Application
+	- Manually push a value onto the stack
+	- Transfer control to a new location (unconditional jump)
+	- Can use the mechanism multiple times
+- Outcome
+	- Confuses disassemblers since `ret` normally ends a function
