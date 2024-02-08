@@ -6,13 +6,21 @@
 ```toc
 ```
 
+## Assembly Basics
+
+
 ## Static Analysis Format
 - **Describe the usage of key files by `sample.exe`.**
 	- What are the behaviours of the executable with or without the key files?
 	- Which key files are accessed by the executable (quote the addresses and opcodes to support your claims)
-- **Investigate the encryption method used**
 	- Which key files are used by `sample.exe` to encrypt the input files?
+	- What is the selection criteria for the key files being used by `sample.exe`
+	- Describe the C function calls used to determine the key files selection.
+	- 
+- **Investigate the encryption method used**
 	- Given that the `settings.ini` was ASCII text, encoded by `sample.exe`, explain how you could decrypt the `settings.ini` file with `sample.exe`. Describe the decryption process using the first byte of the `settings.ini` file.
+	- Quote the address and opcodes of the C function used by `sample.exe` to read the data from the input file and the selected key files.
+	- Describe how the data in the input file is encrypted and written to the output file. Quote the address and opcodes.
 - **Decipher the original message**
 	- Write down the decrypted message from the `settings.ini` file.
 	- Describe how you could decrypt the message without calculating the bytes manually.
