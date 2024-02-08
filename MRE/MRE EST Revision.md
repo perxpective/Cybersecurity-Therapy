@@ -6,6 +6,8 @@
 ```toc
 ```
 
+## EST
+
 ## Disassemblers
 - Disassembles translate binary machine code to readable assembly
 - Reversing tools:
@@ -86,3 +88,9 @@
 	- Can use the mechanism multiple times
 - Outcome
 	- Confuses disassemblers since `ret` normally ends a function
+
+### Others
+- Obscuring flow control
+- Jump instructions with the same target
+- Thwarting stack-frame analysis
+- Timing delay of VM
