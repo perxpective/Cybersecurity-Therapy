@@ -38,4 +38,12 @@
 <u>Pros</u>
 - More robust
 <u>Cons</u>
-- More complex and har
+- More complex and harder to implement
+
+**Additional Considerations**
+- Data embedded in code
+- Variable instruction size (can be interpreted differently)
+- Indirect branch instructions (i.e., `call eax`)
+- Function without `CALL` cannot be identified and can be misclassified as data
+- Custom hand-crafted assembly code
+
