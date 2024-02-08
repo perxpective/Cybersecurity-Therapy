@@ -6,7 +6,13 @@
 ```toc
 ```
 
-## EST
+## Static Analysis Format
+- **Describe the usage of key files by `sample.exe`.**
+	- What are the behaviours of the executable with or without the key files?
+	- Which key files are accessed by the executable (quote the addresses and opcodes to support your claims)
+- **Investigate the encryption method used**
+	- Which key files are used by `sample.exe` to encrypt the input files?
+	- Given that the `settings.ini` was ASCII text, encoded by `sample.exe`, explain how you could decrypt the `settings.ini` 
 
 ## Disassemblers
 - Disassembles translate binary machine code to readable assembly
