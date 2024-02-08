@@ -12,7 +12,11 @@
 	- Which key files are accessed by the executable (quote the addresses and opcodes to support your claims)
 - **Investigate the encryption method used**
 	- Which key files are used by `sample.exe` to encrypt the input files?
-	- Given that the `settings.ini` was ASCII text, encoded by `sample.exe`, explain how you could decrypt the `settings.ini` 
+	- Given that the `settings.ini` was ASCII text, encoded by `sample.exe`, explain how you could decrypt the `settings.ini` file with `sample.exe`. Describe the decryption process using the first byte of the `settings.ini` file.
+- **Decipher the original message**
+	- Write down the decrypted message from the `settings.ini` file.
+	- Describe how you could decrypt the message without calculating the bytes manually.
+- **Theory questions**
 
 ## Disassemblers
 - Disassembles translate binary machine code to readable assembly
