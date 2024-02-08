@@ -47,3 +47,15 @@
 - Function without `CALL` cannot be identified and can be misclassified as data
 - Custom hand-crafted assembly code
 
+## Anti-Disassemblers
+> The **aim** -> to hinder disassemblers and static analysis
+
+- Detects debuggers and disassemblers and trick the tools
+- Run alternative instructions or junk code
+- Reverse engineers often need to run the code to see what actually happens
+- May present the wrong assembly to the analyst which may be counter productive
+
+## Modifying PE Headers
+> The PE specification defines several fields to describe the executable file.
+
+- The size of each segment, emtry point 
