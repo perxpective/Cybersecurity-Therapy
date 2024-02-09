@@ -62,14 +62,18 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 ```
 
 ### Control Instructions
-| Instruction | Description                                                           |
-| ----------- | --------------------------------------------------------------------- |
-| `LEA`       | **Load Effective Address**<br>Performs memory addressing calculations |
-| `JMP`       | Unconditional jump to destination                                     |
-| `JXX`       | Conditional jump to destination based on flag value                   | 
-| ``          |                                                                       |
-|             |                                                                       |
-|             |                                                                       |
+| Instruction | Description                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| `LEA`       | **Load Effective Address**<br>Performs memory addressing calculations                        |
+| `JMP`       | Unconditional jump to destination                                                            |
+| `JXX`       | Conditional jump to destination based on flag value                                          |
+| `LOOP`      | Uses the CX register and repeats a segment of code CX number of times                        |
+| `PUSH`      | Put the content of the source onto the start<br>Source value is copied into the stack        |
+| `POP`       | Get the top value from the stack and store it into the destination                           |
+| `CALL`      | Pass control to a function at the memory address<br>Push the current location into the stack |
+| `RETN`      | Return to the previous function call <br>Pop stack for the return address                    |
+| `REP`       | Repeat a specific string-related command<br>CX will be used as the counter, decreasing to 0  |
+|             |                                                                                              |
 
 
 ## Static Analysis Format
