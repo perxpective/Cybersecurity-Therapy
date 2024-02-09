@@ -34,6 +34,18 @@ JZ - Jump if zero
 JNGE - Jump if not greater than or equal
 ```
 
+### Arithmetic Instructions
+```
+ADD - Add source to destination
+INC - Increments destination by 1
+SUB - Subtract sourc from destination
+MUL - Multiply 
+DEC - Decrement destination by 1
+DIV
+SHL/SHR
+ROL/ROR
+```
+
 ## Static Analysis Format
 - **Describe the usage of key files by `sample.exe`.**
 	- What are the behaviours of the executable with or without the key files?
