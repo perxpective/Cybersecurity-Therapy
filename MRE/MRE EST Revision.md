@@ -60,7 +60,22 @@ XOR - Perform bitwise XOR
 TEST - Perform bitwise AND of source and destination and updates flags; Source and destination do not change
 CMP - Perform bitwise subtraction of the source from destination; Source and destination do not change
 ```
-#$
+
+### Control Instructions
+```
+LEA
+JMP
+JXX
+LOOP
+PUSH
+POP
+CALL
+RETN
+REP
+REPXX
+SCAS
+NOP
+```
 
 
 ## Static Analysis Format
