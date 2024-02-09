@@ -64,7 +64,12 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 ### Control Instructions
 #### `LEA`
 - Stands for **Load Effective Address**
-- Only instructions that perform memory addressing calcu
+- The instruction that perform memory addressing calculations
+	- Performs additional with 2-3 operands
+	- Stores the result in any register, not just the source operands.
+
+#### `JMP`
+- Unconditional jump to destination
 
 
 ## Static Analysis Format
