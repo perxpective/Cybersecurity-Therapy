@@ -39,11 +39,10 @@ JNGE - Jump if not greater than or equal
 ADD - Add source to destination
 INC - Increments destination by 1
 SUB - Subtract sourc from destination
-MUL - Multiply 
+MUL - Multiply EAX with operand and store the result in DX:AX
 DEC - Decrement destination by 1
-DIV
-SHL/SHR
-ROL/ROR
+SHL/SHR - Shift left/right
+ROL/ROR - Rotate left/right
 ```
 
 ## Static Analysis Format
