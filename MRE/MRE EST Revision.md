@@ -43,6 +43,22 @@ MUL - Multiply EAX with operand and store the result in DX:AX
 DEC - Decrement destination by 1
 SHL/SHR - Shift left/right
 ROL/ROR - Rotate left/right
+DIV - Divides EAX with operand
+```
+> **Note:**
+> - Results for `DIV` is stored as follows:
+> 	- AX -> Quotient in AL, remainder in AH
+> 	- DX:AX ->  Quotient in AX, remainder in DX
+> 	- EDX:EAX -> Quotient in EAX, remainder in EDX
+
+### Boolean Instructions
+```
+AND - Perform bitwise AND 
+OR
+NEG
+XOR
+TEST
+CMP
 ```
 
 ## Static Analysis Format
