@@ -11,7 +11,11 @@
 - `EAX` and `EDX` are used in multiplication and division
 - `EAX` contains the return values of function calls
 - `XOR EAX, EAX` will zero the `EAX`, `MOV EAX, 0`
-
+### Instruction Types
+- **Data Manipulation**
+	- `ADD`, `SUB`, `END`
+- **Data Transfer**
+	- 
 
 ## Static Analysis Format
 - **Describe the usage of key files by `sample.exe`.**
@@ -20,7 +24,6 @@
 	- Which key files are used by `sample.exe` to encrypt the input files?
 	- What is the selection criteria for the key files being used by `sample.exe`
 	- Describe the C function calls used to determine the key files selection.
-	- 
 - **Investigate the encryption method used**
 	- Given that the `settings.ini` was ASCII text, encoded by `sample.exe`, explain how you could decrypt the `settings.ini` file with `sample.exe`. Describe the decryption process using the first byte of the `settings.ini` file.
 	- Quote the address and opcodes of the C function used by `sample.exe` to read the data from the input file and the selected key files.
