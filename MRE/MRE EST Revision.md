@@ -7,6 +7,7 @@
 ```
 
 ## Assembly Basics
+### x86 Registers
 
 
 ## Static Analysis Format
