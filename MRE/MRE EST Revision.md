@@ -8,6 +8,9 @@
 
 ## Assembly Basics
 ### x86 Registers
+- `EAX` and `EDX` are used in multiplication and division
+- `EAX` contains the return values of function calls
+- `XOR EAX, EAX` will zero the `EAX`, `MOV EAX, 0`
 
 
 ## Static Analysis Format
