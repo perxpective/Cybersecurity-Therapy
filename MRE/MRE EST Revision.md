@@ -64,6 +64,7 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 ### Control Instructions
 #### `LEA`
 - Stands for **Load Effective Address**
+- Only instructions that perform memory addressing calcu
 
 
 ## Static Analysis Format
