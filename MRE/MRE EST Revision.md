@@ -15,7 +15,24 @@
 - **Data Manipulation**
 	- `ADD`, `SUB`, `END`
 - **Data Transfer**
-	- 
+	- `MOV`, `XCHG`
+- **Branching and Conditionals**
+	- `JMP`, `CALL`, `CMP`
+	- Cause update of `EIP`
+	- Changes the execution path
+	- Use for conditional, unconditional jump and looping
+
+### Conditional Jumps
+```
+JA - Jump if above
+JG - Jump if greater
+JN - Jump if not
+JB - Jump if below
+JL - Jump if less than
+JE - Jump if equal
+JZ - Jump if zero
+JNGE - Jump if not greater than or equal
+```
 
 ## Static Analysis Format
 - **Describe the usage of key files by `sample.exe`.**
