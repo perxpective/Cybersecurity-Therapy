@@ -62,20 +62,8 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 ```
 
 ### Control Instructions
-```
-LEA
-JMP
-JXX
-LOOP
-PUSH
-POP
-CALL
-RETN
-REP
-REPXX
-SCAS
-NOP
-```
+#### `LEA`
+- Stands for **Load Effective Address**
 
 
 ## Static Analysis Format
