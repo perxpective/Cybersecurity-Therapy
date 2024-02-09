@@ -53,13 +53,15 @@ DIV - Divides EAX with operand
 
 ### Boolean Instructions
 ```
-AND - Perform bitwise AND 
-OR
-NEG
-XOR
-TEST
-CMP
+AND - Perform bitwise AND
+OR - Perform bitwise OR
+NEG - Negate or invert all bits of destination and source
+XOR - Perform bitwise XOR
+TEST - Perform bitwise AND of source and destination and updates flags; Source and destination do not change
+CMP - Perform bitwise subtraction of the source from destination; Source and destination do not change
 ```
+#$
+
 
 ## Static Analysis Format
 - **Describe the usage of key files by `sample.exe`.**
