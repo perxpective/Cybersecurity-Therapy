@@ -6,9 +6,6 @@
 ```toc
 ```
 
-## Disassembly Tools
-
-
 ## Assembly Basics
 ### x86 Registers
 - `EAX` and `EDX` are used in multiplication and division
