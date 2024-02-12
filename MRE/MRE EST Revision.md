@@ -111,6 +111,7 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 
 <u>Pros</u>
 - Simple
+
 <u>Cons</u>
 - Susceptible to mistakes to derail the sweep interpret data as instruction in the code segment
 **Examples:**
@@ -124,6 +125,7 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 
 <u>Pros</u>
 - More robust
+
 <u>Cons</u>
 - More complex and harder to implement
 
