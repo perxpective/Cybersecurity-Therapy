@@ -94,7 +94,7 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 - **Theory questions**
 
 ## Disassemblers
-- Disassembles translate binary machine code to readable assembly
+- Disassemblers translate binary machine code to readable assembly
 - Reversing tools:
 	- IDA Pro
 	- OllyDbg
