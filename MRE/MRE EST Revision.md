@@ -114,6 +114,7 @@ CMP - Perform bitwise subtraction of the source from destination; Source and des
 
 <u>Cons</u>
 - Susceptible to mistakes to derail the sweep interpret data as instruction in the code segment
+
 **Examples:**
 - WinDbg
 - Objdump
