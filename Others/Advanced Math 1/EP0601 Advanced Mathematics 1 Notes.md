@@ -439,9 +439,9 @@ Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$ and th
 
 Divide the area into $n$ subintervals and approximate using thin fundamental strips.
 
-- Area of each strip =$[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
-- Total Area $A$ = $\sum\limits^{n}_{k=1}[f(x^{*}_{k})-g(x^{*}_{k})]\Delta x_k$
-- Formula = $\int^{b}_{a}[f(x)-g(x)]dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
+- Area of each strip =$(f(x^{*}_{k})-g(x^{*}_{k}))\Delta x_k$
+- Total Area $A$ = $\sum\limits^{n}_{k=1}(f(x^{*}_{k})-g(x^{*}_{k}))\Delta x_k$
+- Formula = $\int^{b}_{a}(f(x)-g(x))dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
 
 ### Volume of Solid of Revolution
 - Volume of solid of revolution about the **x-axis**: 
