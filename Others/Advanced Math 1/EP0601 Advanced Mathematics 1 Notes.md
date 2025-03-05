@@ -115,7 +115,7 @@ $x\to a$, $f(x) \to L$
 #### Left Hand Limit
 > If $x$ gradually increases towards value $a$ without touching and $f(x)$ goes closer and closer to $L_1$, the **left-hand limit** of $f(x)$ can be written as:
 
-$\lim\limits{x\to a^+} f(x) = L_1$ or $x\to a^+$, $f(x) \to L_1$
+$\lim\limits_{x\to a^+} f(x) = L_1$ or $x\to a^+$, $f(x) \to L_1$
 
 #### Right Hand Limit
 > Likewise, if $x$ gradually decreasaes towards value $a$ without touching and $f(x)$ goes closer and closer to $L_2$, the **right-hand limit** can be written as:
