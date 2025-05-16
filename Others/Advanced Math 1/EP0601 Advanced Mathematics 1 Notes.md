@@ -281,7 +281,7 @@ $$\lim\limits_{t\to t_{0}} v_{average}=v(t_0)$$
 ![500](https://i.imgur.com/rOzaF9l.png)
 
 - Provided the limit exists, the derivative of real-valued function $f$ with respect to $x$ at $x_0$ given by:
-$$\lim_\limits{x\to x_0}=\frac{f(x)-f(x_0)}{x-x_0}$$
+$$\lim\limits_{x\to x_0}=\frac{f(x)-f(x_0)}{x-x_0}$$
 
 - Also known as the gradient of a tangent line ($m_{tan}$)
 - To obtain gradient of secant line ($m_{sec}$) at $x_0$, $\Delta x\to 0$:
@@ -385,11 +385,11 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 > **The Riemann Sum**
 > A function $f$ on the interval $[a,b]$ is divided into subintervals if the limit
-> $\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$ 
+> $\lim\limits_{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x$ 
 > exists regardless of how interval is divided into subintervals
 > 
 > Moreover, 
-> $\lim_\limits{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)\mathrm{d}x$ 
+> $\lim\limits_{x \to +\infty}\sum\limits^{n}_{k=1}f(x_k^{*})\Delta x=\int^b_af(x)\mathrm{d}x$ 
 > is also known as the **definite integral** of $f$ from $a$ to $b$.
 > It gives the net signed area between graph of $f$ and on the x-axis on $[a,b]$
 
@@ -407,7 +407,8 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 ### Fundamental Theorem of Calculus II
 > If function $f$ is **continuous** on $[a,b]$ and $F$ is an **antiderivative** of $f$, then:
-> $$\int^{b}_{a}f(t)dt=F(b)-F(a)$$ This can be written as:
+> $$\int^{b}_{a}f(t)dt=F(b)-F(a)$$
+> This can be written as:
 > $$\int^{b}_{a}f(t)dt=[F(t)]^{b}_{a}$$
 
 ### Integration by Substitution
@@ -418,18 +419,18 @@ $dy=f'(x) \times dx$
 ![400](https://i.imgur.com/nYuWZ64.png)
 
 If the limit exists, the improper integral converges at this limit and is finite
-$$\int^{\infty}_{a}f(x)dx=\lim_\limits{b\to +\infty}\int^{b}_{a}f(x)dx$$
+$$\int^{\infty}_{a}f(x)dx=\lim\limits_{b\to +\infty}\int^{b}_{a}f(x)dx$$
 If the limit does not exist or is infinite, the improper integral is said to diverge and is not assigned a value.
 
 If region stretches towards both left infinity and right infinity: $$\int^{\infty}_{-\infty}f(x)dx$$
 Region can be split into two sub-regions:
 $\int^{m}_{-\infty}f(x)dx + \int^{\infty}_{m}f(x)dx$
-$= \lim_\limits{a \to -\infty}\int^{m}_{a}f(x)dx+\lim_\limits{b\to +\infty}\int^{b}_{m}f(x)dx$
+$= \lim\limits_{a \to -\infty}\int^{m}_{a}f(x)dx+\lim\limits_{b\to +\infty}\int^{b}_{m}f(x)dx$
 
 Similarly if the region defined over an interval in which function has an infinite discontinuity: $$\int^{b}_{a}f(x)dx$$ where $x=c\in (a,b)$ is an infinite discontinuity, the region can also be split into two sub-regions by the point of infinite discontinuity:
 
 $\int^{c}_{a}f(x)dx + \int^{b}_{c}f(x)dx$
-$= \lim_\limits{k \to c^-}\int^{k}_{a}f(x)dx+\lim_\limits{l\to c^+}\int^{b}_{l}f(x)dx$
+$= \lim\limits_{k \to c^-}\int^{k}_{a}f(x)dx+\lim\limits_{l\to c^+}\int^{b}_{l}f(x)dx$
 
 ![](https://i.imgur.com/YhLeAoT.png)
 
