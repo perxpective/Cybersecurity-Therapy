@@ -29,7 +29,9 @@
 ### Absolute Values
 #### Definition of an Absolute Value
 
-$|a| = \begin{cases}a & a > 0 \\ -a & a<0 \end{cases}$
+$$
+|a| = \begin{cases}a & a > 0 \\ -a & a<0 \end{cases}
+$$
 
 #### Theorem
 If $a$ and $b$ are real numbers, then:
@@ -115,7 +117,7 @@ $x\to a$, $f(x) \to L$
 #### Left Hand Limit
 > If $x$ gradually increases towards value $a$ without touching and $f(x)$ goes closer and closer to $L_1$, the **left-hand limit** of $f(x)$ can be written as:
 
-$\lim\limits{x\to a^+} f(x) = L_1$ or $x\to a^+$, $f(x) \to L_1$
+$\lim\limits_{x\to a^+} f(x) = L_1$ or $x\to a^+$, $f(x) \to L_1$
 
 #### Right Hand Limit
 > Likewise, if $x$ gradually decreasaes towards value $a$ without touching and $f(x)$ goes closer and closer to $L_2$, the **right-hand limit** can be written as:
@@ -216,7 +218,9 @@ A function $f$ is continuous on $[a,b]$ if the following conditions are met:
 #### Limits of Common Functions
 > The limit as $x$ approaches $a$ can be simply evaluated by substituting $x=a$ into the function if it is continuous at $x=a$
 
-$$\lim\limits_{x\to a}f(x)=f(a)$$
+$$
+\lim\limits_{x\to a}f(x)=f(a)
+$$
 
 ### Techniques for Evaluating Limits
 #### Limit Laws
@@ -257,7 +261,9 @@ $$\lim\limits_{x\to a}f(x)=f(a)$$
 > $\lim\limits_{x\to a}g(x) = \lim\limits_{x\to a}g(x) = L$ then $\lim\limits_{x\to a}f(x)=L$
 
 ### Evaluating Limits of Trigonometric Functions
-$$\lim\limits_{x\to 0}\frac{sin{x}}{x} =1$$
+$$
+\lim\limits_{x\to 0}\frac{sin{x}}{x} =1
+$$
 
 ![](https://i.imgur.com/LrJHAm5.png)
 
@@ -271,11 +277,16 @@ The IVT can be used to check the existence of roots of continuous functions.
 ## Differentiation
 ### Average and Instantaneous Velocities
 - Average velocity (constant velocity to be maintained to cover stated amount of displacement in stated amount of time):
-$$v_{average}=\frac{\Delta s}{\Delta t}=\frac{s(t)-s(t_0)}{t-t_0}$$
+$$
+v_{average}=\frac{\Delta s}{\Delta t}=\frac{s(t)-s(t_0)}{t-t_0}
+$$
+
 - Assuming that the limit exists, average velocity from time $t$ to $t_0$ elapse such that $\Delta t$ is very quick
 - Thus, it can be assumed that velocity is constant when $t \to t_0$
 
-$$\lim\limits_{t\to t_{0}} v_{average}=v(t_0)$$
+$$
+\lim\limits_{t\to t_{0}} v_{average}=v(t_0)
+$$
 
 ### First Principles of Differentiation
 ![500](https://i.imgur.com/rOzaF9l.png)
@@ -285,7 +296,10 @@ $$\lim\limits_{x\to x_0}=\frac{f(x)-f(x_0)}{x-x_0}$$
 
 - Also known as the gradient of a tangent line ($m_{tan}$)
 - To obtain gradient of secant line ($m_{sec}$) at $x_0$, $\Delta x\to 0$:
-$$\frac{\Delta f}{\Delta x}=\frac{f(x)-f(x_0)}{x-x_0}=\frac{f(x_0+h)-f(x_0)}{h}$$
+$$
+\frac{\Delta f}{\Delta x}=\frac{f(x)-f(x_0)}{x-x_0}=\frac{f(x_0+h)-f(x_0)}{h}
+$$
+
 ### List of Derivatives of Common Functions
 - $\frac{d}{dx}(x^n)=nx^{n-1}$
 - $\frac{d}{dx}(\ln x) = \frac{1}{x}$
@@ -316,11 +330,16 @@ $$\frac{\Delta f}{\Delta x}=\frac{f(x)-f(x_0)}{x-x_0}=\frac{f(x_0+h)-f(x_0)}{h}$
 
 ### Higher Order Derivatives and Implicit Differentiation 
 > - nth order derivative is to differentiate $(n-1)$ order derivative
-$$\frac{d^{n}y}{dx^{n}}=\frac{d}{dx}(\frac{d^{n-1}y}{dx^{n-1}})$$
+$$
+\frac{d^{n}y}{dx^{n}}=\frac{d}{dx}(\frac{d^{n-1}y}{dx^{n-1}})
+$$
+
 - In implicit differentiation, chain rule employed
 
 > - Given function $f$ defined in terms of $y$, differentiate $f$ with respect to $x$ by:
-$$\frac{d}{dx}(f(y))=\frac{d}{dy}(f(y)) \times \frac{dy}{dx}$$
+$$
+\frac{d}{dx}(f(y))=\frac{d}{dy}(f(y)) \times \frac{dy}{dx}
+$$
 
 ### Differentiable Functions
 > - Function $f$ differentiable at $x_0$ if following limit exists: $$\lim\limits_{h \to 0}\frac{f(x_0+h)-f(x_0)}{h}$$
@@ -340,7 +359,9 @@ $$\frac{d}{dx}(f(y))=\frac{d}{dy}(f(y)) \times \frac{dy}{dx}$$
 - Use L'Hopital's Rule to evaluate indeterminate forms
 
 > If $\lim\limits_{x\to a}f(x)=\lim\limits_{x \to a}g(x)=0$ or $\pm\infty$, then:
-$$\lim\limits_{x \to a}\frac{f(x)}{g(x)}=\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$$
+$$
+\lim\limits_{x \to a}\frac{f(x)}{g(x)}=\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}
+$$
 provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm\infty$
 >
 > Moreover, statement is also true in case of limit as $x \to a^{-}, x \to a^{+}, x \to -\infty$ or $x \to \infty$
