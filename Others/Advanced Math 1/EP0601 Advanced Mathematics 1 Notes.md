@@ -428,9 +428,10 @@ provided that $\lim\limits_{x \to a}\frac{f'(x)}{g'(x)}$ exists or equal to $\pm
 
 ### Fundamental Theorem of Calculus II
 > If function $f$ is **continuous** on $[a,b]$ and $F$ is an **antiderivative** of $f$, then:
-> $$\int^{b}_{a}f(t)dt=F(b)-F(a)$$
+$$\int^{b}_{a}f(t)dt=F(b)-F(a)$$
+
 > This can be written as:
-> $$\int^{b}_{a}f(t)dt=[F(t)]^{b}_{a}$$
+$$\int^{b}_{a}f(t)dt=[F(t)]^{b}_{a}$$
 
 ### Integration by Substitution
 - The differential of a function $y=f(x)$ is defined as: $dy=\frac{dy}{dx} \times dx$ or
@@ -439,14 +440,18 @@ $dy=f'(x) \times dx$
 ### Improper Integrals
 ![400](https://i.imgur.com/nYuWZ64.png)
 
-If the limit exists, the improper integral converges at this limit and is finite
+If the limit exists, the improper integral converges at this limit and is finite 
+
 $$\int^{\infty}_{a}f(x)dx=\lim\limits_{b\to +\infty}\int^{b}_{a}f(x)dx$$
+
 If the limit does not exist or is infinite, the improper integral is said to diverge and is not assigned a value.
 
-If region stretches towards both left infinity and right infinity: $$\int^{\infty}_{-\infty}f(x)dx$$
+If region stretches towards both left infinity and right infinity: 
+
+$$\int^{\infty}_{-\infty}f(x)dx$$
+
 Region can be split into two sub-regions:
-$\int^{m}_{-\infty}f(x)dx + \int^{\infty}_{m}f(x)dx$
-$= \lim\limits_{a \to -\infty}\int^{m}_{a}f(x)dx+\lim\limits_{b\to +\infty}\int^{b}_{m}f(x)dx$
+$$\int^{m}_{-\infty}f(x)dx + \int^{\infty}_{m}f(x)dx = \lim\limits_{a \to -\infty}\int^{m}_{a}f(x)dx+\lim\limits_{b\to +\infty}\int^{b}_{m}f(x)dx$$
 
 Similarly if the region defined over an interval in which function has an infinite discontinuity: $$\int^{b}_{a}f(x)dx$$ where $x=c\in (a,b)$ is an infinite discontinuity, the region can also be split into two sub-regions by the point of infinite discontinuity:
 
@@ -461,8 +466,8 @@ Suppose that $f$ and $g$ are two continuous functions on interval $[a,b]$ and th
 
 Divide the area into $n$ subintervals and approximate using thin fundamental strips.
 
-- Area of each strip =$(f(x^{*}_{k})-g(x^{*}_{k}))\Delta x_k$
-- Total Area $A$ = $\sum\limits^{n}_{k=1}(f(x^{*}_{k})-g(x^{*}_{k}))\Delta x_k$
+- Area of each strip = $(f(x^{*}_{k})-g(x^{*}_{k}))\Delta x_k$
+- Total Area $A = \sum\limits^{n}_{k=1}(f(x^{*}_{k})-g(x^{*}_{k}))\Delta x_k$
 - Formula = $\int^{b}_{a}(f(x)-g(x))dx$ where $f(x)$ is the upper curve and $g(x)$ is the lower curve.
 
 ### Volume of Solid of Revolution
